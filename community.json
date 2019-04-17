@@ -1,0 +1,16 @@
+{
+  "file_info": {
+    "version": 1,
+    "kind": "script_catalog"
+  },
+  "entries": {
+    "meso-foo": {
+      "project_name": "meso-foo",
+      "url": "https://github.com/ngwese/meso/archive/v0.0.1.zip"
+    },
+    "meso-git": {
+      "project_name": "meso-git",
+      "url": "https://github.com/ngwese/meso.git"
+    }
+  }
+}
