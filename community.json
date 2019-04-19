@@ -10,8 +10,8 @@
     },
     "meso-git": {
       "project_name": "meso-git",
-      "url": "https://github.com/ngwese/meso.git"
-      "description": "abstractions to build on"
+      "url": "https://github.com/ngwese/meso.git",
+      "description": "abstractions to build on",
       "tags": ["powermate", "hid", "lib"]
     }
   }
