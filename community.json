@@ -3,6 +3,7 @@
     "version": 1,
     "kind": "script_catalog"
   },
+  "catalog_name": "community",
   "entries": {
     "meso-foo": {
       "project_name": "meso-foo",
