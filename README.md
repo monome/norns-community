@@ -1,2 +1,2 @@
 # norns-community
-testing, nothing so see here
+testing, nothing to see here
