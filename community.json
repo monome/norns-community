@@ -7,11 +7,11 @@
   "entries": {
     "meso-foo": {
       "project_name": "meso-foo",
-      "url": "https://github.com/ngwese/meso/archive/v0.0.1.zip"
+      "project_url": "https://github.com/ngwese/meso/archive/v0.0.1.zip"
     },
     "meso-git": {
       "project_name": "meso-git",
-      "url": "https://github.com/ngwese/meso.git",
+      "project_url": "https://github.com/ngwese/meso.git",
       "description": "abstractions to build on",
       "tags": ["powermate", "hid", "lib"]
     }
