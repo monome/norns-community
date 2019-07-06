@@ -5,6 +5,12 @@
   },
   "catalog_name": "community",
   "entries": {
+    "we": {
+      "project_name": "we",
+      "project_url": "https://github.com/monome/we.git",
+      "description": "collected and collaborative projects",
+      "tags": ["study", "demo", "lib", "test"]
+    },
     "meso-foo": {
       "project_name": "meso-foo",
       "project_url": "https://github.com/ngwese/meso/archive/v0.0.1.zip"
