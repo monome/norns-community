@@ -1,0 +1,13 @@
+{
+  "file_info": {
+    "version": 1,
+    "kind": "catalog_source"
+  },
+  "source": {
+      "name": "community",
+      "method": "download",
+      "parameters": {
+          "url": "https://raw.githubusercontent.com/master/norns-community/master/community.json"
+      }
+  }
+}
