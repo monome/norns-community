@@ -1,2 +1,3 @@
 # norns-community
-testing, nothing to see here
+
+catalogs of projects available for install on monome norns
