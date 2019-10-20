@@ -3,23 +3,494 @@
     "version": 1,
     "kind": "script_catalog"
   },
-  "catalog_name": "community",
+  "catalog_name": "collected",
+  "date": "0001-01-01T00:00:00Z",
   "entries": {
-    "we": {
-      "project_name": "we",
-      "project_url": "https://github.com/monome/we.git",
-      "description": "collected and collaborative projects",
-      "tags": ["study", "demo", "lib", "test"]
+    "arcify": {
+      "project_name": "arcify",
+      "project_url": "https://github.com/mimetaur/arcify",
+      "author": "Nathan (mimetaur)",
+      "description": "map arc encoders to up to four parameters (eight with a shift key)",
+      "discussion_url": "https://llllllll.co/t/arcify/22133",
+      "tags": ["lib"],
+      "origin": "lines"
     },
-    "meso-foo": {
-      "project_name": "meso-foo",
-      "project_url": "https://github.com/ngwese/meso/archive/v0.0.1.zip"
+    "ash": {
+      "project_name": "ash",
+      "project_url": "https://github.com/tehn/ash",
+      "author": "Brian Crabtree (tehn)",
+      "description": "a small collection",
+      "discussion_url": "https://llllllll.co/t/ash-a-small-collection/21349",
+      "tags": ["arc", "grid", "looper", "drum", "synth"],
+      "origin": "lines"
     },
-    "meso-git": {
-      "project_name": "meso-git",
-      "project_url": "https://github.com/ngwese/meso.git",
-      "description": "abstractions to build on",
-      "tags": ["powermate", "hid", "lib"]
+    "arp_index": {
+      "project_name": "arp_index",
+      "project_url": "https://github.com/markwheeler/arp_index",
+      "author": "Mark Eats (markeats)",
+      "description": "check stocks and make music",
+      "discussion_url": "https://llllllll.co/t/the-arp-index/25182",
+      "origin": "lines"
+    },
+    "awake": {
+      "project_name": "awake",
+      "project_url": "https://github.com/tehn/awake",
+      "author": "Brian Crabtree (tehn)",
+      "description": "time changes",
+      "discussion_url": "https://llllllll.co/t/awake/21022",
+      "origin": "lines"
+    },
+    "bounds": {
+      "project_name": "bounds",
+      "project_url": "https://github.com/justmat/bounds",
+      "author": "Matthew (Justmat)",
+      "description": "stereo delay/looper",
+      "discussion_url": "https://llllllll.co/t/23336",
+      "origin": "lines"
+    },
+    "cccccccc": {
+      "project_name": "cccccccc",
+      "project_url": "https://github.com/ypxk/cccccccc/",
+      "author": "ypxkap",
+      "description": "ccs for arc’s dials",
+      "discussion_url": "https://llllllll.co/t/cccccccc/22271",
+      "tags": ["arc"],
+      "origin": "lines"
+    },
+    "compass": {
+      "project_name": "compass",
+      "project_url": "https://github.com/oliviercreurer/compass",
+      "author": "Olivier",
+      "description": "asynchronous looper built around the concept of a command sequencer",
+      "discussion_url": "https://llllllll.co/t/compass/25192",
+      "tags": ["looper", "sequencer"]
+    },
+    "circles": {
+      "project_name": "circles",
+      "project_url": "https://github.com/JakeCarter/circles",
+      "author": "Jake (jakecarter)",
+      "description": "move cursor. place circles. make music",
+      "discussion_url": "https://llllllll.co/t/22951",
+      "tags": ["crow"],
+      "origin": "lines"
+    },
+    "clarck": {
+      "project_name": "clarck",
+      "project_url": "https://github.com/okyeron/clarck",
+      "author": "steven noreyko (okyeron)",
+      "description": "a clock for arc4 on norns",
+      "discussion_url": "https://llllllll.co/t/clarck/21251",
+      "tags": ["arc"],
+      "origin": "lines"
+    },
+    "cranes": {
+      "project_name": "cranes",
+      "project_url": "https://github.com/dndrks/cranes",
+      "author": "jai lai bookie (Dan_Derks)",
+      "description": "stereo varispeed looper / delay / timeline-smoosher",
+      "discussion_url": "https://llllllll.co/t/21207",
+      "origin": "lines"
+    },
+    "drum_room": {
+      "project_name": "drum_room",
+      "project_url": "https://github.com/markwheeler/drum_room",
+      "author": "Mark Eats (markeats)",
+      "description": "midi-controlled drum kits",
+      "discussion_url": "https://llllllll.co/t/23467",
+      "tags": ["drum"],
+      "origin": "lines"
+    },
+    "dunes": {
+      "project_name": "dunes",
+      "project_url": "https://github.com/oliviercreurer/dunes",
+      "author": "Olivier Creurer (Olivier)",
+      "description": "a function sequencer",
+      "discussion_url": "https://llllllll.co/t/dunes/24790",
+      "origin": "lines"
+    },
+    "easygrain": {
+      "project_name": "easygrain",
+      "project_url": "https://github.com/mhetrick/easygrain",
+      "author": "Michael Hetrick (trickyflemming)",
+      "description": "a simple granulator, now with optional arc support",
+      "discussion_url": "https://llllllll.co/t/easygrain/21047",
+      "origin": "lines"
+    },
+    "fm7": {
+      "project_name": "fm7",
+      "project_url": "https://github.com/lazzarello/fm7",
+      "author": "Lee Azzarello (lazzarello)",
+      "description": "polyphonic 6 operator fm synth",
+      "discussion_url": "https://llllllll.co/t/21395",
+      "tags": ["synth", "midi"],
+      "origin": "lines"
+    },
+    "foulplay": {
+      "project_name": "foulplay",
+      "project_url": "https://github.com/justmat/foulplay",
+      "author": "Matthew (Justmat)",
+      "description": "euclidean rhythms with logic and probability",
+      "discussion_url": "https://llllllll.co/t/foulplay/21081",
+      "origin": "lines"
+    },
+    "fugu": {
+      "project_name": "fugu",
+      "project_url": "https://github.com/itsyourbedtime/fugu",
+      "author": "its your bedtime (its_your_bedtime)",
+      "description": "multi playhead sequencer",
+      "discussion_url": "https://llllllll.co/t/21033",
+      "tags": ["sequencer"],
+      "origin": "lines"
+    },
+    "gemini": {
+      "project_name": "gemini",
+      "project_url": "https://github.com/mhetrick/gemini/",
+      "author": "Michael Hetrick (trickyflemming)",
+      "description": "twin granulators. watch them race.",
+      "discussion_url": "https://llllllll.co/t/gemini/21086",
+      "origin": "lines"
+    },
+    "glut": {
+      "project_name": "glut",
+      "project_url": "https://github.com/artfwo/glut",
+      "author": "artfwo",
+      "description": "granular synth inspired by mlr/rove, grainfields 20 and loomer cumulus",
+      "discussion_url": "https://llllllll.co/t/glut/21175/11",
+      "tags": ["granular"],
+      "origin": "lines"
+    },
+    "haven": {
+      "project_name": "haven",
+      "project_url": "https://github.com/tai-studio/haven",
+      "author": "Till Bovermann (LFSaw)",
+      "description": "a safe space?",
+      "discussion_url": "https://llllllll.co/t/haven/21285",
+      "origin": "lines"
+    },
+    "hid_demo": {
+      "project_name": "hid_demo",
+      "project_url": "https://github.com/okyeron/hid-demo/",
+      "author": "steven noreyko (okyeron)",
+      "description": "demo scripts for hid functionality",
+      "discussion_url": "https://llllllll.co/t/hid-demo/21315",
+      "tags": ["hid", "demo"],
+      "origin": "lines"
+    },
+    "isoseq": {
+      "project_name": "isoseq",
+      "project_url": "https://github.com/carvingCode/isoseq",
+      "author": "Randy Brown (carvingcode)",
+      "description": "isomorphic qequencer for norns and grid",
+      "discussion_url": "https://llllllll.co/t/isoseq/21026",
+      "tags": ["grid"],
+      "origin": "lines"
+    },
+    "jiffy": {
+      "project_name": "jiffy",
+      "project_url": "https://github.com/lukes-anger/jiffy",
+      "author": "Luke Sanger (Molotov)",
+      "description": "16 second looper",
+      "discussion_url": "https://llllllll.co/t/jiffy/25475",
+      "origin": "lines"
+    },
+    "kria_midi": {
+      "project_name": "kria_midi",
+      "project_url": "https://github.com/junklight/misc",
+      "author": "mark john williamson (junklight)",
+      "description": "port of kria from ansible",
+      "discussion_url": "https://llllllll.co/t/21255",
+      "tag": ["grid", "midi"],
+      "origin": "lines"
+    },
+    "less_concepts": {
+      "project_name": "less_concepts",
+      "project_url": "https://github.com/dndrks/less_concepts",
+      "author": "jai lai bookie (Dan_Derks)",
+      "description": "1d cellular automata sequencer",
+      "discussion_url": "https://llllllll.co/t/21109",
+      "tags": ["ca", "crow", "sequencer"],
+      "origin": "lines"
+    },
+    "loom": {
+      "project_name": "loom",
+      "project_url": "https://github.com/markwheeler/loom/",
+      "author": "Mark Eats (markeats)",
+      "description": "pattern weaving sequencer for grids",
+      "discussion_url": "https://llllllll.co/t/loom/21091",
+      "tags": ["grid"],
+      "origin": "lines"
+    },
+    "mangl": {
+      "project_name": "mangl",
+      "project_url": "https://github.com/notjustmat/mangl",
+      "author": "Matthew (Justmat)",
+      "description": "a 4 track granular sample player",
+      "discussion_url": "https://llllllll.co/t/21066",
+      "tags": ["arc", "granular"],
+      "origin": "lines"
+    },
+    "manifold": {
+      "project_name": "manifold",
+      "project_url": "https://github.com/carltesta/manifold",
+      "author": "Carl Testa (carltesta)",
+      "description": "multi-effects processing for live performance",
+      "discussion_url": "https://llllllll.co/t/manifold/22098",
+      "tags": ["fx"],
+      "origin": "lines"
+    },
+    "meadowphysics": {
+      "project_name": "meadowphysics",
+      "project_url": "https://github.com/alpha-cactus/meadowphysics",
+      "author": "Ryan Hodgman (alphacactus)",
+      "description": "grid-enabled rhizomatic cascading counter",
+      "discussion_url": "https://llllllll.co/t/21185",
+      "tags": ["grid"],
+      "origin": "lines"
+    },
+    "mlr": {
+      "project_name": "mlr",
+      "project_url": "https://github.com/tehn/mlr",
+      "author": "Brian Crabtree (tehn)",
+      "description": "live sample-cutting platform",
+      "discussion_url": "https://llllllll.co/t/21145",
+      "tags": ["sampler"],
+      "origin": "lines"
+    },
+    "molly_the_polly": {
+      "project_name": "molly_the_poly",
+      "project_url": "https://github.com/markwheeler/molly_the_poly",
+      "author": "Mark Eats (markeats)",
+      "description": "classic polysynth with solar system patch creator",
+      "discussion_url": "https://llllllll.co/t/molly-the-poly/21090",
+      "tags": ["synth", "midi"],
+      "origin": "lines"
+    },
+    "moln": {
+      "project_name": "moln",
+      "project_url": "https://github.com/antonhornquist/moln",
+      "author": "Anton Hörnquist (jah)",
+      "description": "polyphonic subtractive synthesizer",
+      "discussion_url": "https://llllllll.co/t/moln/21111",
+      "tags": ["synth", "midi", "grid", "arc"],
+      "origin": "lines"
+    },
+    "monitor": {
+      "project_name": "monitor",
+      "project_url": "https://github.com/neauoire/monitor",
+      "author": "Devine Lu Linvega (neauoire)",
+      "description": "small kit of midi utilities to transpose and route midi messages",
+      "discussion_url": "https://llllllll.co/t/23273",
+      "tags": ["midi"],
+      "origin": "lines"
+    },
+    "norman": {
+      "project_name": "norman",
+      "project_url": "https://github.com/crimclark/norman",
+      "author": "crim",
+      "description": "simple audio utility",
+      "discussion_url": "https://llllllll.co/t/norman/22606",
+      "origin": "lines"
+    },
+    "onehanded": {
+      "project_name": "onehanded",
+      "project_url": "https://github.com/mimetaur/onehanded",
+      "author": "Nathan (mimetaur)",
+      "description": "minimal manual controller script",
+      "discussion_url": "https://llllllll.co/t/onehanded/25869",
+      "tags": ["midi"],
+      "origin": "lines"
+    },
+    "orbital": {
+      "project_name": "orbital",
+      "project_url": "https://github.com/P1505/orbital",
+      "author": "P1505",
+      "description": "orbital is an experiment in simple sequences and interface design",
+      "discussion_url": "https://llllllll.co/t/orbital-norns/21379",
+      "origin": "lines"
+    },
+    "orca": {
+      "project_name": "orca",
+      "project_url": "https://github.com/itsyourbedtime/orca",
+      "author": "its your bedtime (its_your_bedtime)",
+      "description": "visual programming language, designed to create procedural sequencers on the fly",
+      "discussion_url": "https://llllllll.co/t/22492",
+      "tags": ["hid", "keyboard"],
+      "origin": "lines"
+    },
+    "otis": {
+      "project_name": "otis",
+      "project_url": "https://github.com/justmat/otis",
+      "author": "Matthew (Justmat)",
+      "description": "dual tape delay/looper/sampler",
+      "discussion_url": "https://llllllll.co/t/22149",
+      "tags": ["looper"],
+      "origin": "lines"
+    },
+    "passersby": {
+      "project_name": "passersby",
+      "project_url": "https://github.com/markwheeler/passersby",
+      "author": "Mark Eats (markeats)",
+      "description": "west coast style mono synth",
+      "discussion_url": "https://llllllll.co/t/passersby/21089",
+      "tags": ["synth", "midi"],
+      "origin": "lines"
+    },
+    "punchcard": {
+      "project_name": "punchcard",
+      "project_url": "https://github.com/neauoire/punchcard",
+      "author": "Devine Lu Linvega (neauoire)",
+      "description": "an experimental sequencer that works a bit like the classic punchcard computer",
+      "discussion_url": "https://llllllll.co/t/23557",
+      "origin": "lines"
+    },
+    "reels": {
+      "project_name": "reels",
+      "project_url": "https://github.com/itsyourbedtime/reels",
+      "author": "its your bedtime (its_your_bedtime)",
+      "description": "a 4-track asynchronous looper, inspired by op-1 tape recorder and mannequins w/ eurorack module.",
+      "discussion_url": "https://llllllll.co/t/21030",
+      "tags": ["looper"],
+      "origin": "lines"
+    },
+    "rebound": {
+      "project_name": "rebound",
+      "project_url": "https://github.com/nf/rebound",
+      "author": "nf (enneff)",
+      "description": "a kinetic sequencer",
+      "discussion_url": "https://llllllll.co/t/23243",
+      "tags": ["sequencer"],
+      "origin": "lines"
+    },
+    "sam": {
+      "project_name": "sam",
+      "project_url": "https://github.com/justmat/sam",
+      "author": "Matthew (Justmat)",
+      "description": "a simple sample recorder/slicer",
+      "discussion_url": "https://llllllll.co/t/23943",
+      "origin": "lines"
+    },
+    "seaflex": {
+      "project_name": "seaflex",
+      "project_url": "https://github.com/lylepmills/seaflex",
+      "author": "Lyle Mills (lylem)",
+      "description": "companion app for earthsea",
+      "discussion_url": "https://llllllll.co/t/23209",
+      "tags": ["grid"],
+      "origin": "lines"
+    },
+    "shfts": {
+      "project_name": "shfts",
+      "project_url": "https://github.com/rwhaling/shfts",
+      "author": "Richard Whaling (germinal)",
+      "description": "random sequencer for norns, crow, and grid",
+      "discussion_url": "https://llllllll.co/t/26221",
+      "tags": ["crow", "grid"],
+      "origin": "lines"
+    },
+    "step": {
+      "project_name": "step",
+      "project_url": "https://github.com/antonhornquist/step",
+      "author": "Anton Hörnquist (jah)",
+      "description": "a simple step sequencer",
+      "discussion_url": "https://llllllll.co/t/step/21093",
+      "origin": "lines"
+    },
+    "strides": {
+      "project_name": "strides",
+      "project_url": "https://github.com/notjustmat/strides",
+      "author": "Matthew (Justmat)",
+      "description": "a collection of pattern recorders",
+      "discussion_url": "https://llllllll.co/t/21101",
+      "origin": "lines"
+    },
+    "strum": {
+      "project_name": "strum",
+      "project_url": "https://github.com/carvingCode/strum",
+      "author": "Randy Brown (carvingcode)",
+      "description": "a plucky little pattern sequencer",
+      "discussion_url": "https://llllllll.co/t/21025",
+      "origin": "lines"
+    },
+    "sway": {
+      "project_name": "sway",
+      "project_url": "https://github.com/carltesta/sway",
+      "author": "Carl Testa (carltesta)",
+      "description": "analysis-driven live audio processing",
+      "discussion_url": "https://llllllll.co/t/sway/21117",
+      "origin": "lines"
+    },
+    "takt": {
+      "project_name": "takt",
+      "project_url": "https://github.com/itsyourbedtime/takt",
+      "author": "igor (its_your_bedtime)",
+      "description": "parameter locking step sequencer",
+      "discussion_url": "https://llllllll.co/t/takt/21032",
+      "origin": "lines"
+    },
+    "timber": {
+      "project_name": "timber",
+      "project_url": "https://github.com/markwheeler/timber",
+      "author": "Mark Eats (markeats)",
+      "description": "sample player engine and scripts",
+      "discussion_url": "https://llllllll.co/t/21407",
+      "origin": "lines"
+    },
+    "timeparty": {
+      "project_name": "timeparty",
+      "project_url": "https://github.com/crimclark/timeparty",
+      "author": "crim",
+      "description": "grid based delay sequencer",
+      "discussion_url": "https://llllllll.co/t/timeparty/22837",
+      "origin": "lines"
+    },
+    "traffic": {
+      "project_name": "traffic",
+      "project_url": "https://github.com/ypxk/traffic",
+      "author": "ypxkap",
+      "description": "edit of @markeats loom for quickly decoupling motifs from their harmonic framework",
+      "discussion_url": "https://llllllll.co/t/traffic/21262",
+      "origin": "lines"
+    },
+    "tuner": {
+      "project_name": "tuner",
+      "project_url": "https://github.com/markwheeler/tuner",
+      "author": "Mark Eats (markeats)",
+      "description": "tune stuff",
+      "discussion_url": "https://llllllll.co/t/tuner/21088",
+      "origin": "lines"
+    },
+    "tunnels": {
+      "project_name": "tunnels",
+      "project_url": "https://github.com/speakerdamage/tunnels",
+      "author": "Caulen (speakerdamage)",
+      "description": "a collection of uncertain delays using norns softcut",
+      "discussion_url": "https://llllllll.co/t/tunnels/21973",
+      "origin": "lines"
+    },
+    "uhf": {
+      "project_name": "uhf",
+      "project_url": "https://github.com/speakerdamage/uhf",
+      "author": "Caulen (speakerdamage)",
+      "description": "your tapes transmitted thru late-night static and broken antenna frequencies",
+      "discussion_url": "https://llllllll.co/t/uhf-norns/21154",
+      "tags": ["tape"],
+      "origin": "lines"
+    },
+    "vials": {
+      "project_name": "vials",
+      "project_url": "https://github.com/nattog/vials",
+      "author": "Guy (nattog)",
+      "description": "4 track performance-oriented sample sequencer",
+      "discussion_url": "https://llllllll.co/t/vials/23109",
+      "origin": "lines"
+    },
+    "zellen": {
+      "project_name": "zellen",
+      "project_url": "https://github.com/sarweiler/zellen",
+      "author": "Sven (sbaio)",
+      "description": "game of life based sequencer",
+      "discussion_url": "https://llllllll.co/t/zellen/21107",
+      "origin": "lines"
     }
   }
 }

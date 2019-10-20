@@ -1,0 +1,22 @@
+{
+  "file_info": {
+    "version": 1,
+    "kind": "script_catalog"
+  },
+  "catalog_name": "base",
+  "entries": {
+    "crow-studies": {
+      "project_name": "crow-studies",
+      "project_url": "https://github.com/monome/crow-studies",
+      "description": "crow examples",
+      "discussion_url": "https://monome.org/docs/crow/norns",
+      "tags": ["study", "demo"]
+    },
+    "we": {
+      "project_name": "we",
+      "project_url": "https://github.com/monome/we.git",
+      "description": "collected projects (legacy)",
+      "tags": ["study", "demo", "lib", "test"]
+    }
+  }
+}
