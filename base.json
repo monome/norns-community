@@ -12,6 +12,13 @@
       "discussion_url": "https://monome.org/docs/crow/norns",
       "tags": ["study", "demo"]
     },
+    "softcut-studies": {
+      "project_name": "softcut-studies",
+      "project_url": "https://github.com/monome/softcut-studies",
+      "description": "crow examples",
+      "discussion_url": "https://llllllll.co/t/norns-softcut-studies/23585",
+      "tags": ["study", "demo"]
+    },
     "we": {
       "project_name": "we",
       "project_url": "https://github.com/monome/we.git",
