@@ -7,7 +7,7 @@
       "name": "base",
       "method": "download",
       "parameters": {
-          "url": "https://raw.githubusercontent.com/master/norns-community/master/base.json"
+          "url": "https://raw.githubusercontent.com/monome/norns-community/master/base.json"
       }
   }
 }
