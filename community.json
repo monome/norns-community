@@ -6,6 +6,12 @@
   "catalog_name": "community",
   "date": "0001-01-01T00:00:00Z",
   "entries": {
+    "ack": {
+      "project_name": "ack",
+      "project_url": "https://github.com/antonhornquist/ack",
+      "project_author": "Anton Hörnquist (jah)",
+      "description": "sample player engine"
+    },
     "arcify": {
       "project_name": "arcify",
       "project_url": "https://github.com/mimetaur/arcify",
