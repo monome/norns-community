@@ -4,26 +4,26 @@
     "kind": "script_catalog"
   },
   "catalog_name": "base",
-  "entries": {
-    "crow-studies": {
+  "entries": [
+    {
       "project_name": "crow-studies",
       "project_url": "https://github.com/monome/crow-studies",
       "description": "crow examples",
       "discussion_url": "https://monome.org/docs/crow/norns",
       "tags": ["study", "demo"]
     },
-    "softcut-studies": {
+    {
       "project_name": "softcut-studies",
       "project_url": "https://github.com/monome/softcut-studies",
       "description": "softcut examples",
       "discussion_url": "https://llllllll.co/t/norns-softcut-studies/23585",
       "tags": ["study", "demo"]
     },
-    "we": {
+    {
       "project_name": "we",
       "project_url": "https://github.com/monome/we.git",
       "description": "collected projects (legacy)",
       "tags": ["study", "demo", "lib", "test"]
     }
-  }
+  ]
 }
