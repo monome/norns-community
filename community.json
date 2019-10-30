@@ -359,6 +359,13 @@
       "origin": "lines"
     },
     {
+      "project_name": "r",
+      "project_url": "https://github.com/antonhornquist/r",
+      "author": "Anton Hörnquist (jah)",
+      "description": "general purpose audio patching engine",
+      "tags": ["lib"],
+    },
+    {
       "project_name": "rebound",
       "project_url": "https://github.com/nf/rebound",
       "author": "nf (enneff)",
