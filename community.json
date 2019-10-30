@@ -363,7 +363,7 @@
       "project_url": "https://github.com/antonhornquist/r",
       "author": "Anton Hörnquist (jah)",
       "description": "general purpose audio patching engine",
-      "tags": ["lib"],
+      "tags": ["lib"]
     },
     {
       "project_name": "rebound",
