@@ -47,6 +47,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "boingg",
+      "project_url": "https://github.com/justmat/boingg",
+      "author": "Matthew (Justmat)",
+      "description": "a bouncing ball sequencer",
+      "discussion_url": "https://llllllll.co/t/boingg/26536",
+      "origin": "lines"
+    },
+    {
       "project_name": "bounds",
       "project_url": "https://github.com/justmat/bounds",
       "author": "Matthew (Justmat)",
