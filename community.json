@@ -209,7 +209,7 @@
     },
     {
       "project_name": "kria_midi",
-      "project_url": "https://github.com/junklight/misc/blob/master/releases/kria.zip",
+      "project_url": "https://github.com/junklight/misc/blob/master/releases/kria.zip?raw=true",
       "author": "mark john williamson (junklight)",
       "description": "port of kria from ansible",
       "discussion_url": "https://llllllll.co/t/21255",
