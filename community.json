@@ -139,6 +139,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "ekombi",
+      "project_url": "https://github.com/tlubke/ekombi",
+      "author": "Tyler (tyler)",
+      "description": "polyrhythmic sequencer/sampler using ack",
+      "discussion_url": "https://llllllll.co/t/ekombi/26812",
+      "tags": ["sequencer", "midi", "grid"]
+    },
+    {
       "project_name": "fm7",
       "project_url": "https://github.com/lazzarello/fm7",
       "author": "Lee Azzarello (lazzarello)",
