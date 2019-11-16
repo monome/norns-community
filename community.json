@@ -47,6 +47,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "awake-rings",
+      "project_url": "https://github.com/GoneCaving/awake-rings",
+      "author": "Brian Crabtree (tehn)/Duncan (GoneCaving)",
+      "description": "chimes past",
+      "discussion_url": "https://llllllll.co/t/awake/21022/38",
+      "origin": "lines"
+    },
+    {
       "project_name": "boingg",
       "project_url": "https://github.com/justmat/boingg",
       "author": "Matthew (Justmat)",
@@ -131,6 +139,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "ekombi",
+      "project_url": "https://github.com/tlubke/ekombi",
+      "author": "Tyler (tyler)",
+      "description": "polyrhythmic sequencer/sampler using ack",
+      "discussion_url": "https://llllllll.co/t/ekombi/26812",
+      "tags": ["sequencer", "midi", "grid"]
+    },
+    {
       "project_name": "fm7",
       "project_url": "https://github.com/lazzarello/fm7",
       "author": "Lee Azzarello (lazzarello)",
@@ -209,7 +225,7 @@
     },
     {
       "project_name": "kria_midi",
-      "project_url": "https://github.com/junklight/misc/blob/master/releases/kria.zip",
+      "project_url": "https://github.com/junklight/misc/raw/master/releases/kria.zip",
       "author": "mark john williamson (junklight)",
       "description": "port of kria from ansible",
       "discussion_url": "https://llllllll.co/t/21255",
