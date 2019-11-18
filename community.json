@@ -57,7 +57,7 @@
     {
       "project_name": "boingg",
       "project_url": "https://github.com/justmat/boingg",
-      "author": "Matthew (Justmat)",
+      "author": "Mat (Justmat)",
       "description": "a bouncing ball sequencer",
       "discussion_url": "https://llllllll.co/t/boingg/26536",
       "origin": "lines"
@@ -65,7 +65,7 @@
     {
       "project_name": "bounds",
       "project_url": "https://github.com/justmat/bounds",
-      "author": "Matthew (Justmat)",
+      "author": "Mat (Justmat)",
       "description": "stereo delay/looper",
       "discussion_url": "https://llllllll.co/t/23336",
       "origin": "lines"
@@ -103,6 +103,14 @@
       "description": "a clock for arc4 on norns",
       "discussion_url": "https://llllllll.co/t/clarck/21251",
       "tags": ["arc"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "combos",
+      "project_url": "https://github.com/justmat/combos",
+      "author": "Mat (justmat)",
+      "description": "combo scripts",
+      "discussion_url": "https://llllllll.co/t/27020",
       "origin": "lines"
     },
     {
@@ -158,7 +166,7 @@
     {
       "project_name": "foulplay",
       "project_url": "https://github.com/justmat/foulplay",
-      "author": "Matthew (Justmat)",
+      "author": "Mat (Justmat)",
       "description": "euclidean rhythms with logic and probability",
       "discussion_url": "https://llllllll.co/t/foulplay/21081",
       "origin": "lines"
@@ -253,7 +261,7 @@
     {
       "project_name": "mangl",
       "project_url": "https://github.com/notjustmat/mangl",
-      "author": "Matthew (Justmat)",
+      "author": "Mat (Justmat)",
       "description": "a 4 track granular sample player",
       "discussion_url": "https://llllllll.co/t/21066",
       "tags": ["arc", "granular"],
@@ -350,7 +358,7 @@
     {
       "project_name": "otis",
       "project_url": "https://github.com/justmat/otis",
-      "author": "Matthew (Justmat)",
+      "author": "Mat (Justmat)",
       "description": "dual tape delay/looper/sampler",
       "discussion_url": "https://llllllll.co/t/22149",
       "tags": ["looper"],
@@ -401,7 +409,7 @@
     {
       "project_name": "sam",
       "project_url": "https://github.com/justmat/sam",
-      "author": "Matthew (Justmat)",
+      "author": "Mat (Justmat)",
       "description": "a simple sample recorder/slicer",
       "discussion_url": "https://llllllll.co/t/23943",
       "origin": "lines"
@@ -435,7 +443,7 @@
     {
       "project_name": "strides",
       "project_url": "https://github.com/notjustmat/strides",
-      "author": "Matthew (Justmat)",
+      "author": "Mat (Justmat)",
       "description": "a collection of pattern recorders",
       "discussion_url": "https://llllllll.co/t/21101",
       "origin": "lines"
