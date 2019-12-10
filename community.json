@@ -322,6 +322,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "nisp",
+      "project_url": "https://github.com/itsyourbedtime/NISP",
+      "author": "its your bedtime (its_your_bedtime)",
+      "description": "scheme dialect livecoding tracker for norns",
+      "discussion_url": "https://llllllll.co/t/nisp/27596",
+      "tags": ["tracker"]
+    },
+    {
       "project_name": "norman",
       "project_url": "https://github.com/crimclark/norman",
       "author": "crim",
