@@ -198,6 +198,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "greyhole",
+      "project_url": "https://github.com/justmat/greyhole",
+      "author": "Mat (Justmat)",
+      "description": "echo / delay",
+      "discussion_url": "https://llllllll.co/t/greyhole/27687",
+      "origin": "lines"
+    },
+    {
       "project_name": "haven",
       "project_url": "https://github.com/tai-studio/haven",
       "author": "Till Bovermann (LFSaw)",
