@@ -80,12 +80,13 @@
       "origin": "lines"
     },
     {
-      "project_name": "compass",
-      "project_url": "https://github.com/oliviercreurer/compass",
-      "author": "Olivier",
-      "description": "asynchronous looper built around the concept of a command sequencer",
-      "discussion_url": "https://llllllll.co/t/compass/25192",
-      "tags": ["looper", "sequencer"]
+      "project_name": "cheat codes",
+      "project_url": "https://github.com/dndrks/cheat_codes",
+      "author": "dan derks (dan_derks)",
+      "description": "a sample playground",
+      "discussion_url": "https://llllllll.co/t/cheat-codes/27874",
+      "tags": ["grid", "arc", "sampler", "looper"],
+      "origin": "lines"
     },
     {
       "project_name": "circles",
@@ -114,11 +115,20 @@
       "origin": "lines"
     },
     {
+      "project_name": "compass",
+      "project_url": "https://github.com/oliviercreurer/compass",
+      "author": "Olivier",
+      "description": "asynchronous looper built around the concept of a command sequencer",
+      "discussion_url": "https://llllllll.co/t/compass/25192",
+      "tags": ["looper", "sequencer"]
+    },
+    {
       "project_name": "cranes",
       "project_url": "https://github.com/dndrks/cranes",
-      "author": "jai lai bookie (Dan_Derks)",
+      "author": "dan derks (dan_derks)",
       "description": "stereo varispeed looper / delay / timeline-smoosher",
       "discussion_url": "https://llllllll.co/t/21207",
+      "tags": ["looper", "grid"],
       "origin": "lines"
     },
     {
