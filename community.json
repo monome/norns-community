@@ -400,6 +400,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "phyllis",
+      "project_url": "https://github.com/justmat/phyllis",
+      "author": "Mat (justmat)",
+      "description": "a digitally modeled analog filter",
+      "discussion_url": "https://llllllll.co/t/27988",
+      "origin": "lines"
+    },
+    {
       "project_name": "punchcard",
       "project_url": "https://github.com/neauoire/punchcard",
       "author": "Devine Lu Linvega (neauoire)",
