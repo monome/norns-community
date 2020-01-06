@@ -13,6 +13,15 @@
       "description": "sample player engine"
     },
     {
+      "project_name": "animator",
+      "project_url": "https://github.com/crimclark/animator",
+      "author": "Tim Clark (crim)",
+      "description": "2D Polyphonic step sequencer for grids",
+      "discussion_url": "https://llllllll.co/t/animator/28242",
+      "tags": ["grid", "sequencer", "crow", "midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "arcify",
       "project_url": "https://github.com/mimetaur/arcify",
       "author": "Nathan (mimetaur)",
