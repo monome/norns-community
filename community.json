@@ -442,6 +442,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "pools",
+      "project_url": "https://github.com/justmat/pools",
+      "author": "Mat (justmat)",
+      "description": "a shimmery reverb",
+      "discussion_url": "https://llllllll.co/t/28320",
+      "origin": "lines"
+    },
+    {
       "project_name": "punchcard",
       "project_url": "https://github.com/neauoire/punchcard",
       "author": "Devine Lu Linvega (neauoire)",
