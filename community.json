@@ -321,8 +321,8 @@
     },
     {
       "project_name": "meadowphysics",
-      "project_url": "https://github.com/alpha-cactus/meadowphysics",
-      "author": "Ryan Hodgman (alphacactus)",
+      "project_url": "https://github.com/dansimco/meadowphysics",
+      "author": "Ryan Hodgman (alphacactus), Dan Sim (dansimco)",
       "description": "grid-enabled rhizomatic cascading counter",
       "discussion_url": "https://llllllll.co/t/21185",
       "tags": ["grid"],
