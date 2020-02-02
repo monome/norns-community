@@ -614,6 +614,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "wrms",
+      "project_url": "https://github.com/AndrewShike/wrms",
+      "author": "andrew",
+      "description": "dual asyncronous time-wigglers / echo loopers",
+      "discussion_url": "https://llllllll.co/t/wrms/28954",
+      "tags": ["softcut", "looper", "delay"],
+      "origin": "lines"
+    },
+    {
       "project_name": "zellen",
       "project_url": "https://github.com/sarweiler/zellen",
       "author": "Sven (sbaio)",
