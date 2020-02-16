@@ -466,6 +466,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "quence",
+      "project_url": "https://github.com/millxing/QUENCE",
+      "author": "Rob Schoen",
+      "description": "probabilistic 4-track sequencer",
+      "discussion_url": "https://llllllll.co/t/quence/29436",
+      "tags": ["norns", "grid", "sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "reels",
       "project_url": "https://github.com/itsyourbedtime/reels",
       "author": "its your bedtime (its_your_bedtime)",
