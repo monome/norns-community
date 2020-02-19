@@ -638,6 +638,15 @@
       "description": "game of life based sequencer",
       "discussion_url": "https://llllllll.co/t/zellen/21107",
       "origin": "lines"
+    },
+    {
+      "project_name": "supercut",
+      "project_url": "https://github.com/AndrewShike/supercut",
+      "author": "andrew",
+      "description": "softcut wrapper lib / voice management utility",
+      "discussion_url": "https://llllllll.co/t/supercut-lib",
+      "tags": ["softcut", "lib"],
+      "origin": "lines"
     }
   ]
 }
