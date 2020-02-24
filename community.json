@@ -647,6 +647,15 @@
       "discussion_url": "https://llllllll.co/t/supercut-lib",
       "tags": ["softcut", "lib"],
       "origin": "lines"
+    },
+    {
+      "project_name": "msh",
+      "project_url": "https://github.com/AndrewShike/msh",
+      "author": "andrew",
+      "description": "extensible grid keyboard",
+      "discussion_url": "https://llllllll.co/t/msh",
+      "tags": ["grid"],
+      "origin": "lines"
     }
   ]
 }
