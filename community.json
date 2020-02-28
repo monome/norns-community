@@ -243,9 +243,10 @@
     {
       "project_name": "haven",
       "project_url": "https://github.com/tai-studio/haven",
-      "author": "Till Bovermann (LFSaw)",
+      "author": "LFSaw",
       "description": "a safe space?",
       "discussion_url": "https://llllllll.co/t/haven/21285",
+      "tags": ["synth", "noise"],
       "origin": "lines"
     },
     {
