@@ -443,6 +443,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "patchwork",
+      "project_url": "https://github.com/oliviercreurer/patchwork",
+      "author": "Olivier",
+      "description": "dual function sequencer for monome norns, crow and grid",
+      "discussion_url": "https://llllllll.co/t/patchwork/28800",
+      "tags": ["sequencer", "norns", "grid", "crow",],
+      "origin": "lines"
+    },
+    {
       "project_name": "phyllis",
       "project_url": "https://github.com/justmat/phyllis",
       "author": "Mat (justmat)",
