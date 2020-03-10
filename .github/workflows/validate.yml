@@ -1,0 +1,36 @@
+name: validate
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: download schemas
+      run: |
+        wget https://raw.githubusercontent.com/monome/maiden/master/pkg/catalog/source.schema.json
+        wget https://raw.githubusercontent.com/monome/maiden/master/pkg/catalog/catalog.schema.json
+
+    - name: validate sources
+      uses: docker://orrosenblatt/validate-json-action:latest
+      env:
+          INPUT_SCHEMA: source.schema.json
+          INPUT_JSONS: sources/base.json,sources/community.json
+
+    - name: validate catalogs
+      uses: docker://orrosenblatt/validate-json-action:latest
+      env:
+          INPUT_SCHEMA: catalog.schema.json
+          INPUT_JSONS: base.json,community.json
+
+
+
