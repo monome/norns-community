@@ -259,6 +259,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "islands",
+      "project_url": "https://github.com/junklight/islands.git",
+      "author": "mark john williamson (junklight)",
+      "description": "fm7, earthsea, kria, looper",
+      "discussion_url": "https://llllllll.co/t/islands-0-1/30234",
+      "tags": ["grid"],
+      "origin": "lines"
+    },
+    {
       "project_name": "isoseq",
       "project_url": "https://github.com/carvingCode/isoseq",
       "author": "Randy Brown (carvingcode)",
