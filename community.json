@@ -96,6 +96,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "caliper",
+      "project_url": "https://github.com/synthetiv/caliper",
+      "author": "kenji garland (synthetiv)",
+      "description": "v/oct calibration assistant",
+      "discussion_url": "https://llllllll.co/t/caliper/31353",
+      "tags": ["crow"],
+      "origin": "lines"
+    },
+    {
       "project_name": "cccccccc",
       "project_url": "https://github.com/ypxk/cccccccc/",
       "author": "ypxkap",
