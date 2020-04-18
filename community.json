@@ -466,7 +466,7 @@
       "author": "Olivier",
       "description": "dual function sequencer for monome norns, crow and grid",
       "discussion_url": "https://llllllll.co/t/patchwork/28800",
-      "tags": ["sequencer", "norns", "grid", "crow"],
+      "tags": ["sequencer", "grid", "crow"],
       "origin": "lines"
     },
     {
@@ -475,7 +475,7 @@
       "author": "David Kettler (21echoes)",
       "description": "chainable effects for live performance",
       "discussion_url": "https://llllllll.co/t/31119",
-      "tags": ["norns", "fx"],
+      "tags": ["fx"],
       "origin": "lines"
     },
     {
@@ -508,7 +508,7 @@
       "author": "Rob Schoen",
       "description": "probabilistic 4-track sequencer",
       "discussion_url": "https://llllllll.co/t/quence/29436",
-      "tags": ["norns", "grid", "sequencer"],
+      "tags": ["grid", "sequencer"],
       "origin": "lines"
     },
     {
