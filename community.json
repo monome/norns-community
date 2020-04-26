@@ -72,6 +72,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "beets",
+      "project_url": "https://github.com/mattb/beets",
+      "author": "Matt Biddulph (mattbiddulph)",
+      "description": "drum loop re-sequencer",
+      "discussion_url": "https://llllllll.co/t/beets/30069",
+      "tags": ["grid"],
+      "origin": "lines"
+    },
+    {
       "project_name": "benjolis",
       "project_url": "https://github.com/scazan/benjolis",
       "author": "scaxan",
