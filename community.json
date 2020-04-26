@@ -417,6 +417,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "nc02-rs",
+      "project_url": "https://github.com/monome-community/nc02-rs",
+      "author": "norns community",
+      "description": "norns/circle/02 rhythm and sound",
+      "discussion_url": "https://llllllll.co/t/norns-circle-02-rhythm-and-sound/31645",
+      "origin": "lines"
+    },
+    {
       "project_name": "onehanded",
       "project_url": "https://github.com/mimetaur/onehanded",
       "author": "Nathan (mimetaur)",
