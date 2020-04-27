@@ -718,6 +718,25 @@
       "discussion_url": "https://llllllll.co/t/msh",
       "tags": ["grid"],
       "origin": "lines"
-    }
+    },
+    {
+       "project_name": "torii",
+       "project_url": "https://github.com/okyeron/torii",
+       "author": "Steven Noreyko (okyeron)",
+       "description": "gated audio sequencer",
+       "discussion_url": "https://llllllll.co/t/torii/30476",
+       "tags": ["grid", "sequencer", "midi", "link"],
+       "origin": "lines"
+     },
+    {
+       "project_name": "grid-test",
+       "project_url": "https://github.com/okyeron/grid-test",
+       "author": "Steven Noreyko (okyeron)",
+       "description": "A utility script for testing grids",
+       "discussion_url": "https://llllllll.co/t/grid-test/29346",
+       "tags": ["grid"],
+       "origin": "lines"
+     }
+    
   ]
 }
