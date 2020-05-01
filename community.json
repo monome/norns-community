@@ -718,6 +718,15 @@
       "discussion_url": "https://llllllll.co/t/msh",
       "tags": ["grid"],
       "origin": "lines"
+    },
+    {
+      "project_name": "grendy",
+      "project_url": "https://github.com/cfdrake/grendy",
+      "author": "Colin Drake (cfd90)",
+      "description": "simple drone synth, grendel drone commander inspired",
+      "discussion_url": "https://llllllll.co/t/31721",
+      "tags": ["synth", "midi"],
+      "origin": "lines"
     }
   ]
 }
