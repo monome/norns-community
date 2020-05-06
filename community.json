@@ -175,6 +175,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "cyrene",
+      "project_url": "https://github.com/21echoes/cyrene",
+      "author": "David Kettler (21echoes)",
+      "description": "a drum sequencer based on Mutable Instruments Grids",
+      "discussion_url": "https://llllllll.co/t/31648",
+      "tags": ["drum", "sequencer", "arc", "grid"],
+       "origin": "lines"
+    },
+    {
       "project_name": "drum_room",
       "project_url": "https://github.com/markwheeler/drum_room",
       "author": "Mark Eats (markeats)",
