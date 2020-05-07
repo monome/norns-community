@@ -251,11 +251,29 @@
       "origin": "lines"
     },
     {
+      "project_name": "grendy",
+      "project_url": "https://github.com/cfdrake/grendy",
+      "author": "Colin Drake (cfd90)",
+      "description": "simple drone synth, grendel drone commander inspired",
+      "discussion_url": "https://llllllll.co/t/31721",
+      "tags": ["synth", "midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "greyhole",
       "project_url": "https://github.com/justmat/greyhole",
       "author": "Mat (Justmat)",
       "description": "echo / delay",
       "discussion_url": "https://llllllll.co/t/greyhole/27687",
+      "origin": "lines"
+    },
+    {
+      "project_name": "grid-test",
+      "project_url": "https://github.com/okyeron/grid-test",
+      "author": "Steven Noreyko (okyeron)",
+      "description": "A utility script for testing grids",
+      "discussion_url": "https://llllllll.co/t/grid-test/29346",
+      "tags": ["grid"],
       "origin": "lines"
     },
     {
@@ -390,6 +408,15 @@
       "description": "small kit of midi utilities to transpose and route midi messages",
       "discussion_url": "https://llllllll.co/t/23273",
       "tags": ["midi"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "msh",
+      "project_url": "https://github.com/AndrewShike/msh",
+      "author": "andrew",
+      "description": "extensible grid keyboard",
+      "discussion_url": "https://llllllll.co/t/msh",
+      "tags": ["grid"],
       "origin": "lines"
     },
     {
@@ -612,6 +639,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "supercut",
+      "project_url": "https://github.com/AndrewShike/supercut",
+      "author": "andrew",
+      "description": "softcut wrapper lib / voice management utility",
+      "discussion_url": "https://llllllll.co/t/supercut-lib",
+      "tags": ["softcut", "lib"],
+      "origin": "lines"
+    },
+    {
       "project_name": "sway",
       "project_url": "https://github.com/carltesta/sway",
       "author": "Carl Testa (carltesta)",
@@ -643,6 +679,15 @@
       "discussion_url": "https://llllllll.co/t/timeparty/22837",
       "origin": "lines"
     },
+	{
+        "project_name": "torii",
+        "project_url": "https://github.com/okyeron/torii",
+        "author": "Steven Noreyko (okyeron)",
+        "description": "gated audio sequencer",
+        "discussion_url": "https://llllllll.co/t/torii/30476",
+        "tags": ["grid", "sequencer", "midi", "link"],
+        "origin": "lines"
+      },
     {
       "project_name": "traffic",
       "project_url": "https://github.com/ypxk/traffic",
@@ -700,33 +745,7 @@
       "description": "game of life based sequencer",
       "discussion_url": "https://llllllll.co/t/zellen/21107",
       "origin": "lines"
-    },
-    {
-      "project_name": "supercut",
-      "project_url": "https://github.com/AndrewShike/supercut",
-      "author": "andrew",
-      "description": "softcut wrapper lib / voice management utility",
-      "discussion_url": "https://llllllll.co/t/supercut-lib",
-      "tags": ["softcut", "lib"],
-      "origin": "lines"
-    },
-    {
-      "project_name": "msh",
-      "project_url": "https://github.com/AndrewShike/msh",
-      "author": "andrew",
-      "description": "extensible grid keyboard",
-      "discussion_url": "https://llllllll.co/t/msh",
-      "tags": ["grid"],
-      "origin": "lines"
-    },
-    {
-      "project_name": "grendy",
-      "project_url": "https://github.com/cfdrake/grendy",
-      "author": "Colin Drake (cfd90)",
-      "description": "simple drone synth, grendel drone commander inspired",
-      "discussion_url": "https://llllllll.co/t/31721",
-      "tags": ["synth", "midi"],
-      "origin": "lines"
     }
   ]
 }
+
