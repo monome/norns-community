@@ -348,6 +348,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "lissadron",
+      "project_url": "https://github.com/tai-studio/lissadron",
+      "author": "LFSaw",
+      "description": "seeding fields forever",
+      "discussion_url": "https://llllllll.co/t/lissadron/32509",
+      "tags": ["synth", "random"],
+      "origin": "lines"
+    },
+    {
       "project_name": "loom",
       "project_url": "https://github.com/markwheeler/loom/",
       "author": "Mark Eats (markeats)",
