@@ -599,6 +599,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "rudiments",
+      "project_url": "https://github.com/cfdrake/rudiments",
+      "author": "Colin Drake (cfd90)",
+      "description": "an 8 voice lofi percussion synthesizer and sequencer",
+      "discussion_url": "https://llllllll.co/t/31828",
+      "tags": ["drum", "synth", "sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "sam",
       "project_url": "https://github.com/justmat/sam",
       "author": "Mat (Justmat)",
