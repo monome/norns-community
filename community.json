@@ -123,6 +123,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "changes",
+      "project_url": "https://github.com/markwheeler/changes",
+      "author": "Mark Eats (markeats)",
+      "description": "generate eight connected sine wave lfos and output them over midi",
+      "discussion_url": "https://llllllll.co/t/changes/33799",
+      "tags": ["midi", "lfo"],
+      "origin": "lines"
+    },
+    {
       "project_name": "cheat_codes",
       "project_url": "https://github.com/dndrks/cheat_codes",
       "author": "dan derks (dan_derks)",
