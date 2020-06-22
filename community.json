@@ -278,6 +278,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "grd",
+      "project_url": "https://github.com/yotamorimoto/norns_grd.git",
+      "author": "Yota Morimoto",
+      "description": "sprayed multi-sampled celesta",
+      "discussion_url": "https://llllllll.co/t/grd/33768",
+      "tags": ["synth", "granular"],
+      "origin": "lines"
+    },
+    {
       "project_name": "greyhole",
       "project_url": "https://github.com/justmat/greyhole",
       "author": "Mat (Justmat)",
