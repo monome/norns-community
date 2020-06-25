@@ -677,6 +677,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "stjörnuíþrótt",
+      "project_url": "https://github.com/frederickk/stjoernuithrott",
+      "author": "Ken Frederick (frederickk)",
+      "description": "drone inspired by Moffenzeef Stargazer",
+      "discussion_url": "https://llllllll.co/t/33889",
+      "tags": ["drone", "midi"],
+      "origin": "lines"
+    },    
+    {
       "project_name": "strides",
       "project_url": "https://github.com/notjustmat/strides",
       "author": "Mat (Justmat)",
@@ -733,15 +742,15 @@
       "discussion_url": "https://llllllll.co/t/timeparty/22837",
       "origin": "lines"
     },
-	{
-        "project_name": "torii",
-        "project_url": "https://github.com/okyeron/torii",
-        "author": "Steven Noreyko (okyeron)",
-        "description": "gated audio sequencer",
-        "discussion_url": "https://llllllll.co/t/torii/30476",
-        "tags": ["grid", "sequencer", "midi", "link"],
-        "origin": "lines"
-      },
+    {
+      "project_name": "torii",
+      "project_url": "https://github.com/okyeron/torii",
+      "author": "Steven Noreyko (okyeron)",
+      "description": "gated audio sequencer",
+      "discussion_url": "https://llllllll.co/t/torii/30476",
+      "tags": ["grid", "sequencer", "midi", "link"],
+      "origin": "lines"
+    },
     {
       "project_name": "traffic",
       "project_url": "https://github.com/ypxk/traffic",
