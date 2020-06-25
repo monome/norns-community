@@ -384,6 +384,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "m18s",
+      "project_url": "https://github.com/jlmitch5/m18s",
+      "author": "John Mitchell (jlmitch5)",
+      "description": "a sequencer based on the RYK M-185",
+      "discussion_url": "https://llllllll.co/t/m18s-now-for-norns/32068",
+      "tags": ["synth", "midi", "crow"],
+      "origin": "lines"
+    },
+    {
       "project_name": "mangl",
       "project_url": "https://github.com/notjustmat/mangl",
       "author": "Mat (Justmat)",
