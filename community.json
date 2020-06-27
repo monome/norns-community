@@ -243,6 +243,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "foundry",
+      "project_url": "https://github.com/csboling/foundry",
+      "author": "Sam Boling (csboling)",
+      "description": "Font / glyph catalog",
+      "discussion_url": "https://llllllll.co/t/foundry-font-visualizer/33933",
+      "origin": "lines"
+    },
+    {
       "project_name": "fugu",
       "project_url": "https://github.com/itsyourbedtime/fugu",
       "author": "its your bedtime (its_your_bedtime)",
@@ -684,7 +692,7 @@
       "discussion_url": "https://llllllll.co/t/33889",
       "tags": ["drone", "midi"],
       "origin": "lines"
-    },    
+    },
     {
       "project_name": "strides",
       "project_url": "https://github.com/notjustmat/strides",
@@ -811,4 +819,3 @@
     }
   ]
 }
-
