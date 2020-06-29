@@ -190,7 +190,7 @@
       "description": "a drum sequencer based on Mutable Instruments Grids",
       "discussion_url": "https://llllllll.co/t/31648",
       "tags": ["drum", "sequencer", "arc", "grid"],
-       "origin": "lines"
+      "origin": "lines"
     },
     {
       "project_name": "drum_room",
@@ -353,6 +353,14 @@
       "author": "Luke Sanger (Molotov)",
       "description": "16 second looper",
       "discussion_url": "https://llllllll.co/t/jiffy/25475",
+      "origin": "lines"
+    },
+    {
+      "project_name": "just-play",
+      "project_url": "https://github.com/midouest/just-play",
+      "author": "Robin (midouest)",
+      "description": "play just friends with midi",
+      "discussion_url": "https://llllllll.co/t/just-play/33979",
       "origin": "lines"
     },
     {
