@@ -566,6 +566,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "passthrough",
+      "project_url": "https://github.com/nattog/passthrough",
+      "author": "Guy (nattog)",
+      "description": "midi passthrough library with examples",
+      "discussion_url": "https://llllllll.co/t/passthrough/31156",
+      "tags": ["midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "patchwork",
       "project_url": "https://github.com/oliviercreurer/patchwork",
       "author": "Olivier",
