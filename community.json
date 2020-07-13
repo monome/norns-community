@@ -677,6 +677,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "samsara",
+      "project_url": "https://github.com/21echoes/samsara",
+      "author": "David Kettler (21echoes)",
+      "description": "a minimalist clock-synced looper",
+      "discussion_url": "https://llllllll.co/t/34095",
+      "tags": ["looper"],
+      "origin": "lines"
+    },
+    {
       "project_name": "seaflex",
       "project_url": "https://github.com/lylepmills/seaflex",
       "author": "Lyle Mills (lylem)",
