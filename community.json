@@ -251,6 +251,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "fugarc",
+      "project_url": "https://github.com/mortenwagner/fugarc",
+      "author": "Morten Wagner (popgoblin)",
+      "description": "fugu meets awake sequencer",
+      "discussion_url": "https://llllllll.co/t/fugarc/34446",
+      "tags": ["sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "fugu",
       "project_url": "https://github.com/itsyourbedtime/fugu",
       "author": "its your bedtime (its_your_bedtime)",
