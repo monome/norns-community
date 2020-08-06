@@ -72,6 +72,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "b-b-b-b-beat",
+      "project_url": "https://github.com/frederickk/b-b-b-b-beat",
+      "author": "Ken Frederick (frederickk)",
+      "description": "Beat repeater with some glitch",
+      "discussion_url": "https://llllllll.co/t/35047",
+      "tags": ["softcut"],
+      "origin": "lines"
+    },
+    {
       "project_name": "beets",
       "project_url": "https://github.com/mattb/beets",
       "author": "Matt Biddulph (mattbiddulph)",
