@@ -199,7 +199,7 @@
       "description": "a drum sequencer based on Mutable Instruments Grids",
       "discussion_url": "https://llllllll.co/t/31648",
       "tags": ["drum", "sequencer", "arc", "grid"],
-       "origin": "lines"
+      "origin": "lines"
     },
     {
       "project_name": "drum_room",
@@ -249,6 +249,23 @@
       "author": "Mat (Justmat)",
       "description": "euclidean rhythms with logic and probability",
       "discussion_url": "https://llllllll.co/t/foulplay/21081",
+      "origin": "lines"
+    },
+    {
+      "project_name": "foundry",
+      "project_url": "https://github.com/csboling/foundry",
+      "author": "Sam Boling (csboling)",
+      "description": "Font / glyph catalog",
+      "discussion_url": "https://llllllll.co/t/foundry-font-visualizer/33933",
+      "origin": "lines"
+    },
+    {
+      "project_name": "fugarc",
+      "project_url": "https://github.com/mortenwagner/fugarc",
+      "author": "Morten Wagner (popgoblin)",
+      "description": "fugu meets awake sequencer",
+      "discussion_url": "https://llllllll.co/t/fugarc/34446",
+      "tags": ["sequencer"],
       "origin": "lines"
     },
     {
@@ -354,6 +371,14 @@
       "author": "Luke Sanger (Molotov)",
       "description": "16 second looper",
       "discussion_url": "https://llllllll.co/t/jiffy/25475",
+      "origin": "lines"
+    },
+    {
+      "project_name": "just-play",
+      "project_url": "https://github.com/midouest/just-play",
+      "author": "Robin (midouest)",
+      "description": "play just friends with midi",
+      "discussion_url": "https://llllllll.co/t/just-play/33979",
       "origin": "lines"
     },
     {
@@ -559,6 +584,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "passthrough",
+      "project_url": "https://github.com/nattog/passthrough",
+      "author": "Guy (nattog)",
+      "description": "midi passthrough library with examples",
+      "discussion_url": "https://llllllll.co/t/passthrough/31156",
+      "tags": ["midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "patchwork",
       "project_url": "https://github.com/oliviercreurer/patchwork",
       "author": "Olivier",
@@ -652,6 +686,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "samsara",
+      "project_url": "https://github.com/21echoes/samsara",
+      "author": "David Kettler (21echoes)",
+      "description": "a minimalist clock-synced looper",
+      "discussion_url": "https://llllllll.co/t/34095",
+      "tags": ["looper"],
+      "origin": "lines"
+    },
+    {
       "project_name": "seaflex",
       "project_url": "https://github.com/lylepmills/seaflex",
       "author": "Lyle Mills (lylem)",
@@ -693,7 +736,7 @@
       "discussion_url": "https://llllllll.co/t/33889",
       "tags": ["drone", "midi"],
       "origin": "lines"
-    },    
+    },
     {
       "project_name": "strides",
       "project_url": "https://github.com/notjustmat/strides",
@@ -820,4 +863,3 @@
     }
   ]
 }
-
