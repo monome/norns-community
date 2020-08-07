@@ -202,6 +202,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "dronecaster",
+      "project_url": "https://github.com/tyleretters/dronecaster",
+      "author": "@tyleretters && @license && the lines community",
+      "description": "cast drones & record whatever returns",
+      "discussion_url": "https://l.llllllll.co/dronecaster",
+      "tags": ["synth"],
+      "origin": "lines"
+    },
+    {
       "project_name": "drum_room",
       "project_url": "https://github.com/markwheeler/drum_room",
       "author": "Mark Eats (markeats)",
