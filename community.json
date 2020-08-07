@@ -244,6 +244,14 @@
       "tags": ["sequencer", "midi", "grid"]
     },
     {
+      "project_name": "endless-stairs",
+      "project_url": "https://github.com/midouest/endless-stairs",
+      "author": "Robin (midouest)",
+      "description": "shepard tone generator",
+      "discussion_url": "https://llllllll.co/t/endless-stairs/34799",
+      "tags": ["crow", "grid", "just-friends", "sequencer"]
+    },
+    {
       "project_name": "fm7",
       "project_url": "https://github.com/lazzarello/fm7",
       "author": "Lee Azzarello (lazzarello)",
