@@ -588,6 +588,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "stack",
+      "project_url": "https://github.com/cfdrake/stack",
+      "author": "Colin Drake (cfd90)",
+      "description": "a stack of 8 fixed-frequency resonant bandpass filters",
+      "discussion_url": "https://llllllll.co/t/35218",
+      "origin": "lines"
+    },
+    {
       "project_name": "step",
       "project_url": "https://github.com/antonhornquist/step",
       "author": "Anton Hörnquist (jah)",
