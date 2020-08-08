@@ -17,8 +17,8 @@ jobs:
 
     - name: download schemas
       run: |
-        wget https://raw.githubusercontent.com/monome/maiden/master/pkg/catalog/source.schema.json
-        wget https://raw.githubusercontent.com/monome/maiden/master/pkg/catalog/catalog.schema.json
+        wget https://raw.githubusercontent.com/monome/maiden/main/pkg/catalog/source.schema.json
+        wget https://raw.githubusercontent.com/monome/maiden/main/pkg/catalog/catalog.schema.json
 
     - name: validate sources
       uses: docker://orrosenblatt/validate-json-action:latest

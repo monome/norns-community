@@ -72,6 +72,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "b-b-b-b-beat",
+      "project_url": "https://github.com/frederickk/b-b-b-b-beat",
+      "author": "Ken Frederick (frederickk)",
+      "description": "Beat repeater with some glitch",
+      "discussion_url": "https://llllllll.co/t/35047",
+      "tags": ["softcut"],
+      "origin": "lines"
+    },
+    {
       "project_name": "beets",
       "project_url": "https://github.com/mattb/beets",
       "author": "Matt Biddulph (mattbiddulph)",
@@ -120,6 +129,15 @@
       "description": "ccs for arc’s dials",
       "discussion_url": "https://llllllll.co/t/cccccccc/22271",
       "tags": ["arc"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "changes",
+      "project_url": "https://github.com/markwheeler/changes",
+      "author": "Mark Eats (markeats)",
+      "description": "generate eight connected sine wave lfos and output them over midi",
+      "discussion_url": "https://llllllll.co/t/changes/33799",
+      "tags": ["midi", "lfo"],
       "origin": "lines"
     },
     {
@@ -175,6 +193,24 @@
       "origin": "lines"
     },
     {
+      "project_name": "cyrene",
+      "project_url": "https://github.com/21echoes/cyrene",
+      "author": "David Kettler (21echoes)",
+      "description": "a drum sequencer based on Mutable Instruments Grids",
+      "discussion_url": "https://llllllll.co/t/31648",
+      "tags": ["drum", "sequencer", "arc", "grid"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "dronecaster",
+      "project_url": "https://github.com/tyleretters/dronecaster",
+      "author": "@tyleretters && @license && the lines community",
+      "description": "cast drones & record whatever returns",
+      "discussion_url": "https://l.llllllll.co/dronecaster",
+      "tags": ["synth"],
+      "origin": "lines"
+    },
+    {
       "project_name": "drum_room",
       "project_url": "https://github.com/markwheeler/drum_room",
       "author": "Mark Eats (markeats)",
@@ -208,6 +244,14 @@
       "tags": ["sequencer", "midi", "grid"]
     },
     {
+      "project_name": "endless-stairs",
+      "project_url": "https://github.com/midouest/endless-stairs",
+      "author": "Robin (midouest)",
+      "description": "shepard tone generator",
+      "discussion_url": "https://llllllll.co/t/endless-stairs/34799",
+      "tags": ["crow", "grid", "just-friends", "sequencer"]
+    },
+    {
       "project_name": "fm7",
       "project_url": "https://github.com/lazzarello/fm7",
       "author": "Lee Azzarello (lazzarello)",
@@ -222,6 +266,23 @@
       "author": "Mat (Justmat)",
       "description": "euclidean rhythms with logic and probability",
       "discussion_url": "https://llllllll.co/t/foulplay/21081",
+      "origin": "lines"
+    },
+    {
+      "project_name": "foundry",
+      "project_url": "https://github.com/csboling/foundry",
+      "author": "Sam Boling (csboling)",
+      "description": "Font / glyph catalog",
+      "discussion_url": "https://llllllll.co/t/foundry-font-visualizer/33933",
+      "origin": "lines"
+    },
+    {
+      "project_name": "fugarc",
+      "project_url": "https://github.com/mortenwagner/fugarc",
+      "author": "Morten Wagner (popgoblin)",
+      "description": "fugu meets awake sequencer",
+      "discussion_url": "https://llllllll.co/t/fugarc/34446",
+      "tags": ["sequencer"],
       "origin": "lines"
     },
     {
@@ -251,11 +312,38 @@
       "origin": "lines"
     },
     {
+      "project_name": "grendy",
+      "project_url": "https://github.com/cfdrake/grendy",
+      "author": "Colin Drake (cfd90)",
+      "description": "simple drone synth, grendel drone commander inspired",
+      "discussion_url": "https://llllllll.co/t/31721",
+      "tags": ["synth", "midi"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "grd",
+      "project_url": "https://github.com/yotamorimoto/norns_grd",
+      "author": "Yota Morimoto",
+      "description": "sprayed multi-sampled celesta",
+      "discussion_url": "https://llllllll.co/t/grd/33768",
+      "tags": ["synth", "granular"],
+      "origin": "lines"
+    },
+    {
       "project_name": "greyhole",
       "project_url": "https://github.com/justmat/greyhole",
       "author": "Mat (Justmat)",
       "description": "echo / delay",
       "discussion_url": "https://llllllll.co/t/greyhole/27687",
+      "origin": "lines"
+    },
+    {
+      "project_name": "grid-test",
+      "project_url": "https://github.com/okyeron/grid-test",
+      "author": "Steven Noreyko (okyeron)",
+      "description": "A utility script for testing grids",
+      "discussion_url": "https://llllllll.co/t/grid-test/29346",
+      "tags": ["grid"],
       "origin": "lines"
     },
     {
@@ -303,6 +391,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "just-play",
+      "project_url": "https://github.com/midouest/just-play",
+      "author": "Robin (midouest)",
+      "description": "play just friends with midi",
+      "discussion_url": "https://llllllll.co/t/just-play/33979",
+      "origin": "lines"
+    },
+    {
       "project_name": "kria_midi",
       "project_url": "https://github.com/junklight/kria_midi",
       "author": "mark john williamson (junklight)",
@@ -321,12 +417,30 @@
       "origin": "lines"
     },
     {
+      "project_name": "lissadron",
+      "project_url": "https://github.com/tai-studio/lissadron",
+      "author": "LFSaw",
+      "description": "seeding fields forever",
+      "discussion_url": "https://llllllll.co/t/lissadron/32509",
+      "tags": ["synth", "random"],
+      "origin": "lines"
+    },
+    {
       "project_name": "loom",
       "project_url": "https://github.com/markwheeler/loom/",
       "author": "Mark Eats (markeats)",
       "description": "pattern weaving sequencer for grids",
       "discussion_url": "https://llllllll.co/t/loom/21091",
       "tags": ["grid"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "m18s",
+      "project_url": "https://github.com/jlmitch5/m18s",
+      "author": "John Mitchell (jlmitch5)",
+      "description": "a sequencer based on the RYK M-185",
+      "discussion_url": "https://llllllll.co/t/m18s-now-for-norns/32068",
+      "tags": ["synth", "midi", "crow"],
       "origin": "lines"
     },
     {
@@ -390,6 +504,15 @@
       "description": "small kit of midi utilities to transpose and route midi messages",
       "discussion_url": "https://llllllll.co/t/23273",
       "tags": ["midi"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "msh",
+      "project_url": "https://github.com/AndrewShike/msh",
+      "author": "andrew",
+      "description": "extensible grid keyboard",
+      "discussion_url": "https://llllllll.co/t/msh",
+      "tags": ["grid"],
       "origin": "lines"
     },
     {
@@ -478,6 +601,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "passthrough",
+      "project_url": "https://github.com/nattog/passthrough",
+      "author": "Guy (nattog)",
+      "description": "midi passthrough library with examples",
+      "discussion_url": "https://llllllll.co/t/passthrough/31156",
+      "tags": ["midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "patchwork",
       "project_url": "https://github.com/oliviercreurer/patchwork",
       "author": "Olivier",
@@ -554,11 +686,29 @@
       "origin": "lines"
     },
     {
+      "project_name": "rudiments",
+      "project_url": "https://github.com/cfdrake/rudiments",
+      "author": "Colin Drake (cfd90)",
+      "description": "an 8 voice lofi percussion synthesizer and sequencer",
+      "discussion_url": "https://llllllll.co/t/31828",
+      "tags": ["drum", "synth", "sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "sam",
       "project_url": "https://github.com/justmat/sam",
       "author": "Mat (Justmat)",
       "description": "a simple sample recorder/slicer",
       "discussion_url": "https://llllllll.co/t/23943",
+      "origin": "lines"
+    },
+    {
+      "project_name": "samsara",
+      "project_url": "https://github.com/21echoes/samsara",
+      "author": "David Kettler (21echoes)",
+      "description": "a minimalist clock-synced looper",
+      "discussion_url": "https://llllllll.co/t/34095",
+      "tags": ["looper"],
       "origin": "lines"
     },
     {
@@ -604,6 +754,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "stjörnuíþrótt",
+      "project_url": "https://github.com/frederickk/stjoernuithrott",
+      "author": "Ken Frederick (frederickk)",
+      "description": "drone inspired by Moffenzeef Stargazer",
+      "discussion_url": "https://llllllll.co/t/33889",
+      "tags": ["drone", "midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "strides",
       "project_url": "https://github.com/notjustmat/strides",
       "author": "Mat (Justmat)",
@@ -617,6 +776,15 @@
       "author": "Randy Brown (carvingcode)",
       "description": "a plucky little pattern sequencer",
       "discussion_url": "https://llllllll.co/t/21025",
+      "origin": "lines"
+    },
+    {
+      "project_name": "supercut",
+      "project_url": "https://github.com/AndrewShike/supercut",
+      "author": "andrew",
+      "description": "softcut wrapper lib / voice management utility",
+      "discussion_url": "https://llllllll.co/t/supercut-lib",
+      "tags": ["softcut", "lib"],
       "origin": "lines"
     },
     {
@@ -649,6 +817,15 @@
       "author": "crim",
       "description": "grid based delay sequencer",
       "discussion_url": "https://llllllll.co/t/timeparty/22837",
+      "origin": "lines"
+    },
+    {
+      "project_name": "torii",
+      "project_url": "https://github.com/okyeron/torii",
+      "author": "Steven Noreyko (okyeron)",
+      "description": "gated audio sequencer",
+      "discussion_url": "https://llllllll.co/t/torii/30476",
+      "tags": ["grid", "sequencer", "midi", "link"],
       "origin": "lines"
     },
     {
@@ -707,33 +884,6 @@
       "author": "Sven (sbaio)",
       "description": "game of life based sequencer",
       "discussion_url": "https://llllllll.co/t/zellen/21107",
-      "origin": "lines"
-    },
-    {
-      "project_name": "supercut",
-      "project_url": "https://github.com/AndrewShike/supercut",
-      "author": "andrew",
-      "description": "softcut wrapper lib / voice management utility",
-      "discussion_url": "https://llllllll.co/t/supercut-lib",
-      "tags": ["softcut", "lib"],
-      "origin": "lines"
-    },
-    {
-      "project_name": "msh",
-      "project_url": "https://github.com/AndrewShike/msh",
-      "author": "andrew",
-      "description": "extensible grid keyboard",
-      "discussion_url": "https://llllllll.co/t/msh",
-      "tags": ["grid"],
-      "origin": "lines"
-    },
-    {
-      "project_name": "grendy",
-      "project_url": "https://github.com/cfdrake/grendy",
-      "author": "Colin Drake (cfd90)",
-      "description": "simple drone synth, grendel drone commander inspired",
-      "discussion_url": "https://llllllll.co/t/31721",
-      "tags": ["synth", "midi"],
       "origin": "lines"
     }
   ]
