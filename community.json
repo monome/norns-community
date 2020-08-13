@@ -72,6 +72,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "barcode",
+      "project_url": "https://github.com/schollz/barcode",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "loops sounds into six lfo-modulated voices",
+      "discussion_url": "https://llllllll.co/t/barcode/35297",
+      "origin": "lines"
+    },
+    {
       "project_name": "b-b-b-b-beat",
       "project_url": "https://github.com/frederickk/b-b-b-b-beat",
       "author": "Ken Frederick (frederickk)",
