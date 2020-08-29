@@ -31,6 +31,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "arcologies",
+      "project_url": "https://github.com/tyleretters/arcologies",
+      "author": "@tyleretters",
+      "description": "an interactive environment for designing 2d sound arcologies with norns and grid",
+      "discussion_url": "https://l.llllllll.co/arcologies",
+      "tags": ["grid", "sequencer", "generator"],
+      "origin": "lines"
+    },
+    {
       "project_name": "ash",
       "project_url": "https://github.com/tehn/ash",
       "author": "Brian Crabtree (tehn)",
