@@ -72,6 +72,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "barcode",
+      "project_url": "https://github.com/schollz/barcode",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "loops sounds into six lfo-modulated voices",
+      "discussion_url": "https://llllllll.co/t/barcode/35297",
+      "origin": "lines"
+    },
+    {
       "project_name": "b-b-b-b-beat",
       "project_url": "https://github.com/frederickk/b-b-b-b-beat",
       "author": "Ken Frederick (frederickk)",
@@ -242,6 +250,14 @@
       "description": "polyrhythmic sequencer/sampler using ack",
       "discussion_url": "https://llllllll.co/t/ekombi/26812",
       "tags": ["sequencer", "midi", "grid"]
+    },
+    {
+      "project_name": "endless-stairs",
+      "project_url": "https://github.com/midouest/endless-stairs",
+      "author": "Robin (midouest)",
+      "description": "shepard tone generator",
+      "discussion_url": "https://llllllll.co/t/endless-stairs/34799",
+      "tags": ["crow", "grid", "just-friends", "sequencer"]
     },
     {
       "project_name": "fm7",
@@ -558,6 +574,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "oooooo",
+      "project_url": "https://github.com/schollz/oooooo",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "digital tape loops, x 6",
+      "discussion_url": "https://llllllll.co/t/oooooo",
+      "origin": "lines"
+    },
+    {
       "project_name": "orbital",
       "project_url": "https://github.com/P1505/orbital",
       "author": "P1505",
@@ -727,6 +751,14 @@
       "author": "Mat (Justmat)",
       "description": "a thunderstorm for norns",
       "discussion_url": "https://llllllll.co/t/31622",
+      "origin": "lines"
+    },
+    {
+      "project_name": "stack",
+      "project_url": "https://github.com/cfdrake/stack",
+      "author": "Colin Drake (cfd90)",
+      "description": "a stack of 8 fixed-frequency resonant bandpass filters",
+      "discussion_url": "https://llllllll.co/t/35218",
       "origin": "lines"
     },
     {
