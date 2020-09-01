@@ -115,6 +115,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "blndr",
+      "project_url": "https://github.com/schollz/blndr",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "a quantized delay with time bending effects",
+      "discussion_url": "https://llllllll.co/t/blndr/35106",
+      "origin": "lines"
+    },
+    {
       "project_name": "boingg",
       "project_url": "https://github.com/justmat/boingg",
       "author": "Mat (Justmat)",
@@ -182,6 +190,14 @@
       "description": "a clock for arc4 on norns",
       "discussion_url": "https://llllllll.co/t/clarck/21251",
       "tags": ["arc"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "clcks",
+      "project_url": "https://github.com/schollz/clcks",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "punch-in tempo-locked repeating",
+      "discussion_url": "https://llllllll.co/t/clcks/35732",
       "origin": "lines"
     },
     {
