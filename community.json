@@ -504,6 +504,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "midi-monitor",
+      "project_url": "https://github.com/okyeron/midi-monitor.git",
+      "author": "Steven Noreyko (okyeron)",
+      "description": "A MIDI monitor for norns",
+      "discussion_url": "https://llllllll.co/t/midi-monitor/35036",
+      "tags": ["midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "mlr",
       "project_url": "https://github.com/tehn/mlr",
       "author": "Brian Crabtree (tehn)",
