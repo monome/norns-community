@@ -575,6 +575,14 @@
       "tags": ["tracker"]
     },
     {
+      "project_name": "nørgård",
+      "project_url": "https://github.com/frederickk/noergaard",
+      "author": "Ken Frederick (frederickk)",
+      "description": "A small library to generate Nørgård infinity sequences for Norns",
+      "tags": ["generative", "library", "norgard", "midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "norman",
       "project_url": "https://github.com/crimclark/norman",
       "author": "crim",
