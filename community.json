@@ -694,6 +694,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "piwip",
+      "project_url": "https://github.com/schollz/piwip",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "a sampler that works in realtime",
+      "discussion_url": "https://llllllll.co/t/piwip/36642",
+      "tags": ["midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "pools",
       "project_url": "https://github.com/justmat/pools",
       "author": "Mat (justmat)",
