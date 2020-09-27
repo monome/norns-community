@@ -285,6 +285,14 @@
       "tags": ["crow", "grid", "just-friends", "sequencer"]
     },
     {
+      "project_name": "euclidigons",
+      "project_url": "https://github.com/synthetiv/euclidigons",
+      "author": "kenji garland (synthetivv), adam aronson (setfield)",
+      "description": "geometric rhythm generator",
+      "discussion_url": "https://llllllll.co/t/eculidigons/36666",
+      "tags": ["synth", "sequencer"]
+    },
+    {
       "project_name": "fm7",
       "project_url": "https://github.com/lazzarello/fm7",
       "author": "Lee Azzarello (lazzarello)",
