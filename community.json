@@ -397,6 +397,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "here-there",
+      "project_url": "https://github.com/speakerdamage/here-there",
+      "author": "Caulen (speakerdamage)",
+      "description": "the sound begins here but you began there",
+      "discussion_url": "https://llllllll.co/t/here-there/36170",
+      "tags": ["softcut", "sines", "granular"],
+      "origin": "lines"
+    },
+    {
       "project_name": "hid_demo",
       "project_url": "https://github.com/okyeron/hid-demo/",
       "author": "steven noreyko (okyeron)",
