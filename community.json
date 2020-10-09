@@ -344,6 +344,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "glitchlets",
+      "project_url": "https://github.com/schollz/glitchlets",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "lets glitch with glitchlets.",
+      "discussion_url": "https://llllllll.co/t/glitchlets/37069",
+      "origin": "lines"
+    },
+    {
       "project_name": "glut",
       "project_url": "https://github.com/artfwo/glut",
       "author": "artfwo",
