@@ -89,6 +89,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "barycenter",
+      "project_url": "https://github.com/echophon/barycenter",
+      "author": "Yancy Way (echophon)",
+      "description": "orbital motion sequencing",
+      "discussion_url": "https://llllllll.co/t/barycenter/35980",
+      "tags": ["sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "b-b-b-b-beat",
       "project_url": "https://github.com/frederickk/b-b-b-b-beat",
       "author": "Ken Frederick (frederickk)",
@@ -232,6 +241,15 @@
       "description": "a drum sequencer based on Mutable Instruments Grids",
       "discussion_url": "https://llllllll.co/t/31648",
       "tags": ["drum", "sequencer", "arc", "grid"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "drift",
+      "project_url": "https://github.com/echophon/drift",
+      "author": "Yancy Way (echophon)",
+      "description": "drifting relationships creating sequences",
+      "discussion_url": "https://llllllll.co/t/drift/36138",
+      "tags": ["sequencer"],
       "origin": "lines"
     },
     {
