@@ -148,6 +148,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "buoys",
+      "project_url": "https://github.com/lylepmills/buoys",
+      "author": "Lyle Mills (lylem)",
+      "description": "tidal influencer/activator/lightshow",
+      "discussion_url": "https://llllllll.co/t/37639",
+      "tags": ["grid", "arc", "crow", "midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "caliper",
       "project_url": "https://github.com/synthetiv/caliper",
       "author": "kenji garland (synthetiv)",
