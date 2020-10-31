@@ -746,6 +746,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "pitfalls",
+      "project_url": "https://github.com/robmckinnon/pitfalls",
+      "author": "Rob (delineator)",
+      "description": "microtonal scale explorer / arpeggiator / grid keyboard",
+      "discussion_url": "https://llllllll.co/t/pitfalls/37795",
+      "tags": ["grid"],
+      "origin": "lines"
+    },
+    {
       "project_name": "piwip",
       "project_url": "https://github.com/schollz/piwip",
       "author": "Zack Scholl (infinitedigits)",
