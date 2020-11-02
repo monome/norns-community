@@ -7,6 +7,14 @@
   "date": "0001-01-01T00:00:00Z",
   "entries": [
     {
+      "project_name": "abacus",
+      "project_url": "https://github.com/schollz/abacus",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "sequence rows of beats with samples",
+      "discussion_url": "https://llllllll.co/t/abacus/37871",
+      "origin": "lines"
+    },
+    {
       "project_name": "ack",
       "project_url": "https://github.com/antonhornquist/ack",
       "project_author": "Anton Hörnquist (jah)",
