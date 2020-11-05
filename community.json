@@ -940,6 +940,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "tambla",
+      "project_url": "https://github.com/ngwese/tambla.git",
+      "author": "ngwese",
+      "description": "bending rhythmic arpeggio",
+      "discussion_url": "https://llllllll.co/t/37965",
+      "tags": ["midi", "gen", "sky", "sequencer"]
+    },
+    {
       "project_name": "timber",
       "project_url": "https://github.com/markwheeler/timber",
       "author": "Mark Eats (markeats)",
