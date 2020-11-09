@@ -1023,6 +1023,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "Yggdrasil",
+      "project_url": "https://github.com/northern-information/yggdrasil",
+      "author": "@argotechnica, @infinitedigits, @license, @tyleretters",
+      "description": "a norns cyberdeck tracker",
+      "discussion_url": "https://l.llllllll.co/yggdrasil",
+      "tags": ["tracker"],
+      "origin": "lines"
+    },
+    {
       "project_name": "zellen",
       "project_url": "https://github.com/sarweiler/zellen",
       "author": "Sven (sbaio)",
