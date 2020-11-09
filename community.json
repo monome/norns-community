@@ -1023,7 +1023,7 @@
       "origin": "lines"
     },
     {
-      "project_name": "Yggdrasil",
+      "project_name": "yggdrasil",
       "project_url": "https://github.com/northern-information/yggdrasil",
       "author": "@argotechnica, @infinitedigits, @license, @tyleretters",
       "description": "a norns cyberdeck tracker",
