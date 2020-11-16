@@ -440,6 +440,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "hachi",
+      "project_url": "https://github.com/pangrus/hachi",
+      "author": "pangrus",
+      "description": "euclidean drum machine emulating the TR-808 sound",
+      "discussion_url": "https://llllllll.co/t/haven/21285",
+      "tags": ["lib", "drum"],
+      "origin": "lines"
+    },
+    {
       "project_name": "here-there",
       "project_url": "https://github.com/speakerdamage/here-there",
       "author": "Caulen (speakerdamage)",
