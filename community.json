@@ -201,6 +201,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "cheat_codes_2",
+      "project_url": "https://github.com/dndrks/cheat_codes_2",
+      "author": "dan derks (dan_derks)",
+      "description": "a sample playground",
+      "discussion_url": "https://l.llllllll.co/cheat-codes-2",
+      "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"],
+      "origin": "lines"
+    },
+    {
       "project_name": "circles",
       "project_url": "https://github.com/JakeCarter/circles",
       "author": "Jake (jakecarter)",
