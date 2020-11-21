@@ -669,6 +669,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "norns.online",
+      "project_url": "https://github.com/schollz/norns.online",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "remotely control norns from the browser",
+      "discussion_url": "https://llllllll.co/t/norns-online/38547",
+      "origin": "lines"
+    },
+    {
       "project_name": "nc01-drone",
       "project_url": "https://github.com/monome-community/nc01-drone",
       "author": "norns community",
