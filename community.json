@@ -806,6 +806,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "qfwfq",
+      "project_url": "https://github.com/cachilders/qfwfq",
+      "author": "Casey Childers (notester)",
+      "description": "A brute-force password hack inspired sequencer.",
+      "discussion_url": "https://llllllll.co/t/qfwfq",
+      "tags": ["sequencer", "midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "quence",
       "project_url": "https://github.com/millxing/QUENCE",
       "author": "Rob Schoen",
