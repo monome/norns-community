@@ -909,6 +909,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "skylines",
+      "project_url": "https://github.com/unit-cell/skylines",
+      "author": "Markel Martinez (markel_m)",
+      "description": "a sequencer inspired on the M185/Intellijel Metropolis",
+      "discussion_url": "https://llllllll.co/t/skylines/38856",
+      "origin": "lines"
+    },
+    {
       "project_name": "stack",
       "project_url": "https://github.com/cfdrake/stack",
       "author": "Colin Drake (cfd90)",
