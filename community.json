@@ -798,13 +798,13 @@
       "origin": "lines"
     },
     {
-      "project_name: "pixels",
+      "project_name": "pixels",
       "project_url": "https://github.com/distropolis/pixels",
       "author": "Arman Bohn (distropolis)",
       "description": "generative visual sequencer instrument",
-      "discussion_url": "https://llllllll.co/t/pixels/38762"
+      "discussion_url": "https://llllllll.co/t/pixels/38762",
       "tags": ["sequencer","midi"]
-    }
+    },
     {
       "project_name": "pools",
       "project_url": "https://github.com/justmat/pools",
