@@ -431,6 +431,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "gridstep",
+      "project_url": "https://github.com/Quixotic7/gridstep",
+      "author": "Michael P Jones (Quixotic7)",
+      "description": "16 track isomorphic grid sequencer for timber and midi",
+      "discussion_url": "https://llllllll.co/t/38559",
+      "tags": ["grid", "midi", "sequencer", "sampler"],
+      "origin": "lines"
+    },
+    {
       "project_name": "grid-test",
       "project_url": "https://github.com/okyeron/grid-test",
       "author": "Steven Noreyko (okyeron)",
