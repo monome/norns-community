@@ -7,6 +7,14 @@
   "date": "0001-01-01T00:00:00Z",
   "entries": [
     {
+      "project_name": "abacus",
+      "project_url": "https://github.com/schollz/abacus",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "sequence rows of beats with samples",
+      "discussion_url": "https://llllllll.co/t/abacus/37871",
+      "origin": "lines"
+    },
+    {
       "project_name": "ack",
       "project_url": "https://github.com/antonhornquist/ack",
       "project_author": "Anton Hörnquist (jah)",
@@ -32,7 +40,7 @@
     },
     {
       "project_name": "arcologies",
-      "project_url": "https://github.com/tyleretters/arcologies",
+      "project_url": "https://github.com/northern-information/arcologies",
       "author": "@tyleretters",
       "description": "an interactive environment for designing 2d sound arcologies with norns and grid",
       "discussion_url": "https://l.llllllll.co/arcologies",
@@ -89,6 +97,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "barycenter",
+      "project_url": "https://github.com/echophon/barycenter",
+      "author": "Yancy Way (echophon)",
+      "description": "orbital motion sequencing",
+      "discussion_url": "https://llllllll.co/t/barycenter/35980",
+      "tags": ["sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "b-b-b-b-beat",
       "project_url": "https://github.com/frederickk/b-b-b-b-beat",
       "author": "Ken Frederick (frederickk)",
@@ -139,6 +156,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "buoys",
+      "project_url": "https://github.com/lylepmills/buoys",
+      "author": "Lyle Mills (lylem)",
+      "description": "tidal influencer/activator/lightshow",
+      "discussion_url": "https://llllllll.co/t/37639",
+      "tags": ["grid", "arc", "crow", "midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "caliper",
       "project_url": "https://github.com/synthetiv/caliper",
       "author": "kenji garland (synthetiv)",
@@ -172,6 +198,15 @@
       "description": "a sample playground",
       "discussion_url": "https://llllllll.co/t/cheat-codes/27874",
       "tags": ["grid", "arc", "sampler", "looper"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "cheat_codes_2",
+      "project_url": "https://github.com/dndrks/cheat_codes_2",
+      "author": "dan derks (dan_derks)",
+      "description": "a sample playground",
+      "discussion_url": "https://l.llllllll.co/cheat-codes-2",
+      "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"],
       "origin": "lines"
     },
     {
@@ -235,8 +270,17 @@
       "origin": "lines"
     },
     {
+      "project_name": "drift",
+      "project_url": "https://github.com/echophon/drift",
+      "author": "Yancy Way (echophon)",
+      "description": "drifting relationships creating sequences",
+      "discussion_url": "https://llllllll.co/t/drift/36138",
+      "tags": ["sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "dronecaster",
-      "project_url": "https://github.com/tyleretters/dronecaster",
+      "project_url": "https://github.com/northern-information/dronecaster",
       "author": "@tyleretters && @license && the lines community",
       "description": "cast drones & record whatever returns",
       "discussion_url": "https://l.llllllll.co/dronecaster",
@@ -283,6 +327,14 @@
       "description": "shepard tone generator",
       "discussion_url": "https://llllllll.co/t/endless-stairs/34799",
       "tags": ["crow", "grid", "just-friends", "sequencer"]
+    },
+    {
+      "project_name": "euclidigons",
+      "project_url": "https://github.com/synthetiv/euclidigons",
+      "author": "kenji garland (synthetivv), adam aronson (setfield)",
+      "description": "geometric rhythm generator",
+      "discussion_url": "https://llllllll.co/t/eculidigons/36666",
+      "tags": ["synth", "sequencer"]
     },
     {
       "project_name": "fm7",
@@ -336,6 +388,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "glitchlets",
+      "project_url": "https://github.com/schollz/glitchlets",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "lets glitch with glitchlets.",
+      "discussion_url": "https://llllllll.co/t/glitchlets/37069",
+      "origin": "lines"
+    },
+    {
       "project_name": "glut",
       "project_url": "https://github.com/artfwo/glut",
       "author": "artfwo",
@@ -371,6 +431,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "gridstep",
+      "project_url": "https://github.com/Quixotic7/gridstep",
+      "author": "Michael P Jones (Quixotic7)",
+      "description": "16 track isomorphic grid sequencer for timber and midi",
+      "discussion_url": "https://llllllll.co/t/38559",
+      "tags": ["grid", "midi", "sequencer", "sampler"],
+      "origin": "lines"
+    },
+    {
       "project_name": "grid-test",
       "project_url": "https://github.com/okyeron/grid-test",
       "author": "Steven Noreyko (okyeron)",
@@ -386,6 +455,24 @@
       "description": "a safe space?",
       "discussion_url": "https://llllllll.co/t/haven/21285",
       "tags": ["synth", "noise"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "hachi",
+      "project_url": "https://github.com/pangrus/hachi",
+      "author": "pangrus",
+      "description": "euclidean drum machine emulating the TR-808 sound",
+      "discussion_url": "https://llllllll.co/t/35947",
+      "tags": ["lib", "drum"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "here-there",
+      "project_url": "https://github.com/speakerdamage/here-there",
+      "author": "Caulen (speakerdamage)",
+      "description": "the sound begins here but you began there",
+      "discussion_url": "https://llllllll.co/t/here-there/36170",
+      "tags": ["softcut", "sines", "granular"],
       "origin": "lines"
     },
     {
@@ -591,6 +678,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "norns.online",
+      "project_url": "https://github.com/schollz/norns.online",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "remotely control norns from the browser",
+      "discussion_url": "https://llllllll.co/t/norns-online/38547",
+      "origin": "lines"
+    },
+    {
       "project_name": "nc01-drone",
       "project_url": "https://github.com/monome-community/nc01-drone",
       "author": "norns community",
@@ -694,6 +789,32 @@
       "origin": "lines"
     },
     {
+      "project_name": "pitfalls",
+      "project_url": "https://github.com/robmckinnon/pitfalls",
+      "author": "Rob (delineator)",
+      "description": "microtonal scale explorer / arpeggiator / grid keyboard",
+      "discussion_url": "https://llllllll.co/t/pitfalls/37795",
+      "tags": ["grid"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "piwip",
+      "project_url": "https://github.com/schollz/piwip",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "a sampler that works in realtime",
+      "discussion_url": "https://llllllll.co/t/piwip/36642",
+      "tags": ["midi"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "pixels",
+      "project_url": "https://github.com/distropolis/pixels",
+      "author": "Arman Bohn (distropolis)",
+      "description": "generative visual sequencer instrument",
+      "discussion_url": "https://llllllll.co/t/pixels/38762",
+      "tags": ["sequencer","midi"]
+    },
+    {
       "project_name": "pools",
       "project_url": "https://github.com/justmat/pools",
       "author": "Mat (justmat)",
@@ -707,6 +828,15 @@
       "author": "Devine Lu Linvega (neauoire)",
       "description": "an experimental sequencer that works a bit like the classic punchcard computer",
       "discussion_url": "https://llllllll.co/t/23557",
+      "origin": "lines"
+    },
+    {
+      "project_name": "qfwfq",
+      "project_url": "https://github.com/cachilders/qfwfq",
+      "author": "Casey Childers (notester)",
+      "description": "A brute-force password hack inspired sequencer.",
+      "discussion_url": "https://llllllll.co/t/qfwfq",
+      "tags": ["sequencer", "midi"],
       "origin": "lines"
     },
     {
@@ -796,6 +926,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "skylines",
+      "project_url": "https://github.com/unit-cell/skylines",
+      "author": "Markel Martinez (markel_m)",
+      "description": "a sequencer inspired on the M185/Intellijel Metropolis",
+      "discussion_url": "https://llllllll.co/t/skylines/38856",
+      "origin": "lines"
+    },
+    {
       "project_name": "stack",
       "project_url": "https://github.com/cfdrake/stack",
       "author": "Colin Drake (cfd90)",
@@ -860,6 +998,14 @@
       "description": "parameter locking step sequencer",
       "discussion_url": "https://llllllll.co/t/takt/21032",
       "origin": "lines"
+    },
+    {
+      "project_name": "tambla",
+      "project_url": "https://github.com/ngwese/tambla.git",
+      "author": "ngwese",
+      "description": "bending rhythmic arpeggio",
+      "discussion_url": "https://llllllll.co/t/37965",
+      "tags": ["midi", "gen", "sky", "sequencer"]
     },
     {
       "project_name": "timber",
@@ -934,6 +1080,15 @@
       "description": "dual asyncronous time-wigglers / echo loopers",
       "discussion_url": "https://llllllll.co/t/wrms/28954",
       "tags": ["softcut", "looper", "delay"],
+      "origin": "lines"
+    },
+    {
+      "project_name": "yggdrasil",
+      "project_url": "https://github.com/northern-information/yggdrasil",
+      "author": "@argotechnica, @infinitedigits, @license, @tyleretters",
+      "description": "a norns cyberdeck tracker",
+      "discussion_url": "https://l.llllllll.co/yggdrasil",
+      "tags": ["tracker"],
       "origin": "lines"
     },
     {
