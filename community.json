@@ -633,11 +633,11 @@
     },
     {
       "project_name": "orca",
-      "project_url": "https://github.com/itsyourbedtime/orca",
-      "author": "its your bedtime (its_your_bedtime)",
+      "project_url": "https://github.com/frederickk/orca",
+      "author": "@its_your_bedtime, @frederickk, @tansaturn",
       "description": "visual programming language, designed to create procedural sequencers on the fly",
-      "discussion_url": "https://llllllll.co/t/22492",
-      "tags": ["hid", "keyboard"],
+      "discussion_url": "https://llllllll.co/t/orca",
+      "tags": ["hid", "keyboard", "midi", "crow"],
       "origin": "lines"
     },
     {
