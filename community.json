@@ -909,6 +909,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "sines",
+      "project_url": "https://github.com/aidanreilly/sines",
+      "author": "Aidan Reilly (oootini)",
+      "description": "16 sine waves",
+      "discussion_url": "https://llllllll.co/t/39292",
+      "tags": ["drone", "midi"],
+      "origin": "lines"
+    }, 
+    {
       "project_name": "shfts",
       "project_url": "https://github.com/rwhaling/shfts",
       "author": "Richard Whaling (germinal)",
