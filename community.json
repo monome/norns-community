@@ -156,6 +156,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "breakthrough",
+      "project_url": "https://github.com/tomwaters/breakthrough",
+      "author": "tomw",
+      "description": "sequencer / game",
+      "discussion_url": "https://llllllll.co/t/breakthrough/39196",
+      "tags": ["sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "buoys",
       "project_url": "https://github.com/lylepmills/buoys",
       "author": "Lyle Mills (lylem)",
