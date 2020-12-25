@@ -89,6 +89,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "bakeneko",
+      "project_url": "https://github.com/northern-information/bakeneko",
+      "author": "@tyleretters",
+      "description": "a haunted drummer companion",
+      "discussion_url": "https://l.llllllll.co/bakeneko",
+      "tags": ["sequencer", "generator"],
+      "origin": "lines"
+    },
+    {
       "project_name": "barcode",
       "project_url": "https://github.com/schollz/barcode",
       "author": "Zack Scholl (infinitedigits)",
