@@ -562,6 +562,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "larc",
+      "project_url": "https://github.com/justmat/larc",
+      "author": "Mat (justmat)",
+      "description": "looper/delay",
+      "discussion_url": "https://llllllll.co/t/larc/39790",
+      "origin": "lines"
+    },
+    {
       "project_name": "less_concepts",
       "project_url": "https://github.com/dndrks/less_concepts",
       "author": "jai lai bookie (Dan_Derks)",
