@@ -65,6 +65,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "automs70",
+      "project_url": "https://github.com/pangrus/automs70",
+      "author": "pangrus",
+      "description": "automate MS-70 CDR parameters",
+      "discussion_url": "https://llllllll.co/t/automs70/39686",
+      "origin": "lines"
+    },
+    {
       "project_name": "awake",
       "project_url": "https://github.com/tehn/awake",
       "author": "Brian Crabtree (tehn)",
