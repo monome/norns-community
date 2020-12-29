@@ -20,12 +20,6 @@ jobs:
         wget https://raw.githubusercontent.com/monome/maiden/main/pkg/catalog/source.schema.json
         wget https://raw.githubusercontent.com/monome/maiden/main/pkg/catalog/catalog.schema.json
 
-    - name: validate sources
-      uses: docker://orrosenblatt/validate-json-action:latest
-      env:
-          INPUT_SCHEMA: source.schema.json
-          INPUT_JSONS: sources/base.json,sources/community.json
-
     - name: validate catalogs
       uses: docker://orrosenblatt/validate-json-action:latest
       env:
