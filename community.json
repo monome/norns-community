@@ -371,6 +371,15 @@
       "tags": ["synth", "sequencer"]
     },
     {
+      "project_name": "fiahod",
+      "project_url": "https://github.com/northern-information/fiahod",
+      "author": "@tyleretters & @license",
+      "description": "i will show you fear in a handful of dust",
+      "discussion_url": "https://l.llllllll.co/fiahod",
+      "tags": ["generator"],
+      "origin": "lines"
+    },
+    {
       "project_name": "fm7",
       "project_url": "https://github.com/lazzarello/fm7",
       "author": "Lee Azzarello (lazzarello)",
