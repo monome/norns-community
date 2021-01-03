@@ -304,6 +304,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "downtown",
+      "project_url": "https://github.com/schollz/downtown",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "record stereo loops while engine loops",
+      "discussion_url": "https://llllllll.co/t/downtown/40044",
+      "origin": "lines"
+    },
+    {
       "project_name": "drift",
       "project_url": "https://github.com/echophon/drift",
       "author": "Yancy Way (echophon)",
