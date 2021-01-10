@@ -388,6 +388,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "flora",
+      "project_url": "https://github.com/jaseknighter/flora",
+      "author": "Jonathan Snyder (jaseknighter)",
+      "description": "l-systems sequencer and bandpass-filtered sawtooth engine",
+      "discussion_url": "https://llllllll.co/t/flora-beta",
+      "tags": ["sequencer", "synth"],
+      "origin": "lines"
+    },
+    {
       "project_name": "fm7",
       "project_url": "https://github.com/lazzarello/fm7",
       "author": "Lee Azzarello (lazzarello)",
