@@ -579,6 +579,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "kolor",
+      "project_url": "https://github.com/schollz/kolor",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "grid-based sample sequencer",
+      "discussion_url": "https://llllllll.co/t/kolor/40504",
+      "origin": "lines"
+    },
+    {
       "project_name": "kria_midi",
       "project_url": "https://github.com/junklight/kria_midi",
       "author": "mark john williamson (junklight)",
