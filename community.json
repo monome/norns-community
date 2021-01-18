@@ -1102,6 +1102,14 @@
       "tags": ["midi", "gen", "sky", "sequencer"]
     },
     {
+      "project_name": "thebangs",
+      "project_url": "https://github.com/catfact/thebangs.git",
+      "author": "zebra",
+      "description": "one-shot synthesis engine",
+      "discussion_url": "https://llllllll.co/t/engine-thebangs",
+      "tags": ["engine"]
+    },
+    {
       "project_name": "timber",
       "project_url": "https://github.com/markwheeler/timber",
       "author": "Mark Eats (markeats)",
