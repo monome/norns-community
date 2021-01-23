@@ -1135,6 +1135,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "tmi",
+      "project_url": "https://github.com/schollz/tmi",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "library for sequencing midi with text",
+      "discussion_url": "https://llllllll.co/t/tmi/40818",
+      "tags": ["midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "torii",
       "project_url": "https://github.com/okyeron/torii",
       "author": "Steven Noreyko (okyeron)",
