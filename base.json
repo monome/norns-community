@@ -13,6 +13,13 @@
       "tags": ["study", "demo"]
     },
     {
+      "project_name": "firstlight",
+      "project_url": "https://github.com/monome/firstlight",
+      "description": "study zero",
+      "discussion_url": "https://l.llllllll.co/firstlight",
+      "tags": ["study", "demo"]
+    },
+    {
       "project_name": "softcut-studies",
       "project_url": "https://github.com/monome/softcut-studies",
       "description": "softcut examples",
