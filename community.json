@@ -149,6 +149,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "blippoo",
+      "project_url": "https://github.com/cfdrake/blippoo",
+      "author": "Colin Drake (cfd90)",
+      "description": "blippoo box clone",
+      "discussion_url": "https://llllllll.co/t/41107",
+      "tags": ["synth"],
+      "origin": "lines"
+    },
+    {
       "project_name": "blndr",
       "project_url": "https://github.com/schollz/blndr",
       "author": "Zack Scholl (infinitedigits)",
