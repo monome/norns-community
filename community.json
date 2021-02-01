@@ -1227,6 +1227,15 @@
       "description": "game of life based sequencer",
       "discussion_url": "https://llllllll.co/t/zellen/21107",
       "origin": "lines"
-    }
+    },
+    {
+      "project_name": "itenere",
+      "project_url": "https://github.com/linusschrab/initenere",
+      "author": "Linus Schrab (@vicimity)",
+      "description": "2-dimensional polyrythmic, random note sequencer.",
+      "discussion_url": "https://llllllll.co/t/initenere-v-0-1-0-beta-2d-polyrythmic-random-note-sequencer/",
+      "tags": ["norns", "sequencer", "crow", "w/syn"],
+      "origin": "lines"
+    },
   ]
 }
