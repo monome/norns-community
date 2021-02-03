@@ -1236,6 +1236,15 @@
       "discussion_url": "https://llllllll.co/t/initenere/41193",
       "tags": ["sequencer", "crow"],
       "origin": "lines"
-    }
+    },
+    {
+      "project_name": "nest_",
+      "project_url": "https://github.com/andr-ew/nest_",
+      "author": "andrew",
+      "description": "a language of touch for objects by monome",
+      "discussion_url": "https://llllllll.co/t/nest",
+      "tags": ["grid", "arc", "lib"],
+      "origin": "lines"
+    },
   ]
 }
