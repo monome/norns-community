@@ -739,6 +739,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "mx.samples",
+      "project_url": "https://github.com/schollz/mx.samples",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "like mr.radar or mr.coffee but for samples",
+      "discussion_url": "https://llllllll.co/t/mx-samples/41400",
+      "origin": "lines"
+    },
+    {
       "project_name": "n16o",
       "project_url": "https://github.com/jlmitch5/n16o",
       "author": "John Mitchell (jlmitch5)",
