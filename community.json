@@ -739,6 +739,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "mouse",
+      "project_url": "https://github.com/cfdrake/mouse",
+      "author": "Colin Drake (cfd90)",
+      "description": "sound maker and sequencer heavily inspired by Laurie Spiegel's Music Mouse",
+      "discussion_url": "https://llllllll.co/t/mouse/41562",
+      "tags": ["synth", "sequencer", "grid"],
+      "origin": "lines"
+    },
+    {
       "project_name": "msh",
       "project_url": "https://github.com/AndrewShike/msh",
       "author": "andrew",
