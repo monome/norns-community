@@ -296,6 +296,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "crow_talk",
+      "project_url": "https://github.com/justmat/crow_talk",
+      "author": "Mat (justmat)",
+      "description": "talk to crow with norns",
+      "discussion_url": "https://llllllll.co/t/41560",
+      "tags": ["norns", "crow"],
+      "origin": "lines"
+    },
+    {
       "project_name": "cryptkeeper",
       "project_url": "https://github.com/joelwalden/cryptkeeper",
       "author": "Joel Walden (wardores)",
