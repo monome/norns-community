@@ -632,10 +632,10 @@
     },
     {
       "project_name": "less_concepts",
-      "project_url": "https://github.com/dndrks/less_concepts",
+      "project_url": "https://github.com/linusschrab/less_concepts",
       "author": "jai lai bookie (Dan_Derks)",
       "description": "1d cellular automata sequencer",
-      "discussion_url": "https://llllllll.co/t/21109",
+      "discussion_url": "https://llllllll.co/t/less-concepts-3-0/",
       "tags": ["ca", "crow", "sequencer"],
       "origin": "lines"
     },
