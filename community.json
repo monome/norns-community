@@ -640,6 +640,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "less_concepts_3",
+      "project_url": "https://github.com/dndrks/less_concepts_3",
+      "author": "jai lai bookie (Dan_Derks) & vicimity (Linus Schrab)",
+      "description": "1d cellular automata sequencer",
+      "discussion_url": "https://llllllll.co/t/less-concepts-3",
+      "tags": ["ca", "crow", "midi", "sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "lissadron",
       "project_url": "https://github.com/tai-studio/lissadron",
       "author": "LFSaw",
