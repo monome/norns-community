@@ -1230,6 +1230,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "twine",
+      "project_url": "https://github.com/cfdrake/twine",
+      "author": "Colin Drake (cfd90)",
+      "description": "random granulator for two samples",
+      "discussion_url": "https://llllllll.co/t/41703",
+      "tags": ["granular"],
+      "origin": "lines"
+    },
+    {
       "project_name": "uhf",
       "project_url": "https://github.com/speakerdamage/uhf",
       "author": "Caulen (speakerdamage)",
