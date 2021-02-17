@@ -590,6 +590,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "jala",
+      "project_url": "https://github.com/ulf/jala",
+      "author": "Ulf Bögeholz (ulfster)",
+      "description": "ambient random sequencer",
+      "discussion_url": "https://llllllll.co/t/jala/41788",
+        "tags": ["midi", "sequencer"],
+      "origin": "lines"
+    },
+    {
       "project_name": "jiffy",
       "project_url": "https://github.com/lukes-anger/jiffy",
       "author": "Luke Sanger (Molotov)",
