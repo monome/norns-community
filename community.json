@@ -1298,6 +1298,15 @@
       "discussion_url": "https://llllllll.co/t/nest",
       "tags": ["grid", "arc", "lib"],
       "origin": "lines"
+    },
+    {
+      "project_name": "Haze",
+      "project_url": "https://github.com/szymonkaliski/haze",
+      "author": "Szymon Kaliski",
+      "description": "four track live granular looper",
+      "discussion_url": "https://llllllll.co/t/haze/41781",
+      "tags": ["granular", "looper"],
+      "origin": "lines"
     }
   ]
 }
