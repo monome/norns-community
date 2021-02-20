@@ -554,6 +554,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "haze",
+      "project_url": "https://github.com/szymonkaliski/haze",
+      "author": "Szymon Kaliski",
+      "description": "four track live granular looper",
+      "discussion_url": "https://llllllll.co/t/haze/41781",
+      "tags": ["granular", "looper"],
+      "origin": "lines"
+    },
+    {
       "project_name": "here-there",
       "project_url": "https://github.com/speakerdamage/here-there",
       "author": "Caulen (speakerdamage)",
@@ -1306,15 +1315,6 @@
       "description": "a language of touch for objects by monome",
       "discussion_url": "https://llllllll.co/t/nest",
       "tags": ["grid", "arc", "lib"],
-      "origin": "lines"
-    },
-    {
-      "project_name": "Haze",
-      "project_url": "https://github.com/szymonkaliski/haze",
-      "author": "Szymon Kaliski",
-      "description": "four track live granular looper",
-      "discussion_url": "https://llllllll.co/t/haze/41781",
-      "tags": ["granular", "looper"],
       "origin": "lines"
     }
   ]
