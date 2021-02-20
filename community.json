@@ -1309,7 +1309,7 @@
       "origin": "lines"
     },
     {
-      "project_name": "Haze",
+      "project_name": "haze",
       "project_url": "https://github.com/szymonkaliski/haze",
       "author": "Szymon Kaliski",
       "description": "four track live granular looper",
