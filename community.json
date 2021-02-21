@@ -492,6 +492,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "granchild",
+      "project_url": "https://github.com/schollz/granchild",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "quantized granular sequencer",
+      "discussion_url": "https://llllllll.co/t/granchild/41894",
+      "origin": "lines"
+    },
+    {
       "project_name": "grendy",
       "project_url": "https://github.com/cfdrake/grendy",
       "author": "Colin Drake (cfd90)",
