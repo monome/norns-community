@@ -7,6 +7,15 @@
   "date": "0001-01-01T00:00:00Z",
   "entries": [
     {
+      "project_name": "4-big-knobs",
+      "project_url": "https://github.com/21echoes/4-big-knobs",
+      "author": "David Kettler (21echoes)",
+      "description": "send control voltages out of crow",
+      "discussion_url": "https://llllllll.co/t/42190",
+      "tags": ["crow", "arc"],
+      "origin": "lines"
+    },
+    {
       "project_name": "abacus",
       "project_url": "https://github.com/schollz/abacus",
       "author": "Zack Scholl (infinitedigits)",
