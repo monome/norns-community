@@ -236,15 +236,6 @@
       "origin": "lines"
     },
     {
-      "project_name": "cheat_codes",
-      "project_url": "https://github.com/dndrks/cheat_codes",
-      "author": "dan derks (dan_derks)",
-      "description": "a sample playground",
-      "discussion_url": "https://llllllll.co/t/cheat-codes/27874",
-      "tags": ["grid", "arc", "sampler", "looper"],
-      "origin": "lines"
-    },
-    {
       "project_name": "cheat_codes_2",
       "project_url": "https://github.com/dndrks/cheat_codes_2",
       "author": "dan derks (dan_derks)",
