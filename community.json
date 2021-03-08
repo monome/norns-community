@@ -979,6 +979,14 @@
       "tags": ["sequencer","midi"]
     },
     {
+      "project_name": "plonky",
+      "project_url": "https://github.com/schollz/plonky",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "string-like keyboard and sequencer",
+      "discussion_url": "https://llllllll.co/t/plonky/42520",
+      "origin": "lines"
+    },
+    {
       "project_name": "pools",
       "project_url": "https://github.com/justmat/pools",
       "author": "Mat (justmat)",
