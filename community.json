@@ -589,6 +589,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "icarus",
+      "project_url": "https://github.com/schollz/icarus",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "supersaw synth with feedback",
+      "discussion_url": "https://llllllll.co/t/icarus/43271",
+      "origin": "lines"
+    },
+    {
       "project_name": "islands",
       "project_url": "https://github.com/junklight/islands.git",
       "author": "mark john williamson (junklight)",
