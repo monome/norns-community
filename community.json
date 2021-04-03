@@ -737,6 +737,14 @@
       "origin": "lines"
     },
     {
+      "project_name": "metrix",
+      "project_url": "https://github.com/kasperbauer/metrix",
+      "author": "Christian Kasperbauer (kasperbauer)",
+      "description": "it's like metropolix for norns",
+      "tags": ["sequencer", "grid", "crow", "midi"],
+      "origin": "lines"
+    },
+    {
       "project_name": "midi-monitor",
       "project_url": "https://github.com/okyeron/midi-monitor.git",
       "author": "Steven Noreyko (okyeron)",
