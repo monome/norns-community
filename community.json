@@ -30,6 +30,14 @@
       "description": "sample player engine"
     },
     {
+      "project_name": "amen",
+      "project_url": "https://github.com/schollz/amen",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "sampler and mangler of loops",
+      "discussion_url": "https://llllllll.co/t/amen/43746",
+      "origin": "lines"
+    },
+    {
       "project_name": "animator",
       "project_url": "https://github.com/crimclark/animator",
       "author": "Tim Clark (crim)",
