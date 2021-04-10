@@ -1105,6 +1105,15 @@
       "origin": "lines"
     },
     {
+      "project_name": "silos",
+      "project_url": "https://github.com/justmat/silos",
+      "author": "mat (justmat)",
+      "description": "live grains",
+      "discussion_url": "https://llllllll.co/t/43804",
+      "tags": ["granular", "grid", "arc"],
+      "origin": "lines"
+    },
+    {
       "project_name": "sines",
       "project_url": "https://github.com/aidanreilly/sines",
       "author": "Aidan Reilly (oootini)",
