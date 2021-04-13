@@ -12,7 +12,8 @@
       "author": "David Kettler (21echoes)",
       "description": "send control voltages out of crow",
       "discussion_url": "https://llllllll.co/t/42190",
-      "tags": ["crow", "arc"]
+      "documentation_url": "https://norns.community/authors/21echoes/4-big-knobs",
+      "tags": ["crow", "arc", "utilities", "midi"]
     },
     {
       "project_name": "abacus",
@@ -292,7 +293,8 @@
       "author": "David Kettler (21echoes)",
       "description": "a drum sequencer based on Mutable Instruments Grids",
       "discussion_url": "https://llllllll.co/t/31648",
-      "tags": ["drum", "sequencer", "arc", "grid"]
+      "documentation_url": "https://norns.community/authors/21echoes/cyrene",
+      "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]
     },
     {
       "project_name": "delayyyyyyyy",
@@ -861,7 +863,8 @@
       "author": "David Kettler (21echoes)",
       "description": "chainable effects for live performance",
       "discussion_url": "https://llllllll.co/t/31119",
-      "tags": ["fx"]
+      "documentation_url": "https://norns.community/authors/21echoes/pedalboard",
+      "tags": ["fx", "arc"]
     },
     {
       "project_name": "phyllis",
@@ -975,6 +978,7 @@
       "author": "David Kettler (21echoes)",
       "description": "a minimalist clock-synced looper",
       "discussion_url": "https://llllllll.co/t/34095",
+      "documentation_url": "https://norns.community/authors/21echoes/samsara",
       "tags": ["looper"]
     },
     {
