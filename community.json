@@ -57,7 +57,8 @@
       "author": "@tyleretters",
       "description": "an interactive environment for designing 2d sound arcologies with norns and grid",
       "discussion_url": "https://l.llllllll.co/arcologies",
-      "tags": ["grid", "sequencer", "generator"]
+      "documentation_url": "https://norns.community/authors/northern-information/arcologies",
+      "tags": ["grid", "sequencer", "generative", "crow", "midi", "arc"]
     },
     {
       "project_name": "ash",
@@ -108,7 +109,8 @@
       "author": "@tyleretters",
       "description": "a haunted drummer companion",
       "discussion_url": "https://l.llllllll.co/bakeneko",
-      "tags": ["sequencer", "generator"]
+      "documentation_url": "https://norns.community/authors/northern-information/bakeneko",
+      "tags": ["sequencer", "generative"]
     },
     {
       "project_name": "barcode",
@@ -325,7 +327,8 @@
       "author": "@tyleretters && @license && the lines community",
       "description": "cast drones & record whatever returns",
       "discussion_url": "https://l.llllllll.co/dronecaster",
-      "tags": ["synth"]
+      "documentation_url": "https://norns.community/authors/northern-information/dronecaster",
+      "tags": ["synth", "generative"]
     },
     {
       "project_name": "drum_room",
@@ -379,7 +382,8 @@
       "author": "@tyleretters & @license",
       "description": "i will show you fear in a handful of dust",
       "discussion_url": "https://l.llllllll.co/fiahod",
-      "tags": ["generator"]
+      "documentation_url": "https://norns.community/authors/northern-information/fiahod",
+      "tags": ["generative"]
     },
     {
       "project_name": "flora",
@@ -1198,7 +1202,8 @@
       "author": "@argotechnica, @infinitedigits, @license, @tyleretters",
       "description": "a norns cyberdeck tracker",
       "discussion_url": "https://l.llllllll.co/yggdrasil",
-      "tags": ["tracker"]
+      "documentation_url": "https://norns.community/authors/northern-information/yggdrasil",
+      "tags": ["tracker", "midi"]
     },
     {
       "project_name": "zellen",
