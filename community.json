@@ -757,6 +757,14 @@
       "tags": ["tracker"]
     },
     {
+      "project_name": "nmQuadroDubber",
+      "project_url": "https://github.com/TuesdayNightMachines/nmQuadroDubber",
+      "author": "The Tuesday Night Machines (NightMachines)",
+      "description": "overdub external audio onto four tape loops",
+      "discussion_url": "https://llllllll.co/t/nmquadrodubber",
+      "tags": ["looper","sampler"]
+    },
+    {
       "project_name": "nørgård",
       "project_url": "https://github.com/frederickk/noergaard",
       "author": "Ken Frederick (frederickk)",
