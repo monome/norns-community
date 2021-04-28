@@ -765,6 +765,14 @@
       "tags": ["looper","sampler"]
     },
     {
+      "project_name": "nmRain",
+      "project_url": "https://github.com/TuesdayNightMachines/nmRain",
+      "author": "The Tuesday Night Machines (NightMachines)",
+      "description": "a weird stereo delay effect for external audio",
+      "discussion_url": "https://llllllll.co/t/nmrain/",
+      "tags": ["delay","sampler"]
+    },
+    {
       "project_name": "nørgård",
       "project_url": "https://github.com/frederickk/noergaard",
       "author": "Ken Frederick (frederickk)",
