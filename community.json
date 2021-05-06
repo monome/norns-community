@@ -757,6 +757,14 @@
       "tags": ["tracker"]
     },
     {
+      "project_name": "nmMelodyMagic",
+      "project_url": "https://github.com/TuesdayNightMachines/nmMelodyMagic",
+      "author": "The Tuesday Night Machines (NightMachines)",
+      "description": "a port of ken stone's infinite melody and modulo magic cgs serge modules",
+      "discussion_url": "https://llllllll.co/t/nmmelodymagic/",
+      "tags": ["sequencer","midi"]
+    },
+    {
       "project_name": "nmQuadroDubber",
       "project_url": "https://github.com/TuesdayNightMachines/nmQuadroDubber",
       "author": "The Tuesday Night Machines (NightMachines)",
@@ -771,6 +779,14 @@
       "description": "a weird stereo delay effect for external audio",
       "discussion_url": "https://llllllll.co/t/nmrain/",
       "tags": ["delay","sampler"]
+    },
+    {
+      "project_name": "nmSmartyPants",
+      "project_url": "https://github.com/TuesdayNightMachines/nmSmartyPants",
+      "author": "The Tuesday Night Machines (NightMachines)",
+      "description": "deform external audio with math and impress your nerd friends",
+      "discussion_url": "https://llllllll.co/t/nmsmartypants/",
+      "tags": ["delay","sampler","looper","granular"]
     },
     {
       "project_name": "nørgård",
