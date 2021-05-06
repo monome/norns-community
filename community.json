@@ -1131,6 +1131,14 @@
       "tags": ["engine"]
     },
     {
+      "project_name": "thirtythree",
+      "project_url": "https://github.com/schollz/thirtythree",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "sample + sequencer + splicer in the style of po-33",
+      "discussion_url": "https://llllllll.co/t/thirtythree/44702",
+      "tags": ["sequencer"]
+    },
+    {
       "project_name": "timber",
       "project_url": "https://github.com/markwheeler/timber",
       "author": "Mark Eats (markeats)",
