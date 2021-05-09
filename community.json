@@ -1267,6 +1267,14 @@
       "description": "a language of touch for objects by monome",
       "discussion_url": "https://llllllll.co/t/nest",
       "tags": ["grid", "arc", "lib"]
+    },
+    {
+      "project_name": "SuperBrain",
+      "project_url": "https://github.com/BeatRossmy/SuperBrain",
+      "author": "beat",
+      "description": "a five track sequencer with various sequencer engines per track",
+      "discussion_url": "https://llllllll.co/t/superbrain-multi-engine-midi-sequencer",
+      "tags": ["grid", "midi", "sequencer"]
     }
   ]
 }
