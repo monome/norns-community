@@ -1191,7 +1191,7 @@
       "author": "Zack Scholl (infinitedigits)",
       "description": "sample + sequencer + splicer in the style of po-33",
       "discussion_url": "https://llllllll.co/t/thirtythree/44702",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/thirtythree"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/thirtythree",
       "tags": ["sequencer"]
     },
     {
@@ -1214,7 +1214,7 @@
       "author": "Zack Scholl (infinitedigits)",
       "description": "library for sequencing midi with text",
       "discussion_url": "https://llllllll.co/t/tmi/40818",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/tmi"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/tmi",
       "tags": ["midi"]
     },
     {
