@@ -147,6 +147,7 @@
       "author": "Ken Frederick (frederickk)",
       "description": "Beat repeater with some glitch",
       "discussion_url": "https://llllllll.co/t/35047",
+      "documentation_url": "https://norns.community/en/authors/frederickk/b-b-b-b-beat",
       "tags": ["softcut"]
     },
     {
@@ -819,6 +820,7 @@
       "project_url": "https://github.com/frederickk/noergaard",
       "author": "Ken Frederick (frederickk)",
       "description": "A small library to generate Nørgård infinity sequences for Norns",
+      "documentation_url": "https://norns.community/en/authors/frederickk/noergaard",
       "tags": ["generative", "library", "norgard", "midi"]
     },
     {
@@ -1138,6 +1140,7 @@
       "author": "Ken Frederick (frederickk)",
       "description": "drone inspired by Moffenzeef Stargazer",
       "discussion_url": "https://llllllll.co/t/33889",
+      "documentation_url": "https://norns.community/en/authors/frederickk/stjoernuithrott",
       "tags": ["drone", "midi"]
     },
     {
