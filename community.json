@@ -93,7 +93,8 @@
       "project_url": "https://github.com/pangrus/automs70",
       "author": "pangrus",
       "description": "automate MS-70 CDR parameters",
-      "discussion_url": "https://llllllll.co/t/automs70/39686"
+      "discussion_url": "https://llllllll.co/t/automs70/39686",
+      "documentation_url": "https://norns.community/authors/pangrus/automs70"
     },
     {
       "project_name": "awake",
@@ -547,6 +548,7 @@
       "author": "pangrus",
       "description": "euclidean drum machine emulating the TR-808 sound",
       "discussion_url": "https://llllllll.co/t/35947",
+      "documentation_url": "https://norns.community/authors/pangrus/hachi",
       "tags": ["lib", "drum"]
     },
     {
