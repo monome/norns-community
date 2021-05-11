@@ -171,6 +171,7 @@
       "author": "Colin Drake (cfd90)",
       "description": "blippoo box clone",
       "discussion_url": "https://llllllll.co/t/41107",
+      "documentation_url": "https://norns.community/en/authors/cfd90/blippoo",
       "tags": ["synth"]
     },
     {
@@ -749,6 +750,7 @@
       "author": "Colin Drake (cfd90)",
       "description": "sound maker and sequencer heavily inspired by Laurie Spiegel's Music Mouse",
       "discussion_url": "https://llllllll.co/t/mouse/41562",
+      "documentation_url": "https://norns.community/en/authors/cfd90/mouse",
       "tags": ["synth", "sequencer", "grid"]
     },
     {
@@ -1266,6 +1268,7 @@
       "author": "Colin Drake (cfd90)",
       "description": "random granulator for two samples",
       "discussion_url": "https://llllllll.co/t/41703",
+      "documentation_url": "https://norns.community/en/authors/cfd90/twine",
       "tags": ["granular"]
     },
     {
