@@ -7,6 +7,14 @@
   "date": "0001-01-01T00:00:00Z",
   "entries": [
     {
+      "project_name": "3d",
+      "project_url": "https://github.com/p3r7/3d",
+      "author": "Jordan Besly (eigen)",
+      "description": "pure Lua 3d lib for norns",
+      "discussion_url": "https://llllllll.co/t/39622",
+      "documentation_url": "https://norns.community/authors/eigen/3d"
+    },
+    {
       "project_name": "4-big-knobs",
       "project_url": "https://github.com/21echoes/4-big-knobs",
       "author": "David Kettler (21echoes)",
@@ -870,6 +878,14 @@
       "tags": ["looper"]
     },
     {
+      "project_name": "p8",
+      "project_url": "https://github.com/p3r7/p8",
+      "author": "Jordan Besly (eigen)",
+      "description": "run PICO-8 tweetcarts on norns",
+      "discussion_url": "https://llllllll.co/t/37947",
+      "documentation_url": "https://norns.community/authors/eigen/p8"
+    },
+    {
       "project_name": "passersby",
       "project_url": "https://github.com/markwheeler/passersby",
       "author": "Mark Eats (markeats)",
@@ -994,6 +1010,14 @@
       "tags": ["sequencer"]
     },
     {
+      "project_name": "rpmate",
+      "project_url": "https://github.com/p3r7/rpmate",
+      "author": "Jordan Besly (eigen)",
+      "description": "record a sound an play it back at various RPM ratios",
+      "discussion_url": "https://llllllll.co/t/38542",
+      "documentation_url": "https://norns.community/authors/eigen/p8"
+    },
+    {
       "project_name": "rudiments",
       "project_url": "https://github.com/cfdrake/rudiments",
       "author": "Colin Drake (cfd90)",
@@ -1040,7 +1064,7 @@
       "description": "16 sine waves",
       "discussion_url": "https://llllllll.co/t/39292",
       "tags": ["drone", "midi"]
-    }, 
+    },
     {
       "project_name": "shfts",
       "project_url": "https://github.com/rwhaling/shfts",
