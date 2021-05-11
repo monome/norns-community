@@ -391,6 +391,7 @@
       "author": "Robin (midouest)",
       "description": "shepard tone generator",
       "discussion_url": "https://llllllll.co/t/endless-stairs/34799",
+      "documentation_url": "https://norns.community/authors/midouest/endless-stairs",
       "tags": ["crow", "grid", "just-friends", "sequencer"]
     },
     {
@@ -615,7 +616,8 @@
       "project_url": "https://github.com/midouest/just-play",
       "author": "Robin (midouest)",
       "description": "play just friends with midi",
-      "discussion_url": "https://llllllll.co/t/just-play/33979"
+      "discussion_url": "https://llllllll.co/t/just-play/33979",
+      "documentation_url": "https://norns.community/authors/midouest/just-play"
     },
     {
       "project_name": "kolor",
