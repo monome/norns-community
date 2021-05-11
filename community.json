@@ -523,6 +523,7 @@
       "author": "Michael P Jones (Quixotic7)",
       "description": "16 track isomorphic grid sequencer for timber and midi",
       "discussion_url": "https://llllllll.co/t/38559",
+      "documentation_url": "https://norns.community/authors/quixotic7/gridstep",
       "tags": ["grid", "midi", "sequencer", "sampler"]
     },
     {
@@ -1343,6 +1344,7 @@
       "author": "Linus Schrab (@vicimity)",
       "description": "2-dimensional polyrythmic, random note sequencer.",
       "discussion_url": "https://llllllll.co/t/initenere/41193",
+      "documentation_url": "https://norns.community/authors/vicimity/initenere",
       "tags": ["sequencer", "crow"]
     },
     {
