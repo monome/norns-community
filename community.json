@@ -646,6 +646,7 @@
       "author": "dan derks (@dan_derks) & linus schrab (@vicimity)",
       "description": "1d cellular automata sequencer",
       "discussion_url": "https://llllllll.co/t/less-concepts-3/",
+      "documentation_url": "https://norns.community/authors/collabs/lessconcepts3",
       "tags": ["ca", "crow", "midi", "sequencer"]
     },
     {
@@ -884,6 +885,7 @@
       "author": "its your bedtime (its_your_bedtime)",
       "description": "visual programming language, designed to create procedural sequencers on the fly",
       "discussion_url": "https://llllllll.co/t/22492",
+      "documentation_url": "https://norns.community/authors/collabs/orca",
       "tags": ["hid", "keyboard"]
     },
     {
