@@ -77,6 +77,7 @@
       "author": "Brian Crabtree (tehn)",
       "description": "a small collection",
       "discussion_url": "https://llllllll.co/t/ash-a-small-collection/21349",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/abacus",
       "tags": ["arc", "grid", "looper", "drum", "synth"]
     },
     {
@@ -84,7 +85,8 @@
       "project_url": "https://github.com/markwheeler/arp_index",
       "author": "Mark Eats (markeats)",
       "description": "check stocks and make music",
-      "discussion_url": "https://llllllll.co/t/the-arp-index/25182"
+      "discussion_url": "https://llllllll.co/t/the-arp-index/25182",
+      "documentation_url": "https://norns.community/en/authors/markeats/the-arp-index"
     },
     {
       "project_name": "automs70",
@@ -230,6 +232,7 @@
       "author": "Mark Eats (markeats)",
       "description": "generate eight connected sine wave lfos and output them over midi",
       "discussion_url": "https://llllllll.co/t/changes/33799",
+        "documentation_url": "https://norns.community/en/authors/markeats/changes",
       "tags": ["midi", "lfo"]
     },
     {
@@ -351,6 +354,7 @@
       "author": "Mark Eats (markeats)",
       "description": "midi-controlled drum kits",
       "discussion_url": "https://llllllll.co/t/23467",
+      "documentation_url": "https://norns.community/en/authors/markeats/drum-room",
       "tags": ["drum"]
     },
     {
@@ -655,6 +659,7 @@
       "author": "Mark Eats (markeats)",
       "description": "pattern weaving sequencer for grids",
       "discussion_url": "https://llllllll.co/t/loom/21091",
+        "documentation_url": "https://norns.community/en/authors/markeats/loom",
       "tags": ["grid"]
     },
     {
@@ -718,6 +723,7 @@
       "author": "Mark Eats (markeats)",
       "description": "classic polysynth with solar system patch creator",
       "discussion_url": "https://llllllll.co/t/molly-the-poly/21090",
+      "documentation_url": "https://norns.community/en/authors/markeats/molly-the-poly",
       "tags": ["synth", "midi"]
     },
     {
@@ -905,6 +911,7 @@
       "author": "Mark Eats (markeats)",
       "description": "west coast style mono synth",
       "discussion_url": "https://llllllll.co/t/passersby/21089",
+      "documentation_url": "https://norns.community/en/authors/markeats/passerby",
       "tags": ["synth", "midi"]
     },
     {
@@ -1200,7 +1207,8 @@
       "project_url": "https://github.com/markwheeler/timber",
       "author": "Mark Eats (markeats)",
       "description": "sample player engine and scripts",
-      "discussion_url": "https://llllllll.co/t/21407"
+      "discussion_url": "https://llllllll.co/t/21407",
+      "documentation_url": "https://norns.community/en/authors/markeats/timber"
     },
     {
       "project_name": "timeparty",
@@ -1239,7 +1247,8 @@
       "project_url": "https://github.com/markwheeler/tuner",
       "author": "Mark Eats (markeats)",
       "description": "tune stuff",
-      "discussion_url": "https://llllllll.co/t/tuner/21088"
+      "discussion_url": "https://llllllll.co/t/tuner/21088",
+      "documentation_url": "https://norns.community/en/authors/markeats/tuner"
     },
     {
       "project_name": "tunnels",
