@@ -413,6 +413,7 @@
       "author": "Jonathan Snyder (jaseknighter)",
       "description": "l-systems sequencer and bandpass-filtered sawtooth engine",
       "discussion_url": "https://llllllll.co/t/40261",
+      "documentation_url": "https://norns.community/authors/jaseknighter/flora",
       "tags": ["sequencer", "synth", "crow"]
     },
     {
