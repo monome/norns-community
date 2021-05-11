@@ -285,6 +285,7 @@
       "author": "Olivier",
       "description": "asynchronous looper built around the concept of a command sequencer",
       "discussion_url": "https://llllllll.co/t/compass/25192",
+      "documentation_url": "https://norns.community/authors/olivier/compass",
       "tags": ["looper", "sequencer"]
     },
     {
@@ -941,6 +942,7 @@
       "author": "Guy (nattog)",
       "description": "midi passthrough library with examples",
       "discussion_url": "https://llllllll.co/t/passthrough/31156",
+      "documentation_url": "https://norns.community/authors/nattog/passthrough",
       "tags": ["midi"]
     },
     {
