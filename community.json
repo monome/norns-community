@@ -28,7 +28,8 @@
       "project_url": "https://github.com/schollz/abacus",
       "author": "Zack Scholl (infinitedigits)",
       "description": "sequence rows of beats with samples",
-      "discussion_url": "https://llllllll.co/t/abacus/37871"
+      "discussion_url": "https://llllllll.co/t/abacus/37871",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/abacus"
     },
     {
       "project_name": "ack",
@@ -41,7 +42,8 @@
       "project_url": "https://github.com/schollz/amen",
       "author": "Zack Scholl (infinitedigits)",
       "description": "sampler and mangler of loops",
-      "discussion_url": "https://llllllll.co/t/amen/43746"
+      "discussion_url": "https://llllllll.co/t/amen/43746",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/amen"
     },
     {
       "project_name": "animator",
@@ -125,7 +127,8 @@
       "project_url": "https://github.com/schollz/barcode",
       "author": "Zack Scholl (infinitedigits)",
       "description": "loops sounds into six lfo-modulated voices",
-      "discussion_url": "https://llllllll.co/t/barcode/35297"
+      "discussion_url": "https://llllllll.co/t/barcode/35297",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/barcode"
     },
     {
       "project_name": "barycenter",
@@ -171,7 +174,8 @@
       "project_url": "https://github.com/schollz/blndr",
       "author": "Zack Scholl (infinitedigits)",
       "description": "a quantized delay with time bending effects",
-      "discussion_url": "https://llllllll.co/t/blndr/35106"
+      "discussion_url": "https://llllllll.co/t/blndr/35106",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/blndr"
     },
     {
       "project_name": "boingg",
@@ -257,7 +261,8 @@
       "project_url": "https://github.com/schollz/clcks",
       "author": "Zack Scholl (infinitedigits)",
       "description": "punch-in tempo-locked repeating",
-      "discussion_url": "https://llllllll.co/t/clcks/35732"
+      "discussion_url": "https://llllllll.co/t/clcks/35732",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/clcks"
     },
     {
       "project_name": "combos",
@@ -319,7 +324,8 @@
       "project_url": "https://github.com/schollz/downtown",
       "author": "Zack Scholl (infinitedigits)",
       "description": "record stereo loops while engine loops",
-      "discussion_url": "https://llllllll.co/t/downtown/40044"
+      "discussion_url": "https://llllllll.co/t/downtown/40044",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/downtown"
     },
     {
       "project_name": "drift",
@@ -451,7 +457,8 @@
       "project_url": "https://github.com/schollz/glitchlets",
       "author": "Zack Scholl (infinitedigits)",
       "description": "lets glitch with glitchlets.",
-      "discussion_url": "https://llllllll.co/t/glitchlets/37069"
+      "discussion_url": "https://llllllll.co/t/glitchlets/37069",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/glitchlets"
     },
     {
       "project_name": "glut",
@@ -466,7 +473,8 @@
       "project_url": "https://github.com/schollz/granchild",
       "author": "Zack Scholl (infinitedigits)",
       "description": "quantized granular sequencer",
-      "discussion_url": "https://llllllll.co/t/granchild/41894"
+      "discussion_url": "https://llllllll.co/t/granchild/41894",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/granchild"
     },
     {
       "project_name": "grendy",
@@ -552,7 +560,8 @@
       "project_url": "https://github.com/schollz/icarus",
       "author": "Zack Scholl (infinitedigits)",
       "description": "supersaw synth with feedback",
-      "discussion_url": "https://llllllll.co/t/icarus/43271"
+      "discussion_url": "https://llllllll.co/t/icarus/43271",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/icarus"
     },
     {
       "project_name": "islands",
@@ -597,7 +606,8 @@
       "project_url": "https://github.com/schollz/kolor",
       "author": "Zack Scholl (infinitedigits)",
       "description": "grid-based sample sequencer",
-      "discussion_url": "https://llllllll.co/t/kolor/40504"
+      "discussion_url": "https://llllllll.co/t/kolor/40504",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/kolor"
     },
     {
       "project_name": "kria_midi",
@@ -746,7 +756,8 @@
       "project_url": "https://github.com/schollz/mx.samples",
       "author": "Zack Scholl (infinitedigits)",
       "description": "like mr.radar or mr.coffee but for samples",
-      "discussion_url": "https://llllllll.co/t/mx-samples/41400"
+      "discussion_url": "https://llllllll.co/t/mx-samples/41400",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-samples"
     },
     {
       "project_name": "n16o",
@@ -815,7 +826,8 @@
       "project_url": "https://github.com/schollz/norns.online",
       "author": "Zack Scholl (infinitedigits)",
       "description": "remotely control norns from the browser",
-      "discussion_url": "https://llllllll.co/t/norns-online/38547"
+      "discussion_url": "https://llllllll.co/t/norns-online/38547",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/norns-online"
     },
     {
       "project_name": "nc01-drone",
@@ -844,7 +856,8 @@
       "project_url": "https://github.com/schollz/oooooo",
       "author": "Zack Scholl (infinitedigits)",
       "description": "digital tape loops, x 6",
-      "discussion_url": "https://llllllll.co/t/oooooo"
+      "discussion_url": "https://llllllll.co/t/oooooo",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/oooooo"
     },
     {
       "project_name": "orbital",
@@ -939,6 +952,7 @@
       "author": "Zack Scholl (infinitedigits)",
       "description": "a sampler that works in realtime",
       "discussion_url": "https://llllllll.co/t/piwip/36642",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/piwip",
       "tags": ["midi"]
     },
     {
@@ -954,7 +968,8 @@
       "project_url": "https://github.com/schollz/plonky",
       "author": "Zack Scholl (infinitedigits)",
       "description": "string-like keyboard and sequencer",
-      "discussion_url": "https://llllllll.co/t/plonky/42520"
+      "discussion_url": "https://llllllll.co/t/plonky/42520",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/plonky"
     },
     {
       "project_name": "pools",
@@ -1015,7 +1030,7 @@
       "author": "Jordan Besly (eigen)",
       "description": "record a sound an play it back at various RPM ratios",
       "discussion_url": "https://llllllll.co/t/38542",
-      "documentation_url": "https://norns.community/authors/eigen/rpmate"
+        "documentation_url": "https://norns.community/authors/eigen/rpmate"
     },
     {
       "project_name": "rudiments",
@@ -1176,6 +1191,7 @@
       "author": "Zack Scholl (infinitedigits)",
       "description": "sample + sequencer + splicer in the style of po-33",
       "discussion_url": "https://llllllll.co/t/thirtythree/44702",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/thirtythree"
       "tags": ["sequencer"]
     },
     {
@@ -1198,6 +1214,7 @@
       "author": "Zack Scholl (infinitedigits)",
       "description": "library for sequencing midi with text",
       "discussion_url": "https://llllllll.co/t/tmi/40818",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/tmi"
       "tags": ["midi"]
     },
     {
