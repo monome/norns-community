@@ -187,14 +187,16 @@
       "project_url": "https://github.com/justmat/boingg",
       "author": "Mat (Justmat)",
       "description": "a bouncing ball sequencer",
-      "discussion_url": "https://llllllll.co/t/boingg/26536"
+      "discussion_url": "https://llllllll.co/t/boingg/26536",
+      "documentation_url": "https://norns.community/authors/justmat/boingg"
     },
     {
       "project_name": "bounds",
       "project_url": "https://github.com/justmat/bounds",
       "author": "Mat (Justmat)",
       "description": "stereo delay/looper",
-      "discussion_url": "https://llllllll.co/t/23336"
+      "discussion_url": "https://llllllll.co/t/23336",
+      "documentation_url": "https://norns.community/authors/justmat/bounds"
     },
     {
       "project_name": "breakthrough",
@@ -300,6 +302,7 @@
       "author": "Mat (justmat)",
       "description": "talk to crow with norns",
       "discussion_url": "https://llllllll.co/t/41560",
+      "documentation_url": "https://norns.community/authors/justmat/crow_talk",
       "tags": ["norns", "crow"]
     },
     {
@@ -429,7 +432,8 @@
       "project_url": "https://github.com/justmat/foulplay",
       "author": "Mat (Justmat)",
       "description": "euclidean rhythms with logic and probability",
-      "discussion_url": "https://llllllll.co/t/foulplay/21081"
+      "discussion_url": "https://llllllll.co/t/foulplay/21081",
+      "documentation_url": "https://norns.community/authors/justmat/foulplay"
     },
     {
       "project_name": "foundry",
@@ -507,7 +511,8 @@
       "project_url": "https://github.com/justmat/greyhole",
       "author": "Mat (Justmat)",
       "description": "echo / delay",
-      "discussion_url": "https://llllllll.co/t/greyhole/27687"
+      "discussion_url": "https://llllllll.co/t/greyhole/27687",
+      "documentation_url": "https://norns.community/authors/justmat/greyhole"
     },
     {
       "project_name": "gridstep",
@@ -632,7 +637,8 @@
       "project_url": "https://github.com/justmat/larc",
       "author": "Mat (justmat)",
       "description": "looper/delay",
-      "discussion_url": "https://llllllll.co/t/larc/39790"
+      "discussion_url": "https://llllllll.co/t/larc/39790",
+      "documentation_url": "https://norns.community/authors/justmat/larc"
     },
     {
       "project_name": "less_concepts",
@@ -682,6 +688,7 @@
       "author": "Mat (Justmat)",
       "description": "a 4 track granular sample player",
       "discussion_url": "https://llllllll.co/t/21066",
+      "documentation_url": "https://norns.community/authors/justmat/mangl",
       "tags": ["arc", "granular"]
     },
     {
@@ -904,6 +911,7 @@
       "author": "Mat (Justmat)",
       "description": "dual tape delay/looper/sampler",
       "discussion_url": "https://llllllll.co/t/22149",
+      "documentation_url": "https://norns.community/authors/justmat/otis",
       "tags": ["looper"]
     },
     {
@@ -953,7 +961,8 @@
       "project_url": "https://github.com/justmat/phyllis",
       "author": "Mat (justmat)",
       "description": "a digitally modeled analog filter",
-      "discussion_url": "https://llllllll.co/t/27988"
+      "discussion_url": "https://llllllll.co/t/27988",
+      "documentation_url": "https://norns.community/authors/justmat/phyllis"
     },
     {
       "project_name": "pitfalls",
@@ -993,7 +1002,8 @@
       "project_url": "https://github.com/justmat/pools",
       "author": "Mat (justmat)",
       "description": "a shimmery reverb",
-      "discussion_url": "https://llllllll.co/t/28320"
+      "discussion_url": "https://llllllll.co/t/28320",
+      "documentation_url": "https://norns.community/authors/justmat/pools"
     },
     {
       "project_name": "punchcard",
@@ -1062,7 +1072,8 @@
       "project_url": "https://github.com/justmat/sam",
       "author": "Mat (Justmat)",
       "description": "a simple sample recorder/slicer",
-      "discussion_url": "https://llllllll.co/t/23943"
+      "discussion_url": "https://llllllll.co/t/23943",
+      "documentation_url": "https://norns.community/authors/justmat/sam"
     },
     {
       "project_name": "samsara",
@@ -1087,6 +1098,7 @@
       "author": "mat (justmat)",
       "description": "live grains",
       "discussion_url": "https://llllllll.co/t/43804",
+      "documentation_url": "https://norns.community/authors/justmat/silos",
       "tags": ["granular", "grid", "arc"]
     },
     {
@@ -1110,7 +1122,8 @@
       "project_url": "https://github.com/justmat/showers",
       "author": "Mat (Justmat)",
       "description": "a thunderstorm for norns",
-      "discussion_url": "https://llllllll.co/t/31622"
+      "discussion_url": "https://llllllll.co/t/31622",
+      "documentation_url": "https://norns.community/authors/justmat/showers"
     },
     {
       "project_name": "skylines",
