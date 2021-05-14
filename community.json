@@ -1119,6 +1119,14 @@
       "tags": ["drone", "midi"]
     },
     {
+      "project_name": "shapes",
+      "project_url": "https://github.com/tlubke/shapes",
+      "author": "Tyler Lubke (tyler)",
+      "description": "visuals-based modulation source for crow and midi",
+      "discussion_url": "https://llllllll.co/t/36759",
+      "tags": ["crow", "midi"]
+    },
+    {
       "project_name": "shfts",
       "project_url": "https://github.com/rwhaling/shfts",
       "author": "Richard Whaling (germinal)",
