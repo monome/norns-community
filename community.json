@@ -470,6 +470,14 @@
       "discussion_url": "https://llllllll.co/t/gemini/21086"
     },
     {
+      "project_name": "glaciers",
+      "project_url": "https://github.com/dwtong/glaciers",
+      "author": "Dan Tong (dwtong)",
+      "description": "extreme sound stretcher and harmoniser",
+      "discussion_url": "https://llllllll.co/t/glaciers/45117",
+      "tags": ["paulstretch", "fx"]
+    },
+    {
       "project_name": "glitchlets",
       "project_url": "https://github.com/schollz/glitchlets",
       "author": "Zack Scholl (infinitedigits)",
