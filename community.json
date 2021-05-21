@@ -1330,6 +1330,15 @@
       "discussion_url": "https://llllllll.co/t/vials/23109"
     },
     {
+      "project_name": "wobblewobble",
+      "project_url": "https://github.com/schollz/wobblewobble",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "slow oscillators for crow",
+      "discussion_url": "https://llllllll.co/t/wobblewobble/45215",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/wobblewobble",
+      "tags": ["crow"]
+    },
+    {
       "project_name": "wrms",
       "project_url": "https://github.com/AndrewShike/wrms",
       "author": "andrew",
