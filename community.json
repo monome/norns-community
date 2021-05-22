@@ -593,6 +593,14 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/icarus"
     },
     {
+      "project_name": "impact",
+      "project_url": "https://github.com/Mendrzec/impact",
+      "author": "Slawomir Lewandowski (Mendrzec)",
+      "description": "drum machine based on arturia's drumbrute impact",
+      "discussion_url": "https://llllllll.co/t/impact/45247",
+      "tags": ["drum", "sequencer", "grid"]
+    },
+    {
       "project_name": "islands",
       "project_url": "https://github.com/junklight/islands.git",
       "author": "mark john williamson (junklight)",
