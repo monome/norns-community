@@ -167,6 +167,14 @@
       "discussion_url": "https://llllllll.co/t/benjolis/28061"
     },
     {
+      "project_name": "bistro",
+      "project_url": "https://github.com/cfdrake/bistro",
+      "author": "Colin Drake (cfd90)",
+      "description": "a presscafe remake for Norns",
+      "discussion_url": "https://llllllll.co/t/bistro/45349",
+      "tags": ["sequencer", "grid"]
+    },
+    {
       "project_name": "blippoo",
       "project_url": "https://github.com/cfdrake/blippoo",
       "author": "Colin Drake (cfd90)",
