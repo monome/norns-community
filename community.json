@@ -1228,6 +1228,15 @@
       "tags": ["softcut", "lib"]
     },
     {
+      "project_name": "supertonic",
+      "project_url": "https://github.com/schollz/supertonic",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "an introspective drum machine",
+      "discussion_url": "https://llllllll.co/t/supertonic/45551",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/supertonic",
+      "tags": ["engine"]
+    },
+    {
       "project_name": "sway",
       "project_url": "https://github.com/carltesta/sway",
       "author": "Carl Testa (carltesta)",
