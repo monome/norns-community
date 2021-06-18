@@ -503,6 +503,15 @@
       "tags": ["granular"]
     },
     {
+	  "project_name": "groovecats",
+      "project_url": "https://github.com/Quixotic7/groovecats",
+      "author": "Michael P Jones (Quixotic7)",
+      "description": "physics based sequencer for people who like cats",
+      "discussion_url": "https://llllllll.co/t/46075",
+      "documentation_url": "https://norns.community/en/authors/quixotic7/groovecats",
+      "tags": ["grid", "midi", "sequencer", "synth"]
+    },
+    {
       "project_name": "granchild",
       "project_url": "https://github.com/schollz/granchild",
       "author": "Zack Scholl (infinitedigits)",
