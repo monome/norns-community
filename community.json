@@ -298,6 +298,15 @@
       "tags": ["looper", "sequencer"]
     },
     {
+	  "project_name": "corners",
+      "project_url": "https://github.com/Quixotic7/corners",
+      "author": "Michael P Jones (Quixotic7)",
+      "description": "a grid controlled physics instrument. ported from tehn's m4l script",
+      "discussion_url": "https://llllllll.co/t/46227",
+      "documentation_url": "https://norns.community/authors/quixotic7/corners",
+      "tags": ["grid", "midi", "synth", "drone", "generative"]
+    },
+    {
       "project_name": "cranes",
       "project_url": "https://github.com/dndrks/cranes",
       "author": "dan derks (dan_derks)",
