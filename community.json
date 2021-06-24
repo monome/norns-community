@@ -1431,6 +1431,15 @@
       "description": "a five track sequencer with various sequencer engines per track",
       "discussion_url": "https://llllllll.co/t/superbrain-multi-engine-midi-sequencer",
       "tags": ["grid", "midi", "sequencer"]
+    },
+    {
+      "project_name": "bowering",
+      "project_url": "https://github.com/whimsicalraps/bowering",
+      "author": "trentgill",
+      "description": "crow script loader with dynamic UI generation",
+      "discussion_url": "https://github.com/whimsicalraps/bowering/issues",
+      "documentation_url": "https://github.com/whimsicalraps/bowering",
+      "tags": ["crow"]
     }
   ]
 }
