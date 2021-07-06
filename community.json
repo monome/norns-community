@@ -512,7 +512,16 @@
       "tags": ["granular"]
     },
     {
-	  "project_name": "groovecats",
+      "project_name": "goldeneye",
+      "project_url": "https://github.com/northern-information/goldeneye",
+      "author": "@tyleretters",
+      "description": "entropic background radiation",
+      "discussion_url": "https://l.llllllll.co/goldeneye",
+      "documentation_url": "https://norns.community/authors/northern-information/goldeneye",
+      "tags": ["grid"]
+    },
+    {
+      "project_name": "groovecats",
       "project_url": "https://github.com/Quixotic7/groovecats",
       "author": "Michael P Jones (Quixotic7)",
       "description": "physics based sequencer for people who like cats",
