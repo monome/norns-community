@@ -637,6 +637,14 @@
       "tags": ["drum", "sequencer", "grid"]
     },
     {
+      "project_name": "internorns",
+      "project_url": "https://github.com/schollz/internorns",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "a live-coding environment",
+      "discussion_url": "https://llllllll.co/t/internorns/46565",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/internorns"
+    },
+    {
       "project_name": "islands",
       "project_url": "https://github.com/junklight/islands.git",
       "author": "mark john williamson (junklight)",
