@@ -1457,6 +1457,14 @@
       "discussion_url": "https://github.com/whimsicalraps/bowering/issues",
       "documentation_url": "https://github.com/whimsicalraps/bowering",
       "tags": ["crow"]
+    },
+    {
+      "project_name": "tviburar",
+      "project_url": "https://github.com/linusschrab/tviburar",
+      "author": "filip forsstrom (@ljudvagg) & linus schrab (@vicimity)",
+      "description": "2x4 complex step sequencer w. free running lfo's",
+      "discussion_url": "https://llllllll.co/t/tviburar/",
+      "tags": ["sequencer", "crow", "m4l"]
     }
   ]
 }
