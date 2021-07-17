@@ -637,6 +637,14 @@
       "tags": ["drum", "sequencer", "grid"]
     },
     {
+      "project_name": "internorns",
+      "project_url": "https://github.com/schollz/internorns",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "a live-coding environment",
+      "discussion_url": "https://llllllll.co/t/internorns/46565",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/internorns"
+    },
+    {
       "project_name": "islands",
       "project_url": "https://github.com/junklight/islands.git",
       "author": "mark john williamson (junklight)",
@@ -1449,6 +1457,14 @@
       "discussion_url": "https://github.com/whimsicalraps/bowering/issues",
       "documentation_url": "https://github.com/whimsicalraps/bowering",
       "tags": ["crow"]
+    },
+    {
+      "project_name": "tviburar",
+      "project_url": "https://github.com/linusschrab/tviburar",
+      "author": "filip forsstrom (@ljudvagg) & linus schrab (@vicimity)",
+      "description": "2x4 complex step sequencer w. free running lfo's",
+      "discussion_url": "https://llllllll.co/t/tviburar/",
+      "tags": ["sequencer", "crow", "m4l"]
     }
   ]
 }
