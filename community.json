@@ -448,6 +448,14 @@
       "tags": ["synth", "midi"]
     },
     {
+      "project_name": "folio",
+      "project_url": "https://github.com/csboling/folio",
+      "author": "Sam Boling (csboling)",
+      "description": "browse downloadable scripts from the comfort of your norns",
+      "discussion_url": "https://llllllll.co/t/folio/47053",
+      "documentation_url": "https://norns.community/en/authors/csboling/folio"
+    },
+    {
       "project_name": "foulplay",
       "project_url": "https://github.com/justmat/foulplay",
       "author": "Mat (Justmat)",
