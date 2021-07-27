@@ -282,6 +282,14 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/clcks"
     },
     {
+      "project_name": "clipper",
+      "project_url": "https://github.com/jaseknighter/clipper",
+      "author": "jonathan snyder (jaseknighter)",
+      "description": "slice and save samples",
+      "discussion_url": "https://llllllll.co/t/47147",
+      "documentation_url": "https://norns.community/en/authors/jaseknighter/clipper"
+    },
+    {
       "project_name": "combos",
       "project_url": "https://github.com/justmat/combos",
       "author": "Mat (justmat)",
