@@ -1295,6 +1295,14 @@
       "discussion_url": "https://llllllll.co/t/sway/21117"
     },
     {
+      "project_name": "synthy",
+      "project_url": "https://github.com/schollz/synthy",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "a synthesizer critter",
+      "discussion_url": "https://llllllll.co/t/synthy/48062",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/synthy"
+    },
+    {
       "project_name": "takt",
       "project_url": "https://github.com/itsyourbedtime/takt",
       "author": "igor (its_your_bedtime)",
