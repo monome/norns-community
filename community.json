@@ -1489,6 +1489,22 @@
       "description": "2x4 complex step sequencer w. free running lfo's",
       "discussion_url": "https://llllllll.co/t/tviburar/",
       "tags": ["sequencer", "crow", "m4l"]
+    },
+    {
+      "project_name": "delinquencer",
+      "project_url": "https://github.com/kevinlindley/delinquencer",
+      "author": "Kevin Lindley",
+      "description": "a sequencer but with a mind of its own",
+      "discussion_url": "https://llllllll.co/t/delinquencer-a-sequencer-but-with-a-mind-of-its-own/",
+      "tags": ["sequencer", "midi", "engine"]
+    },
+    {
+      "project_name": "demoncore",
+      "project_url": "https://github.com/kevinlindley/demoncore",
+      "author": "Kevin Lindley",
+      "description": "a simple noise module but with a mind of its own",
+      "discussion_url": "https://llllllll.co/t/demon-core-a-very-simple-noise-module-for-norns-but-with-a-mind-of-its-own/",
+      "tags": ["noise"]
     }
   ]
 }
