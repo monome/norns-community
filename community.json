@@ -784,6 +784,15 @@
       "tags": ["fx"]
     },
     {
+      "project_name": "massif",
+      "project_url": "https://github.com/justmat/massif",
+      "author": "Mat (justmat)",
+      "description": "8 band resonator",
+      "discussion_url": "https://llllllll.co/t/massif/",
+      "documentation_url": "https://norns.community/authors/justmat/massif",
+      "tags": ["fx"]
+    },  
+    {
       "project_name": "meadowphysics",
       "project_url": "https://github.com/dansimco/meadowphysics",
       "author": "Ryan Hodgman (alphacactus), Dan Sim (dansimco)",
