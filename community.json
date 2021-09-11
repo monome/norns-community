@@ -213,6 +213,7 @@
       "author": "tomw",
       "description": "sequencer / game",
       "discussion_url": "https://llllllll.co/t/breakthrough/39196",
+      "documentation_url": "https://norns.community/authors/tomw/breakthrough",
       "tags": ["sequencer"]
     },
     {
@@ -1240,6 +1241,7 @@
       "author": "tomw",
       "description": "sequencer",
       "discussion_url": "https://llllllll.co/t/spirals/40678",
+      "documentation_url": "https://norns.community/authors/tomw/spirals",
       "tags": ["sequencer"]
     },
     {
@@ -1498,6 +1500,15 @@
       "description": "2x4 complex step sequencer w. free running lfo's",
       "discussion_url": "https://llllllll.co/t/tviburar/",
       "tags": ["sequencer", "crow", "m4l"]
+    },
+    {
+      "project_name": "beacon",
+      "project_url": "https://github.com/tomwaters/beacon",
+      "author": "tomw",
+      "description": "keyboard based softcut sample mangler",
+      "discussion_url": "https://llllllll.co/t/beacon/",
+      "documentation_url": "https://norns.community/authors/tomw/beacon",	    
+      "tags": ["sampler"]
     }
   ]
 }
