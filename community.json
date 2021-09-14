@@ -213,6 +213,7 @@
       "author": "tomw",
       "description": "sequencer / game",
       "discussion_url": "https://llllllll.co/t/breakthrough/39196",
+      "documentation_url": "https://norns.community/authors/tomw/breakthrough",
       "tags": ["sequencer"]
     },
     {
@@ -784,6 +785,15 @@
       "tags": ["fx"]
     },
     {
+      "project_name": "massif",
+      "project_url": "https://github.com/justmat/massif",
+      "author": "Mat (justmat)",
+      "description": "8 band resonator",
+      "discussion_url": "https://llllllll.co/t/massif/",
+      "documentation_url": "https://norns.community/authors/justmat/massif",
+      "tags": ["fx"]
+    },  
+    {
       "project_name": "meadowphysics",
       "project_url": "https://github.com/dansimco/meadowphysics",
       "author": "Ryan Hodgman (alphacactus), Dan Sim (dansimco)",
@@ -1231,6 +1241,7 @@
       "author": "tomw",
       "description": "sequencer",
       "discussion_url": "https://llllllll.co/t/spirals/40678",
+      "documentation_url": "https://norns.community/authors/tomw/spirals",
       "tags": ["sequencer"]
     },
     {
@@ -1505,6 +1516,14 @@
       "description": "a simple noise module but with a mind of its own",
       "discussion_url": "https://llllllll.co/t/demon-core-a-very-simple-noise-module-for-norns-but-with-a-mind-of-its-own/",
       "tags": ["noise"]
+    },
+      "project_name": "beacon",
+      "project_url": "https://github.com/tomwaters/beacon",
+      "author": "tomw",
+      "description": "keyboard based softcut sample mangler",
+      "discussion_url": "https://llllllll.co/t/beacon/",
+      "documentation_url": "https://norns.community/authors/tomw/beacon",	    
+      "tags": ["sampler"]
     }
   ]
 }
