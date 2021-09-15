@@ -350,6 +350,22 @@
       "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]
     },
     {
+      "project_name": "delinquencer",
+      "project_url": "https://github.com/kevinlindley/delinquencer",
+      "author": "Kevin Lindley",
+      "description": "a sequencer but with a mind of its own",
+      "discussion_url": "https://llllllll.co/t/delinquencer-a-sequencer-but-with-a-mind-of-its-own/",
+      "tags": ["sequencer", "midi", "engine"]
+    },
+    {
+      "project_name": "demoncore",
+      "project_url": "https://github.com/kevinlindley/demoncore",
+      "author": "Kevin Lindley",
+      "description": "a simple noise module but with a mind of its own",
+      "discussion_url": "https://llllllll.co/t/demon-core-a-very-simple-noise-module-for-norns-but-with-a-mind-of-its-own/",
+      "tags": ["noise"]
+    },
+    {
       "project_name": "delayyyyyyyy",
       "project_url": "https://github.com/cfdrake/delayyyyyyyy",
       "author": "Colin Drake (cfd90)",
@@ -792,7 +808,7 @@
       "discussion_url": "https://llllllll.co/t/massif/",
       "documentation_url": "https://norns.community/authors/justmat/massif",
       "tags": ["fx"]
-    },  
+    },
     {
       "project_name": "meadowphysics",
       "project_url": "https://github.com/dansimco/meadowphysics",
@@ -1507,7 +1523,7 @@
       "author": "tomw",
       "description": "keyboard based softcut sample mangler",
       "discussion_url": "https://llllllll.co/t/beacon/",
-      "documentation_url": "https://norns.community/authors/tomw/beacon",	    
+      "documentation_url": "https://norns.community/authors/tomw/beacon",
       "tags": ["sampler"]
     }
   ]
