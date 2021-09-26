@@ -976,6 +976,14 @@
       "discussion_url": "https://llllllll.co/t/norns-circle-02-rhythm-and-sound/31645"
     },
     {
+      "project_name": "o-o-o",
+      "project_url": "https://github.com/schollz/o-o-o",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "connect-the-dots sequencer w/ fm synthesizer",
+      "discussion_url": "https://llllllll.co/t/o-o-o",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/o-o-o"
+    },
+    {
       "project_name": "onehanded",
       "project_url": "https://github.com/mimetaur/onehanded",
       "author": "Nathan (mimetaur)",
