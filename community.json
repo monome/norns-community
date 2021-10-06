@@ -1457,6 +1457,15 @@
       "discussion_url": "https://llllllll.co/t/vials/23109"
     },
     {
+      "project_name": "waver",
+      "project_url": "https://github.com/ryleelyman/waver",
+      "author": "Rylee Lyman (alanza)",
+      "description": "assemble a song from TAPE",
+      "discussion_url": "https://llllllll.co/t/waver/49271",
+      "documentation_url": "https://norns.community/en/authors/alanza/waver"
+      "tags": ["tape", "utilities"]
+    },
+    {
       "project_name": "wobblewobble",
       "project_url": "https://github.com/schollz/wobblewobble",
       "author": "Zack Scholl (infinitedigits)",
