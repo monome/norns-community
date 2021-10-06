@@ -447,6 +447,15 @@
       "tags": ["synth", "sequencer"]
     },
     {
+      "project_name": "fall",
+      "project_url": "https://github.com/ambalek/fall",
+      "author": "@ambalek",
+      "description": "autumnal generative synth with midi and crow sequencing",
+      "discussion_url": "https://llllllll.co/t/fall-generative-synth-sequencer/48991",
+      "documentation_url": "https://llllllll.co/t/fall-generative-synth-sequencer/48991",
+      "tags": ["generative", "sequencer", "synth", "crow", "midi"]
+    },
+    {
       "project_name": "fiahod",
       "project_url": "https://github.com/northern-information/fiahod",
       "author": "@tyleretters & @license",
