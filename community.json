@@ -1276,6 +1276,15 @@
       "tags": ["sequencer"]
     },
     {
+      "project_name": "splicer",
+      "project_url": "https://github.com/northern-information/splicer",
+      "author": "@tyleretters",
+      "description": "an eduscript for sequins and lattice",
+      "discussion_url": "https://l.llllllll.co/splicer",
+      "documentation_url": "https://l.llllllll.co/splicer",
+      "tags": ["sequins", "lattice", "eduscript"]
+    },
+    {
       "project_name": "stack",
       "project_url": "https://github.com/cfdrake/stack",
       "author": "Colin Drake (cfd90)",
