@@ -734,6 +734,14 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/kolor"
     },
     {
+      "project_name": "kreislauf",
+      "project_url": "https://github.com/frederickk/kreislauf",
+      "author": "Ken Frederick (frederickk)",
+      "description": "beat sequencing rund um den kreis ",
+      "discussion_url": "https://llllllll.co/t/kreislauf",
+      "documentation_url": "https://norns.community/en/authors/frederickk/kreislauf"
+    },
+    {
       "project_name": "kria_midi",
       "project_url": "https://github.com/junklight/kria_midi",
       "author": "mark john williamson (junklight)",
