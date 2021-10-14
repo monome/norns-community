@@ -908,6 +908,14 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-samples"
     },
     {
+      "project_name": "mx.synths",
+      "project_url": "https://github.com/schollz/mx.synths",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "like mr.radar or mr.coffee but for synths",
+      "discussion_url": "https://llllllll.co/t/mx-synths/49535",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-synths"
+    }, 
+    {
       "project_name": "n16o",
       "project_url": "https://github.com/jlmitch5/n16o",
       "author": "John Mitchell (jlmitch5)",
