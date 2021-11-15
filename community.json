@@ -914,7 +914,7 @@
       "description": "like mr.radar or mr.coffee but for synths",
       "discussion_url": "https://llllllll.co/t/mx-synths/49535",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-synths"
-    }, 
+    },
     {
       "project_name": "n16o",
       "project_url": "https://github.com/jlmitch5/n16o",
@@ -1015,6 +1015,14 @@
       "description": "minimal manual controller script",
       "discussion_url": "https://llllllll.co/t/onehanded/25869",
       "tags": ["midi"]
+    },
+    {
+      "project_name": "ong",
+      "project_url": "https://github.com/dst78/ong",
+      "author": "Dominique (anoikisnomads)",
+      "description": "ocean noise generator",
+      "discussion_url": "https://llllllll.co/t/ong-ocean-noise-generator-for-monome-norns/50364/3",
+      "documentation_url": "https://norns.community/en/authors/anoikisnomads/ong"
     },
     {
       "project_name": "oooooo",
