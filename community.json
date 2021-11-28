@@ -1110,6 +1110,15 @@
       "tags": ["fx", "arc"]
     },
     {
+      "project_name": "phonotype",
+      "project_url": "https://github.com/sixolet/phonotype",
+      "author": "Naomi (sixolet)",
+      "description": "livecoding environment",
+      "discussion_url": "https://llllllll.co/t/49564",
+      "documentation_url": "https://norns.community/authors/sixolet/phonotype",
+      "tags": ["keyboard", "synth", "midi"]
+    },
+    {
       "project_name": "phyllis",
       "project_url": "https://github.com/justmat/phyllis",
       "author": "Mat (justmat)",
