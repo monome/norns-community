@@ -1002,6 +1002,15 @@
       "discussion_url": "https://llllllll.co/t/norns-circle-02-rhythm-and-sound/31645"
     },
     {
+      "project_name": "oblique",
+      "project_url": "https://github.com/stvnrlly/oblique",
+      "author": "stvnrlly",
+      "description": "a mod to insert oblique strategies into the params menu",
+      "discussion_url": "https://llllllll.co/t/oblique-consult-the-deck/50578",
+      "tags": ["mod"]
+
+    },
+    {
       "project_name": "o-o-o",
       "project_url": "https://github.com/schollz/o-o-o",
       "author": "Zack Scholl (infinitedigits)",
