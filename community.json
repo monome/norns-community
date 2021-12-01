@@ -1617,6 +1617,15 @@
       "discussion_url": "https://llllllll.co/t/beacon/",
       "documentation_url": "https://norns.community/authors/tomw/beacon",
       "tags": ["sampler"]
+    },
+    {
+      "project_name": "orgn",
+      "project_url": "https://github.com/andr-ew/orgn",
+      "author": "andrew",
+      "description": " 3-operator FM synth + fx for norns ",
+      "discussion_url": "https://llllllll.co/t/orgn/",
+      "documentation_url": "https://norns.community/authors/andrew/orgn",
+      "tags": ["synth", "fm", "grid"]
     }
   ]
 }
