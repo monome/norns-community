@@ -1626,6 +1626,15 @@
       "discussion_url": "https://llllllll.co/t/orgn/",
       "documentation_url": "https://norns.community/authors/andrew/orgn",
       "tags": ["synth", "fm", "grid"]
-    }
+    },
+    {
+      "project_name": "orgnwrms",
+      "project_url": "https://github.com/andr-ew/orgnwrms",
+      "author": "andrew",
+      "description": "orgn + wrms",
+      "discussion_url": "https://llllllll.co/t/orgn/",
+      "documentation_url": "https://norns.community/authors/andrew/orgn",
+      "tags": ["synth", "fm", "grid", "looper", "delay"]
+    }  
   ]
 }
