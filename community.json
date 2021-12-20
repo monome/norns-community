@@ -1237,9 +1237,9 @@
       "project_name": "splnkr",
       "project_url": "https://github.com/jaseknighter/splnkr",
       "author": "jaseknighter",
-      "description": "an amplitude and frequency tracking effects processor/sampler/sequencer with a set of 16 grid-controlled bandpass filters",
-      "discussion_url": "",
-      "tags": ["sequencer","sampler","midi","norns","crow","just-friends"]
+      "description": "an amplitude and frequency tracking effects processor/sampler/sequencer",
+      "discussion_url": "https://llllllll.co/t/51191",
+      "tags": ["sequencer","sampler","midi","norns","crow"]
     },
     {
       "project_name": "stack",
