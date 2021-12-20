@@ -1234,6 +1234,14 @@
       "tags": ["sequencer"]
     },
     {
+      "project_name": "splnkr",
+      "project_url": "https://github.com/jaseknighter/splnkr",
+      "author": "jaseknighter",
+      "description": "an amplitude and frequency tracking effects processor/sampler/sequencer with a set of 16 grid-controlled bandpass filters",
+      "discussion_url": "",
+      "tags": ["sequencer","sampler","midi","norns","crow","just-friends"]
+    },
+    {
       "project_name": "stack",
       "project_url": "https://github.com/cfdrake/stack",
       "author": "Colin Drake (cfd90)",
