@@ -1643,6 +1643,14 @@
       "discussion_url": "https://llllllll.co/t/orgn/",
       "documentation_url": "https://norns.community/authors/andrew/orgn",
       "tags": ["synth", "fm", "grid", "looper", "delay"]
+    },{
+      "project_name": "loud numbers",
+      "project_url": "https://github.com/duncangeere/loudnumbers_norns",
+      "author": "duncangeere",
+      "description": "data sonification with norns",
+      "discussion_url": "https://llllllll.co/t/51353",
+      "documentation_url": "https://github.com/duncangeere/loudnumbers_norns/blob/main/README.md",
+      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]
     }  
   ]
 }
