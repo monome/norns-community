@@ -1224,7 +1224,7 @@
     },
     {
       "project_name": "repl-looper",
-      "project_url": "https://github.com/awwaiid/norns-repl-looper",
+      "project_url": "https://github.com/awwaiid/repl-looper",
       "author": "Brock Wilcox (awwaiid)",
       "description": "mash of REPL and looper; a live performance code sequencer with web UI",
       "discussion_url": "https://llllllll.co/t/51485",
