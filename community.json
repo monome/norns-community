@@ -1136,6 +1136,14 @@
       "documentation_url": "https://norns.community/authors/justmat/phyllis"
     },
     {
+      "project_name": "pirate-radio",
+      "project_url": "https://github.com/norns-study-group/pirate-radio",
+      "author": "infinitedigits,eigen,jaseknighter,tyleretters, et al",
+      "description": "community radio for monome norns...yar",
+      "discussion_url": "https://llllllll.co/t/pirate-radio/49013",
+      "documentation_url": "https://norns.community/authors/study-group/pirate-radio"
+    },	  
+    {
       "project_name": "pitfalls",
       "project_url": "https://github.com/robmckinnon/pitfalls",
       "author": "Rob (delineator)",
