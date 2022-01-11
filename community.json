@@ -1208,6 +1208,15 @@
       "tags": ["grid", "sequencer"]
     },
     {
+      "project_name": "rangl",
+      "project_url": "https://github.com/tgk/rangl",
+      "author": "Thomas Kristensen (tgk)",
+      "description": "arc based granular four track sampler with live recording and friction.",
+      "discussion_url": "https://llllllll.co/t/rangl/44673",
+      "documentation_url": "https://norns.community/en/authors/tgk/rangl",
+      "tags": ["arc", "granular"]
+    },
+    {
       "project_name": "reels",
       "project_url": "https://github.com/itsyourbedtime/reels",
       "author": "its your bedtime (its_your_bedtime)",
