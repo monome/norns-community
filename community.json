@@ -1669,7 +1669,7 @@
       "documentation_url": "https://norns.community/authors/andrew/orgn",
       "tags": ["synth", "fm", "grid", "looper", "delay"]
     },{
-      "project_name": "loud numbers",
+      "project_name": "loudnumbers_norns",
       "project_url": "https://github.com/duncangeere/loudnumbers_norns",
       "author": "duncangeere",
       "description": "data sonification with norns",
