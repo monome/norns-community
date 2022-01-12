@@ -884,6 +884,15 @@
       "tags": ["midi"]
     },
     {
+      "project_name": "moonraker",
+      "project_url": "https://github.com/schollz/moonraker",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "explore a galaxy of rhythm",
+      "discussion_url": "https://llllllll.co/t/moonraker/51803",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/moonraker"
+      "tags":  ["drum", "grid"]
+    },
+    {
       "project_name": "mouse",
       "project_url": "https://github.com/cfdrake/mouse",
       "author": "Colin Drake (cfd90)",
