@@ -1471,6 +1471,14 @@
       "tags": ["midi", "gen", "sky", "sequencer"]
     },
     {
+      "project_name": "tapedeck",
+      "project_url": "https://github.com/schollz/tapedeck",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "live tape deck emulation (saturation, distortion, wow/flutter)",
+      "discussion_url": "https://llllllll.co/t/tapedeck/51919",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/tapedeck"
+    }, 
+    {
       "project_name": "thebangs",
       "project_url": "https://github.com/catfact/thebangs.git",
       "author": "zebra",
