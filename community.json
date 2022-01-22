@@ -1560,6 +1560,14 @@
       "tags": ["granular"]
     },
     {
+      "project_name": "u",
+      "project_url": "https://github.com/northern-information/u",
+      "author": "@tyleretters",
+      "description": "norns utility scripts",
+      "discussion_url": "https://l.llllllll.co/u",
+      "tags": ["utility"]
+    },
+    {
       "project_name": "uhf",
       "project_url": "https://github.com/speakerdamage/uhf",
       "author": "Caulen (speakerdamage)",
