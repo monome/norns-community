@@ -603,6 +603,14 @@
       "description": "echo / delay",
       "discussion_url": "https://llllllll.co/t/greyhole/27687",
       "documentation_url": "https://norns.community/authors/justmat/greyhole"
+    },{
+      "project_name": "gridofpoints",
+      "project_url": "https://github.com/duncangeere/gridofpoints",
+      "author": "Duncan Geere",
+      "description": "eight notes, sixteen timbres",
+      "discussion_url": "https://llllllll.co/t/52122",
+      "documentation_url": "https://norns.community/authors/duncan-geere/gridofpoints",
+      "tags": ["grid", "crow", "sequencer"]
     },
     {
       "project_name": "gridstep",
@@ -792,7 +800,15 @@
       "discussion_url": "https://llllllll.co/t/loom/21091",
         "documentation_url": "https://norns.community/en/authors/markeats/loom",
       "tags": ["grid"]
-    },
+    },{
+      "project_name": "loudnumbers_norns",
+      "project_url": "https://github.com/duncangeere/loudnumbers_norns",
+      "author": "Duncan Geere",
+      "description": "data sonification with norns",
+      "discussion_url": "https://llllllll.co/t/51353",
+      "documentation_url": "https://github.com/duncangeere/loudnumbers_norns/blob/main/README.md",
+      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]
+    },  
     {
       "project_name": "m18s",
       "project_url": "https://github.com/jlmitch5/m18s",
@@ -1685,14 +1701,6 @@
       "discussion_url": "https://llllllll.co/t/orgn/",
       "documentation_url": "https://norns.community/authors/andrew/orgn",
       "tags": ["synth", "fm", "grid", "looper", "delay"]
-    },{
-      "project_name": "loudnumbers_norns",
-      "project_url": "https://github.com/duncangeere/loudnumbers_norns",
-      "author": "duncangeere",
-      "description": "data sonification with norns",
-      "discussion_url": "https://llllllll.co/t/51353",
-      "documentation_url": "https://github.com/duncangeere/loudnumbers_norns/blob/main/README.md",
-      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]
-    }  
+    }
   ]
 }
