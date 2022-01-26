@@ -32,6 +32,15 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/abacus"
     },
     {
+      "project_name": "acid test",
+      "project_url": "https://github.com/schollz/acid-test",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "generative acid basslines.",
+      "discussion_url": "https://llllllll.co/t/acid-test/52201",
+      "documentation_url": "https://norns.community/authors/infinitedigits/acid-test",
+      "tags": ["crow", "midi"]
+    },  
+    {
       "project_name": "ack",
       "project_url": "https://github.com/antonhornquist/ack",
       "project_author": "Anton Hörnquist (jah)",
