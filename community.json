@@ -32,7 +32,7 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/abacus"
     },
     {
-      "project_name": "acid test",
+      "project_name": "acid-test",
       "project_url": "https://github.com/schollz/acid-test",
       "author": "Zack Scholl (infinitedigits)",
       "description": "generative acid basslines.",
