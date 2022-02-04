@@ -1036,6 +1036,14 @@
       "discussion_url": "https://llllllll.co/t/norns-circle-02-rhythm-and-sound/31645"
     },
     {
+      "project_name": "nydl",
+      "project_url": "https://github.com/sixolet/nydl",
+      "author": "Naomi (sixolet)",
+      "description": "beat-synced looper, slicer, and sequencer",
+      "discussion_url": "https://llllllll.co/t/nydl/51886",
+      "tags": ["looper", "sequencer", "grid", "crow"]
+    },
+    {
       "project_name": "oblique",
       "project_url": "https://github.com/stvnrlly/oblique",
       "author": "stvnrlly",
