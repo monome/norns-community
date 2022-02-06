@@ -809,7 +809,16 @@
       "discussion_url": "https://llllllll.co/t/loom/21091",
         "documentation_url": "https://norns.community/en/authors/markeats/loom",
       "tags": ["grid"]
-    },{
+    },
+    {
+      "project_name": "lorenzo's drums",
+      "project_url": "https://github.com/schollz/lorenzos-drums",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "an electroacoustic drumset and sequencer",
+      "discussion_url": "https://llllllll.co/t/lorenzos-drums/52549",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/lorenzos-drums"
+    },
+    {
       "project_name": "loudnumbers_norns",
       "project_url": "https://github.com/duncangeere/loudnumbers_norns",
       "author": "Duncan Geere",
