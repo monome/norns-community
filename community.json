@@ -298,6 +298,12 @@
       "description": "slice and save samples",
       "discussion_url": "https://llllllll.co/t/47147",
       "documentation_url": "https://norns.community/en/authors/jaseknighter/clipper"
+    },{
+      "project_name": "colorwheel",
+      "project_url": "https://github.com/yams7457/colorwheel",
+      "author": "yams",
+      "description": "harmonic performance sequencer",
+      "discussion_url": "https://llllllll.co/t/50231"
     },
     {
       "project_name": "combos",
