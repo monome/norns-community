@@ -47,6 +47,14 @@
       "description": "sample player engine"
     },
     {
+      "project_name": "acrostic",
+      "project_url": "https://github.com/schollz/acrostic",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "chord sequencer and sampler",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/acrostic",
+      "tags": ["crow", "midi", "grid", "sequencer", "generative"]
+    },
+    {
       "project_name": "amen",
       "project_url": "https://github.com/schollz/amen",
       "author": "Zack Scholl (infinitedigits)",
