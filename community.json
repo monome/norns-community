@@ -51,6 +51,7 @@
       "project_url": "https://github.com/schollz/acrostic",
       "author": "Zack Scholl (infinitedigits)",
       "description": "chord sequencer and sampler",
+      "discussion_url": "https://llllllll.co/t/acrostic/53027",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/acrostic",
       "tags": ["crow", "midi", "grid", "sequencer", "generative"]
     },
