@@ -1150,6 +1150,15 @@
       "documentation_url": "https://norns.community/authors/eigen/p8"
     },
     {
+      "project_name": "parrot",
+      "project_url": "https://github.com/jaseknighter/parrot",
+      "author": "Jonathan Snyder (jaseknighter)",
+      "description": "cv recorder and player for norns+crow",
+      "discussion_url": "https://llllllll.co/t/53083",
+      "documentation_url": "https://norns.community/en/authors/jaseknighter/parrot",
+      "tags": ["norns", "crow"]
+    },
+    {
       "project_name": "passersby",
       "project_url": "https://github.com/markwheeler/passersby",
       "author": "Mark Eats (markeats)",
