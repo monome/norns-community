@@ -851,6 +851,14 @@
       "tags": ["synth", "midi", "crow"]
     },
     {
+      "project_name": "makebreakbeat",
+      "project_url": "https://github.com/schollz/makebreakbeat",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "make breakbeats from samples",
+      "discussion_url": "https://llllllll.co/t/makebreakbeat/53301",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/makebreakbeat"
+    },
+    {
       "project_name": "mangl",
       "project_url": "https://github.com/notjustmat/mangl",
       "author": "Mat (Justmat)",
