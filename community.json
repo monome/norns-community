@@ -1610,6 +1610,13 @@
       "discussion_url": "https://llllllll.co/t/traffic/21262"
     },
     {
+      "project_name": "triangles",
+      "project_url": "https://github.com/chrislo/triangles",
+      "author": "Chris Lowis",
+      "description": "4-voice triangle wave drone synth",
+      "discussion_url": "https://llllllll.co/t/triangles/52662"
+    },
+    {
       "project_name": "tuner",
       "project_url": "https://github.com/markwheeler/tuner",
       "author": "Mark Eats (markeats)",
