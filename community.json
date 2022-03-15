@@ -331,6 +331,15 @@
       "tags": ["looper", "sequencer"]
     },
     {
+      "project_name": "constellations",
+      "project_url": "https://github.com/timothy-taylor/constellations",
+      "author": "Tim Taylor (toomanatees)",
+      "description": "scan the stars; make music! an interactive sequencer for Norns, Crow, JF, and midi.",
+      "discussion_url": "https://llllllll.co/t/constellations/52225",
+      "documentation_url": "https://norns.community/en/authors/toomanatees/constellations",
+      "tags": ["sequencer", "generative", "crow", "midi"]
+    },
+    {
 	  "project_name": "corners",
       "project_url": "https://github.com/Quixotic7/corners",
       "author": "Michael P Jones (Quixotic7)",
