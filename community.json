@@ -1364,6 +1364,15 @@
       "documentation_url": "https://norns.community/authors/justmat/sam"
     },
     {
+      "project_name": "sampswap",
+      "project_url": "https://github.com/schollz/sampswap",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "swap samples within loops",
+      "discussion_url": "https://llllllll.co/t/sampswap/53719",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/sampswap",
+      "tags": ["looper","sampler"]
+    },
+    {
       "project_name": "samsara",
       "project_url": "https://github.com/21echoes/samsara",
       "author": "David Kettler (21echoes)",
