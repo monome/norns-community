@@ -489,6 +489,14 @@
       "tags": ["generative", "sequencer", "synth", "crow", "midi"]
     },
     {
+      "project_name": "fibonacci",
+      "project_url": "https://github.com/bryceadams/norns-fibonacci",
+      "author": "@obi & @license",
+      "description": "a sequencer that travels through numbers and time",
+      "documentation_url": "https://norns.community/en/authors/obi/fibonacci",
+      "tags": ["sequencer", "generative", "midi", "crow"]
+    },
+    {
       "project_name": "fiahod",
       "project_url": "https://github.com/northern-information/fiahod",
       "author": "@tyleretters & @license",
