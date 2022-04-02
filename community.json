@@ -587,6 +587,15 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/glitchlets"
     },
     {
+      "project_name": "glitch looper",
+      "project_url": "https://github.com/carltesta/glitchlooper",
+      "author": "Carl Testa (carltesta)",
+      "description": "5 unsynchronized loops with an auto mode",
+      "discussion_url": "https://llllllll.co/t/glitch-looper/54014",
+      "documentation_url": "https://norns.community/authors/carltesta/glitchlooper",
+      "tags": ["fx"]
+    },
+    {
       "project_name": "glut",
       "project_url": "https://github.com/artfwo/glut",
       "author": "artfwo",
@@ -890,6 +899,7 @@
       "author": "Carl Testa (carltesta)",
       "description": "multi-effects processing for live performance",
       "discussion_url": "https://llllllll.co/t/manifold/22098",
+      "documentation_url": "https://norns.community/en/authors/carltesta/manifold",    
       "tags": ["fx"]
     },
     {
@@ -1537,7 +1547,9 @@
       "project_url": "https://github.com/carltesta/sway",
       "author": "Carl Testa (carltesta)",
       "description": "analysis-driven live audio processing",
-      "discussion_url": "https://llllllll.co/t/sway/21117"
+      "discussion_url": "https://llllllll.co/t/sway/21117",
+      "documentation_url": "https://norns.community/en/authors/carltesta/sway",
+      "tags": ["generative", "fx"]
     },
     {
       "project_name": "sweet bees",
