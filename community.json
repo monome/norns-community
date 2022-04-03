@@ -817,9 +817,9 @@
       "documentation_url": "https://norns.community/authors/justmat/larc"
     },
     {
-      "project_name": "less_concepts",
-      "project_url": "https://github.com/dndrks/less_concepts",
-      "author": "dan derks (@dan_derks) & linus schrab (@vicimity)",
+      "project_name": "less-concepts",
+      "project_url": "https://github.com/vicimity-dndrks/less_concepts",
+      "author": "linus schrab (@vicimity) & dan derks (@dan_derks)",
       "description": "1d cellular automata sequencer",
       "discussion_url": "https://llllllll.co/t/less-concepts-3/",
       "documentation_url": "https://norns.community/authors/collabs/lessconcepts3",
