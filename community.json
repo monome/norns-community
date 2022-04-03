@@ -817,16 +817,8 @@
       "documentation_url": "https://norns.community/authors/justmat/larc"
     },
     {
-      "project_name": "less_concepts",
-      "project_url": "https://github.com/dndrks/less_concepts",
-      "author": "jai lai bookie (Dan_Derks)",
-      "description": "1d cellular automata sequencer",
-      "discussion_url": "https://llllllll.co/t/21109",
-      "tags": ["ca", "crow", "sequencer"]
-    },
-    {
       "project_name": "less_concepts_3",
-      "project_url": "https://github.com/linusschrab/less_concepts_3",
+      "project_url": "https://github.com/dndrks/less_concepts",
       "author": "dan derks (@dan_derks) & linus schrab (@vicimity)",
       "description": "1d cellular automata sequencer",
       "discussion_url": "https://llllllll.co/t/less-concepts-3/",
