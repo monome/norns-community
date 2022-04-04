@@ -587,7 +587,7 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/glitchlets"
     },
     {
-      "project_name": "glitch looper",
+      "project_name": "glitchlooper",
       "project_url": "https://github.com/carltesta/glitchlooper",
       "author": "Carl Testa (carltesta)",
       "description": "5 unsynchronized loops with an auto mode",
