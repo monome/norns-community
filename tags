@@ -1,0 +1,1955 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/02cf1a6/
+0	base.json	/^      "tags": ["study", "demo"]$/;"	s	array:entries.0.tags
+0	base.json	/^      "tags": ["study", "demo"]$/;"	s	array:entries.1.tags
+0	base.json	/^      "tags": ["study", "demo"]$/;"	s	array:entries.2.tags
+0	base.json	/^    {$/;"	o	array:entries
+0	community.json	/^        "tags": ["midi", "sequencer"]$/;"	s	array:entries.93.tags
+0	community.json	/^       "tags": ["sequencer","sampler","midi","norns","crow"]$/;"	s	array:entries.180.tags
+0	community.json	/^      "tag": ["grid", "midi"]$/;"	s	array:entries.98.tag
+0	community.json	/^      "tags":  ["drum", "grid"]$/;"	s	array:entries.117.tags
+0	community.json	/^      "tags": ["arc", "granular"]$/;"	s	array:entries.107.tags
+0	community.json	/^      "tags": ["arc", "granular"]$/;"	s	array:entries.160.tags
+0	community.json	/^      "tags": ["arc", "grid", "looper", "drum", "synth"]$/;"	s	array:entries.10.tags
+0	community.json	/^      "tags": ["arc"]$/;"	s	array:entries.31.tags
+0	community.json	/^      "tags": ["arc"]$/;"	s	array:entries.35.tags
+0	community.json	/^      "tags": ["ca", "crow", "midi", "sequencer"]$/;"	s	array:entries.100.tags
+0	community.json	/^      "tags": ["crow", "ER-301", "nanoKONTROL 2"]$/;"	s	array:entries.122.tags
+0	community.json	/^      "tags": ["crow", "arc", "utilities", "midi"]$/;"	s	array:entries.1.tags
+0	community.json	/^      "tags": ["crow", "grid", "just-friends", "sequencer"]$/;"	s	array:entries.57.tags
+0	community.json	/^      "tags": ["crow", "grid"]$/;"	s	array:entries.174.tags
+0	community.json	/^      "tags": ["crow", "midi", "grid", "sequencer", "generative"]$/;"	s	array:entries.5.tags
+0	community.json	/^      "tags": ["crow", "midi"]$/;"	s	array:entries.173.tags
+0	community.json	/^      "tags": ["crow", "midi"]$/;"	s	array:entries.3.tags
+0	community.json	/^      "tags": ["crow"]$/;"	s	array:entries.209.tags
+0	community.json	/^      "tags": ["crow"]$/;"	s	array:entries.216.tags
+0	community.json	/^      "tags": ["crow"]$/;"	s	array:entries.30.tags
+0	community.json	/^      "tags": ["crow"]$/;"	s	array:entries.34.tags
+0	community.json	/^      "tags": ["delay","sampler","looper","granular"]$/;"	s	array:entries.127.tags
+0	community.json	/^      "tags": ["delay","sampler"]$/;"	s	array:entries.126.tags
+0	community.json	/^      "tags": ["drone", "midi"]$/;"	s	array:entries.172.tags
+0	community.json	/^      "tags": ["drone", "midi"]$/;"	s	array:entries.183.tags
+0	community.json	/^      "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]$/;"	s	array:entries.46.tags
+0	community.json	/^      "tags": ["drum", "sequencer", "grid"]$/;"	s	array:entries.89.tags
+0	community.json	/^      "tags": ["drum", "synth", "sequencer"]$/;"	s	array:entries.166.tags
+0	community.json	/^      "tags": ["drum"]$/;"	s	array:entries.53.tags
+0	community.json	/^      "tags": ["engine"]$/;"	s	array:entries.187.tags
+0	community.json	/^      "tags": ["engine"]$/;"	s	array:entries.194.tags
+0	community.json	/^      "tags": ["fx", "arc"]$/;"	s	array:entries.148.tags
+0	community.json	/^      "tags": ["fx"]$/;"	s	array:entries.108.tags
+0	community.json	/^      "tags": ["fx"]$/;"	s	array:entries.109.tags
+0	community.json	/^      "tags": ["fx"]$/;"	s	array:entries.49.tags
+0	community.json	/^      "tags": ["fx"]$/;"	s	array:entries.72.tags
+0	community.json	/^      "tags": ["generative", "fx"]$/;"	s	array:entries.188.tags
+0	community.json	/^      "tags": ["generative", "library", "norgard", "midi"]$/;"	s	array:entries.128.tags
+0	community.json	/^      "tags": ["generative", "sequencer", "synth", "crow", "midi"]$/;"	s	array:entries.59.tags
+0	community.json	/^      "tags": ["generative"]$/;"	s	array:entries.61.tags
+0	community.json	/^      "tags": ["granular", "grid", "arc"]$/;"	s	array:entries.171.tags
+0	community.json	/^      "tags": ["granular", "looper"]$/;"	s	array:entries.85.tags
+0	community.json	/^      "tags": ["granular"]$/;"	s	array:entries.204.tags
+0	community.json	/^      "tags": ["granular"]$/;"	s	array:entries.73.tags
+0	community.json	/^      "tags": ["grid", "arc", "crow", "midi"]$/;"	s	array:entries.29.tags
+0	community.json	/^      "tags": ["grid", "arc", "lib"]$/;"	s	array:entries.214.tags
+0	community.json	/^      "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"]$/;"	s	array:entries.33.tags
+0	community.json	/^      "tags": ["grid", "crow", "sequencer"]$/;"	s	array:entries.80.tags
+0	community.json	/^      "tags": ["grid", "looper", "sequencer"]$/;"	s	array:entries.164.tags
+0	community.json	/^      "tags": ["grid", "midi", "sequencer", "sampler"]$/;"	s	array:entries.81.tags
+0	community.json	/^      "tags": ["grid", "midi", "sequencer", "synth"]$/;"	s	array:entries.75.tags
+0	community.json	/^      "tags": ["grid", "midi", "sequencer"]$/;"	s	array:entries.215.tags
+0	community.json	/^      "tags": ["grid", "midi", "synth", "drone", "generative"]$/;"	s	array:entries.42.tags
+0	community.json	/^      "tags": ["grid", "sequencer", "crow", "midi"]$/;"	s	array:entries.7.tags
+0	community.json	/^      "tags": ["grid", "sequencer", "generative", "crow", "midi", "arc"]$/;"	s	array:entries.9.tags
+0	community.json	/^      "tags": ["grid", "sequencer", "midi", "link"]$/;"	s	array:entries.199.tags
+0	community.json	/^      "tags": ["grid", "sequencer"]$/;"	s	array:entries.159.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.102.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.110.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.119.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.152.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.170.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.20.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.74.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.82.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.91.tags
+0	community.json	/^      "tags": ["grid"]$/;"	s	array:entries.92.tags
+0	community.json	/^      "tags": ["hid", "demo"]$/;"	s	array:entries.87.tags
+0	community.json	/^      "tags": ["hid", "keyboard"]$/;"	s	array:entries.140.tags
+0	community.json	/^      "tags": ["keyboard", "synth", "midi"]$/;"	s	array:entries.149.tags
+0	community.json	/^      "tags": ["lib", "drum"]$/;"	s	array:entries.84.tags
+0	community.json	/^      "tags": ["lib"]$/;"	s	array:entries.162.tags
+0	community.json	/^      "tags": ["lib"]$/;"	s	array:entries.8.tags
+0	community.json	/^      "tags": ["looper", "grid"]$/;"	s	array:entries.43.tags
+0	community.json	/^      "tags": ["looper", "sequencer", "grid", "crow"]$/;"	s	array:entries.133.tags
+0	community.json	/^      "tags": ["looper", "sequencer"]$/;"	s	array:entries.40.tags
+0	community.json	/^      "tags": ["looper","sampler"]$/;"	s	array:entries.125.tags
+0	community.json	/^      "tags": ["looper","sampler"]$/;"	s	array:entries.168.tags
+0	community.json	/^      "tags": ["looper"]$/;"	s	array:entries.142.tags
+0	community.json	/^      "tags": ["looper"]$/;"	s	array:entries.161.tags
+0	community.json	/^      "tags": ["looper"]$/;"	s	array:entries.169.tags
+0	community.json	/^      "tags": ["midi", "gen", "sky", "sequencer"]$/;"	s	array:entries.192.tags
+0	community.json	/^      "tags": ["midi", "lfo"]$/;"	s	array:entries.32.tags
+0	community.json	/^      "tags": ["midi"]$/;"	s	array:entries.112.tags
+0	community.json	/^      "tags": ["midi"]$/;"	s	array:entries.116.tags
+0	community.json	/^      "tags": ["midi"]$/;"	s	array:entries.136.tags
+0	community.json	/^      "tags": ["midi"]$/;"	s	array:entries.141.tags
+0	community.json	/^      "tags": ["midi"]$/;"	s	array:entries.146.tags
+0	community.json	/^      "tags": ["midi"]$/;"	s	array:entries.153.tags
+0	community.json	/^      "tags": ["midi"]$/;"	s	array:entries.198.tags
+0	community.json	/^      "tags": ["mod"]$/;"	s	array:entries.134.tags
+0	community.json	/^      "tags": ["noise"]$/;"	s	array:entries.48.tags
+0	community.json	/^      "tags": ["norns", "crow"]$/;"	s	array:entries.144.tags
+0	community.json	/^      "tags": ["norns", "crow"]$/;"	s	array:entries.44.tags
+0	community.json	/^      "tags": ["paulstretch", "fx"]$/;"	s	array:entries.70.tags
+0	community.json	/^      "tags": ["sampler"]$/;"	s	array:entries.113.tags
+0	community.json	/^      "tags": ["sampler"]$/;"	s	array:entries.218.tags
+0	community.json	/^      "tags": ["sequencer", "crow", "m4l"]$/;"	s	array:entries.217.tags
+0	community.json	/^      "tags": ["sequencer", "crow"]$/;"	s	array:entries.213.tags
+0	community.json	/^      "tags": ["sequencer", "generative", "crow", "midi"]$/;"	s	array:entries.41.tags
+0	community.json	/^      "tags": ["sequencer", "generative", "midi", "crow"]$/;"	s	array:entries.60.tags
+0	community.json	/^      "tags": ["sequencer", "generative"]$/;"	s	array:entries.16.tags
+0	community.json	/^      "tags": ["sequencer", "grid", "crow", "midi"]$/;"	s	array:entries.111.tags
+0	community.json	/^      "tags": ["sequencer", "grid", "crow"]$/;"	s	array:entries.147.tags
+0	community.json	/^      "tags": ["sequencer", "grid"]$/;"	s	array:entries.22.tags
+0	community.json	/^      "tags": ["sequencer", "midi", "engine"]$/;"	s	array:entries.47.tags
+0	community.json	/^      "tags": ["sequencer", "midi", "grid"]$/;"	s	array:entries.56.tags
+0	community.json	/^      "tags": ["sequencer", "midi"]$/;"	s	array:entries.158.tags
+0	community.json	/^      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]$/;"	s	array:entries.104.tags
+0	community.json	/^      "tags": ["sequencer", "synth", "crow"]$/;"	s	array:entries.62.tags
+0	community.json	/^      "tags": ["sequencer","midi"]$/;"	s	array:entries.124.tags
+0	community.json	/^      "tags": ["sequencer","midi"]$/;"	s	array:entries.154.tags
+0	community.json	/^      "tags": ["sequencer"]$/;"	s	array:entries.163.tags
+0	community.json	/^      "tags": ["sequencer"]$/;"	s	array:entries.178.tags
+0	community.json	/^      "tags": ["sequencer"]$/;"	s	array:entries.18.tags
+0	community.json	/^      "tags": ["sequencer"]$/;"	s	array:entries.195.tags
+0	community.json	/^      "tags": ["sequencer"]$/;"	s	array:entries.28.tags
+0	community.json	/^      "tags": ["sequencer"]$/;"	s	array:entries.51.tags
+0	community.json	/^      "tags": ["sequencer"]$/;"	s	array:entries.67.tags
+0	community.json	/^      "tags": ["sequencer"]$/;"	s	array:entries.68.tags
+0	community.json	/^      "tags": ["sequins", "lattice", "eduscript"]$/;"	s	array:entries.179.tags
+0	community.json	/^      "tags": ["softcut", "lib"]$/;"	s	array:entries.186.tags
+0	community.json	/^      "tags": ["softcut", "looper", "delay"]$/;"	s	array:entries.210.tags
+0	community.json	/^      "tags": ["softcut", "sines", "granular"]$/;"	s	array:entries.86.tags
+0	community.json	/^      "tags": ["softcut"]$/;"	s	array:entries.19.tags
+0	community.json	/^      "tags": ["synth", "fm", "grid", "looper", "delay"]$/;"	s	array:entries.220.tags
+0	community.json	/^      "tags": ["synth", "fm", "grid"]$/;"	s	array:entries.219.tags
+0	community.json	/^      "tags": ["synth", "generative"]$/;"	s	array:entries.52.tags
+0	community.json	/^      "tags": ["synth", "granular"]$/;"	s	array:entries.78.tags
+0	community.json	/^      "tags": ["synth", "midi", "crow"]$/;"	s	array:entries.105.tags
+0	community.json	/^      "tags": ["synth", "midi", "grid", "arc"]$/;"	s	array:entries.115.tags
+0	community.json	/^      "tags": ["synth", "midi"]$/;"	s	array:entries.114.tags
+0	community.json	/^      "tags": ["synth", "midi"]$/;"	s	array:entries.145.tags
+0	community.json	/^      "tags": ["synth", "midi"]$/;"	s	array:entries.63.tags
+0	community.json	/^      "tags": ["synth", "midi"]$/;"	s	array:entries.77.tags
+0	community.json	/^      "tags": ["synth", "noise"]$/;"	s	array:entries.83.tags
+0	community.json	/^      "tags": ["synth", "random"]$/;"	s	array:entries.101.tags
+0	community.json	/^      "tags": ["synth", "sequencer", "grid"]$/;"	s	array:entries.118.tags
+0	community.json	/^      "tags": ["synth", "sequencer"]$/;"	s	array:entries.58.tags
+0	community.json	/^      "tags": ["synth"]$/;"	s	array:entries.23.tags
+0	community.json	/^      "tags": ["synth"]$/;"	s	array:entries.24.tags
+0	community.json	/^      "tags": ["tape", "utilities"]$/;"	s	array:entries.208.tags
+0	community.json	/^      "tags": ["tape"]$/;"	s	array:entries.206.tags
+0	community.json	/^      "tags": ["tracker", "midi"]$/;"	s	array:entries.211.tags
+0	community.json	/^      "tags": ["tracker"]$/;"	s	array:entries.123.tags
+0	community.json	/^      "tags": ["utility"]$/;"	s	array:entries.205.tags
+0	community.json	/^    {$/;"	o	array:entries
+1	base.json	/^      "tags": ["study", "demo"]$/;"	s	array:entries.0.tags
+1	base.json	/^      "tags": ["study", "demo"]$/;"	s	array:entries.1.tags
+1	base.json	/^      "tags": ["study", "demo"]$/;"	s	array:entries.2.tags
+1	base.json	/^    {$/;"	o	array:entries
+1	community.json	/^        "tags": ["midi", "sequencer"]$/;"	s	array:entries.93.tags
+1	community.json	/^       "tags": ["sequencer","sampler","midi","norns","crow"]$/;"	s	array:entries.180.tags
+1	community.json	/^      "tag": ["grid", "midi"]$/;"	s	array:entries.98.tag
+1	community.json	/^      "tags":  ["drum", "grid"]$/;"	s	array:entries.117.tags
+1	community.json	/^      "tags": ["arc", "granular"]$/;"	s	array:entries.107.tags
+1	community.json	/^      "tags": ["arc", "granular"]$/;"	s	array:entries.160.tags
+1	community.json	/^      "tags": ["arc", "grid", "looper", "drum", "synth"]$/;"	s	array:entries.10.tags
+1	community.json	/^      "tags": ["ca", "crow", "midi", "sequencer"]$/;"	s	array:entries.100.tags
+1	community.json	/^      "tags": ["crow", "ER-301", "nanoKONTROL 2"]$/;"	s	array:entries.122.tags
+1	community.json	/^      "tags": ["crow", "arc", "utilities", "midi"]$/;"	s	array:entries.1.tags
+1	community.json	/^      "tags": ["crow", "grid", "just-friends", "sequencer"]$/;"	s	array:entries.57.tags
+1	community.json	/^      "tags": ["crow", "grid"]$/;"	s	array:entries.174.tags
+1	community.json	/^      "tags": ["crow", "midi", "grid", "sequencer", "generative"]$/;"	s	array:entries.5.tags
+1	community.json	/^      "tags": ["crow", "midi"]$/;"	s	array:entries.173.tags
+1	community.json	/^      "tags": ["crow", "midi"]$/;"	s	array:entries.3.tags
+1	community.json	/^      "tags": ["delay","sampler","looper","granular"]$/;"	s	array:entries.127.tags
+1	community.json	/^      "tags": ["delay","sampler"]$/;"	s	array:entries.126.tags
+1	community.json	/^      "tags": ["drone", "midi"]$/;"	s	array:entries.172.tags
+1	community.json	/^      "tags": ["drone", "midi"]$/;"	s	array:entries.183.tags
+1	community.json	/^      "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]$/;"	s	array:entries.46.tags
+1	community.json	/^      "tags": ["drum", "sequencer", "grid"]$/;"	s	array:entries.89.tags
+1	community.json	/^      "tags": ["drum", "synth", "sequencer"]$/;"	s	array:entries.166.tags
+1	community.json	/^      "tags": ["fx", "arc"]$/;"	s	array:entries.148.tags
+1	community.json	/^      "tags": ["generative", "fx"]$/;"	s	array:entries.188.tags
+1	community.json	/^      "tags": ["generative", "library", "norgard", "midi"]$/;"	s	array:entries.128.tags
+1	community.json	/^      "tags": ["generative", "sequencer", "synth", "crow", "midi"]$/;"	s	array:entries.59.tags
+1	community.json	/^      "tags": ["granular", "grid", "arc"]$/;"	s	array:entries.171.tags
+1	community.json	/^      "tags": ["granular", "looper"]$/;"	s	array:entries.85.tags
+1	community.json	/^      "tags": ["grid", "arc", "crow", "midi"]$/;"	s	array:entries.29.tags
+1	community.json	/^      "tags": ["grid", "arc", "lib"]$/;"	s	array:entries.214.tags
+1	community.json	/^      "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"]$/;"	s	array:entries.33.tags
+1	community.json	/^      "tags": ["grid", "crow", "sequencer"]$/;"	s	array:entries.80.tags
+1	community.json	/^      "tags": ["grid", "looper", "sequencer"]$/;"	s	array:entries.164.tags
+1	community.json	/^      "tags": ["grid", "midi", "sequencer", "sampler"]$/;"	s	array:entries.81.tags
+1	community.json	/^      "tags": ["grid", "midi", "sequencer", "synth"]$/;"	s	array:entries.75.tags
+1	community.json	/^      "tags": ["grid", "midi", "sequencer"]$/;"	s	array:entries.215.tags
+1	community.json	/^      "tags": ["grid", "midi", "synth", "drone", "generative"]$/;"	s	array:entries.42.tags
+1	community.json	/^      "tags": ["grid", "sequencer", "crow", "midi"]$/;"	s	array:entries.7.tags
+1	community.json	/^      "tags": ["grid", "sequencer", "generative", "crow", "midi", "arc"]$/;"	s	array:entries.9.tags
+1	community.json	/^      "tags": ["grid", "sequencer", "midi", "link"]$/;"	s	array:entries.199.tags
+1	community.json	/^      "tags": ["grid", "sequencer"]$/;"	s	array:entries.159.tags
+1	community.json	/^      "tags": ["hid", "demo"]$/;"	s	array:entries.87.tags
+1	community.json	/^      "tags": ["hid", "keyboard"]$/;"	s	array:entries.140.tags
+1	community.json	/^      "tags": ["keyboard", "synth", "midi"]$/;"	s	array:entries.149.tags
+1	community.json	/^      "tags": ["lib", "drum"]$/;"	s	array:entries.84.tags
+1	community.json	/^      "tags": ["looper", "grid"]$/;"	s	array:entries.43.tags
+1	community.json	/^      "tags": ["looper", "sequencer", "grid", "crow"]$/;"	s	array:entries.133.tags
+1	community.json	/^      "tags": ["looper", "sequencer"]$/;"	s	array:entries.40.tags
+1	community.json	/^      "tags": ["looper","sampler"]$/;"	s	array:entries.125.tags
+1	community.json	/^      "tags": ["looper","sampler"]$/;"	s	array:entries.168.tags
+1	community.json	/^      "tags": ["midi", "gen", "sky", "sequencer"]$/;"	s	array:entries.192.tags
+1	community.json	/^      "tags": ["midi", "lfo"]$/;"	s	array:entries.32.tags
+1	community.json	/^      "tags": ["norns", "crow"]$/;"	s	array:entries.144.tags
+1	community.json	/^      "tags": ["norns", "crow"]$/;"	s	array:entries.44.tags
+1	community.json	/^      "tags": ["paulstretch", "fx"]$/;"	s	array:entries.70.tags
+1	community.json	/^      "tags": ["sequencer", "crow", "m4l"]$/;"	s	array:entries.217.tags
+1	community.json	/^      "tags": ["sequencer", "crow"]$/;"	s	array:entries.213.tags
+1	community.json	/^      "tags": ["sequencer", "generative", "crow", "midi"]$/;"	s	array:entries.41.tags
+1	community.json	/^      "tags": ["sequencer", "generative", "midi", "crow"]$/;"	s	array:entries.60.tags
+1	community.json	/^      "tags": ["sequencer", "generative"]$/;"	s	array:entries.16.tags
+1	community.json	/^      "tags": ["sequencer", "grid", "crow", "midi"]$/;"	s	array:entries.111.tags
+1	community.json	/^      "tags": ["sequencer", "grid", "crow"]$/;"	s	array:entries.147.tags
+1	community.json	/^      "tags": ["sequencer", "grid"]$/;"	s	array:entries.22.tags
+1	community.json	/^      "tags": ["sequencer", "midi", "engine"]$/;"	s	array:entries.47.tags
+1	community.json	/^      "tags": ["sequencer", "midi", "grid"]$/;"	s	array:entries.56.tags
+1	community.json	/^      "tags": ["sequencer", "midi"]$/;"	s	array:entries.158.tags
+1	community.json	/^      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]$/;"	s	array:entries.104.tags
+1	community.json	/^      "tags": ["sequencer", "synth", "crow"]$/;"	s	array:entries.62.tags
+1	community.json	/^      "tags": ["sequencer","midi"]$/;"	s	array:entries.124.tags
+1	community.json	/^      "tags": ["sequencer","midi"]$/;"	s	array:entries.154.tags
+1	community.json	/^      "tags": ["sequins", "lattice", "eduscript"]$/;"	s	array:entries.179.tags
+1	community.json	/^      "tags": ["softcut", "lib"]$/;"	s	array:entries.186.tags
+1	community.json	/^      "tags": ["softcut", "looper", "delay"]$/;"	s	array:entries.210.tags
+1	community.json	/^      "tags": ["softcut", "sines", "granular"]$/;"	s	array:entries.86.tags
+1	community.json	/^      "tags": ["synth", "fm", "grid", "looper", "delay"]$/;"	s	array:entries.220.tags
+1	community.json	/^      "tags": ["synth", "fm", "grid"]$/;"	s	array:entries.219.tags
+1	community.json	/^      "tags": ["synth", "generative"]$/;"	s	array:entries.52.tags
+1	community.json	/^      "tags": ["synth", "granular"]$/;"	s	array:entries.78.tags
+1	community.json	/^      "tags": ["synth", "midi", "crow"]$/;"	s	array:entries.105.tags
+1	community.json	/^      "tags": ["synth", "midi", "grid", "arc"]$/;"	s	array:entries.115.tags
+1	community.json	/^      "tags": ["synth", "midi"]$/;"	s	array:entries.114.tags
+1	community.json	/^      "tags": ["synth", "midi"]$/;"	s	array:entries.145.tags
+1	community.json	/^      "tags": ["synth", "midi"]$/;"	s	array:entries.63.tags
+1	community.json	/^      "tags": ["synth", "midi"]$/;"	s	array:entries.77.tags
+1	community.json	/^      "tags": ["synth", "noise"]$/;"	s	array:entries.83.tags
+1	community.json	/^      "tags": ["synth", "random"]$/;"	s	array:entries.101.tags
+1	community.json	/^      "tags": ["synth", "sequencer", "grid"]$/;"	s	array:entries.118.tags
+1	community.json	/^      "tags": ["synth", "sequencer"]$/;"	s	array:entries.58.tags
+1	community.json	/^      "tags": ["tape", "utilities"]$/;"	s	array:entries.208.tags
+1	community.json	/^      "tags": ["tracker", "midi"]$/;"	s	array:entries.211.tags
+1	community.json	/^    {$/;"	o	array:entries
+10	community.json	/^    {$/;"	o	array:entries
+100	community.json	/^    {$/;"	o	array:entries
+101	community.json	/^    {$/;"	o	array:entries
+102	community.json	/^    {$/;"	o	array:entries
+103	community.json	/^    {$/;"	o	array:entries
+104	community.json	/^    {$/;"	o	array:entries
+105	community.json	/^    {$/;"	o	array:entries
+106	community.json	/^    {$/;"	o	array:entries
+107	community.json	/^    {$/;"	o	array:entries
+108	community.json	/^    {$/;"	o	array:entries
+109	community.json	/^    {$/;"	o	array:entries
+11	community.json	/^    {$/;"	o	array:entries
+110	community.json	/^    {$/;"	o	array:entries
+111	community.json	/^    {$/;"	o	array:entries
+112	community.json	/^    {$/;"	o	array:entries
+113	community.json	/^    {$/;"	o	array:entries
+114	community.json	/^    {$/;"	o	array:entries
+115	community.json	/^    {$/;"	o	array:entries
+116	community.json	/^    {$/;"	o	array:entries
+117	community.json	/^    {$/;"	o	array:entries
+118	community.json	/^    {$/;"	o	array:entries
+119	community.json	/^    {$/;"	o	array:entries
+12	community.json	/^    {$/;"	o	array:entries
+120	community.json	/^    {$/;"	o	array:entries
+121	community.json	/^    {$/;"	o	array:entries
+122	community.json	/^    {$/;"	o	array:entries
+123	community.json	/^    {$/;"	o	array:entries
+124	community.json	/^    {$/;"	o	array:entries
+125	community.json	/^    {$/;"	o	array:entries
+126	community.json	/^    {$/;"	o	array:entries
+127	community.json	/^    {$/;"	o	array:entries
+128	community.json	/^    {$/;"	o	array:entries
+129	community.json	/^    {$/;"	o	array:entries
+13	community.json	/^    {$/;"	o	array:entries
+130	community.json	/^    {$/;"	o	array:entries
+131	community.json	/^    {$/;"	o	array:entries
+132	community.json	/^    {$/;"	o	array:entries
+133	community.json	/^    {$/;"	o	array:entries
+134	community.json	/^    {$/;"	o	array:entries
+135	community.json	/^    {$/;"	o	array:entries
+136	community.json	/^    {$/;"	o	array:entries
+137	community.json	/^    {$/;"	o	array:entries
+138	community.json	/^    {$/;"	o	array:entries
+139	community.json	/^    {$/;"	o	array:entries
+14	community.json	/^    {$/;"	o	array:entries
+140	community.json	/^    {$/;"	o	array:entries
+141	community.json	/^    {$/;"	o	array:entries
+142	community.json	/^    {$/;"	o	array:entries
+143	community.json	/^    {$/;"	o	array:entries
+144	community.json	/^    {$/;"	o	array:entries
+145	community.json	/^    {$/;"	o	array:entries
+146	community.json	/^    {$/;"	o	array:entries
+147	community.json	/^    {$/;"	o	array:entries
+148	community.json	/^    {$/;"	o	array:entries
+149	community.json	/^    {$/;"	o	array:entries
+15	community.json	/^    {$/;"	o	array:entries
+150	community.json	/^    {$/;"	o	array:entries
+151	community.json	/^    {$/;"	o	array:entries
+152	community.json	/^    {$/;"	o	array:entries
+153	community.json	/^    {$/;"	o	array:entries
+154	community.json	/^    {$/;"	o	array:entries
+155	community.json	/^    {$/;"	o	array:entries
+156	community.json	/^    {$/;"	o	array:entries
+157	community.json	/^    {$/;"	o	array:entries
+158	community.json	/^    {$/;"	o	array:entries
+159	community.json	/^    {$/;"	o	array:entries
+16	community.json	/^    {$/;"	o	array:entries
+160	community.json	/^    {$/;"	o	array:entries
+161	community.json	/^    {$/;"	o	array:entries
+162	community.json	/^    {$/;"	o	array:entries
+163	community.json	/^    {$/;"	o	array:entries
+164	community.json	/^    {$/;"	o	array:entries
+165	community.json	/^    {$/;"	o	array:entries
+166	community.json	/^    {$/;"	o	array:entries
+167	community.json	/^    {$/;"	o	array:entries
+168	community.json	/^    {$/;"	o	array:entries
+169	community.json	/^    {$/;"	o	array:entries
+17	community.json	/^    {$/;"	o	array:entries
+170	community.json	/^    {$/;"	o	array:entries
+171	community.json	/^    {$/;"	o	array:entries
+172	community.json	/^    {$/;"	o	array:entries
+173	community.json	/^    {$/;"	o	array:entries
+174	community.json	/^    {$/;"	o	array:entries
+175	community.json	/^    {$/;"	o	array:entries
+176	community.json	/^    {$/;"	o	array:entries
+177	community.json	/^    {$/;"	o	array:entries
+178	community.json	/^    {$/;"	o	array:entries
+179	community.json	/^    {$/;"	o	array:entries
+18	community.json	/^    {$/;"	o	array:entries
+180	community.json	/^    {$/;"	o	array:entries
+181	community.json	/^    {$/;"	o	array:entries
+182	community.json	/^    {$/;"	o	array:entries
+183	community.json	/^    {$/;"	o	array:entries
+184	community.json	/^    {$/;"	o	array:entries
+185	community.json	/^    {$/;"	o	array:entries
+186	community.json	/^    {$/;"	o	array:entries
+187	community.json	/^    {$/;"	o	array:entries
+188	community.json	/^    {$/;"	o	array:entries
+189	community.json	/^    {$/;"	o	array:entries
+19	community.json	/^    {$/;"	o	array:entries
+190	community.json	/^    {$/;"	o	array:entries
+191	community.json	/^    {$/;"	o	array:entries
+192	community.json	/^    {$/;"	o	array:entries
+193	community.json	/^    {$/;"	o	array:entries
+194	community.json	/^    {$/;"	o	array:entries
+195	community.json	/^    {$/;"	o	array:entries
+196	community.json	/^    {$/;"	o	array:entries
+197	community.json	/^    {$/;"	o	array:entries
+198	community.json	/^    {$/;"	o	array:entries
+199	community.json	/^    {$/;"	o	array:entries
+2	base.json	/^    {$/;"	o	array:entries
+2	community.json	/^       "tags": ["sequencer","sampler","midi","norns","crow"]$/;"	s	array:entries.180.tags
+2	community.json	/^      "tags": ["arc", "grid", "looper", "drum", "synth"]$/;"	s	array:entries.10.tags
+2	community.json	/^      "tags": ["ca", "crow", "midi", "sequencer"]$/;"	s	array:entries.100.tags
+2	community.json	/^      "tags": ["crow", "ER-301", "nanoKONTROL 2"]$/;"	s	array:entries.122.tags
+2	community.json	/^      "tags": ["crow", "arc", "utilities", "midi"]$/;"	s	array:entries.1.tags
+2	community.json	/^      "tags": ["crow", "grid", "just-friends", "sequencer"]$/;"	s	array:entries.57.tags
+2	community.json	/^      "tags": ["crow", "midi", "grid", "sequencer", "generative"]$/;"	s	array:entries.5.tags
+2	community.json	/^      "tags": ["delay","sampler","looper","granular"]$/;"	s	array:entries.127.tags
+2	community.json	/^      "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]$/;"	s	array:entries.46.tags
+2	community.json	/^      "tags": ["drum", "sequencer", "grid"]$/;"	s	array:entries.89.tags
+2	community.json	/^      "tags": ["drum", "synth", "sequencer"]$/;"	s	array:entries.166.tags
+2	community.json	/^      "tags": ["generative", "library", "norgard", "midi"]$/;"	s	array:entries.128.tags
+2	community.json	/^      "tags": ["generative", "sequencer", "synth", "crow", "midi"]$/;"	s	array:entries.59.tags
+2	community.json	/^      "tags": ["granular", "grid", "arc"]$/;"	s	array:entries.171.tags
+2	community.json	/^      "tags": ["grid", "arc", "crow", "midi"]$/;"	s	array:entries.29.tags
+2	community.json	/^      "tags": ["grid", "arc", "lib"]$/;"	s	array:entries.214.tags
+2	community.json	/^      "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"]$/;"	s	array:entries.33.tags
+2	community.json	/^      "tags": ["grid", "crow", "sequencer"]$/;"	s	array:entries.80.tags
+2	community.json	/^      "tags": ["grid", "looper", "sequencer"]$/;"	s	array:entries.164.tags
+2	community.json	/^      "tags": ["grid", "midi", "sequencer", "sampler"]$/;"	s	array:entries.81.tags
+2	community.json	/^      "tags": ["grid", "midi", "sequencer", "synth"]$/;"	s	array:entries.75.tags
+2	community.json	/^      "tags": ["grid", "midi", "sequencer"]$/;"	s	array:entries.215.tags
+2	community.json	/^      "tags": ["grid", "midi", "synth", "drone", "generative"]$/;"	s	array:entries.42.tags
+2	community.json	/^      "tags": ["grid", "sequencer", "crow", "midi"]$/;"	s	array:entries.7.tags
+2	community.json	/^      "tags": ["grid", "sequencer", "generative", "crow", "midi", "arc"]$/;"	s	array:entries.9.tags
+2	community.json	/^      "tags": ["grid", "sequencer", "midi", "link"]$/;"	s	array:entries.199.tags
+2	community.json	/^      "tags": ["keyboard", "synth", "midi"]$/;"	s	array:entries.149.tags
+2	community.json	/^      "tags": ["looper", "sequencer", "grid", "crow"]$/;"	s	array:entries.133.tags
+2	community.json	/^      "tags": ["midi", "gen", "sky", "sequencer"]$/;"	s	array:entries.192.tags
+2	community.json	/^      "tags": ["sequencer", "crow", "m4l"]$/;"	s	array:entries.217.tags
+2	community.json	/^      "tags": ["sequencer", "generative", "crow", "midi"]$/;"	s	array:entries.41.tags
+2	community.json	/^      "tags": ["sequencer", "generative", "midi", "crow"]$/;"	s	array:entries.60.tags
+2	community.json	/^      "tags": ["sequencer", "grid", "crow", "midi"]$/;"	s	array:entries.111.tags
+2	community.json	/^      "tags": ["sequencer", "grid", "crow"]$/;"	s	array:entries.147.tags
+2	community.json	/^      "tags": ["sequencer", "midi", "engine"]$/;"	s	array:entries.47.tags
+2	community.json	/^      "tags": ["sequencer", "midi", "grid"]$/;"	s	array:entries.56.tags
+2	community.json	/^      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]$/;"	s	array:entries.104.tags
+2	community.json	/^      "tags": ["sequencer", "synth", "crow"]$/;"	s	array:entries.62.tags
+2	community.json	/^      "tags": ["sequins", "lattice", "eduscript"]$/;"	s	array:entries.179.tags
+2	community.json	/^      "tags": ["softcut", "looper", "delay"]$/;"	s	array:entries.210.tags
+2	community.json	/^      "tags": ["softcut", "sines", "granular"]$/;"	s	array:entries.86.tags
+2	community.json	/^      "tags": ["synth", "fm", "grid", "looper", "delay"]$/;"	s	array:entries.220.tags
+2	community.json	/^      "tags": ["synth", "fm", "grid"]$/;"	s	array:entries.219.tags
+2	community.json	/^      "tags": ["synth", "midi", "crow"]$/;"	s	array:entries.105.tags
+2	community.json	/^      "tags": ["synth", "midi", "grid", "arc"]$/;"	s	array:entries.115.tags
+2	community.json	/^      "tags": ["synth", "sequencer", "grid"]$/;"	s	array:entries.118.tags
+2	community.json	/^    {$/;"	o	array:entries
+20	community.json	/^    {$/;"	o	array:entries
+200	community.json	/^    {$/;"	o	array:entries
+201	community.json	/^    {$/;"	o	array:entries
+202	community.json	/^    {$/;"	o	array:entries
+203	community.json	/^    {$/;"	o	array:entries
+204	community.json	/^    {$/;"	o	array:entries
+205	community.json	/^    {$/;"	o	array:entries
+206	community.json	/^    {$/;"	o	array:entries
+207	community.json	/^    {$/;"	o	array:entries
+208	community.json	/^    {$/;"	o	array:entries
+209	community.json	/^    {$/;"	o	array:entries
+21	community.json	/^    {$/;"	o	array:entries
+210	community.json	/^    {$/;"	o	array:entries
+211	community.json	/^    {$/;"	o	array:entries
+212	community.json	/^    {$/;"	o	array:entries
+213	community.json	/^    {$/;"	o	array:entries
+214	community.json	/^    {$/;"	o	array:entries
+215	community.json	/^    {$/;"	o	array:entries
+216	community.json	/^    {$/;"	o	array:entries
+217	community.json	/^    {$/;"	o	array:entries
+218	community.json	/^    {$/;"	o	array:entries
+219	community.json	/^    {$/;"	o	array:entries
+22	community.json	/^    {$/;"	o	array:entries
+220	community.json	/^    {$/;"	o	array:entries
+23	community.json	/^    {$/;"	o	array:entries
+24	community.json	/^    {$/;"	o	array:entries
+25	community.json	/^    {$/;"	o	array:entries
+26	community.json	/^    {$/;"	o	array:entries
+27	community.json	/^    {$/;"	o	array:entries
+28	community.json	/^    {$/;"	o	array:entries
+29	community.json	/^    {$/;"	o	array:entries
+3	community.json	/^       "tags": ["sequencer","sampler","midi","norns","crow"]$/;"	s	array:entries.180.tags
+3	community.json	/^      "tags": ["arc", "grid", "looper", "drum", "synth"]$/;"	s	array:entries.10.tags
+3	community.json	/^      "tags": ["ca", "crow", "midi", "sequencer"]$/;"	s	array:entries.100.tags
+3	community.json	/^      "tags": ["crow", "arc", "utilities", "midi"]$/;"	s	array:entries.1.tags
+3	community.json	/^      "tags": ["crow", "grid", "just-friends", "sequencer"]$/;"	s	array:entries.57.tags
+3	community.json	/^      "tags": ["crow", "midi", "grid", "sequencer", "generative"]$/;"	s	array:entries.5.tags
+3	community.json	/^      "tags": ["delay","sampler","looper","granular"]$/;"	s	array:entries.127.tags
+3	community.json	/^      "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]$/;"	s	array:entries.46.tags
+3	community.json	/^      "tags": ["generative", "library", "norgard", "midi"]$/;"	s	array:entries.128.tags
+3	community.json	/^      "tags": ["generative", "sequencer", "synth", "crow", "midi"]$/;"	s	array:entries.59.tags
+3	community.json	/^      "tags": ["grid", "arc", "crow", "midi"]$/;"	s	array:entries.29.tags
+3	community.json	/^      "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"]$/;"	s	array:entries.33.tags
+3	community.json	/^      "tags": ["grid", "midi", "sequencer", "sampler"]$/;"	s	array:entries.81.tags
+3	community.json	/^      "tags": ["grid", "midi", "sequencer", "synth"]$/;"	s	array:entries.75.tags
+3	community.json	/^      "tags": ["grid", "midi", "synth", "drone", "generative"]$/;"	s	array:entries.42.tags
+3	community.json	/^      "tags": ["grid", "sequencer", "crow", "midi"]$/;"	s	array:entries.7.tags
+3	community.json	/^      "tags": ["grid", "sequencer", "generative", "crow", "midi", "arc"]$/;"	s	array:entries.9.tags
+3	community.json	/^      "tags": ["grid", "sequencer", "midi", "link"]$/;"	s	array:entries.199.tags
+3	community.json	/^      "tags": ["looper", "sequencer", "grid", "crow"]$/;"	s	array:entries.133.tags
+3	community.json	/^      "tags": ["midi", "gen", "sky", "sequencer"]$/;"	s	array:entries.192.tags
+3	community.json	/^      "tags": ["sequencer", "generative", "crow", "midi"]$/;"	s	array:entries.41.tags
+3	community.json	/^      "tags": ["sequencer", "generative", "midi", "crow"]$/;"	s	array:entries.60.tags
+3	community.json	/^      "tags": ["sequencer", "grid", "crow", "midi"]$/;"	s	array:entries.111.tags
+3	community.json	/^      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]$/;"	s	array:entries.104.tags
+3	community.json	/^      "tags": ["synth", "fm", "grid", "looper", "delay"]$/;"	s	array:entries.220.tags
+3	community.json	/^      "tags": ["synth", "midi", "grid", "arc"]$/;"	s	array:entries.115.tags
+3	community.json	/^    {$/;"	o	array:entries
+30	community.json	/^    {$/;"	o	array:entries
+31	community.json	/^    {$/;"	o	array:entries
+32	community.json	/^    {$/;"	o	array:entries
+33	community.json	/^    {$/;"	o	array:entries
+34	community.json	/^    {$/;"	o	array:entries
+35	community.json	/^    {$/;"	o	array:entries
+36	community.json	/^    {$/;"	o	array:entries
+37	community.json	/^    {$/;"	o	array:entries
+38	community.json	/^    },{$/;"	o	array:entries
+39	community.json	/^    {$/;"	o	array:entries
+4	community.json	/^       "tags": ["sequencer","sampler","midi","norns","crow"]$/;"	s	array:entries.180.tags
+4	community.json	/^      "tags": ["arc", "grid", "looper", "drum", "synth"]$/;"	s	array:entries.10.tags
+4	community.json	/^      "tags": ["crow", "midi", "grid", "sequencer", "generative"]$/;"	s	array:entries.5.tags
+4	community.json	/^      "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]$/;"	s	array:entries.46.tags
+4	community.json	/^      "tags": ["generative", "sequencer", "synth", "crow", "midi"]$/;"	s	array:entries.59.tags
+4	community.json	/^      "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"]$/;"	s	array:entries.33.tags
+4	community.json	/^      "tags": ["grid", "midi", "synth", "drone", "generative"]$/;"	s	array:entries.42.tags
+4	community.json	/^      "tags": ["grid", "sequencer", "generative", "crow", "midi", "arc"]$/;"	s	array:entries.9.tags
+4	community.json	/^      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]$/;"	s	array:entries.104.tags
+4	community.json	/^      "tags": ["synth", "fm", "grid", "looper", "delay"]$/;"	s	array:entries.220.tags
+4	community.json	/^    {$/;"	o	array:entries
+40	community.json	/^    {$/;"	o	array:entries
+41	community.json	/^    {$/;"	o	array:entries
+42	community.json	/^    {$/;"	o	array:entries
+43	community.json	/^    {$/;"	o	array:entries
+44	community.json	/^    {$/;"	o	array:entries
+45	community.json	/^    {$/;"	o	array:entries
+46	community.json	/^    {$/;"	o	array:entries
+47	community.json	/^    {$/;"	o	array:entries
+48	community.json	/^    {$/;"	o	array:entries
+49	community.json	/^    {$/;"	o	array:entries
+5	community.json	/^      "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]$/;"	s	array:entries.46.tags
+5	community.json	/^      "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"]$/;"	s	array:entries.33.tags
+5	community.json	/^      "tags": ["grid", "sequencer", "generative", "crow", "midi", "arc"]$/;"	s	array:entries.9.tags
+5	community.json	/^      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]$/;"	s	array:entries.104.tags
+5	community.json	/^    {$/;"	o	array:entries
+50	community.json	/^    {$/;"	o	array:entries
+51	community.json	/^    {$/;"	o	array:entries
+52	community.json	/^    {$/;"	o	array:entries
+53	community.json	/^    {$/;"	o	array:entries
+54	community.json	/^    {$/;"	o	array:entries
+55	community.json	/^    {$/;"	o	array:entries
+56	community.json	/^    {$/;"	o	array:entries
+57	community.json	/^    {$/;"	o	array:entries
+58	community.json	/^    {$/;"	o	array:entries
+59	community.json	/^    {$/;"	o	array:entries
+6	community.json	/^    {$/;"	o	array:entries
+60	community.json	/^    {$/;"	o	array:entries
+61	community.json	/^    {$/;"	o	array:entries
+62	community.json	/^    {$/;"	o	array:entries
+63	community.json	/^    {$/;"	o	array:entries
+64	community.json	/^    {$/;"	o	array:entries
+65	community.json	/^    {$/;"	o	array:entries
+66	community.json	/^    {$/;"	o	array:entries
+67	community.json	/^    {$/;"	o	array:entries
+68	community.json	/^    {$/;"	o	array:entries
+69	community.json	/^    {$/;"	o	array:entries
+7	community.json	/^    {$/;"	o	array:entries
+70	community.json	/^    {$/;"	o	array:entries
+71	community.json	/^    {$/;"	o	array:entries
+72	community.json	/^    {$/;"	o	array:entries
+73	community.json	/^    {$/;"	o	array:entries
+74	community.json	/^    {$/;"	o	array:entries
+75	community.json	/^    {$/;"	o	array:entries
+76	community.json	/^    {$/;"	o	array:entries
+77	community.json	/^    {$/;"	o	array:entries
+78	community.json	/^    {$/;"	o	array:entries
+79	community.json	/^    {$/;"	o	array:entries
+8	community.json	/^    {$/;"	o	array:entries
+80	community.json	/^    },{$/;"	o	array:entries
+81	community.json	/^    {$/;"	o	array:entries
+82	community.json	/^    {$/;"	o	array:entries
+83	community.json	/^    {$/;"	o	array:entries
+84	community.json	/^    {$/;"	o	array:entries
+85	community.json	/^    {$/;"	o	array:entries
+86	community.json	/^    {$/;"	o	array:entries
+87	community.json	/^    {$/;"	o	array:entries
+88	community.json	/^    {$/;"	o	array:entries
+89	community.json	/^    {$/;"	o	array:entries
+9	community.json	/^    {$/;"	o	array:entries
+90	community.json	/^    {$/;"	o	array:entries
+91	community.json	/^    {$/;"	o	array:entries
+92	community.json	/^    {$/;"	o	array:entries
+93	community.json	/^    {$/;"	o	array:entries
+94	community.json	/^    {$/;"	o	array:entries
+95	community.json	/^    {$/;"	o	array:entries
+96	community.json	/^    {$/;"	o	array:entries
+97	community.json	/^    {$/;"	o	array:entries
+98	community.json	/^    {$/;"	o	array:entries
+99	community.json	/^    {$/;"	o	array:entries
+author	community.json	/^       "author": "jaseknighter",$/;"	s	object:entries.180
+author	community.json	/^      "author": "@ambalek",$/;"	s	object:entries.59
+author	community.json	/^      "author": "@argotechnica, @infinitedigits, @license, @tyleretters",$/;"	s	object:entries.211
+author	community.json	/^      "author": "@obi & @license",$/;"	s	object:entries.60
+author	community.json	/^      "author": "@tyleretters & @license",$/;"	s	object:entries.61
+author	community.json	/^      "author": "@tyleretters && @license && the lines community",$/;"	s	object:entries.52
+author	community.json	/^      "author": "@tyleretters",$/;"	s	object:entries.16
+author	community.json	/^      "author": "@tyleretters",$/;"	s	object:entries.179
+author	community.json	/^      "author": "@tyleretters",$/;"	s	object:entries.205
+author	community.json	/^      "author": "@tyleretters",$/;"	s	object:entries.74
+author	community.json	/^      "author": "@tyleretters",$/;"	s	object:entries.9
+author	community.json	/^      "author": "Aidan Reilly (oootini)",$/;"	s	object:entries.172
+author	community.json	/^      "author": "Anton Hörnquist (jah)",$/;"	s	object:entries.115
+author	community.json	/^      "author": "Anton Hörnquist (jah)",$/;"	s	object:entries.162
+author	community.json	/^      "author": "Anton Hörnquist (jah)",$/;"	s	object:entries.182
+author	community.json	/^      "author": "Arman Bohn (distropolis)",$/;"	s	object:entries.154
+author	community.json	/^      "author": "Brian Crabtree (tehn)",$/;"	s	object:entries.10
+author	community.json	/^      "author": "Brian Crabtree (tehn)",$/;"	s	object:entries.113
+author	community.json	/^      "author": "Brian Crabtree (tehn)",$/;"	s	object:entries.13
+author	community.json	/^      "author": "Brian Crabtree (tehn)\/Duncan (GoneCaving)",$/;"	s	object:entries.15
+author	community.json	/^      "author": "Brian Crabtree (tehn)\/Guy (nattog)",$/;"	s	object:entries.14
+author	community.json	/^      "author": "Brock Wilcox (awwaiid)",$/;"	s	object:entries.164
+author	community.json	/^      "author": "Carl Testa (carltesta)",$/;"	s	object:entries.108
+author	community.json	/^      "author": "Carl Testa (carltesta)",$/;"	s	object:entries.188
+author	community.json	/^      "author": "Carl Testa (carltesta)",$/;"	s	object:entries.72
+author	community.json	/^      "author": "Casey Childers (notester)",$/;"	s	object:entries.158
+author	community.json	/^      "author": "Caulen (speakerdamage)",$/;"	s	object:entries.203
+author	community.json	/^      "author": "Caulen (speakerdamage)",$/;"	s	object:entries.206
+author	community.json	/^      "author": "Caulen (speakerdamage)",$/;"	s	object:entries.86
+author	community.json	/^      "author": "Chris Lowis",$/;"	s	object:entries.201
+author	community.json	/^      "author": "Christian Kasperbauer (kasperbauer)",$/;"	s	object:entries.111
+author	community.json	/^      "author": "Colin Drake (cfd90)",$/;"	s	object:entries.118
+author	community.json	/^      "author": "Colin Drake (cfd90)",$/;"	s	object:entries.166
+author	community.json	/^      "author": "Colin Drake (cfd90)",$/;"	s	object:entries.181
+author	community.json	/^      "author": "Colin Drake (cfd90)",$/;"	s	object:entries.204
+author	community.json	/^      "author": "Colin Drake (cfd90)",$/;"	s	object:entries.22
+author	community.json	/^      "author": "Colin Drake (cfd90)",$/;"	s	object:entries.24
+author	community.json	/^      "author": "Colin Drake (cfd90)",$/;"	s	object:entries.49
+author	community.json	/^      "author": "Colin Drake (cfd90)",$/;"	s	object:entries.77
+author	community.json	/^      "author": "Dan Tong (dwtong)",$/;"	s	object:entries.70
+author	community.json	/^      "author": "David Kettler (21echoes)",$/;"	s	object:entries.1
+author	community.json	/^      "author": "David Kettler (21echoes)",$/;"	s	object:entries.148
+author	community.json	/^      "author": "David Kettler (21echoes)",$/;"	s	object:entries.169
+author	community.json	/^      "author": "David Kettler (21echoes)",$/;"	s	object:entries.46
+author	community.json	/^      "author": "Devine Lu Linvega (neauoire)",$/;"	s	object:entries.116
+author	community.json	/^      "author": "Devine Lu Linvega (neauoire)",$/;"	s	object:entries.157
+author	community.json	/^      "author": "Dominique (anoikisnomads)",$/;"	s	object:entries.137
+author	community.json	/^      "author": "Duncan Geere",$/;"	s	object:entries.104
+author	community.json	/^      "author": "Duncan Geere",$/;"	s	object:entries.80
+author	community.json	/^      "author": "Guy (nattog)",$/;"	s	object:entries.146
+author	community.json	/^      "author": "Guy (nattog)",$/;"	s	object:entries.207
+author	community.json	/^      "author": "Jake (jakecarter)",$/;"	s	object:entries.34
+author	community.json	/^      "author": "Joel Walden (wardores)",$/;"	s	object:entries.45
+author	community.json	/^      "author": "John Mitchell (jlmitch5)",$/;"	s	object:entries.105
+author	community.json	/^      "author": "John Mitchell (jlmitch5)",$/;"	s	object:entries.122
+author	community.json	/^      "author": "Jonathan Snyder (jaseknighter)",$/;"	s	object:entries.144
+author	community.json	/^      "author": "Jonathan Snyder (jaseknighter)",$/;"	s	object:entries.62
+author	community.json	/^      "author": "Jordan Besly (eigen)",$/;"	s	object:entries.0
+author	community.json	/^      "author": "Jordan Besly (eigen)",$/;"	s	object:entries.143
+author	community.json	/^      "author": "Jordan Besly (eigen)",$/;"	s	object:entries.165
+author	community.json	/^      "author": "Ken Frederick (frederickk)",$/;"	s	object:entries.128
+author	community.json	/^      "author": "Ken Frederick (frederickk)",$/;"	s	object:entries.183
+author	community.json	/^      "author": "Ken Frederick (frederickk)",$/;"	s	object:entries.19
+author	community.json	/^      "author": "Ken Frederick (frederickk)",$/;"	s	object:entries.97
+author	community.json	/^      "author": "Kevin Lindley",$/;"	s	object:entries.47
+author	community.json	/^      "author": "Kevin Lindley",$/;"	s	object:entries.48
+author	community.json	/^      "author": "LFSaw",$/;"	s	object:entries.101
+author	community.json	/^      "author": "LFSaw",$/;"	s	object:entries.83
+author	community.json	/^      "author": "Lee Azzarello (lazzarello)",$/;"	s	object:entries.63
+author	community.json	/^      "author": "Linus Schrab (@vicimity)",$/;"	s	object:entries.213
+author	community.json	/^      "author": "Luke Sanger (Molotov)",$/;"	s	object:entries.94
+author	community.json	/^      "author": "Lyle Mills (lylem)",$/;"	s	object:entries.170
+author	community.json	/^      "author": "Lyle Mills (lylem)",$/;"	s	object:entries.29
+author	community.json	/^      "author": "Mark Eats (markeats)",$/;"	s	object:entries.102
+author	community.json	/^      "author": "Mark Eats (markeats)",$/;"	s	object:entries.11
+author	community.json	/^      "author": "Mark Eats (markeats)",$/;"	s	object:entries.114
+author	community.json	/^      "author": "Mark Eats (markeats)",$/;"	s	object:entries.145
+author	community.json	/^      "author": "Mark Eats (markeats)",$/;"	s	object:entries.196
+author	community.json	/^      "author": "Mark Eats (markeats)",$/;"	s	object:entries.202
+author	community.json	/^      "author": "Mark Eats (markeats)",$/;"	s	object:entries.32
+author	community.json	/^      "author": "Mark Eats (markeats)",$/;"	s	object:entries.53
+author	community.json	/^      "author": "Markel Martinez (markel_m)",$/;"	s	object:entries.176
+author	community.json	/^      "author": "Mat (Justmat)",$/;"	s	object:entries.107
+author	community.json	/^      "author": "Mat (Justmat)",$/;"	s	object:entries.142
+author	community.json	/^      "author": "Mat (Justmat)",$/;"	s	object:entries.167
+author	community.json	/^      "author": "Mat (Justmat)",$/;"	s	object:entries.175
+author	community.json	/^      "author": "Mat (Justmat)",$/;"	s	object:entries.184
+author	community.json	/^      "author": "Mat (Justmat)",$/;"	s	object:entries.26
+author	community.json	/^      "author": "Mat (Justmat)",$/;"	s	object:entries.27
+author	community.json	/^      "author": "Mat (Justmat)",$/;"	s	object:entries.65
+author	community.json	/^      "author": "Mat (Justmat)",$/;"	s	object:entries.79
+author	community.json	/^      "author": "Mat (justmat)",$/;"	s	object:entries.109
+author	community.json	/^      "author": "Mat (justmat)",$/;"	s	object:entries.150
+author	community.json	/^      "author": "Mat (justmat)",$/;"	s	object:entries.156
+author	community.json	/^      "author": "Mat (justmat)",$/;"	s	object:entries.39
+author	community.json	/^      "author": "Mat (justmat)",$/;"	s	object:entries.44
+author	community.json	/^      "author": "Mat (justmat)",$/;"	s	object:entries.99
+author	community.json	/^      "author": "Matt Biddulph (mattbiddulph)",$/;"	s	object:entries.20
+author	community.json	/^      "author": "Michael Hetrick (trickyflemming)",$/;"	s	object:entries.55
+author	community.json	/^      "author": "Michael Hetrick (trickyflemming)",$/;"	s	object:entries.69
+author	community.json	/^      "author": "Michael P Jones (Quixotic7)",$/;"	s	object:entries.42
+author	community.json	/^      "author": "Michael P Jones (Quixotic7)",$/;"	s	object:entries.75
+author	community.json	/^      "author": "Michael P Jones (Quixotic7)",$/;"	s	object:entries.81
+author	community.json	/^      "author": "Midworld",$/;"	s	object:entries.189
+author	community.json	/^      "author": "Morten Wagner (popgoblin)",$/;"	s	object:entries.67
+author	community.json	/^      "author": "Naomi (sixolet)",$/;"	s	object:entries.133
+author	community.json	/^      "author": "Naomi (sixolet)",$/;"	s	object:entries.149
+author	community.json	/^      "author": "Nathan (mimetaur)",$/;"	s	object:entries.136
+author	community.json	/^      "author": "Nathan (mimetaur)",$/;"	s	object:entries.8
+author	community.json	/^      "author": "Olivier Creurer (Olivier)",$/;"	s	object:entries.54
+author	community.json	/^      "author": "Olivier",$/;"	s	object:entries.147
+author	community.json	/^      "author": "Olivier",$/;"	s	object:entries.40
+author	community.json	/^      "author": "P1505",$/;"	s	object:entries.139
+author	community.json	/^      "author": "Randy Brown (carvingcode)",$/;"	s	object:entries.185
+author	community.json	/^      "author": "Randy Brown (carvingcode)",$/;"	s	object:entries.92
+author	community.json	/^      "author": "Richard Whaling (germinal)",$/;"	s	object:entries.174
+author	community.json	/^      "author": "Rob (delineator)",$/;"	s	object:entries.152
+author	community.json	/^      "author": "Rob Schoen",$/;"	s	object:entries.159
+author	community.json	/^      "author": "Robin (midouest)",$/;"	s	object:entries.57
+author	community.json	/^      "author": "Robin (midouest)",$/;"	s	object:entries.95
+author	community.json	/^      "author": "Ryan Hodgman (alphacactus), Dan Sim (dansimco)",$/;"	s	object:entries.110
+author	community.json	/^      "author": "Ryan Laws (license)",$/;"	s	object:entries.177
+author	community.json	/^      "author": "Rylee Lyman (alanza)",$/;"	s	object:entries.208
+author	community.json	/^      "author": "Rylee Lyman (alanza)",$/;"	s	object:entries.23
+author	community.json	/^      "author": "Sam Boling (csboling)",$/;"	s	object:entries.64
+author	community.json	/^      "author": "Sam Boling (csboling)",$/;"	s	object:entries.66
+author	community.json	/^      "author": "Slawomir Lewandowski (Mendrzec)",$/;"	s	object:entries.89
+author	community.json	/^      "author": "Steven Noreyko (okyeron)",$/;"	s	object:entries.112
+author	community.json	/^      "author": "Steven Noreyko (okyeron)",$/;"	s	object:entries.199
+author	community.json	/^      "author": "Steven Noreyko (okyeron)",$/;"	s	object:entries.82
+author	community.json	/^      "author": "Sven (sbaio)",$/;"	s	object:entries.212
+author	community.json	/^      "author": "Szymon Kaliski",$/;"	s	object:entries.85
+author	community.json	/^      "author": "The Tuesday Night Machines (NightMachines)",$/;"	s	object:entries.124
+author	community.json	/^      "author": "The Tuesday Night Machines (NightMachines)",$/;"	s	object:entries.125
+author	community.json	/^      "author": "The Tuesday Night Machines (NightMachines)",$/;"	s	object:entries.126
+author	community.json	/^      "author": "The Tuesday Night Machines (NightMachines)",$/;"	s	object:entries.127
+author	community.json	/^      "author": "Thomas Kristensen (tgk)",$/;"	s	object:entries.160
+author	community.json	/^      "author": "Tim Clark (crim)",$/;"	s	object:entries.7
+author	community.json	/^      "author": "Tim Taylor (toomanatees)",$/;"	s	object:entries.41
+author	community.json	/^      "author": "Tyler (tyler)",$/;"	s	object:entries.56
+author	community.json	/^      "author": "Tyler Lubke (tyler)",$/;"	s	object:entries.173
+author	community.json	/^      "author": "Ulf Bögeholz (ulfster)",$/;"	s	object:entries.93
+author	community.json	/^      "author": "Yancy Way (echophon)",$/;"	s	object:entries.18
+author	community.json	/^      "author": "Yancy Way (echophon)",$/;"	s	object:entries.51
+author	community.json	/^      "author": "Yota Morimoto",$/;"	s	object:entries.78
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.103
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.106
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.117
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.120
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.121
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.130
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.135
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.138
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.153
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.155
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.168
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.17
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.187
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.190
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.193
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.195
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.198
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.2
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.209
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.25
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.3
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.36
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.5
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.50
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.6
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.71
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.76
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.88
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.90
+author	community.json	/^      "author": "Zack Scholl (infinitedigits)",$/;"	s	object:entries.96
+author	community.json	/^      "author": "andrew",$/;"	s	object:entries.119
+author	community.json	/^      "author": "andrew",$/;"	s	object:entries.186
+author	community.json	/^      "author": "andrew",$/;"	s	object:entries.210
+author	community.json	/^      "author": "andrew",$/;"	s	object:entries.214
+author	community.json	/^      "author": "andrew",$/;"	s	object:entries.219
+author	community.json	/^      "author": "andrew",$/;"	s	object:entries.220
+author	community.json	/^      "author": "artfwo",$/;"	s	object:entries.73
+author	community.json	/^      "author": "beat",$/;"	s	object:entries.215
+author	community.json	/^      "author": "crim",$/;"	s	object:entries.129
+author	community.json	/^      "author": "crim",$/;"	s	object:entries.197
+author	community.json	/^      "author": "dan derks (dan_derks)",$/;"	s	object:entries.33
+author	community.json	/^      "author": "dan derks (dan_derks)",$/;"	s	object:entries.43
+author	community.json	/^      "author": "felart",$/;"	s	object:entries.141
+author	community.json	/^      "author": "filip forsstrom (@ljudvagg) & linus schrab (@vicimity)",$/;"	s	object:entries.217
+author	community.json	/^      "author": "igor (its_your_bedtime)",$/;"	s	object:entries.191
+author	community.json	/^      "author": "infinitedigits,eigen,jaseknighter,tyleretters, et al",$/;"	s	object:entries.151
+author	community.json	/^      "author": "its your bedtime (its_your_bedtime)",$/;"	s	object:entries.123
+author	community.json	/^      "author": "its your bedtime (its_your_bedtime)",$/;"	s	object:entries.140
+author	community.json	/^      "author": "its your bedtime (its_your_bedtime)",$/;"	s	object:entries.161
+author	community.json	/^      "author": "its your bedtime (its_your_bedtime)",$/;"	s	object:entries.68
+author	community.json	/^      "author": "jonathan snyder (jaseknighter)",$/;"	s	object:entries.37
+author	community.json	/^      "author": "kenji garland (synthetiv)",$/;"	s	object:entries.30
+author	community.json	/^      "author": "kenji garland (synthetivv), adam aronson (setfield)",$/;"	s	object:entries.58
+author	community.json	/^      "author": "linus schrab (@vicimity) & dan derks (@dan_derks)",$/;"	s	object:entries.100
+author	community.json	/^      "author": "mark john williamson (junklight)",$/;"	s	object:entries.91
+author	community.json	/^      "author": "mark john williamson (junklight)",$/;"	s	object:entries.98
+author	community.json	/^      "author": "mat (justmat)",$/;"	s	object:entries.171
+author	community.json	/^      "author": "nf (enneff)",$/;"	s	object:entries.163
+author	community.json	/^      "author": "ngwese",$/;"	s	object:entries.192
+author	community.json	/^      "author": "norns community",$/;"	s	object:entries.131
+author	community.json	/^      "author": "norns community",$/;"	s	object:entries.132
+author	community.json	/^      "author": "pangrus",$/;"	s	object:entries.12
+author	community.json	/^      "author": "pangrus",$/;"	s	object:entries.84
+author	community.json	/^      "author": "scaxan",$/;"	s	object:entries.21
+author	community.json	/^      "author": "steven noreyko (okyeron)",$/;"	s	object:entries.35
+author	community.json	/^      "author": "steven noreyko (okyeron)",$/;"	s	object:entries.87
+author	community.json	/^      "author": "stvnrlly",$/;"	s	object:entries.134
+author	community.json	/^      "author": "tomw",$/;"	s	object:entries.178
+author	community.json	/^      "author": "tomw",$/;"	s	object:entries.218
+author	community.json	/^      "author": "tomw",$/;"	s	object:entries.28
+author	community.json	/^      "author": "trentgill",$/;"	s	object:entries.216
+author	community.json	/^      "author": "yams",$/;"	s	object:entries.38
+author	community.json	/^      "author": "ypxkap",$/;"	s	object:entries.200
+author	community.json	/^      "author": "ypxkap",$/;"	s	object:entries.31
+author	community.json	/^      "author": "zebra",$/;"	s	object:entries.194
+catalog_name	base.json	/^  "catalog_name": "base",$/;"	s
+catalog_name	community.json	/^  "catalog_name": "community",$/;"	s
+date	community.json	/^  "date": "0001-01-01T00:00:00Z",$/;"	s
+description	base.json	/^      "description": "crow examples",$/;"	s	object:entries.0
+description	base.json	/^      "description": "softcut examples",$/;"	s	object:entries.2
+description	base.json	/^      "description": "study zero",$/;"	s	object:entries.1
+description	community.json	/^       "description": "an amplitude and frequency tracking effects processor\/sampler\/sequencer/;"	s	object:entries.180
+description	community.json	/^      "description": " 3-operator FM synth + fx for norns ",$/;"	s	object:entries.219
+description	community.json	/^      "description": "16 second looper",$/;"	s	object:entries.94
+description	community.json	/^      "description": "16 sine waves",$/;"	s	object:entries.172
+description	community.json	/^      "description": "16 track isomorphic grid sequencer for timber and midi",$/;"	s	object:entries.81
+description	community.json	/^      "description": "1d cellular automata sequencer",$/;"	s	object:entries.100
+description	community.json	/^      "description": "2-dimensional polyrythmic, random note sequencer.",$/;"	s	object:entries.213
+description	community.json	/^      "description": "2D Polyphonic step sequencer for grids",$/;"	s	object:entries.7
+description	community.json	/^      "description": "2x4 complex step sequencer w. free running lfo's",$/;"	s	object:entries.217
+description	community.json	/^      "description": "4 track performance-oriented sample sequencer",$/;"	s	object:entries.207
+description	community.json	/^      "description": "4-voice triangle wave drone synth",$/;"	s	object:entries.201
+description	community.json	/^      "description": "5 unsynchronized loops with an auto mode",$/;"	s	object:entries.72
+description	community.json	/^      "description": "8 band resonator",$/;"	s	object:entries.109
+description	community.json	/^      "description": "A MIDI monitor for norns",$/;"	s	object:entries.112
+description	community.json	/^      "description": "A brute-force password hack inspired sequencer.",$/;"	s	object:entries.158
+description	community.json	/^      "description": "A small library to generate Nørgård infinity sequences for Norns",$/;"	s	object:entries.128
+description	community.json	/^      "description": "A utility script for testing grids",$/;"	s	object:entries.82
+description	community.json	/^      "description": "Beat repeater with some glitch",$/;"	s	object:entries.19
+description	community.json	/^      "description": "Create and edit crypts for arcologies",$/;"	s	object:entries.45
+description	community.json	/^      "description": "Font \/ glyph catalog",$/;"	s	object:entries.66
+description	community.json	/^      "description": "Sort of Radio music clone where each audio file in tape folder is a statio/;"	s	object:entries.141
+description	community.json	/^      "description": "a 4 track granular sample player",$/;"	s	object:entries.107
+description	community.json	/^      "description": "a 4-track asynchronous looper, inspired by op-1 tape recorder and mannequi/;"	s	object:entries.161
+description	community.json	/^      "description": "a bouncing ball sequencer",$/;"	s	object:entries.26
+description	community.json	/^      "description": "a clock for arc4 on norns",$/;"	s	object:entries.35
+description	community.json	/^      "description": "a collection of pattern recorders",$/;"	s	object:entries.184
+description	community.json	/^      "description": "a collection of uncertain delays using norns softcut",$/;"	s	object:entries.203
+description	community.json	/^      "description": "a digitally modeled analog filter",$/;"	s	object:entries.150
+description	community.json	/^      "description": "a drum sequencer based on Mutable Instruments Grids",$/;"	s	object:entries.46
+description	community.json	/^      "description": "a five track sequencer with various sequencer engines per track",$/;"	s	object:entries.215
+description	community.json	/^      "description": "a function sequencer",$/;"	s	object:entries.54
+description	community.json	/^      "description": "a grid controlled physics instrument. ported from tehn's m4l script",$/;"	s	object:entries.42
+description	community.json	/^      "description": "a haunted drummer companion",$/;"	s	object:entries.16
+description	community.json	/^      "description": "a kinetic sequencer",$/;"	s	object:entries.163
+description	community.json	/^      "description": "a language of touch for objects by monome",$/;"	s	object:entries.214
+description	community.json	/^      "description": "a live-coding environment",$/;"	s	object:entries.90
+description	community.json	/^      "description": "a minimalist clock-synced looper",$/;"	s	object:entries.169
+description	community.json	/^      "description": "a mod to insert oblique strategies into the params menu",$/;"	s	object:entries.134
+description	community.json	/^      "description": "a norns cyberdeck tracker",$/;"	s	object:entries.211
+description	community.json	/^      "description": "a plucky little pattern sequencer",$/;"	s	object:entries.185
+description	community.json	/^      "description": "a port of ken stone's infinite melody and modulo magic cgs serge modules",$/;"	s	object:entries.124
+description	community.json	/^      "description": "a presscafe remake for Norns",$/;"	s	object:entries.22
+description	community.json	/^      "description": "a quantized delay with time bending effects",$/;"	s	object:entries.25
+description	community.json	/^      "description": "a safe space?",$/;"	s	object:entries.83
+description	community.json	/^      "description": "a sample playground",$/;"	s	object:entries.33
+description	community.json	/^      "description": "a sampler that works in realtime",$/;"	s	object:entries.153
+description	community.json	/^      "description": "a sequencer based on the RYK M-185",$/;"	s	object:entries.105
+description	community.json	/^      "description": "a sequencer but with a mind of its own",$/;"	s	object:entries.47
+description	community.json	/^      "description": "a sequencer inspired on the M185\/Intellijel Metropolis",$/;"	s	object:entries.176
+description	community.json	/^      "description": "a sequencer that travels through numbers and time",$/;"	s	object:entries.60
+description	community.json	/^      "description": "a shimmery reverb",$/;"	s	object:entries.156
+description	community.json	/^      "description": "a simple granulator, now with optional arc support",$/;"	s	object:entries.55
+description	community.json	/^      "description": "a simple noise module but with a mind of its own",$/;"	s	object:entries.48
+description	community.json	/^      "description": "a simple sample recorder\/slicer",$/;"	s	object:entries.167
+description	community.json	/^      "description": "a simple step sequencer",$/;"	s	object:entries.182
+description	community.json	/^      "description": "a small collection",$/;"	s	object:entries.10
+description	community.json	/^      "description": "a stack of 8 fixed-frequency resonant bandpass filters",$/;"	s	object:entries.181
+description	community.json	/^      "description": "a synthesizer critter",$/;"	s	object:entries.190
+description	community.json	/^      "description": "a thunderstorm for norns",$/;"	s	object:entries.175
+description	community.json	/^      "description": "a weird stereo delay effect for external audio",$/;"	s	object:entries.126
+description	community.json	/^      "description": "ambient random sequencer",$/;"	s	object:entries.93
+description	community.json	/^      "description": "an 8 voice lofi percussion synthesizer and sequencer",$/;"	s	object:entries.166
+description	community.json	/^      "description": "an eduscript for sequins and lattice",$/;"	s	object:entries.179
+description	community.json	/^      "description": "an electroacoustic drumset and sequencer",$/;"	s	object:entries.103
+description	community.json	/^      "description": "an experimental sequencer that works a bit like the classic punchcard comp/;"	s	object:entries.157
+description	community.json	/^      "description": "an interactive environment for designing 2d sound arcologies with norns an/;"	s	object:entries.9
+description	community.json	/^      "description": "an introspective drum machine",$/;"	s	object:entries.187
+description	community.json	/^      "description": "analysis-driven live audio processing",$/;"	s	object:entries.188
+description	community.json	/^      "description": "arc based granular four track sampler with live recording and friction.",$/;"	s	object:entries.160
+description	community.json	/^      "description": "assemble a song from TAPE",$/;"	s	object:entries.208
+description	community.json	/^      "description": "asynchronous looper built around the concept of a command sequencer",$/;"	s	object:entries.40
+description	community.json	/^      "description": "asynchronous tape looper and reverb",$/;"	s	object:entries.189
+description	community.json	/^      "description": "automate MS-70 CDR parameters",$/;"	s	object:entries.12
+description	community.json	/^      "description": "autumnal generative synth with midi and crow sequencing",$/;"	s	object:entries.59
+description	community.json	/^      "description": "beat sequencing rund um den kreis ",$/;"	s	object:entries.97
+description	community.json	/^      "description": "beat-synced looper, slicer, and sequencer",$/;"	s	object:entries.133
+description	community.json	/^      "description": "bending rhythmic arpeggio",$/;"	s	object:entries.192
+description	community.json	/^      "description": "blippoo box clone",$/;"	s	object:entries.24
+description	community.json	/^      "description": "browse downloadable scripts from the comfort of your norns",$/;"	s	object:entries.64
+description	community.json	/^      "description": "cast drones & record whatever returns",$/;"	s	object:entries.52
+description	community.json	/^      "description": "ccs for arc’s dials",$/;"	s	object:entries.31
+description	community.json	/^      "description": "chainable effects for live performance",$/;"	s	object:entries.148
+description	community.json	/^      "description": "chaotic synth",$/;"	s	object:entries.21
+description	community.json	/^      "description": "check stocks and make music",$/;"	s	object:entries.11
+description	community.json	/^      "description": "chimes past",$/;"	s	object:entries.15
+description	community.json	/^      "description": "chord sequencer and sampler",$/;"	s	object:entries.5
+description	community.json	/^      "description": "classic polysynth with solar system patch creator",$/;"	s	object:entries.114
+description	community.json	/^      "description": "combo scripts",$/;"	s	object:entries.39
+description	community.json	/^      "description": "community radio for monome norns...yar",$/;"	s	object:entries.151
+description	community.json	/^      "description": "companion app for earthsea",$/;"	s	object:entries.170
+description	community.json	/^      "description": "connect-the-dots sequencer w\/ fm synthesizer",$/;"	s	object:entries.135
+description	community.json	/^      "description": "crow script loader with dynamic UI generation",$/;"	s	object:entries.216
+description	community.json	/^      "description": "cv recorder and player for norns+crow",$/;"	s	object:entries.144
+description	community.json	/^      "description": "data sonification with norns",$/;"	s	object:entries.104
+description	community.json	/^      "description": "deform external audio with math and impress your nerd friends",$/;"	s	object:entries.127
+description	community.json	/^      "description": "demo scripts for hid functionality",$/;"	s	object:entries.87
+description	community.json	/^      "description": "digital tape loops, x 6",$/;"	s	object:entries.138
+description	community.json	/^      "description": "drifting relationships creating sequences",$/;"	s	object:entries.51
+description	community.json	/^      "description": "drone inspired by Moffenzeef Stargazer",$/;"	s	object:entries.183
+description	community.json	/^      "description": "drum loop re-sequencer",$/;"	s	object:entries.20
+description	community.json	/^      "description": "drum machine based on arturia's drumbrute impact",$/;"	s	object:entries.89
+description	community.json	/^      "description": "dual asyncronous time-wigglers \/ echo loopers",$/;"	s	object:entries.210
+description	community.json	/^      "description": "dual function sequencer for monome norns, crow and grid",$/;"	s	object:entries.147
+description	community.json	/^      "description": "dual tape delay\/looper\/sampler",$/;"	s	object:entries.142
+description	community.json	/^      "description": "echo \/ delay",$/;"	s	object:entries.79
+description	community.json	/^      "description": "edit of @markeats loom for quickly decoupling motifs from their harmonic f/;"	s	object:entries.200
+description	community.json	/^      "description": "entropic background radiation",$/;"	s	object:entries.74
+description	community.json	/^      "description": "euclidean drum machine emulating the TR-808 sound",$/;"	s	object:entries.84
+description	community.json	/^      "description": "euclidean rhythms with logic and probability",$/;"	s	object:entries.65
+description	community.json	/^      "description": "explore a galaxy of rhythm",$/;"	s	object:entries.117
+description	community.json	/^      "description": "extensible grid keyboard",$/;"	s	object:entries.119
+description	community.json	/^      "description": "extreme sound stretcher and harmoniser",$/;"	s	object:entries.70
+description	community.json	/^      "description": "fm7, earthsea, kria, looper",$/;"	s	object:entries.91
+description	community.json	/^      "description": "four track live granular looper",$/;"	s	object:entries.85
+description	community.json	/^      "description": "fugu meets awake sequencer",$/;"	s	object:entries.67
+description	community.json	/^      "description": "game of life based sequencer",$/;"	s	object:entries.212
+description	community.json	/^      "description": "gated audio sequencer",$/;"	s	object:entries.199
+description	community.json	/^      "description": "general purpose audio patching engine",$/;"	s	object:entries.162
+description	community.json	/^      "description": "generate eight connected sine wave lfos and output them over midi",$/;"	s	object:entries.32
+description	community.json	/^      "description": "generative acid basslines.",$/;"	s	object:entries.3
+description	community.json	/^      "description": "generative visual sequencer instrument",$/;"	s	object:entries.154
+description	community.json	/^      "description": "geometric rhythm generator",$/;"	s	object:entries.58
+description	community.json	/^      "description": "granular synth inspired by mlr\/rove, grainfields 20 and loomer cumulus",$/;"	s	object:entries.73
+description	community.json	/^      "description": "grid based delay sequencer",$/;"	s	object:entries.197
+description	community.json	/^      "description": "grid-based sample sequencer",$/;"	s	object:entries.96
+description	community.json	/^      "description": "grid-enabled rhizomatic cascading counter",$/;"	s	object:entries.110
+description	community.json	/^      "description": "harmonic performance sequencer",$/;"	s	object:entries.38
+description	community.json	/^      "description": "i will show you fear in a handful of dust",$/;"	s	object:entries.61
+description	community.json	/^      "description": "i2c-based ER-301 control via KORG nanoKONTROL2",$/;"	s	object:entries.122
+description	community.json	/^      "description": "isomorphic qequencer for norns and grid",$/;"	s	object:entries.92
+description	community.json	/^      "description": "it's like metropolix for norns",$/;"	s	object:entries.111
+description	community.json	/^      "description": "keyboard based softcut sample mangler",$/;"	s	object:entries.218
+description	community.json	/^      "description": "l-systems sequencer and bandpass-filtered sawtooth engine",$/;"	s	object:entries.62
+description	community.json	/^      "description": "lets glitch with glitchlets.",$/;"	s	object:entries.71
+description	community.json	/^      "description": "library for sequencing midi with text",$/;"	s	object:entries.198
+description	community.json	/^      "description": "like mr.radar or mr.coffee but for samples",$/;"	s	object:entries.120
+description	community.json	/^      "description": "like mr.radar or mr.coffee but for synths",$/;"	s	object:entries.121
+description	community.json	/^      "description": "live grains",$/;"	s	object:entries.171
+description	community.json	/^      "description": "live sample-cutting platform",$/;"	s	object:entries.113
+description	community.json	/^      "description": "live tape deck emulation (saturation, distortion, wow\/flutter)",$/;"	s	object:entries.193
+description	community.json	/^      "description": "livecoding environment",$/;"	s	object:entries.149
+description	community.json	/^      "description": "lo-fi FM capable mono\/poly",$/;"	s	object:entries.23
+description	community.json	/^      "description": "looper\/delay",$/;"	s	object:entries.99
+description	community.json	/^      "description": "loops sounds into six lfo-modulated voices",$/;"	s	object:entries.17
+description	community.json	/^      "description": "make breakbeats from samples",$/;"	s	object:entries.106
+description	community.json	/^      "description": "map arc encoders to up to four parameters (eight with a shift key)",$/;"	s	object:entries.8
+description	community.json	/^      "description": "mash of REPL and looper; a live performance code sequencer with web UI",$/;"	s	object:entries.164
+description	community.json	/^      "description": "microtonal scale explorer \/ arpeggiator \/ grid keyboard",$/;"	s	object:entries.152
+description	community.json	/^      "description": "midi passthrough library with examples",$/;"	s	object:entries.146
+description	community.json	/^      "description": "midi-controlled drum kits",$/;"	s	object:entries.53
+description	community.json	/^      "description": "minimal manual controller script",$/;"	s	object:entries.136
+description	community.json	/^      "description": "move cursor. place circles. make music",$/;"	s	object:entries.34
+description	community.json	/^      "description": "multi playhead sequencer",$/;"	s	object:entries.68
+description	community.json	/^      "description": "multi-effects processing for live performance",$/;"	s	object:entries.108
+description	community.json	/^      "description": "norns utility scripts",$/;"	s	object:entries.205
+description	community.json	/^      "description": "norns\/circle\/01 drone in three worlds",$/;"	s	object:entries.131
+description	community.json	/^      "description": "norns\/circle\/02 rhythm and sound",$/;"	s	object:entries.132
+description	community.json	/^      "description": "ocean noise generator",$/;"	s	object:entries.137
+description	community.json	/^      "description": "one-shot synthesis engine",$/;"	s	object:entries.194
+description	community.json	/^      "description": "orbital is an experiment in simple sequences and interface design",$/;"	s	object:entries.139
+description	community.json	/^      "description": "orbital motion sequencing",$/;"	s	object:entries.18
+description	community.json	/^      "description": "orgn + wrms",$/;"	s	object:entries.220
+description	community.json	/^      "description": "overdub external audio onto four tape loops",$/;"	s	object:entries.125
+description	community.json	/^      "description": "parameter locking step sequencer",$/;"	s	object:entries.191
+description	community.json	/^      "description": "pattern weaving sequencer for grids",$/;"	s	object:entries.102
+description	community.json	/^      "description": "physics based sequencer for people who like cats",$/;"	s	object:entries.75
+description	community.json	/^      "description": "play just friends with midi",$/;"	s	object:entries.95
+description	community.json	/^      "description": "polyphonic 6 operator fm synth",$/;"	s	object:entries.63
+description	community.json	/^      "description": "polyphonic subtractive synthesizer",$/;"	s	object:entries.115
+description	community.json	/^      "description": "polyrhythmic sequencer\/sampler using ack",$/;"	s	object:entries.56
+description	community.json	/^      "description": "port of kria from ansible",$/;"	s	object:entries.98
+description	community.json	/^      "description": "probabilistic 4-track sequencer",$/;"	s	object:entries.159
+description	community.json	/^      "description": "punch-in tempo-locked repeating",$/;"	s	object:entries.36
+description	community.json	/^      "description": "pure Lua 3d lib for norns",$/;"	s	object:entries.0
+description	community.json	/^      "description": "quantized granular sequencer",$/;"	s	object:entries.76
+description	community.json	/^      "description": "random granulator for two samples",$/;"	s	object:entries.204
+description	community.json	/^      "description": "random sequencer for norns, crow, and grid",$/;"	s	object:entries.174
+description	community.json	/^      "description": "record a sound an play it back at various RPM ratios",$/;"	s	object:entries.165
+description	community.json	/^      "description": "record stereo loops while engine loops",$/;"	s	object:entries.50
+description	community.json	/^      "description": "remotely control norns from the browser",$/;"	s	object:entries.130
+description	community.json	/^      "description": "run PICO-8 tweetcarts on norns",$/;"	s	object:entries.143
+description	community.json	/^      "description": "sample + sequencer + splicer in the style of po-33",$/;"	s	object:entries.195
+description	community.json	/^      "description": "sample player engine and scripts",$/;"	s	object:entries.196
+description	community.json	/^      "description": "sample player engine"$/;"	s	object:entries.4
+description	community.json	/^      "description": "sampler and mangler of loops",$/;"	s	object:entries.6
+description	community.json	/^      "description": "scan the stars; make music! an interactive sequencer for Norns, Crow, JF, /;"	s	object:entries.41
+description	community.json	/^      "description": "scheme dialect livecoding tracker for norns",$/;"	s	object:entries.123
+description	community.json	/^      "description": "seeding fields forever",$/;"	s	object:entries.101
+description	community.json	/^      "description": "send control voltages out of crow",$/;"	s	object:entries.1
+description	community.json	/^      "description": "sequence rows of beats with samples",$/;"	s	object:entries.2
+description	community.json	/^      "description": "sequencer \/ game",$/;"	s	object:entries.28
+description	community.json	/^      "description": "sequencer for apes",$/;"	s	object:entries.177
+description	community.json	/^      "description": "sequencer",$/;"	s	object:entries.178
+description	community.json	/^      "description": "shepard tone generator",$/;"	s	object:entries.57
+description	community.json	/^      "description": "simple audio utility",$/;"	s	object:entries.129
+description	community.json	/^      "description": "simple drone synth, grendel drone commander inspired",$/;"	s	object:entries.77
+description	community.json	/^      "description": "sixteen notes, eight timbres",$/;"	s	object:entries.80
+description	community.json	/^      "description": "slice and save samples",$/;"	s	object:entries.37
+description	community.json	/^      "description": "slow oscillators for crow",$/;"	s	object:entries.209
+description	community.json	/^      "description": "small kit of midi utilities to transpose and route midi messages",$/;"	s	object:entries.116
+description	community.json	/^      "description": "softcut wrapper lib \/ voice management utility",$/;"	s	object:entries.186
+description	community.json	/^      "description": "sound maker and sequencer heavily inspired by Laurie Spiegel's Music Mouse/;"	s	object:entries.118
+description	community.json	/^      "description": "sprayed multi-sampled celesta",$/;"	s	object:entries.78
+description	community.json	/^      "description": "stereo delay\/looper",$/;"	s	object:entries.27
+description	community.json	/^      "description": "stereo varispeed looper \/ delay \/ timeline-smoosher",$/;"	s	object:entries.43
+description	community.json	/^      "description": "string-like keyboard and sequencer",$/;"	s	object:entries.155
+description	community.json	/^      "description": "supersaw synth with feedback",$/;"	s	object:entries.88
+description	community.json	/^      "description": "swap samples within loops",$/;"	s	object:entries.168
+description	community.json	/^      "description": "talk to crow with norns",$/;"	s	object:entries.44
+description	community.json	/^      "description": "the sound begins here but you began there",$/;"	s	object:entries.86
+description	community.json	/^      "description": "tidal influencer\/activator\/lightshow",$/;"	s	object:entries.29
+description	community.json	/^      "description": "time changes",$/;"	s	object:entries.13
+description	community.json	/^      "description": "time drifting",$/;"	s	object:entries.14
+description	community.json	/^      "description": "tune stuff",$/;"	s	object:entries.202
+description	community.json	/^      "description": "twin granulators. watch them race.",$/;"	s	object:entries.69
+description	community.json	/^      "description": "v\/oct calibration assistant",$/;"	s	object:entries.30
+description	community.json	/^      "description": "visual programming language, designed to create procedural sequencers on t/;"	s	object:entries.140
+description	community.json	/^      "description": "visuals-based modulation source for crow and midi",$/;"	s	object:entries.173
+description	community.json	/^      "description": "warm delay with modulation and stereo separation",$/;"	s	object:entries.49
+description	community.json	/^      "description": "west coast style mono synth",$/;"	s	object:entries.145
+description	community.json	/^      "description": "your tapes transmitted thru late-night static and broken antenna frequenci/;"	s	object:entries.206
+discussion_url	base.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/firstlight",$/;"	s	object:entries.1
+discussion_url	base.json	/^      "discussion_url": "https:\/\/monome.org\/docs\/crow\/norns",$/;"	s	object:entries.0
+discussion_url	base.json	/^      "discussion_url": "https:\/\/monome.org\/docs\/norns\/softcut",$/;"	s	object:entries.2
+discussion_url	community.json	/^       "discussion_url": "https:\/\/llllllll.co\/t\/51191",$/;"	s	object:entries.180
+discussion_url	community.json	/^      "discussion_url": "https:\/\/github.com\/whimsicalraps\/bowering\/issues",$/;"	s	object:entries.216
+discussion_url	community.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/arcologies",$/;"	s	object:entries.9
+discussion_url	community.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/bakeneko",$/;"	s	object:entries.16
+discussion_url	community.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/cheat-codes-2",$/;"	s	object:entries.33
+discussion_url	community.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/dronecaster",$/;"	s	object:entries.52
+discussion_url	community.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/fiahod",$/;"	s	object:entries.61
+discussion_url	community.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/goldeneye",$/;"	s	object:entries.74
+discussion_url	community.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/splicer",$/;"	s	object:entries.179
+discussion_url	community.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/u",$/;"	s	object:entries.205
+discussion_url	community.json	/^      "discussion_url": "https:\/\/l.llllllll.co\/yggdrasil",$/;"	s	object:entries.211
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21025"$/;"	s	object:entries.185
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21030",$/;"	s	object:entries.161
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21033",$/;"	s	object:entries.68
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21066",$/;"	s	object:entries.107
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21101"$/;"	s	object:entries.184
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21145",$/;"	s	object:entries.113
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21185",$/;"	s	object:entries.110
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21207",$/;"	s	object:entries.43
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21255",$/;"	s	object:entries.98
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21395",$/;"	s	object:entries.63
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/21407",$/;"	s	object:entries.196
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/22149",$/;"	s	object:entries.142
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/22492",$/;"	s	object:entries.140
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/22951",$/;"	s	object:entries.34
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/23209",$/;"	s	object:entries.170
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/23243",$/;"	s	object:entries.163
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/23273",$/;"	s	object:entries.116
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/23336",$/;"	s	object:entries.27
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/23467",$/;"	s	object:entries.53
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/23557"$/;"	s	object:entries.157
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/23943",$/;"	s	object:entries.167
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/26221",$/;"	s	object:entries.174
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/27020"$/;"	s	object:entries.39
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/27988",$/;"	s	object:entries.150
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/28320",$/;"	s	object:entries.156
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/31119",$/;"	s	object:entries.148
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/31622",$/;"	s	object:entries.175
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/31648",$/;"	s	object:entries.46
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/31721",$/;"	s	object:entries.77
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/31828",$/;"	s	object:entries.166
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/33889",$/;"	s	object:entries.183
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/34095",$/;"	s	object:entries.169
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/35047",$/;"	s	object:entries.19
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/35218"$/;"	s	object:entries.181
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/35947",$/;"	s	object:entries.84
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/36759",$/;"	s	object:entries.173
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/37639",$/;"	s	object:entries.29
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/37947",$/;"	s	object:entries.143
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/37965",$/;"	s	object:entries.192
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/38542",$/;"	s	object:entries.165
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/38559",$/;"	s	object:entries.81
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/39292",$/;"	s	object:entries.172
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/39622",$/;"	s	object:entries.0
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/40261",$/;"	s	object:entries.62
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/40638",$/;"	s	object:entries.49
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/41107",$/;"	s	object:entries.24
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/41560",$/;"	s	object:entries.44
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/41703",$/;"	s	object:entries.204
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/42190",$/;"	s	object:entries.1
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/43804",$/;"	s	object:entries.171
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/46075",$/;"	s	object:entries.75
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/46227",$/;"	s	object:entries.42
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/47147",$/;"	s	object:entries.37
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/49564",$/;"	s	object:entries.149
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/50231"$/;"	s	object:entries.38
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/51353",$/;"	s	object:entries.104
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/51485",$/;"	s	object:entries.164
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/52122",$/;"	s	object:entries.80
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/53083",$/;"	s	object:entries.144
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/abacus\/37871",$/;"	s	object:entries.2
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/acid-test\/52201",$/;"	s	object:entries.3
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/acrostic\/53027",$/;"	s	object:entries.5
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/amen\/43746",$/;"	s	object:entries.6
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/animator\/28242",$/;"	s	object:entries.7
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/arcify\/22133",$/;"	s	object:entries.8
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/ash-a-small-collection\/21349",$/;"	s	object:entries.10
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/automs70\/39686",$/;"	s	object:entries.12
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/awake\/21022"$/;"	s	object:entries.13
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/awake\/21022\/139"$/;"	s	object:entries.14
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/awake\/21022\/38"$/;"	s	object:entries.15
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/barcode\/35297",$/;"	s	object:entries.17
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/barycenter\/35980",$/;"	s	object:entries.18
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/beacon\/",$/;"	s	object:entries.218
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/beets\/30069",$/;"	s	object:entries.20
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/benjolis\/28061"$/;"	s	object:entries.21
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/bistro\/45349",$/;"	s	object:entries.22
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/bitters-norns",$/;"	s	object:entries.23
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/blndr\/35106",$/;"	s	object:entries.25
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/boingg\/26536",$/;"	s	object:entries.26
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/breakthrough\/39196",$/;"	s	object:entries.28
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/caliper\/31353",$/;"	s	object:entries.30
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/cccccccc\/22271",$/;"	s	object:entries.31
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/changes\/33799",$/;"	s	object:entries.32
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/clarck\/21251",$/;"	s	object:entries.35
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/clcks\/35732",$/;"	s	object:entries.36
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/compass\/25192",$/;"	s	object:entries.40
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/constellations\/52225",$/;"	s	object:entries.41
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/cryptkeeper\/39781"$/;"	s	object:entries.45
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/delinquencer-a-sequencer-but-with-a-mind-of-i/;"	s	object:entries.47
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/demon-core-a-very-simple-noise-module-for-nor/;"	s	object:entries.48
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/downtown\/40044",$/;"	s	object:entries.50
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/drift\/36138",$/;"	s	object:entries.51
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/dunes\/24790"$/;"	s	object:entries.54
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/easygrain\/21047"$/;"	s	object:entries.55
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/eculidigons\/36666",$/;"	s	object:entries.58
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/ekombi\/26812",$/;"	s	object:entries.56
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/endless-stairs\/34799",$/;"	s	object:entries.57
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/engine-thebangs",$/;"	s	object:entries.194
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/fall-generative-synth-sequencer\/48991",$/;"	s	object:entries.59
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/folio\/47053",$/;"	s	object:entries.64
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/foulplay\/21081",$/;"	s	object:entries.65
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/foundry-font-visualizer\/33933",$/;"	s	object:entries.66
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/fugarc\/34446",$/;"	s	object:entries.67
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/gemini\/21086"$/;"	s	object:entries.69
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/glaciers\/45117",$/;"	s	object:entries.70
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/glitch-looper\/54014",$/;"	s	object:entries.72
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/glitchlets\/37069",$/;"	s	object:entries.71
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/glut\/21175\/11",$/;"	s	object:entries.73
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/granchild\/41894",$/;"	s	object:entries.76
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/grd\/33768",$/;"	s	object:entries.78
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/greyhole\/27687",$/;"	s	object:entries.79
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/grid-test\/29346",$/;"	s	object:entries.82
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/haven\/21285",$/;"	s	object:entries.83
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/haze\/41781",$/;"	s	object:entries.85
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/here-there\/36170",$/;"	s	object:entries.86
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/hid-demo\/21315",$/;"	s	object:entries.87
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/icarus\/43271",$/;"	s	object:entries.88
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/impact\/45247",$/;"	s	object:entries.89
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/initenere\/41193",$/;"	s	object:entries.213
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/internorns\/46565",$/;"	s	object:entries.90
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/islands-0-1\/30234",$/;"	s	object:entries.91
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/isoseq\/21026",$/;"	s	object:entries.92
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/jala\/41788",$/;"	s	object:entries.93
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/jiffy\/25475"$/;"	s	object:entries.94
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/just-play\/33979",$/;"	s	object:entries.95
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/kolor\/40504",$/;"	s	object:entries.96
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/kreislauf",$/;"	s	object:entries.97
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/larc\/39790",$/;"	s	object:entries.99
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/less-concepts-3\/",$/;"	s	object:entries.100
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/lissadron\/32509",$/;"	s	object:entries.101
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/loom\/21091",$/;"	s	object:entries.102
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/lorenzos-drums\/52549",$/;"	s	object:entries.103
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/m18s-now-for-norns\/32068",$/;"	s	object:entries.105
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/makebreakbeat\/53301",$/;"	s	object:entries.106
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/manifold\/22098",$/;"	s	object:entries.108
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/massif\/",$/;"	s	object:entries.109
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/midi-monitor\/35036",$/;"	s	object:entries.112
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/molly-the-poly\/21090",$/;"	s	object:entries.114
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/moln\/21111",$/;"	s	object:entries.115
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/moonraker\/51803",$/;"	s	object:entries.117
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/mouse\/41562",$/;"	s	object:entries.118
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/msh",$/;"	s	object:entries.119
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/mx-samples\/41400",$/;"	s	object:entries.120
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/mx-synths\/49535",$/;"	s	object:entries.121
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/n16o\/28198",$/;"	s	object:entries.122
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/nest",$/;"	s	object:entries.214
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/nisp\/27596",$/;"	s	object:entries.123
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/nmmelodymagic\/",$/;"	s	object:entries.124
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/nmquadrodubber",$/;"	s	object:entries.125
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/nmrain\/",$/;"	s	object:entries.126
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/nmsmartypants\/",$/;"	s	object:entries.127
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/norman\/22606"$/;"	s	object:entries.129
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/norns-circle-01-drone-in-three-worlds\/28582"$/;"	s	object:entries.131
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/norns-circle-02-rhythm-and-sound\/31645"$/;"	s	object:entries.132
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/norns-online\/38547",$/;"	s	object:entries.130
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/nydl\/51886",$/;"	s	object:entries.133
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/o-o-o",$/;"	s	object:entries.135
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/oblique-consult-the-deck\/50578",$/;"	s	object:entries.134
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/onehanded\/25869",$/;"	s	object:entries.136
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/ong-ocean-noise-generator-for-monome-norns\/5/;"	s	object:entries.137
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/oooooo",$/;"	s	object:entries.138
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/orbital-norns\/21379"$/;"	s	object:entries.139
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/orgn\/",$/;"	s	object:entries.219
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/orgn\/",$/;"	s	object:entries.220
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/ortf\/39694",$/;"	s	object:entries.141
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/passersby\/21089",$/;"	s	object:entries.145
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/passthrough\/31156",$/;"	s	object:entries.146
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/patchwork\/28800",$/;"	s	object:entries.147
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/pirate-radio\/49013",$/;"	s	object:entries.151
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/pitfalls\/37795",$/;"	s	object:entries.152
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/piwip\/36642",$/;"	s	object:entries.153
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/pixels\/38762",$/;"	s	object:entries.154
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/plonky\/42520",$/;"	s	object:entries.155
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/qfwfq",$/;"	s	object:entries.158
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/quence\/29436",$/;"	s	object:entries.159
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/rangl\/44673",$/;"	s	object:entries.160
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/sampswap\/53719",$/;"	s	object:entries.168
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/skylines\/38856"$/;"	s	object:entries.176
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/smash\/48782"$/;"	s	object:entries.177
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/spirals\/40678",$/;"	s	object:entries.178
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/step\/21093"$/;"	s	object:entries.182
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/superbrain-multi-engine-midi-sequencer",$/;"	s	object:entries.215
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/supercut-lib",$/;"	s	object:entries.186
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/supertonic\/45551",$/;"	s	object:entries.187
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/sway\/21117",$/;"	s	object:entries.188
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/sweet-bees\/49272"$/;"	s	object:entries.189
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/synthy\/48062",$/;"	s	object:entries.190
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/takt\/21032"$/;"	s	object:entries.191
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/tapedeck\/51919",$/;"	s	object:entries.193
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/the-arp-index\/25182",$/;"	s	object:entries.11
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/thirtythree\/44702",$/;"	s	object:entries.195
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/timeparty\/22837",$/;"	s	object:entries.197
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/tmi\/40818",$/;"	s	object:entries.198
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/torii\/30476",$/;"	s	object:entries.199
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/traffic\/21262"$/;"	s	object:entries.200
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/triangles\/52662"$/;"	s	object:entries.201
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/tuner\/21088",$/;"	s	object:entries.202
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/tunnels\/21973"$/;"	s	object:entries.203
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/tviburar\/",$/;"	s	object:entries.217
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/uhf-norns\/21154",$/;"	s	object:entries.206
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/vials\/23109"$/;"	s	object:entries.207
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/waver\/49271",$/;"	s	object:entries.208
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/wobblewobble\/45215",$/;"	s	object:entries.209
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/wrms\/28954",$/;"	s	object:entries.210
+discussion_url	community.json	/^      "discussion_url": "https:\/\/llllllll.co\/t\/zellen\/21107"$/;"	s	object:entries.212
+documentation_url	community.json	/^        "documentation_url": "https:\/\/norns.community\/authors\/eigen\/rpmate"$/;"	s	object:entries.165
+documentation_url	community.json	/^        "documentation_url": "https:\/\/norns.community\/en\/authors\/markeats\/changes",$/;"	s	object:entries.32
+documentation_url	community.json	/^        "documentation_url": "https:\/\/norns.community\/en\/authors\/markeats\/loom",$/;"	s	object:entries.102
+documentation_url	community.json	/^      "documentation_url": "https:\/\/github.com\/duncangeere\/loudnumbers_norns\/blob\/main\/RE/;"	s	object:entries.104
+documentation_url	community.json	/^      "documentation_url": "https:\/\/github.com\/whimsicalraps\/bowering",$/;"	s	object:entries.216
+documentation_url	community.json	/^      "documentation_url": "https:\/\/l.llllllll.co\/splicer",$/;"	s	object:entries.179
+documentation_url	community.json	/^      "documentation_url": "https:\/\/llllllll.co\/t\/fall-generative-synth-sequencer\/48991",$/;"	s	object:entries.59
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/21echoes\/4-big-knobs",$/;"	s	object:entries.1
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/21echoes\/cyrene",$/;"	s	object:entries.46
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/21echoes\/pedalboard",$/;"	s	object:entries.148
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/21echoes\/samsara",$/;"	s	object:entries.169
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/andrew\/orgn",$/;"	s	object:entries.219
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/andrew\/orgn",$/;"	s	object:entries.220
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/andrew\/wrms",$/;"	s	object:entries.210
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/carltesta\/glitchlooper",$/;"	s	object:entries.72
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/collabs\/lessconcepts3",$/;"	s	object:entries.100
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/collabs\/orca",$/;"	s	object:entries.140
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/crim\/timeparty"$/;"	s	object:entries.197
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/dan_derks\/cheat_codes_2",$/;"	s	object:entries.33
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/dan_derks\/cranes",$/;"	s	object:entries.43
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/duncan-geere\/gridofpoints",$/;"	s	object:entries.80
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/eigen\/3d"$/;"	s	object:entries.0
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/eigen\/p8"$/;"	s	object:entries.143
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/infinitedigits\/acid-test",$/;"	s	object:entries.3
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/jaseknighter\/flora",$/;"	s	object:entries.62
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/boingg"$/;"	s	object:entries.26
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/bounds"$/;"	s	object:entries.27
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/crow_talk",$/;"	s	object:entries.44
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/foulplay"$/;"	s	object:entries.65
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/greyhole"$/;"	s	object:entries.79
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/larc"$/;"	s	object:entries.99
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/mangl",$/;"	s	object:entries.107
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/massif",$/;"	s	object:entries.109
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/otis",$/;"	s	object:entries.142
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/phyllis"$/;"	s	object:entries.150
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/pools"$/;"	s	object:entries.156
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/sam"$/;"	s	object:entries.167
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/showers"$/;"	s	object:entries.175
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/justmat\/silos",$/;"	s	object:entries.171
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/lfsaw\/haven",$/;"	s	object:entries.83
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/lfsaw\/lissadron",$/;"	s	object:entries.101
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/midouest\/endless-stairs",$/;"	s	object:entries.57
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/midouest\/just-play"$/;"	s	object:entries.95
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/nattog\/passthrough",$/;"	s	object:entries.146
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/ngwese\/tambla",$/;"	s	object:entries.192
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/northern-information\/arcologies/;"	s	object:entries.9
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/northern-information\/bakeneko",$/;"	s	object:entries.16
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/northern-information\/dronecaste/;"	s	object:entries.52
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/northern-information\/fiahod",$/;"	s	object:entries.61
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/northern-information\/goldeneye"/;"	s	object:entries.74
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/northern-information\/yggdrasil"/;"	s	object:entries.211
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/olivier\/compass",$/;"	s	object:entries.40
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/pangrus\/automs70"$/;"	s	object:entries.12
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/pangrus\/hachi",$/;"	s	object:entries.84
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/quixotic7\/corners",$/;"	s	object:entries.42
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/quixotic7\/gridstep",$/;"	s	object:entries.81
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/sixolet\/phonotype",$/;"	s	object:entries.149
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/study-group\/pirate-radio"$/;"	s	object:entries.151
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/tomw\/beacon",$/;"	s	object:entries.218
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/tomw\/breakthrough",$/;"	s	object:entries.28
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/tomw\/spirals",$/;"	s	object:entries.178
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/vicimity\/initenere",$/;"	s	object:entries.213
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/authors\/yota\/grd",$/;"	s	object:entries.78
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/alanza\/bitters",$/;"	s	object:entries.23
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/alanza\/waver",$/;"	s	object:entries.208
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/anoikisnomads\/ong"$/;"	s	object:entries.137
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/carltesta\/manifold",    $/;"	s	object:entries.108
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/carltesta\/sway",$/;"	s	object:entries.188
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/cfd90\/blippoo",$/;"	s	object:entries.24
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/cfd90\/mouse",$/;"	s	object:entries.118
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/cfd90\/twine",$/;"	s	object:entries.204
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/crim\/animator",$/;"	s	object:entries.7
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/csboling\/folio"$/;"	s	object:entries.64
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/csboling\/foundry"$/;"	s	object:entries.66
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/dwtong\/glaciers",$/;"	s	object:entries.70
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/frederickk\/b-b-b-b-beat",$/;"	s	object:entries.19
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/frederickk\/kreislauf"$/;"	s	object:entries.97
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/frederickk\/noergaard",$/;"	s	object:entries.128
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/frederickk\/stjoernuithrott"/;"	s	object:entries.183
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/abacus"$/;"	s	object:entries.2
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/abacus",$/;"	s	object:entries.10
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/acrostic",$/;"	s	object:entries.5
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/amen"$/;"	s	object:entries.6
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/barcode"$/;"	s	object:entries.17
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/blndr"$/;"	s	object:entries.25
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/clcks"$/;"	s	object:entries.36
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/downtown"$/;"	s	object:entries.50
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/glitchlets"$/;"	s	object:entries.71
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/granchild"$/;"	s	object:entries.76
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/icarus"$/;"	s	object:entries.88
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/internorns"$/;"	s	object:entries.90
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/kolor"$/;"	s	object:entries.96
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/lorenzos-dru/;"	s	object:entries.103
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/makebreakbea/;"	s	object:entries.106
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/moonraker",$/;"	s	object:entries.117
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/mx-samples"$/;"	s	object:entries.120
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/mx-synths"$/;"	s	object:entries.121
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/norns-online/;"	s	object:entries.130
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/o-o-o"$/;"	s	object:entries.135
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/oooooo"$/;"	s	object:entries.138
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/piwip",$/;"	s	object:entries.153
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/plonky"$/;"	s	object:entries.155
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/sampswap",$/;"	s	object:entries.168
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/supertonic",$/;"	s	object:entries.187
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/synthy"$/;"	s	object:entries.190
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/tapedeck"$/;"	s	object:entries.193
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/thirtythree"/;"	s	object:entries.195
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/tmi",$/;"	s	object:entries.198
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/infinitedigits\/wobblewobble/;"	s	object:entries.209
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/jaseknighter\/clipper"$/;"	s	object:entries.37
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/jaseknighter\/parrot",$/;"	s	object:entries.144
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/markeats\/drum-room",$/;"	s	object:entries.53
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/markeats\/molly-the-poly",$/;"	s	object:entries.114
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/markeats\/passerby",$/;"	s	object:entries.145
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/markeats\/the-arp-index"$/;"	s	object:entries.11
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/markeats\/timber"$/;"	s	object:entries.196
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/markeats\/tuner"$/;"	s	object:entries.202
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/obi\/fibonacci",$/;"	s	object:entries.60
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/quixotic7\/groovecats",$/;"	s	object:entries.75
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/tgk\/rangl",$/;"	s	object:entries.160
+documentation_url	community.json	/^      "documentation_url": "https:\/\/norns.community\/en\/authors\/toomanatees\/constellations"/;"	s	object:entries.41
+entries	base.json	/^  "entries": [$/;"	a
+entries	community.json	/^  "entries": [$/;"	a
+file_info	base.json	/^  "file_info": {$/;"	o
+file_info	community.json	/^  "file_info": {$/;"	o
+kind	base.json	/^    "kind": "script_catalog"$/;"	s	object:file_info
+kind	community.json	/^    "kind": "script_catalog"$/;"	s	object:file_info
+norns-community	README.md	/^# norns-community$/;"	c
+project_author	community.json	/^      "project_author": "Anton Hörnquist (jah)",$/;"	s	object:entries.4
+project_name	base.json	/^      "project_name": "crow-studies",$/;"	s	object:entries.0
+project_name	base.json	/^      "project_name": "firstlight",$/;"	s	object:entries.1
+project_name	base.json	/^      "project_name": "softcut-studies",$/;"	s	object:entries.2
+project_name	community.json	/^	  "project_name": "corners",$/;"	s	object:entries.42
+project_name	community.json	/^       "project_name": "splnkr",$/;"	s	object:entries.180
+project_name	community.json	/^      "project_name": "3d",$/;"	s	object:entries.0
+project_name	community.json	/^      "project_name": "4-big-knobs",$/;"	s	object:entries.1
+project_name	community.json	/^      "project_name": "SuperBrain",$/;"	s	object:entries.215
+project_name	community.json	/^      "project_name": "abacus",$/;"	s	object:entries.2
+project_name	community.json	/^      "project_name": "acid-test",$/;"	s	object:entries.3
+project_name	community.json	/^      "project_name": "ack",$/;"	s	object:entries.4
+project_name	community.json	/^      "project_name": "acrostic",$/;"	s	object:entries.5
+project_name	community.json	/^      "project_name": "amen",$/;"	s	object:entries.6
+project_name	community.json	/^      "project_name": "animator",$/;"	s	object:entries.7
+project_name	community.json	/^      "project_name": "arcify",$/;"	s	object:entries.8
+project_name	community.json	/^      "project_name": "arcologies",$/;"	s	object:entries.9
+project_name	community.json	/^      "project_name": "arp_index",$/;"	s	object:entries.11
+project_name	community.json	/^      "project_name": "ash",$/;"	s	object:entries.10
+project_name	community.json	/^      "project_name": "automs70",$/;"	s	object:entries.12
+project_name	community.json	/^      "project_name": "awake",$/;"	s	object:entries.13
+project_name	community.json	/^      "project_name": "awake-passersby",$/;"	s	object:entries.14
+project_name	community.json	/^      "project_name": "awake-rings",$/;"	s	object:entries.15
+project_name	community.json	/^      "project_name": "b-b-b-b-beat",$/;"	s	object:entries.19
+project_name	community.json	/^      "project_name": "bakeneko",$/;"	s	object:entries.16
+project_name	community.json	/^      "project_name": "barcode",$/;"	s	object:entries.17
+project_name	community.json	/^      "project_name": "barycenter",$/;"	s	object:entries.18
+project_name	community.json	/^      "project_name": "beacon",$/;"	s	object:entries.218
+project_name	community.json	/^      "project_name": "beets",$/;"	s	object:entries.20
+project_name	community.json	/^      "project_name": "benjolis",$/;"	s	object:entries.21
+project_name	community.json	/^      "project_name": "bistro",$/;"	s	object:entries.22
+project_name	community.json	/^      "project_name": "bitters",$/;"	s	object:entries.23
+project_name	community.json	/^      "project_name": "blippoo",$/;"	s	object:entries.24
+project_name	community.json	/^      "project_name": "blndr",$/;"	s	object:entries.25
+project_name	community.json	/^      "project_name": "boingg",$/;"	s	object:entries.26
+project_name	community.json	/^      "project_name": "bounds",$/;"	s	object:entries.27
+project_name	community.json	/^      "project_name": "bowering",$/;"	s	object:entries.216
+project_name	community.json	/^      "project_name": "breakthrough",$/;"	s	object:entries.28
+project_name	community.json	/^      "project_name": "buoys",$/;"	s	object:entries.29
+project_name	community.json	/^      "project_name": "caliper",$/;"	s	object:entries.30
+project_name	community.json	/^      "project_name": "cccccccc",$/;"	s	object:entries.31
+project_name	community.json	/^      "project_name": "changes",$/;"	s	object:entries.32
+project_name	community.json	/^      "project_name": "cheat_codes_2",$/;"	s	object:entries.33
+project_name	community.json	/^      "project_name": "circles",$/;"	s	object:entries.34
+project_name	community.json	/^      "project_name": "clarck",$/;"	s	object:entries.35
+project_name	community.json	/^      "project_name": "clcks",$/;"	s	object:entries.36
+project_name	community.json	/^      "project_name": "clipper",$/;"	s	object:entries.37
+project_name	community.json	/^      "project_name": "colorwheel",$/;"	s	object:entries.38
+project_name	community.json	/^      "project_name": "combos",$/;"	s	object:entries.39
+project_name	community.json	/^      "project_name": "compass",$/;"	s	object:entries.40
+project_name	community.json	/^      "project_name": "constellations",$/;"	s	object:entries.41
+project_name	community.json	/^      "project_name": "cranes",$/;"	s	object:entries.43
+project_name	community.json	/^      "project_name": "crow_talk",$/;"	s	object:entries.44
+project_name	community.json	/^      "project_name": "cryptkeeper",$/;"	s	object:entries.45
+project_name	community.json	/^      "project_name": "cyrene",$/;"	s	object:entries.46
+project_name	community.json	/^      "project_name": "delayyyyyyyy",$/;"	s	object:entries.49
+project_name	community.json	/^      "project_name": "delinquencer",$/;"	s	object:entries.47
+project_name	community.json	/^      "project_name": "demoncore",$/;"	s	object:entries.48
+project_name	community.json	/^      "project_name": "downtown",$/;"	s	object:entries.50
+project_name	community.json	/^      "project_name": "drift",$/;"	s	object:entries.51
+project_name	community.json	/^      "project_name": "dronecaster",$/;"	s	object:entries.52
+project_name	community.json	/^      "project_name": "drum_room",$/;"	s	object:entries.53
+project_name	community.json	/^      "project_name": "dunes",$/;"	s	object:entries.54
+project_name	community.json	/^      "project_name": "easygrain",$/;"	s	object:entries.55
+project_name	community.json	/^      "project_name": "ekombi",$/;"	s	object:entries.56
+project_name	community.json	/^      "project_name": "endless-stairs",$/;"	s	object:entries.57
+project_name	community.json	/^      "project_name": "euclidigons",$/;"	s	object:entries.58
+project_name	community.json	/^      "project_name": "fall",$/;"	s	object:entries.59
+project_name	community.json	/^      "project_name": "fiahod",$/;"	s	object:entries.61
+project_name	community.json	/^      "project_name": "fibonacci",$/;"	s	object:entries.60
+project_name	community.json	/^      "project_name": "flora",$/;"	s	object:entries.62
+project_name	community.json	/^      "project_name": "fm7",$/;"	s	object:entries.63
+project_name	community.json	/^      "project_name": "folio",$/;"	s	object:entries.64
+project_name	community.json	/^      "project_name": "foulplay",$/;"	s	object:entries.65
+project_name	community.json	/^      "project_name": "foundry",$/;"	s	object:entries.66
+project_name	community.json	/^      "project_name": "fugarc",$/;"	s	object:entries.67
+project_name	community.json	/^      "project_name": "fugu",$/;"	s	object:entries.68
+project_name	community.json	/^      "project_name": "gemini",$/;"	s	object:entries.69
+project_name	community.json	/^      "project_name": "glaciers",$/;"	s	object:entries.70
+project_name	community.json	/^      "project_name": "glitchlets",$/;"	s	object:entries.71
+project_name	community.json	/^      "project_name": "glitchlooper",$/;"	s	object:entries.72
+project_name	community.json	/^      "project_name": "glut",$/;"	s	object:entries.73
+project_name	community.json	/^      "project_name": "goldeneye",$/;"	s	object:entries.74
+project_name	community.json	/^      "project_name": "granchild",$/;"	s	object:entries.76
+project_name	community.json	/^      "project_name": "grd",$/;"	s	object:entries.78
+project_name	community.json	/^      "project_name": "grendy",$/;"	s	object:entries.77
+project_name	community.json	/^      "project_name": "greyhole",$/;"	s	object:entries.79
+project_name	community.json	/^      "project_name": "grid-test",$/;"	s	object:entries.82
+project_name	community.json	/^      "project_name": "gridofpoints",$/;"	s	object:entries.80
+project_name	community.json	/^      "project_name": "gridstep",$/;"	s	object:entries.81
+project_name	community.json	/^      "project_name": "groovecats",$/;"	s	object:entries.75
+project_name	community.json	/^      "project_name": "hachi",$/;"	s	object:entries.84
+project_name	community.json	/^      "project_name": "haven",$/;"	s	object:entries.83
+project_name	community.json	/^      "project_name": "haze",$/;"	s	object:entries.85
+project_name	community.json	/^      "project_name": "here-there",$/;"	s	object:entries.86
+project_name	community.json	/^      "project_name": "hid_demo",$/;"	s	object:entries.87
+project_name	community.json	/^      "project_name": "icarus",$/;"	s	object:entries.88
+project_name	community.json	/^      "project_name": "impact",$/;"	s	object:entries.89
+project_name	community.json	/^      "project_name": "initenere",$/;"	s	object:entries.213
+project_name	community.json	/^      "project_name": "internorns",$/;"	s	object:entries.90
+project_name	community.json	/^      "project_name": "islands",$/;"	s	object:entries.91
+project_name	community.json	/^      "project_name": "isoseq",$/;"	s	object:entries.92
+project_name	community.json	/^      "project_name": "jala",$/;"	s	object:entries.93
+project_name	community.json	/^      "project_name": "jiffy",$/;"	s	object:entries.94
+project_name	community.json	/^      "project_name": "just-play",$/;"	s	object:entries.95
+project_name	community.json	/^      "project_name": "kolor",$/;"	s	object:entries.96
+project_name	community.json	/^      "project_name": "kreislauf",$/;"	s	object:entries.97
+project_name	community.json	/^      "project_name": "kria_midi",$/;"	s	object:entries.98
+project_name	community.json	/^      "project_name": "larc",$/;"	s	object:entries.99
+project_name	community.json	/^      "project_name": "less-concepts",$/;"	s	object:entries.100
+project_name	community.json	/^      "project_name": "lissadron",$/;"	s	object:entries.101
+project_name	community.json	/^      "project_name": "loom",$/;"	s	object:entries.102
+project_name	community.json	/^      "project_name": "lorenzos-drums",$/;"	s	object:entries.103
+project_name	community.json	/^      "project_name": "loudnumbers_norns",$/;"	s	object:entries.104
+project_name	community.json	/^      "project_name": "m18s",$/;"	s	object:entries.105
+project_name	community.json	/^      "project_name": "makebreakbeat",$/;"	s	object:entries.106
+project_name	community.json	/^      "project_name": "mangl",$/;"	s	object:entries.107
+project_name	community.json	/^      "project_name": "manifold",$/;"	s	object:entries.108
+project_name	community.json	/^      "project_name": "massif",$/;"	s	object:entries.109
+project_name	community.json	/^      "project_name": "meadowphysics",$/;"	s	object:entries.110
+project_name	community.json	/^      "project_name": "metrix",$/;"	s	object:entries.111
+project_name	community.json	/^      "project_name": "midi-monitor",$/;"	s	object:entries.112
+project_name	community.json	/^      "project_name": "mlr",$/;"	s	object:entries.113
+project_name	community.json	/^      "project_name": "molly_the_poly",$/;"	s	object:entries.114
+project_name	community.json	/^      "project_name": "moln",$/;"	s	object:entries.115
+project_name	community.json	/^      "project_name": "monitor",$/;"	s	object:entries.116
+project_name	community.json	/^      "project_name": "moonraker",$/;"	s	object:entries.117
+project_name	community.json	/^      "project_name": "mouse",$/;"	s	object:entries.118
+project_name	community.json	/^      "project_name": "msh",$/;"	s	object:entries.119
+project_name	community.json	/^      "project_name": "mx.samples",$/;"	s	object:entries.120
+project_name	community.json	/^      "project_name": "mx.synths",$/;"	s	object:entries.121
+project_name	community.json	/^      "project_name": "n16o",$/;"	s	object:entries.122
+project_name	community.json	/^      "project_name": "nc01-drone",$/;"	s	object:entries.131
+project_name	community.json	/^      "project_name": "nc02-rs",$/;"	s	object:entries.132
+project_name	community.json	/^      "project_name": "nest_",$/;"	s	object:entries.214
+project_name	community.json	/^      "project_name": "nisp",$/;"	s	object:entries.123
+project_name	community.json	/^      "project_name": "nmMelodyMagic",$/;"	s	object:entries.124
+project_name	community.json	/^      "project_name": "nmQuadroDubber",$/;"	s	object:entries.125
+project_name	community.json	/^      "project_name": "nmRain",$/;"	s	object:entries.126
+project_name	community.json	/^      "project_name": "nmSmartyPants",$/;"	s	object:entries.127
+project_name	community.json	/^      "project_name": "norman",$/;"	s	object:entries.129
+project_name	community.json	/^      "project_name": "norns.online",$/;"	s	object:entries.130
+project_name	community.json	/^      "project_name": "nydl",$/;"	s	object:entries.133
+project_name	community.json	/^      "project_name": "nørgård",$/;"	s	object:entries.128
+project_name	community.json	/^      "project_name": "o-o-o",$/;"	s	object:entries.135
+project_name	community.json	/^      "project_name": "oblique",$/;"	s	object:entries.134
+project_name	community.json	/^      "project_name": "onehanded",$/;"	s	object:entries.136
+project_name	community.json	/^      "project_name": "ong",$/;"	s	object:entries.137
+project_name	community.json	/^      "project_name": "oooooo",$/;"	s	object:entries.138
+project_name	community.json	/^      "project_name": "orbital",$/;"	s	object:entries.139
+project_name	community.json	/^      "project_name": "orca",$/;"	s	object:entries.140
+project_name	community.json	/^      "project_name": "orgn",$/;"	s	object:entries.219
+project_name	community.json	/^      "project_name": "orgnwrms",$/;"	s	object:entries.220
+project_name	community.json	/^      "project_name": "ortf",$/;"	s	object:entries.141
+project_name	community.json	/^      "project_name": "otis",$/;"	s	object:entries.142
+project_name	community.json	/^      "project_name": "p8",$/;"	s	object:entries.143
+project_name	community.json	/^      "project_name": "parrot",$/;"	s	object:entries.144
+project_name	community.json	/^      "project_name": "passersby",$/;"	s	object:entries.145
+project_name	community.json	/^      "project_name": "passthrough",$/;"	s	object:entries.146
+project_name	community.json	/^      "project_name": "patchwork",$/;"	s	object:entries.147
+project_name	community.json	/^      "project_name": "pedalboard",$/;"	s	object:entries.148
+project_name	community.json	/^      "project_name": "phonotype",$/;"	s	object:entries.149
+project_name	community.json	/^      "project_name": "phyllis",$/;"	s	object:entries.150
+project_name	community.json	/^      "project_name": "pirate-radio",$/;"	s	object:entries.151
+project_name	community.json	/^      "project_name": "pitfalls",$/;"	s	object:entries.152
+project_name	community.json	/^      "project_name": "piwip",$/;"	s	object:entries.153
+project_name	community.json	/^      "project_name": "pixels",$/;"	s	object:entries.154
+project_name	community.json	/^      "project_name": "plonky",$/;"	s	object:entries.155
+project_name	community.json	/^      "project_name": "pools",$/;"	s	object:entries.156
+project_name	community.json	/^      "project_name": "punchcard",$/;"	s	object:entries.157
+project_name	community.json	/^      "project_name": "qfwfq",$/;"	s	object:entries.158
+project_name	community.json	/^      "project_name": "quence",$/;"	s	object:entries.159
+project_name	community.json	/^      "project_name": "r",$/;"	s	object:entries.162
+project_name	community.json	/^      "project_name": "rangl",$/;"	s	object:entries.160
+project_name	community.json	/^      "project_name": "rebound",$/;"	s	object:entries.163
+project_name	community.json	/^      "project_name": "reels",$/;"	s	object:entries.161
+project_name	community.json	/^      "project_name": "repl-looper",$/;"	s	object:entries.164
+project_name	community.json	/^      "project_name": "rpmate",$/;"	s	object:entries.165
+project_name	community.json	/^      "project_name": "rudiments",$/;"	s	object:entries.166
+project_name	community.json	/^      "project_name": "sam",$/;"	s	object:entries.167
+project_name	community.json	/^      "project_name": "sampswap",$/;"	s	object:entries.168
+project_name	community.json	/^      "project_name": "samsara",$/;"	s	object:entries.169
+project_name	community.json	/^      "project_name": "seaflex",$/;"	s	object:entries.170
+project_name	community.json	/^      "project_name": "shapes",$/;"	s	object:entries.173
+project_name	community.json	/^      "project_name": "shfts",$/;"	s	object:entries.174
+project_name	community.json	/^      "project_name": "showers",$/;"	s	object:entries.175
+project_name	community.json	/^      "project_name": "silos",$/;"	s	object:entries.171
+project_name	community.json	/^      "project_name": "sines",$/;"	s	object:entries.172
+project_name	community.json	/^      "project_name": "skylines",$/;"	s	object:entries.176
+project_name	community.json	/^      "project_name": "smash",$/;"	s	object:entries.177
+project_name	community.json	/^      "project_name": "spirals",$/;"	s	object:entries.178
+project_name	community.json	/^      "project_name": "splicer",$/;"	s	object:entries.179
+project_name	community.json	/^      "project_name": "stack",$/;"	s	object:entries.181
+project_name	community.json	/^      "project_name": "step",$/;"	s	object:entries.182
+project_name	community.json	/^      "project_name": "stjörnuíþrótt",$/;"	s	object:entries.183
+project_name	community.json	/^      "project_name": "strides",$/;"	s	object:entries.184
+project_name	community.json	/^      "project_name": "strum",$/;"	s	object:entries.185
+project_name	community.json	/^      "project_name": "supercut",$/;"	s	object:entries.186
+project_name	community.json	/^      "project_name": "supertonic",$/;"	s	object:entries.187
+project_name	community.json	/^      "project_name": "sway",$/;"	s	object:entries.188
+project_name	community.json	/^      "project_name": "sweet bees",$/;"	s	object:entries.189
+project_name	community.json	/^      "project_name": "synthy",$/;"	s	object:entries.190
+project_name	community.json	/^      "project_name": "takt",$/;"	s	object:entries.191
+project_name	community.json	/^      "project_name": "tambla",$/;"	s	object:entries.192
+project_name	community.json	/^      "project_name": "tapedeck",$/;"	s	object:entries.193
+project_name	community.json	/^      "project_name": "thebangs",$/;"	s	object:entries.194
+project_name	community.json	/^      "project_name": "thirtythree",$/;"	s	object:entries.195
+project_name	community.json	/^      "project_name": "timber",$/;"	s	object:entries.196
+project_name	community.json	/^      "project_name": "timeparty",$/;"	s	object:entries.197
+project_name	community.json	/^      "project_name": "tmi",$/;"	s	object:entries.198
+project_name	community.json	/^      "project_name": "torii",$/;"	s	object:entries.199
+project_name	community.json	/^      "project_name": "traffic",$/;"	s	object:entries.200
+project_name	community.json	/^      "project_name": "triangles",$/;"	s	object:entries.201
+project_name	community.json	/^      "project_name": "tuner",$/;"	s	object:entries.202
+project_name	community.json	/^      "project_name": "tunnels",$/;"	s	object:entries.203
+project_name	community.json	/^      "project_name": "tviburar",$/;"	s	object:entries.217
+project_name	community.json	/^      "project_name": "twine",$/;"	s	object:entries.204
+project_name	community.json	/^      "project_name": "u",$/;"	s	object:entries.205
+project_name	community.json	/^      "project_name": "uhf",$/;"	s	object:entries.206
+project_name	community.json	/^      "project_name": "vials",$/;"	s	object:entries.207
+project_name	community.json	/^      "project_name": "waver",$/;"	s	object:entries.208
+project_name	community.json	/^      "project_name": "wobblewobble",$/;"	s	object:entries.209
+project_name	community.json	/^      "project_name": "wrms",$/;"	s	object:entries.210
+project_name	community.json	/^      "project_name": "yggdrasil",$/;"	s	object:entries.211
+project_name	community.json	/^      "project_name": "zellen",$/;"	s	object:entries.212
+project_url	base.json	/^      "project_url": "https:\/\/github.com\/monome\/crow-studies",$/;"	s	object:entries.0
+project_url	base.json	/^      "project_url": "https:\/\/github.com\/monome\/firstlight",$/;"	s	object:entries.1
+project_url	base.json	/^      "project_url": "https:\/\/github.com\/monome\/softcut-studies",$/;"	s	object:entries.2
+project_url	community.json	/^       "project_url": "https:\/\/github.com\/jaseknighter\/splnkr",$/;"	s	object:entries.180
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/21echoes\/4-big-knobs",$/;"	s	object:entries.1
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/21echoes\/cyrene",$/;"	s	object:entries.46
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/21echoes\/pedalboard",$/;"	s	object:entries.148
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/21echoes\/samsara",$/;"	s	object:entries.169
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/AndrewShike\/msh",$/;"	s	object:entries.119
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/AndrewShike\/supercut",$/;"	s	object:entries.186
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/AndrewShike\/wrms",$/;"	s	object:entries.210
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/BeatRossmy\/SuperBrain",$/;"	s	object:entries.215
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/GoneCaving\/awake-rings",$/;"	s	object:entries.15
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/JakeCarter\/circles",$/;"	s	object:entries.34
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/Mendrzec\/impact",$/;"	s	object:entries.89
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/P1505\/orbital",$/;"	s	object:entries.139
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/Quixotic7\/corners",$/;"	s	object:entries.42
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/Quixotic7\/gridstep",$/;"	s	object:entries.81
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/Quixotic7\/groovecats",$/;"	s	object:entries.75
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/TuesdayNightMachines\/nmMelodyMagic",$/;"	s	object:entries.124
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/TuesdayNightMachines\/nmQuadroDubber",$/;"	s	object:entries.125
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/TuesdayNightMachines\/nmRain",$/;"	s	object:entries.126
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/TuesdayNightMachines\/nmSmartyPants",$/;"	s	object:entries.127
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/aidanreilly\/sines",$/;"	s	object:entries.172
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/ambalek\/fall",$/;"	s	object:entries.59
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/andr-ew\/nest_",$/;"	s	object:entries.214
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/andr-ew\/orgn",$/;"	s	object:entries.219
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/andr-ew\/orgnwrms",$/;"	s	object:entries.220
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/antonhornquist\/ack",$/;"	s	object:entries.4
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/antonhornquist\/moln",$/;"	s	object:entries.115
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/antonhornquist\/r",$/;"	s	object:entries.162
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/antonhornquist\/step",$/;"	s	object:entries.182
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/artfwo\/glut",$/;"	s	object:entries.73
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/awwaiid\/repl-looper",$/;"	s	object:entries.164
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/bryceadams\/norns-fibonacci",$/;"	s	object:entries.60
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/cachilders\/qfwfq",$/;"	s	object:entries.158
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/carltesta\/glitchlooper",$/;"	s	object:entries.72
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/carltesta\/manifold",$/;"	s	object:entries.108
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/carltesta\/sway",$/;"	s	object:entries.188
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/carvingCode\/isoseq",$/;"	s	object:entries.92
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/carvingCode\/strum",$/;"	s	object:entries.185
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/catfact\/thebangs.git",$/;"	s	object:entries.194
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/cfdrake\/bistro",$/;"	s	object:entries.22
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/cfdrake\/blippoo",$/;"	s	object:entries.24
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/cfdrake\/delayyyyyyyy",$/;"	s	object:entries.49
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/cfdrake\/grendy",$/;"	s	object:entries.77
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/cfdrake\/mouse",$/;"	s	object:entries.118
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/cfdrake\/rudiments",$/;"	s	object:entries.166
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/cfdrake\/stack",$/;"	s	object:entries.181
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/cfdrake\/twine",$/;"	s	object:entries.204
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/chrislo\/triangles",$/;"	s	object:entries.201
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/crimclark\/animator",$/;"	s	object:entries.7
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/crimclark\/norman",$/;"	s	object:entries.129
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/crimclark\/timeparty",$/;"	s	object:entries.197
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/csboling\/folio",$/;"	s	object:entries.64
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/csboling\/foundry",$/;"	s	object:entries.66
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/dansimco\/meadowphysics",$/;"	s	object:entries.110
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/distropolis\/pixels",$/;"	s	object:entries.154
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/dndrks\/cheat_codes_2",$/;"	s	object:entries.33
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/dndrks\/cranes",$/;"	s	object:entries.43
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/dst78\/ong",$/;"	s	object:entries.137
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/duncangeere\/gridofpoints",$/;"	s	object:entries.80
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/duncangeere\/loudnumbers_norns",$/;"	s	object:entries.104
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/dwtong\/glaciers",$/;"	s	object:entries.70
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/echophon\/barycenter",$/;"	s	object:entries.18
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/echophon\/drift",$/;"	s	object:entries.51
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/felart\/ORTF",$/;"	s	object:entries.141
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/frederickk\/b-b-b-b-beat",$/;"	s	object:entries.19
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/frederickk\/kreislauf",$/;"	s	object:entries.97
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/frederickk\/noergaard",$/;"	s	object:entries.128
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/frederickk\/stjoernuithrott",$/;"	s	object:entries.183
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/icerigger\/sweet-bees",$/;"	s	object:entries.189
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/itsyourbedtime\/NISP",$/;"	s	object:entries.123
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/itsyourbedtime\/fugu",$/;"	s	object:entries.68
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/itsyourbedtime\/orca",$/;"	s	object:entries.140
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/itsyourbedtime\/reels",$/;"	s	object:entries.161
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/itsyourbedtime\/takt",$/;"	s	object:entries.191
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/jaseknighter\/clipper",$/;"	s	object:entries.37
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/jaseknighter\/flora",$/;"	s	object:entries.62
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/jaseknighter\/parrot",$/;"	s	object:entries.144
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/jlmitch5\/m18s",$/;"	s	object:entries.105
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/jlmitch5\/n16o",$/;"	s	object:entries.122
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/joelwalden\/cryptkeeper",$/;"	s	object:entries.45
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/junklight\/islands.git",$/;"	s	object:entries.91
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/junklight\/kria_midi",$/;"	s	object:entries.98
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/boingg",$/;"	s	object:entries.26
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/bounds",$/;"	s	object:entries.27
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/combos",$/;"	s	object:entries.39
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/crow_talk",$/;"	s	object:entries.44
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/foulplay",$/;"	s	object:entries.65
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/greyhole",$/;"	s	object:entries.79
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/larc",$/;"	s	object:entries.99
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/massif",$/;"	s	object:entries.109
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/otis",$/;"	s	object:entries.142
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/phyllis",$/;"	s	object:entries.150
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/pools",$/;"	s	object:entries.156
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/sam",$/;"	s	object:entries.167
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/showers",$/;"	s	object:entries.175
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/justmat\/silos",$/;"	s	object:entries.171
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/kasperbauer\/metrix",$/;"	s	object:entries.111
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/kevinlindley\/delinquencer",$/;"	s	object:entries.47
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/kevinlindley\/demoncore",$/;"	s	object:entries.48
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/lazzarello\/fm7",$/;"	s	object:entries.63
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/linusschrab\/initenere",$/;"	s	object:entries.213
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/linusschrab\/tviburar",$/;"	s	object:entries.217
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/lukes-anger\/jiffy",$/;"	s	object:entries.94
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/lylepmills\/buoys",$/;"	s	object:entries.29
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/lylepmills\/seaflex",$/;"	s	object:entries.170
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/markwheeler\/arp_index",$/;"	s	object:entries.11
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/markwheeler\/changes",$/;"	s	object:entries.32
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/markwheeler\/drum_room",$/;"	s	object:entries.53
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/markwheeler\/loom\/",$/;"	s	object:entries.102
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/markwheeler\/molly_the_poly",$/;"	s	object:entries.114
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/markwheeler\/passersby",$/;"	s	object:entries.145
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/markwheeler\/timber",$/;"	s	object:entries.196
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/markwheeler\/tuner",$/;"	s	object:entries.202
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/mattb\/beets",$/;"	s	object:entries.20
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/mhetrick\/easygrain",$/;"	s	object:entries.55
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/mhetrick\/gemini\/",$/;"	s	object:entries.69
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/midouest\/endless-stairs",$/;"	s	object:entries.57
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/midouest\/just-play",$/;"	s	object:entries.95
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/millxing\/QUENCE",$/;"	s	object:entries.159
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/mimetaur\/arcify",$/;"	s	object:entries.8
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/mimetaur\/onehanded",$/;"	s	object:entries.136
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/monome-community\/nc01-drone",$/;"	s	object:entries.131
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/monome-community\/nc02-rs",$/;"	s	object:entries.132
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/mortenwagner\/fugarc",$/;"	s	object:entries.67
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/nattog\/awake-passersby",$/;"	s	object:entries.14
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/nattog\/passthrough",$/;"	s	object:entries.146
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/nattog\/vials",$/;"	s	object:entries.207
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/neauoire\/monitor",$/;"	s	object:entries.116
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/neauoire\/punchcard",$/;"	s	object:entries.157
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/nf\/rebound",$/;"	s	object:entries.163
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/ngwese\/tambla.git",$/;"	s	object:entries.192
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/norns-study-group\/pirate-radio",$/;"	s	object:entries.151
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/northern-information\/arcologies",$/;"	s	object:entries.9
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/northern-information\/bakeneko",$/;"	s	object:entries.16
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/northern-information\/dronecaster",$/;"	s	object:entries.52
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/northern-information\/fiahod",$/;"	s	object:entries.61
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/northern-information\/goldeneye",$/;"	s	object:entries.74
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/northern-information\/splicer",$/;"	s	object:entries.179
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/northern-information\/u",$/;"	s	object:entries.205
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/northern-information\/yggdrasil",$/;"	s	object:entries.211
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/notjustmat\/mangl",$/;"	s	object:entries.107
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/notjustmat\/strides",$/;"	s	object:entries.184
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/okyeron\/clarck",$/;"	s	object:entries.35
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/okyeron\/grid-test",$/;"	s	object:entries.82
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/okyeron\/hid-demo\/",$/;"	s	object:entries.87
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/okyeron\/midi-monitor.git",$/;"	s	object:entries.112
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/okyeron\/torii",$/;"	s	object:entries.199
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/oliviercreurer\/compass",$/;"	s	object:entries.40
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/oliviercreurer\/dunes",$/;"	s	object:entries.54
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/oliviercreurer\/patchwork",$/;"	s	object:entries.147
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/p3r7\/3d",$/;"	s	object:entries.0
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/p3r7\/p8",$/;"	s	object:entries.143
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/p3r7\/rpmate",$/;"	s	object:entries.165
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/pangrus\/automs70",$/;"	s	object:entries.12
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/pangrus\/hachi",$/;"	s	object:entries.84
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/robmckinnon\/pitfalls",$/;"	s	object:entries.152
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/rwhaling\/shfts",$/;"	s	object:entries.174
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/ryanlaws\/SMASH",$/;"	s	object:entries.177
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/ryleelyman\/bitters",$/;"	s	object:entries.23
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/ryleelyman\/waver",$/;"	s	object:entries.208
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/sarweiler\/zellen",$/;"	s	object:entries.212
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/scazan\/benjolis",$/;"	s	object:entries.21
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/abacus",$/;"	s	object:entries.2
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/acid-test",$/;"	s	object:entries.3
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/acrostic",$/;"	s	object:entries.5
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/amen",$/;"	s	object:entries.6
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/barcode",$/;"	s	object:entries.17
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/blndr",$/;"	s	object:entries.25
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/clcks",$/;"	s	object:entries.36
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/downtown",$/;"	s	object:entries.50
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/glitchlets",$/;"	s	object:entries.71
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/granchild",$/;"	s	object:entries.76
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/icarus",$/;"	s	object:entries.88
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/internorns",$/;"	s	object:entries.90
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/kolor",$/;"	s	object:entries.96
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/lorenzos-drums",$/;"	s	object:entries.103
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/makebreakbeat",$/;"	s	object:entries.106
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/moonraker",$/;"	s	object:entries.117
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/mx.samples",$/;"	s	object:entries.120
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/mx.synths",$/;"	s	object:entries.121
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/norns.online",$/;"	s	object:entries.130
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/o-o-o",$/;"	s	object:entries.135
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/oooooo",$/;"	s	object:entries.138
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/piwip",$/;"	s	object:entries.153
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/plonky",$/;"	s	object:entries.155
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/sampswap",$/;"	s	object:entries.168
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/supertonic",$/;"	s	object:entries.187
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/synthy",$/;"	s	object:entries.190
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/tapedeck",$/;"	s	object:entries.193
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/thirtythree",$/;"	s	object:entries.195
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/tmi",$/;"	s	object:entries.198
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/schollz\/wobblewobble",$/;"	s	object:entries.209
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/sixolet\/nydl",$/;"	s	object:entries.133
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/sixolet\/phonotype",$/;"	s	object:entries.149
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/speakerdamage\/here-there",$/;"	s	object:entries.86
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/speakerdamage\/tunnels",$/;"	s	object:entries.203
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/speakerdamage\/uhf",$/;"	s	object:entries.206
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/stvnrlly\/oblique",$/;"	s	object:entries.134
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/synthetiv\/caliper",$/;"	s	object:entries.30
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/synthetiv\/euclidigons",$/;"	s	object:entries.58
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/szymonkaliski\/haze",$/;"	s	object:entries.85
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tai-studio\/haven",$/;"	s	object:entries.83
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tai-studio\/lissadron",$/;"	s	object:entries.101
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tehn\/ash",$/;"	s	object:entries.10
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tehn\/awake",$/;"	s	object:entries.13
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tehn\/mlr",$/;"	s	object:entries.113
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tgk\/rangl",$/;"	s	object:entries.160
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/timothy-taylor\/constellations",$/;"	s	object:entries.41
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tlubke\/ekombi",$/;"	s	object:entries.56
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tlubke\/shapes",$/;"	s	object:entries.173
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tomwaters\/beacon",$/;"	s	object:entries.218
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tomwaters\/breakthrough",$/;"	s	object:entries.28
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/tomwaters\/spirals",$/;"	s	object:entries.178
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/ulf\/jala",$/;"	s	object:entries.93
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/unit-cell\/skylines",$/;"	s	object:entries.176
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/vicimity-dndrks\/less_concepts",$/;"	s	object:entries.100
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/whimsicalraps\/bowering",$/;"	s	object:entries.216
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/yams7457\/colorwheel",$/;"	s	object:entries.38
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/yotamorimoto\/grd",$/;"	s	object:entries.78
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/ypxk\/cccccccc\/",$/;"	s	object:entries.31
+project_url	community.json	/^      "project_url": "https:\/\/github.com\/ypxk\/traffic",$/;"	s	object:entries.200
+tag	community.json	/^      "tag": ["grid", "midi"]$/;"	a	object:entries.98
+tags	base.json	/^      "tags": ["study", "demo"]$/;"	a	object:entries.0
+tags	base.json	/^      "tags": ["study", "demo"]$/;"	a	object:entries.1
+tags	base.json	/^      "tags": ["study", "demo"]$/;"	a	object:entries.2
+tags	community.json	/^        "tags": ["midi", "sequencer"]$/;"	a	object:entries.93
+tags	community.json	/^       "tags": ["sequencer","sampler","midi","norns","crow"]$/;"	a	object:entries.180
+tags	community.json	/^      "tags":  ["drum", "grid"]$/;"	a	object:entries.117
+tags	community.json	/^      "tags": ["arc", "granular"]$/;"	a	object:entries.107
+tags	community.json	/^      "tags": ["arc", "granular"]$/;"	a	object:entries.160
+tags	community.json	/^      "tags": ["arc", "grid", "looper", "drum", "synth"]$/;"	a	object:entries.10
+tags	community.json	/^      "tags": ["arc"]$/;"	a	object:entries.31
+tags	community.json	/^      "tags": ["arc"]$/;"	a	object:entries.35
+tags	community.json	/^      "tags": ["ca", "crow", "midi", "sequencer"]$/;"	a	object:entries.100
+tags	community.json	/^      "tags": ["crow", "ER-301", "nanoKONTROL 2"]$/;"	a	object:entries.122
+tags	community.json	/^      "tags": ["crow", "arc", "utilities", "midi"]$/;"	a	object:entries.1
+tags	community.json	/^      "tags": ["crow", "grid", "just-friends", "sequencer"]$/;"	a	object:entries.57
+tags	community.json	/^      "tags": ["crow", "grid"]$/;"	a	object:entries.174
+tags	community.json	/^      "tags": ["crow", "midi", "grid", "sequencer", "generative"]$/;"	a	object:entries.5
+tags	community.json	/^      "tags": ["crow", "midi"]$/;"	a	object:entries.173
+tags	community.json	/^      "tags": ["crow", "midi"]$/;"	a	object:entries.3
+tags	community.json	/^      "tags": ["crow"]$/;"	a	object:entries.209
+tags	community.json	/^      "tags": ["crow"]$/;"	a	object:entries.216
+tags	community.json	/^      "tags": ["crow"]$/;"	a	object:entries.30
+tags	community.json	/^      "tags": ["crow"]$/;"	a	object:entries.34
+tags	community.json	/^      "tags": ["delay","sampler","looper","granular"]$/;"	a	object:entries.127
+tags	community.json	/^      "tags": ["delay","sampler"]$/;"	a	object:entries.126
+tags	community.json	/^      "tags": ["drone", "midi"]$/;"	a	object:entries.172
+tags	community.json	/^      "tags": ["drone", "midi"]$/;"	a	object:entries.183
+tags	community.json	/^      "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]$/;"	a	object:entries.46
+tags	community.json	/^      "tags": ["drum", "sequencer", "grid"]$/;"	a	object:entries.89
+tags	community.json	/^      "tags": ["drum", "synth", "sequencer"]$/;"	a	object:entries.166
+tags	community.json	/^      "tags": ["drum"]$/;"	a	object:entries.53
+tags	community.json	/^      "tags": ["engine"]$/;"	a	object:entries.187
+tags	community.json	/^      "tags": ["engine"]$/;"	a	object:entries.194
+tags	community.json	/^      "tags": ["fx", "arc"]$/;"	a	object:entries.148
+tags	community.json	/^      "tags": ["fx"]$/;"	a	object:entries.108
+tags	community.json	/^      "tags": ["fx"]$/;"	a	object:entries.109
+tags	community.json	/^      "tags": ["fx"]$/;"	a	object:entries.49
+tags	community.json	/^      "tags": ["fx"]$/;"	a	object:entries.72
+tags	community.json	/^      "tags": ["generative", "fx"]$/;"	a	object:entries.188
+tags	community.json	/^      "tags": ["generative", "library", "norgard", "midi"]$/;"	a	object:entries.128
+tags	community.json	/^      "tags": ["generative", "sequencer", "synth", "crow", "midi"]$/;"	a	object:entries.59
+tags	community.json	/^      "tags": ["generative"]$/;"	a	object:entries.61
+tags	community.json	/^      "tags": ["granular", "grid", "arc"]$/;"	a	object:entries.171
+tags	community.json	/^      "tags": ["granular", "looper"]$/;"	a	object:entries.85
+tags	community.json	/^      "tags": ["granular"]$/;"	a	object:entries.204
+tags	community.json	/^      "tags": ["granular"]$/;"	a	object:entries.73
+tags	community.json	/^      "tags": ["grid", "arc", "crow", "midi"]$/;"	a	object:entries.29
+tags	community.json	/^      "tags": ["grid", "arc", "lib"]$/;"	a	object:entries.214
+tags	community.json	/^      "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"]$/;"	a	object:entries.33
+tags	community.json	/^      "tags": ["grid", "crow", "sequencer"]$/;"	a	object:entries.80
+tags	community.json	/^      "tags": ["grid", "looper", "sequencer"]$/;"	a	object:entries.164
+tags	community.json	/^      "tags": ["grid", "midi", "sequencer", "sampler"]$/;"	a	object:entries.81
+tags	community.json	/^      "tags": ["grid", "midi", "sequencer", "synth"]$/;"	a	object:entries.75
+tags	community.json	/^      "tags": ["grid", "midi", "sequencer"]$/;"	a	object:entries.215
+tags	community.json	/^      "tags": ["grid", "midi", "synth", "drone", "generative"]$/;"	a	object:entries.42
+tags	community.json	/^      "tags": ["grid", "sequencer", "crow", "midi"]$/;"	a	object:entries.7
+tags	community.json	/^      "tags": ["grid", "sequencer", "generative", "crow", "midi", "arc"]$/;"	a	object:entries.9
+tags	community.json	/^      "tags": ["grid", "sequencer", "midi", "link"]$/;"	a	object:entries.199
+tags	community.json	/^      "tags": ["grid", "sequencer"]$/;"	a	object:entries.159
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.102
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.110
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.119
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.152
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.170
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.20
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.74
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.82
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.91
+tags	community.json	/^      "tags": ["grid"]$/;"	a	object:entries.92
+tags	community.json	/^      "tags": ["hid", "demo"]$/;"	a	object:entries.87
+tags	community.json	/^      "tags": ["hid", "keyboard"]$/;"	a	object:entries.140
+tags	community.json	/^      "tags": ["keyboard", "synth", "midi"]$/;"	a	object:entries.149
+tags	community.json	/^      "tags": ["lib", "drum"]$/;"	a	object:entries.84
+tags	community.json	/^      "tags": ["lib"]$/;"	a	object:entries.162
+tags	community.json	/^      "tags": ["lib"]$/;"	a	object:entries.8
+tags	community.json	/^      "tags": ["looper", "grid"]$/;"	a	object:entries.43
+tags	community.json	/^      "tags": ["looper", "sequencer", "grid", "crow"]$/;"	a	object:entries.133
+tags	community.json	/^      "tags": ["looper", "sequencer"]$/;"	a	object:entries.40
+tags	community.json	/^      "tags": ["looper","sampler"]$/;"	a	object:entries.125
+tags	community.json	/^      "tags": ["looper","sampler"]$/;"	a	object:entries.168
+tags	community.json	/^      "tags": ["looper"]$/;"	a	object:entries.142
+tags	community.json	/^      "tags": ["looper"]$/;"	a	object:entries.161
+tags	community.json	/^      "tags": ["looper"]$/;"	a	object:entries.169
+tags	community.json	/^      "tags": ["midi", "gen", "sky", "sequencer"]$/;"	a	object:entries.192
+tags	community.json	/^      "tags": ["midi", "lfo"]$/;"	a	object:entries.32
+tags	community.json	/^      "tags": ["midi"]$/;"	a	object:entries.112
+tags	community.json	/^      "tags": ["midi"]$/;"	a	object:entries.116
+tags	community.json	/^      "tags": ["midi"]$/;"	a	object:entries.136
+tags	community.json	/^      "tags": ["midi"]$/;"	a	object:entries.141
+tags	community.json	/^      "tags": ["midi"]$/;"	a	object:entries.146
+tags	community.json	/^      "tags": ["midi"]$/;"	a	object:entries.153
+tags	community.json	/^      "tags": ["midi"]$/;"	a	object:entries.198
+tags	community.json	/^      "tags": ["mod"]$/;"	a	object:entries.134
+tags	community.json	/^      "tags": ["noise"]$/;"	a	object:entries.48
+tags	community.json	/^      "tags": ["norns", "crow"]$/;"	a	object:entries.144
+tags	community.json	/^      "tags": ["norns", "crow"]$/;"	a	object:entries.44
+tags	community.json	/^      "tags": ["paulstretch", "fx"]$/;"	a	object:entries.70
+tags	community.json	/^      "tags": ["sampler"]$/;"	a	object:entries.113
+tags	community.json	/^      "tags": ["sampler"]$/;"	a	object:entries.218
+tags	community.json	/^      "tags": ["sequencer", "crow", "m4l"]$/;"	a	object:entries.217
+tags	community.json	/^      "tags": ["sequencer", "crow"]$/;"	a	object:entries.213
+tags	community.json	/^      "tags": ["sequencer", "generative", "crow", "midi"]$/;"	a	object:entries.41
+tags	community.json	/^      "tags": ["sequencer", "generative", "midi", "crow"]$/;"	a	object:entries.60
+tags	community.json	/^      "tags": ["sequencer", "generative"]$/;"	a	object:entries.16
+tags	community.json	/^      "tags": ["sequencer", "grid", "crow", "midi"]$/;"	a	object:entries.111
+tags	community.json	/^      "tags": ["sequencer", "grid", "crow"]$/;"	a	object:entries.147
+tags	community.json	/^      "tags": ["sequencer", "grid"]$/;"	a	object:entries.22
+tags	community.json	/^      "tags": ["sequencer", "midi", "engine"]$/;"	a	object:entries.47
+tags	community.json	/^      "tags": ["sequencer", "midi", "grid"]$/;"	a	object:entries.56
+tags	community.json	/^      "tags": ["sequencer", "midi"]$/;"	a	object:entries.158
+tags	community.json	/^      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]$/;"	a	object:entries.104
+tags	community.json	/^      "tags": ["sequencer", "synth", "crow"]$/;"	a	object:entries.62
+tags	community.json	/^      "tags": ["sequencer","midi"]$/;"	a	object:entries.124
+tags	community.json	/^      "tags": ["sequencer","midi"]$/;"	a	object:entries.154
+tags	community.json	/^      "tags": ["sequencer"]$/;"	a	object:entries.163
+tags	community.json	/^      "tags": ["sequencer"]$/;"	a	object:entries.178
+tags	community.json	/^      "tags": ["sequencer"]$/;"	a	object:entries.18
+tags	community.json	/^      "tags": ["sequencer"]$/;"	a	object:entries.195
+tags	community.json	/^      "tags": ["sequencer"]$/;"	a	object:entries.28
+tags	community.json	/^      "tags": ["sequencer"]$/;"	a	object:entries.51
+tags	community.json	/^      "tags": ["sequencer"]$/;"	a	object:entries.67
+tags	community.json	/^      "tags": ["sequencer"]$/;"	a	object:entries.68
+tags	community.json	/^      "tags": ["sequins", "lattice", "eduscript"]$/;"	a	object:entries.179
+tags	community.json	/^      "tags": ["softcut", "lib"]$/;"	a	object:entries.186
+tags	community.json	/^      "tags": ["softcut", "looper", "delay"]$/;"	a	object:entries.210
+tags	community.json	/^      "tags": ["softcut", "sines", "granular"]$/;"	a	object:entries.86
+tags	community.json	/^      "tags": ["softcut"]$/;"	a	object:entries.19
+tags	community.json	/^      "tags": ["synth", "fm", "grid", "looper", "delay"]$/;"	a	object:entries.220
+tags	community.json	/^      "tags": ["synth", "fm", "grid"]$/;"	a	object:entries.219
+tags	community.json	/^      "tags": ["synth", "generative"]$/;"	a	object:entries.52
+tags	community.json	/^      "tags": ["synth", "granular"]$/;"	a	object:entries.78
+tags	community.json	/^      "tags": ["synth", "midi", "crow"]$/;"	a	object:entries.105
+tags	community.json	/^      "tags": ["synth", "midi", "grid", "arc"]$/;"	a	object:entries.115
+tags	community.json	/^      "tags": ["synth", "midi"]$/;"	a	object:entries.114
+tags	community.json	/^      "tags": ["synth", "midi"]$/;"	a	object:entries.145
+tags	community.json	/^      "tags": ["synth", "midi"]$/;"	a	object:entries.63
+tags	community.json	/^      "tags": ["synth", "midi"]$/;"	a	object:entries.77
+tags	community.json	/^      "tags": ["synth", "noise"]$/;"	a	object:entries.83
+tags	community.json	/^      "tags": ["synth", "random"]$/;"	a	object:entries.101
+tags	community.json	/^      "tags": ["synth", "sequencer", "grid"]$/;"	a	object:entries.118
+tags	community.json	/^      "tags": ["synth", "sequencer"]$/;"	a	object:entries.58
+tags	community.json	/^      "tags": ["synth"]$/;"	a	object:entries.23
+tags	community.json	/^      "tags": ["synth"]$/;"	a	object:entries.24
+tags	community.json	/^      "tags": ["tape", "utilities"]$/;"	a	object:entries.208
+tags	community.json	/^      "tags": ["tape"]$/;"	a	object:entries.206
+tags	community.json	/^      "tags": ["tracker", "midi"]$/;"	a	object:entries.211
+tags	community.json	/^      "tags": ["tracker"]$/;"	a	object:entries.123
+tags	community.json	/^      "tags": ["utility"]$/;"	a	object:entries.205
+version	base.json	/^    "version": 1,$/;"	n	object:file_info
+version	community.json	/^    "version": 1,$/;"	n	object:file_info
