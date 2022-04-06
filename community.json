@@ -193,6 +193,15 @@
       "tags": ["sequencer", "grid"]
     },
     {
+      "project_name": "bitters",
+      "project_url": "https://github.com/ryleelyman/bitters",
+      "author": "Rylee Lyman (alanza)",
+      "description": "lo-fi FM capable mono/poly",
+      "discussion_url": "https://llllllll.co/t/bitters-norns",
+      "documentation_url": "https://norns.community/en/authors/alanza/bitters",
+      "tags": ["synth"]
+    },
+    {
       "project_name": "blippoo",
       "project_url": "https://github.com/cfdrake/blippoo",
       "author": "Colin Drake (cfd90)",
