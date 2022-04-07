@@ -499,9 +499,10 @@
     },
     {
       "project_name": "fibonacci",
-      "project_url": "https://github.com/bryceadams/norns-fibonacci",
-      "author": "@obi & @license",
+      "project_url": "https://github.com/bryceadams/fibonacci",
+      "author": "@obi",
       "description": "a sequencer that travels through numbers and time",
+      "discussion_url": "https://llllllll.co/t/fibonacci/54153",
       "documentation_url": "https://norns.community/en/authors/obi/fibonacci",
       "tags": ["sequencer", "generative", "midi", "crow"]
     },
