@@ -863,12 +863,12 @@
     },
     {
       "project_name": "loudnumbers_norns",
-      "project_url": "https://github.com/duncangeere/loudnumbers_norns",
+      "project_url": "https://github.com/loudnumbers/loudnumbers_norns",
       "author": "Duncan Geere",
       "description": "data sonification with norns",
       "discussion_url": "https://llllllll.co/t/51353",
-      "documentation_url": "https://github.com/duncangeere/loudnumbers_norns/blob/main/README.md",
-      "tags": ["sequencer", "sonification", "crow", "synth", "grid", "utilities"]
+      "documentation_url": "https://github.com/loudnumbers/loudnumbers_norns/blob/main/README.md",
+      "tags": ["sequencer", "sonification", "crow", "midi", "synth", "grid", "utilities"]
     },  
     {
       "project_name": "m18s",
