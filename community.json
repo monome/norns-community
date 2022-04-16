@@ -1410,6 +1410,14 @@
       "tags": ["grid"]
     },
     {
+      "project_name": "sempra",
+      "project_url": "https://github.com/zjb-s/sempra",
+      "author": "zbs",
+      "description": "continuous dynamic melody sequencer for 16n+grid",
+      "discussion_url": "https://llllllll.co/t/54492",
+      "tags": ["grid", "crow", "ii"]
+    },
+    {
       "project_name": "silos",
       "project_url": "https://github.com/justmat/silos",
       "author": "mat (justmat)",
