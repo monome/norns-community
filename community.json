@@ -1297,6 +1297,14 @@
       "documentation_url": "https://norns.community/authors/justmat/pools"
     },
     {
+      "project_name": "ppm_norns",
+      "project_url": "https://github.com/loudnumbers/ppm_norns",
+      "author": "Duncan Geere",
+      "description": "parts per million",
+      "discussion_url": "https://llllllll.co/t/ppm/54589",
+      "documentation_url": "https://norns.community/en/authors/duncan-geere/ppm"
+    },
+    {
       "project_name": "punchcard",
       "project_url": "https://github.com/neauoire/punchcard",
       "author": "Devine Lu Linvega (neauoire)",
