@@ -1020,6 +1020,14 @@
       "tags": ["crow", "ER-301", "nanoKONTROL 2"]
     },
     {
+      "project_name": "nice-tapes",
+      "project_url": "https://github.com/MentalSandal/nice-tapes",
+      "author": "MentalSandal",
+      "description": "a norns mod for customised tape names",
+      "discussion_url": "https://llllllll.co/t/nice-tapes-a-norns-mod-for-customised-tape-names",
+      "tags": ["mod"]
+    },  
+    {
       "project_name": "nisp",
       "project_url": "https://github.com/itsyourbedtime/NISP",
       "author": "its your bedtime (its_your_bedtime)",
