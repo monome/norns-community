@@ -1336,6 +1336,14 @@
       "tags": ["grid", "sequencer"]
     },
     {
+      "project_name": "randomizer_typhon",
+      "project_url": "https://github.com/danut007ro/randomizer_typhon",
+      "author": "Daniel Gorgan",
+      "description": "Randomizer for Dreadbox Typhon",
+      "discussion_url": "https://llllllll.co/t/randomizer-typhon/54196",
+      "tags": ["utilities"]
+    },
+    {
       "project_name": "rangl",
       "project_url": "https://github.com/tgk/rangl",
       "author": "Thomas Kristensen (tgk)",
