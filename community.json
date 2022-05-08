@@ -819,6 +819,14 @@
       "tag": ["grid", "midi"]
     },
     {
+      "project_name": "krill",
+      "project_url": "https://github.com/jaseknighter/krill",
+      "author": "jonathan snyder (jaseknighter)",
+      "description": "a Lorenz system sequencer and mod matrix with a physical modelling synthesis engine",
+      "discussion_url": "https://llllllll.co/t/54975",
+      "tag": ["sequencer", "synth", "crow", "midi"]
+    },
+    {
       "project_name": "larc",
       "project_url": "https://github.com/justmat/larc",
       "author": "Mat (justmat)",
