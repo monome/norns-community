@@ -1344,6 +1344,15 @@
       "tags": ["grid", "sequencer"]
     },
     {
+      "project_name": "raft",
+      "project_url": "https://github.com/timothy-taylor/raft",
+      "author": "Tim Taylor (toomanatees)",
+      "description": "a scene-setting, softcut-based modulated delay and noise generator",
+      "discussion_url": "https://llllllll.co/t/raft",
+      "documentation_url": "https://norns.community/authors/toomanatees/raft",
+      "tags": ["delay", "fx", "looper"]
+    },
+    {
       "project_name": "randomizer_typhon",
       "project_url": "https://github.com/danut007ro/randomizer_typhon",
       "author": "Daniel Gorgan",
