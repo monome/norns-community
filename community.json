@@ -572,6 +572,15 @@
       "discussion_url": "https://llllllll.co/t/21033",
       "tags": ["sequencer"]
     },
+	{
+      "project_name": "gematria",
+      "project_url": "https://github.com/northern-information/gematria",
+      "author": "@tyleretters",
+      "description": "organized electricty with norns & crow",
+      "discussion_url": "https://l.llllllll.co/gematria",
+      "documentation_url": "https://norns.community/authors/northern-information/gematria",
+      "tags": ["crow", "sequencer"]
+    },
     {
       "project_name": "gemini",
       "project_url": "https://github.com/mhetrick/gemini/",
