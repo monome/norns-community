@@ -589,6 +589,15 @@
       "discussion_url": "https://llllllll.co/t/gemini/21086"
     },
     {
+      "project_name": "giro",
+      "project_url": "https://github.com/juhavaaraniemi/giro",
+      "author": "Juha Vaaraniemi (JulesV)",
+      "description": "performance oriented (a)sync looper",
+      "discussion_url": "https://llllllll.co/t/giro/55586",
+      "documentation_url": "https://norns.community/en/authors/julesv/giro",
+      "tags": ["looper", "midi"]
+    },
+    {
       "project_name": "glaciers",
       "project_url": "https://github.com/dwtong/glaciers",
       "author": "Dan Tong (dwtong)",
