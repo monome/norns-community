@@ -1014,14 +1014,6 @@
       "tags": ["synth", "sequencer", "grid"]
     },
     {
-      "project_name": "msh",
-      "project_url": "https://github.com/AndrewShike/msh",
-      "author": "andrew",
-      "description": "extensible grid keyboard",
-      "discussion_url": "https://llllllll.co/t/msh",
-      "tags": ["grid"]
-    },
-    {
       "project_name": "mx.samples",
       "project_url": "https://github.com/schollz/mx.samples",
       "author": "Zack Scholl (infinitedigits)",
@@ -1596,14 +1588,6 @@
       "discussion_url": "https://llllllll.co/t/21025"
     },
     {
-      "project_name": "supercut",
-      "project_url": "https://github.com/AndrewShike/supercut",
-      "author": "andrew",
-      "description": "softcut wrapper lib / voice management utility",
-      "discussion_url": "https://llllllll.co/t/supercut-lib",
-      "tags": ["softcut", "lib"]
-    },
-    {
       "project_name": "supertonic",
       "project_url": "https://github.com/schollz/supertonic",
       "author": "Zack Scholl (infinitedigits)",
@@ -1822,14 +1806,6 @@
       "discussion_url": "https://llllllll.co/t/initenere/41193",
       "documentation_url": "https://norns.community/authors/vicimity/initenere",
       "tags": ["sequencer", "crow"]
-    },
-    {
-      "project_name": "nest_",
-      "project_url": "https://github.com/andr-ew/nest_",
-      "author": "andrew",
-      "description": "a language of touch for objects by monome",
-      "discussion_url": "https://llllllll.co/t/nest",
-      "tags": ["grid", "arc", "lib"]
     },
     {
       "project_name": "SuperBrain",
