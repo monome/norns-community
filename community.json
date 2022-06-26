@@ -392,6 +392,14 @@
       "tags": ["drum", "sequencer", "arc", "grid", "crow", "midi"]
     },
     {
+      "project_name": "d",
+      "project_url": "https://github.com/jusmat/d",
+      "author": "Mat (justmat)",
+      "description": "distort, destroy, downsample and disintegrate",
+      "discussion_url": "https://llllllll.co/t/dd/56504",
+      "tags": ["fx", "distortion", "engine"]
+    },
+    {
       "project_name": "delinquencer",
       "project_url": "https://github.com/kevinlindley/delinquencer",
       "author": "Kevin Lindley",
