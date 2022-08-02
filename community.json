@@ -1221,6 +1221,15 @@
       "documentation_url": "https://norns.community/authors/eigen/p8"
     },
     {
+      "project_name": "paracosms",
+      "project_url": "https://github.com/schollz/paracosms",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "sampler + tracker to construct imaginary worlds",
+      "discussion_url": "https://llllllll.co/t/paracosms/57350",
+      "documentation_url": "https://norns.community/authors/infinitedigits/paracosms",
+      "tags": ["looper", "sequencer", "grid"]
+    },  
+    {
       "project_name": "parrot",
       "project_url": "https://github.com/jaseknighter/parrot",
       "author": "Jonathan Snyder (jaseknighter)",
