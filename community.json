@@ -497,6 +497,15 @@
       "tags": ["synth", "sequencer"]
     },
     {
+      "project_name": "faeng",
+      "project_url": "https://github.com/ryleelyman/faeng",
+      "author": "Rylee Lyman (alanza)",
+      "description": "faeng is a sequencer. inspired by kria. powered by timber.",
+      "discussion_url": "https://llllllll.co/t/faeng-is-a-sequencer/57871",
+      "documentation_url": "https://norns.community/en/authors/alanza/faeng",
+      "tags": ["sequencer", "sampler", "grid"]
+    },
+    {
       "project_name": "fall",
       "project_url": "https://github.com/ambalek/fall",
       "author": "@ambalek",
