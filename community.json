@@ -862,6 +862,14 @@
       "tag": ["sequencer", "synth", "crow", "midi"]
     },
     {
+      "project_name": "l ll  l ",
+      "project_url": "https://github.com/schollz/l_ll__l_",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "interact with a musical emission spectrum",
+      "discussion_url": "https://llllllll.co/t/l-ll-l/58123",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/l_ll__l_"
+    },
+    {
       "project_name": "larc",
       "project_url": "https://github.com/justmat/larc",
       "author": "Mat (justmat)",
