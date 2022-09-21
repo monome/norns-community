@@ -1899,6 +1899,15 @@
       "discussion_url": "https://llllllll.co/t/orgn/",
       "documentation_url": "https://norns.community/authors/andrew/orgn",
       "tags": ["synth", "fm", "grid", "looper", "delay"]
-    }
+    },
+    {
+      "project_name": "time-rhythm",
+      "project_url": "https://github.com/emanuelep/time-rhythm",
+      "author": "emanuelep",
+      "description": "duophonic synthesizer for norns",
+      "discussion_url": "https://llllllll.co/t/time-rhythm/",
+      "documentation_url": "https://norns.community/authors/emanuelep/time-rhythm",
+      "tags": ["synth", "drums"]
+    },
   ]
 }
