@@ -1237,6 +1237,15 @@
       "tags": ["looper"]
     },
     {
+      "project_name": "overwintering",
+      "project_url": "https://github.com/markwheeler/overwintering",
+      "author": "Mark Eats (markeats)",
+      "description": "Bird migration patterns as sound",
+      "discussion_url": "https://llllllll.co/t/overwintering/58444",
+      "documentation_url": "https://norns.community/en/authors/markeats/overwintering",
+      "tags": ["generative"]
+    },
+    {
       "project_name": "p8",
       "project_url": "https://github.com/p3r7/p8",
       "author": "Jordan Besly (eigen)",
