@@ -1917,6 +1917,15 @@
       "discussion_url": "https://llllllll.co/t/time-rhythm/",
       "documentation_url": "https://norns.community/authors/emanuelep/time-rhythm",
       "tags": ["synth", "drums"]
+    },
+    {
+      "project_name": "dimension-expander",
+      "project_url": "https://github.com/emanuelep/dimension-expander",
+      "author": "emanuelep",
+      "description": "stereo spreader fx for norns",
+      "discussion_url": "https://llllllll.co/t/dimension-expander/",
+      "documentation_url": "https://norns.community/authors/emanuelep/dimension-expander",
+      "tags": ["fx", "delay"]
     }
   ]
 }
