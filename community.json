@@ -424,6 +424,14 @@
       "tags": ["fx"]
     },
     {
+      "project_name": "descartes",
+      "project_url": "https://github.com/keenanmcdonald/descartes",
+      "author": "Keenan McDonald (kjames)",
+      "description": "a cartesian sequencer for grid",
+      "discussion_url": "https://llllllll.co/t/descartes/58413",
+      "tags": ["sequencer"]
+    },
+    {
       "project_name": "downtown",
       "project_url": "https://github.com/schollz/downtown",
       "author": "Zack Scholl (infinitedigits)",
@@ -871,6 +879,14 @@
       "tags": ["sequencer", "grid"]
     },
     {
+      "project_name": "l_ll__l_",
+      "project_url": "https://github.com/schollz/l_ll__l_",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "interact with a musical emission spectrum",
+      "discussion_url": "https://llllllll.co/t/l-ll-l/58123",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/l_ll__l_"
+    },
+    {
       "project_name": "larc",
       "project_url": "https://github.com/justmat/larc",
       "author": "Mat (justmat)",
@@ -1236,6 +1252,15 @@
       "discussion_url": "https://llllllll.co/t/22149",
       "documentation_url": "https://norns.community/authors/justmat/otis",
       "tags": ["looper"]
+    },
+    {
+      "project_name": "overwintering",
+      "project_url": "https://github.com/markwheeler/overwintering",
+      "author": "Mark Eats (markeats)",
+      "description": "Bird migration patterns as sound",
+      "discussion_url": "https://llllllll.co/t/overwintering/58444",
+      "documentation_url": "https://norns.community/en/authors/markeats/overwintering",
+      "tags": ["generative"]
     },
     {
       "project_name": "p8",
@@ -1900,6 +1925,24 @@
       "discussion_url": "https://llllllll.co/t/orgn/",
       "documentation_url": "https://norns.community/authors/andrew/orgn",
       "tags": ["synth", "fm", "grid", "looper", "delay"]
+    },
+    {
+      "project_name": "time-rhythm",
+      "project_url": "https://github.com/emanuelep/time-rhythm",
+      "author": "emanuelep",
+      "description": "duophonic synthesizer for norns",
+      "discussion_url": "https://llllllll.co/t/time-rhythm/",
+      "documentation_url": "https://norns.community/authors/emanuelep/time-rhythm",
+      "tags": ["synth", "drums"]
+    },
+    {
+      "project_name": "dimension-expander",
+      "project_url": "https://github.com/emanuelep/dimension-expander",
+      "author": "emanuelep",
+      "description": "stereo spreader fx for norns",
+      "discussion_url": "https://llllllll.co/t/dimension-expander/",
+      "documentation_url": "https://norns.community/authors/emanuelep/dimension-expander",
+      "tags": ["fx", "delay"]
     }
   ]
 }
