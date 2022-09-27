@@ -511,7 +511,7 @@
       "description": "faeng is a sequencer. inspired by kria. powered by timber.",
       "discussion_url": "https://llllllll.co/t/faeng-is-a-sequencer/57871",
       "documentation_url": "https://norns.community/en/authors/alanza/faeng",
-      "tags": ["sequencer", "sampler", "grid"]
+      "tags": ["sequencer", "sampler", "grid", "arc"]
     },
     {
       "project_name": "fall",
@@ -868,6 +868,15 @@
       "description": "a Lorenz system sequencer and mod matrix with a physical modelling synthesis engine",
       "discussion_url": "https://llllllll.co/t/54975",
       "tag": ["sequencer", "synth", "crow", "midi"]
+    },
+    {
+      "project_name": "lamination",
+      "project_url": "https://github.com/ryleelyman/lamination",
+      "author": "Rylee Lyman (alanza)",
+      "description": "substitution sequencer",
+      "discussion_url": "https://llllllll.co/t/lamination/58652",
+      "documentation_url": "https://norns.community/authors/alanza/lamination",
+      "tags": ["sequencer", "grid"]
     },
     {
       "project_name": "l_ll__l_",
