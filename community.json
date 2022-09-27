@@ -424,6 +424,14 @@
       "tags": ["fx"]
     },
     {
+      "project_name": "descartes",
+      "project_url": "https://github.com/keenanmcdonald/descartes",
+      "author": "Keenan McDonald (kjames)",
+      "description": "a cartesian sequencer for grid",
+      "discussion_url": "https://llllllll.co/t/descartes/58413",
+      "tags": ["sequencer"]
+    },
+    {
       "project_name": "downtown",
       "project_url": "https://github.com/schollz/downtown",
       "author": "Zack Scholl (infinitedigits)",
