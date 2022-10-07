@@ -286,6 +286,15 @@
       "tags": ["grid", "arc", "midi", "crow", "sampler", "looper"]
     },
     {
+      "project_name": "choukanzu",
+      "project_url": "https://github.com/ryleelyman/choukanzu",
+      "author": "Rylee Lyman (alanza)",
+      "description": "take a bird's-eye view of norns script params",
+      "discussion_url": "https://llllllll.co/t/choukanzu/58844",
+      "documentation_url": "https://norns.community/en/authors/alanza/choukanzu",
+      "tags": ["mod"]
+    },
+    {
       "project_name": "circles",
       "project_url": "https://github.com/JakeCarter/circles",
       "author": "Jake (jakecarter)",
