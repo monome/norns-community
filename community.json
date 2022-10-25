@@ -1859,6 +1859,15 @@
       "tags": ["softcut", "looper", "delay"]
     },
     {
+      "project_name": "xD1",
+      "project_url": "https://github.com/ryleelyman/xD1",
+      "author": "Rylee Lyman (alanza)",
+      "description": "xD1 is an FM synth",
+      "discussion_url": "https://llllllll.co/t/xd1-is-an-fm-synth/59150",
+      "documentation_url": "https://norns.community/authors/alanza/xd1",
+      "tags": ["synth", "midi"]
+    },
+    {
       "project_name": "yggdrasil",
       "project_url": "https://github.com/northern-information/yggdrasil",
       "author": "@argotechnica, @infinitedigits, @license, @tyleretters",
