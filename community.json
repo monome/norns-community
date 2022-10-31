@@ -1530,6 +1530,15 @@
       "tags": ["looper"]
     },
     {
+      "project_name": "schicksalslied",
+      "project_url": "https://github.com/williamthazard/schicksalslied",
+      "author": "William Hazard (WilliamHazard)",
+      "description": "a poetry sequencer",
+      "discussion_url": "https://llllllll.co/t/schicksalslied/59227",
+      "documentation_url": "https://norns.community/en/authors/william-hazard/schicksalslied",
+      "tags": ["grid","crow","ii","synth","sequencer"]
+    },
+    {
       "project_name": "seaflex",
       "project_url": "https://github.com/lylepmills/seaflex",
       "author": "Lyle Mills (lylem)",
