@@ -1961,6 +1961,15 @@
       "discussion_url": "https://llllllll.co/t/dimension-expander/",
       "documentation_url": "https://norns.community/authors/emanuelep/dimension-expander",
       "tags": ["fx", "delay"]
+    },
+    {
+      "project_name": "zxcvbn",
+      "project_url": "https://github.com/schollz/zxcvbn",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "a tracker",
+      "discussion_url": "https://llllllll.co/t/zxcvbn/59289",
+      "documentation_url": "https://zxcvbn.norns.online",
+      "tags": ["crow","tracker","keyboard","midi","sequencer"]
     }
   ]
 }
