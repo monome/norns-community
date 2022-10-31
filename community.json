@@ -1579,6 +1579,15 @@
       "tags": ["crow", "grid"]
     },
     {
+      "project_name": "shnthsalslied",
+      "project_url": "https://github.com/williamthazard/shnthsalslied",
+      "author": "William Hazard (WilliamHazard)",
+      "description": "fork of schicksalslied for use with shbobo shnth",
+      "discussion_url": "https://llllllll.co/t/shnthsalslied/59232",
+      "documentation_url": "https://norns.community/en/authors/william-hazard/shnthsalslied",
+      "tags": ["crow", "grid", "sequencer"]
+    },
+    {
       "project_name": "showers",
       "project_url": "https://github.com/justmat/showers",
       "author": "Mat (Justmat)",
