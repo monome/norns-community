@@ -1739,6 +1739,14 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/tapedeck"
     }, 
     {
+      "project_name": "tetrabobo",
+      "project_url": "https://github.com/williamthazard/TetraBobo",
+      "author": "William Hazard (WilliamHazard)",
+      "description": "triangle wave organ with variable slope for norns & shbobo shnth",
+      "discussion_url": "https://llllllll.co/t/tetrabobo/60112",
+      "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabobo"
+    }, 
+    {
       "project_name": "thebangs",
       "project_url": "https://github.com/catfact/thebangs.git",
       "author": "zebra",
