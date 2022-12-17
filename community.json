@@ -64,6 +64,14 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/amen"
     },
     {
+      "project_name": "amenbreak",
+      "project_url": "https://github.com/schollz/amenbreak",
+      "author": "Zack Scholl (infinitedigits)",
+      "description": "this is a dedicated amen break script with 2 knobs - amen and break.",
+      "discussion_url": "https://llllllll.co/t/amenbreak/60185",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/amenbreak"
+    },
+    {
       "project_name": "animator",
       "project_url": "https://github.com/crimclark/animator",
       "author": "Tim Clark (crim)",
