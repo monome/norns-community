@@ -1030,6 +1030,15 @@
       "tags": ["sampler"]
     },
     {
+      "project_name": "mlre",
+      "project_url": "https://github.com/sonocircuit/mlre",
+      "author": "Sacha di Piazza (sonocircuit)",
+      "description": "extended version of mlr",
+      "discussion_url": "https://llllllll.co/t/mlre/57371",
+      "documentation_url": "https://github.com/sonocircuit/mlre",
+      "tags": ["sampler", "grid", "arc", "crow"]
+    },
+    {
       "project_name": "molly_the_poly",
       "project_url": "https://github.com/markwheeler/molly_the_poly",
       "author": "Mark Eats (markeats)",
