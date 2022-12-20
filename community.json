@@ -1755,6 +1755,14 @@
       "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabobo"
     }, 
     {
+      "project_name": "tetrabotis",
+      "project_url": "https://github.com/williamthazard/Tetrabotis",
+      "author": "William Hazard (WilliamHazard)",
+      "description": "tetrabobo + otis = tetrabotis",
+      "discussion_url": "https://llllllll.co/t/tetrabotis/60216",
+      "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabotis"
+    }, 
+    {
       "project_name": "thebangs",
       "project_url": "https://github.com/catfact/thebangs.git",
       "author": "zebra",
