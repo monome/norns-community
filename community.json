@@ -1122,6 +1122,15 @@
       "tags": ["tracker"]
     },
     {
+      "project_name": "n.Kria",
+      "project_url": "https://github.com/zjb-s/n.kria",
+      "author": "zbs",
+      "description": "native norns Kria",
+      "discussion_url": "https://llllllll.co/t/n-kria-0-13-native-norns-kria/60403",
+      "documentation_url": "https://llllllll.co/t/n-kria-0-13-native-norns-kria/60403",
+      "tags": ["grid", "sequencer", "midi"]
+    },
+    {
       "project_name": "nmMelodyMagic",
       "project_url": "https://github.com/TuesdayNightMachines/nmMelodyMagic",
       "author": "The Tuesday Night Machines (NightMachines)",
