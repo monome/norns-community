@@ -1022,6 +1022,14 @@
       "tags": ["midi"]
     },
     {
+      "project_name": "midi-review",
+      "project_url": "https://github.com/niksilver/midi-review/",
+      "author": "Nik Silver (niksilver)",
+      "description": "Simple visualisation, recording and playback of MIDI notes",
+      "discussion_url": "https://llllllll.co/t/midi-review/60479",
+      "tags": ["midi", "utilities"]
+    },
+    {
       "project_name": "mlr",
       "project_url": "https://github.com/tehn/mlr",
       "author": "Brian Crabtree (tehn)",
