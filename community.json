@@ -2038,6 +2038,15 @@
       "discussion_url": "https://llllllll.co/t/zxcvbn/59289",
       "documentation_url": "https://zxcvbn.norns.online",
       "tags": ["crow","tracker","keyboard","midi","sequencer"]
+    },
+    {
+      "project_name": "oilcan",
+      "project_url": "https://github.com/zjb-s/oilcan",
+      "author": "zbs",
+      "description": "monophonic digital-style percussion voice",
+      "discussion_url": "https://llllllll.co/t/oilcan-percussion-co/60754",
+      "documentation_url": "https://github.com/zjb-s/oilcan",
+      "tags": ["mod", "drum", "synth"]
     }
   ]
 }
