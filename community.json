@@ -1136,7 +1136,7 @@
       "description": "native norns Kria",
       "discussion_url": "https://llllllll.co/t/n-kria-0-13-native-norns-kria/60403",
       "documentation_url": "https://llllllll.co/t/n-kria-0-13-native-norns-kria/60403",
-      "tags": ["grid", "sequencer", "midi"]
+      "tags": ["grid", "sequencer", "midi", "nb"]
     },
     {
       "project_name": "nmMelodyMagic",
@@ -2046,7 +2046,7 @@
       "description": "monophonic digital-style percussion voice",
       "discussion_url": "https://llllllll.co/t/oilcan-percussion-co/60754",
       "documentation_url": "https://github.com/zjb-s/oilcan",
-      "tags": ["mod", "drum", "synth"]
+      "tags": ["mod", "drum", "synth", "nb"]
     }
   ]
 }
