@@ -827,7 +827,7 @@
       "project_name": "isoseq",
       "project_url": "https://github.com/carvingCode/isoseq",
       "author": "Randy Brown (carvingcode)",
-      "description": "isomorphic qequencer for norns and grid",
+      "description": "isomorphic sequencer for norns and grid",
       "discussion_url": "https://llllllll.co/t/isoseq/21026",
       "tags": ["grid"]
     },
@@ -1965,7 +1965,7 @@
       "project_url": "https://github.com/BeatRossmy/SuperBrain",
       "author": "beat",
       "description": "a five track sequencer with various sequencer engines per track",
-      "discussion_url": "https://llllllll.co/t/superbrain-multi-engine-midi-sequencer",
+      "discussion_url": "https://llllllll.co/t/44781",
       "tags": ["grid", "midi", "sequencer"]
     },
     {
