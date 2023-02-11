@@ -2048,5 +2048,14 @@
       "documentation_url": "https://github.com/zjb-s/oilcan",
       "tags": ["mod", "drum", "synth", "nb"]
     }
+    {
+      "project_name": "intervaltrainer",
+      "project_url": "https://github.com/yams7457/intervaltrainer/blob/main/intervaltrainer.lua",
+      "author": "RGB",
+      "description": "interval trainer",
+      "discussion_url": "https://llllllll.co/t/interval-trainer/61087",
+      "documentation_url": "https://llllllll.co/t/interval-trainer/61087",
+      "tags": ["keys", "midi"]
+    },
   ]
 }
