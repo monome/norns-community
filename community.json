@@ -39,7 +39,7 @@
       "discussion_url": "https://llllllll.co/t/acid-test/52201",
       "documentation_url": "https://norns.community/authors/infinitedigits/acid-test",
       "tags": ["crow", "midi"]
-    },  
+    },
     {
       "project_name": "ack",
       "project_url": "https://github.com/antonhornquist/ack",
@@ -333,7 +333,8 @@
       "description": "slice and save samples",
       "discussion_url": "https://llllllll.co/t/47147",
       "documentation_url": "https://norns.community/en/authors/jaseknighter/clipper"
-    },{
+    },
+    {
       "project_name": "colorwheel",
       "project_url": "https://github.com/yams7457/colorwheel",
       "author": "yams",
@@ -954,7 +955,7 @@
       "discussion_url": "https://llllllll.co/t/51353",
       "documentation_url": "https://github.com/loudnumbers/loudnumbers_norns/blob/main/README.md",
       "tags": ["sequencer", "sonification", "crow", "midi", "synth", "grid", "utilities"]
-    },  
+    },
     {
       "project_name": "m18s",
       "project_url": "https://github.com/jlmitch5/m18s",
@@ -986,7 +987,7 @@
       "author": "Carl Testa (carltesta)",
       "description": "multi-effects processing for live performance",
       "discussion_url": "https://llllllll.co/t/manifold/22098",
-      "documentation_url": "https://norns.community/en/authors/carltesta/manifold",    
+      "documentation_url": "https://norns.community/en/authors/carltesta/manifold",
       "tags": ["fx"]
     },
     {
@@ -1120,7 +1121,7 @@
       "description": "a norns mod for customised tape names",
       "discussion_url": "https://llllllll.co/t/nice-tapes-a-norns-mod-for-customised-tape-names",
       "tags": ["mod"]
-    },  
+    },
     {
       "project_name": "nisp",
       "project_url": "https://github.com/itsyourbedtime/NISP",
@@ -1321,7 +1322,7 @@
       "discussion_url": "https://llllllll.co/t/paracosms/57350",
       "documentation_url": "https://norns.community/authors/infinitedigits/paracosms",
       "tags": ["looper", "sequencer", "grid"]
-    },  
+    },
     {
       "project_name": "parrot",
       "project_url": "https://github.com/jaseknighter/parrot",
@@ -1390,7 +1391,7 @@
       "description": "community radio for monome norns...yar",
       "discussion_url": "https://llllllll.co/t/pirate-radio/49013",
       "documentation_url": "https://norns.community/authors/study-group/pirate-radio"
-    },	  
+    },
     {
       "project_name": "pitfalls",
       "project_url": "https://github.com/robmckinnon/pitfalls",
@@ -1677,7 +1678,7 @@
        "description": "an amplitude and frequency tracking effects processor/sampler/sequencer",
        "discussion_url": "https://llllllll.co/t/51191",
        "tags": ["sequencer","sampler","midi","norns","crow"]
-    },   
+    },
     {
       "project_name": "stack",
       "project_url": "https://github.com/cfdrake/stack",
@@ -1771,7 +1772,7 @@
       "description": "live tape deck emulation (saturation, distortion, wow/flutter)",
       "discussion_url": "https://llllllll.co/t/tapedeck/51919",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/tapedeck"
-    }, 
+    },
     {
       "project_name": "tetrabobo",
       "project_url": "https://github.com/williamthazard/TetraBobo",
@@ -1779,7 +1780,7 @@
       "description": "triangle wave organ with variable slope for norns & shbobo shnth",
       "discussion_url": "https://llllllll.co/t/tetrabobo/60112",
       "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabobo"
-    }, 
+    },
     {
       "project_name": "tetrabotis",
       "project_url": "https://github.com/williamthazard/Tetrabotis",
@@ -1787,7 +1788,7 @@
       "description": "tetrabobo + otis = tetrabotis",
       "discussion_url": "https://llllllll.co/t/tetrabotis/60216",
       "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabotis"
-    }, 
+    },
     {
       "project_name": "thebangs",
       "project_url": "https://github.com/catfact/thebangs.git",
@@ -2047,6 +2048,15 @@
       "discussion_url": "https://llllllll.co/t/oilcan-percussion-co/60754",
       "documentation_url": "https://github.com/zjb-s/oilcan",
       "tags": ["mod", "drum", "synth", "nb"]
+    },
+    {
+      "project_name": "intervaltrainer",
+      "project_url": "https://github.com/yams7457/intervaltrainer/blob/main/intervaltrainer.lua",
+      "author": "RGB",
+      "description": "interval trainer",
+      "discussion_url": "https://llllllll.co/t/interval-trainer/61087",
+      "documentation_url": "https://llllllll.co/t/interval-trainer/61087",
+      "tags": ["keys", "midi"]
     }
   ]
 }
