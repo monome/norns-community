@@ -43,7 +43,7 @@
     {
       "project_name": "ack",
       "project_url": "https://github.com/antonhornquist/ack",
-      "project_author": "Anton Hörnquist (jah)",
+      "author": "Anton Hörnquist (jah)",
       "description": "sample player engine"
     },
     {
