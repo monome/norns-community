@@ -2057,6 +2057,24 @@
       "discussion_url": "https://llllllll.co/t/interval-trainer/61087",
       "documentation_url": "https://llllllll.co/t/interval-trainer/61087",
       "tags": ["keys", "midi"]
+    },
+    {
+      "project_name": "eels",
+      "project_url": "https://github.com/andr-ew/eels/releases/download/latest/complete-source-code.zip",
+      "author": "andrew",
+      "description": "dual delay / comb filter",
+      "discussion_url": "https://llllllll.co/t/eels/",
+      "documentation_url": "https://github.com/andr-ew/eels",
+      "tags": ["delay"]
+    },
+    {
+      "project_name": "rpls",
+      "project_url": "https://github.com/andr-ew/rpls/releases/download/latest/complete-source-code.zip",
+      "author": "andrew",
+      "description": "varispeed multitap echo",
+      "discussion_url": "https://llllllll.co/t/rpls/",
+      "documentation_url": "https://github.com/andr-ew/rpls",
+      "tags": ["delay"]
     }
   ]
 }
