@@ -469,7 +469,7 @@
     {
       "project_name": "dronecaster",
       "project_url": "https://github.com/northern-information/dronecaster",
-      "author": [ "tyleretters", "license", "the lines community" ],
+      "author": "tyleretters license",
       "description": "cast drones & record whatever returns",
       "discussion_url": "https://l.llllllll.co/dronecaster",
       "documentation_url": "https://norns.community/authors/northern-information/dronecaster",
@@ -518,7 +518,7 @@
     {
       "project_name": "euclidigons",
       "project_url": "https://github.com/synthetiv/euclidigons",
-      "author": [ "synthetivv", "setfield" ],
+      "author": "synthetivv setfield",
       "description": "geometric rhythm generator",
       "discussion_url": "https://llllllll.co/t/eculidigons/36666",
       "tags": [ "synth", "sequencer" ]
@@ -553,7 +553,7 @@
     {
       "project_name": "fiahod",
       "project_url": "https://github.com/northern-information/fiahod",
-      "author": [ "tyleretters", "license" ],
+      "author": "tyleretters license",
       "description": "i will show you fear in a handful of dust",
       "discussion_url": "https://l.llllllll.co/fiahod",
       "documentation_url": "https://norns.community/authors/northern-information/fiahod",
@@ -918,7 +918,7 @@
     {
       "project_name": "less-concepts",
       "project_url": "https://github.com/vicimity-dndrks/less_concepts",
-      "author": [ "vicimity", "dan_derks" ],
+      "author": "vicimity dan_derks",
       "description": "1d cellular automata sequencer",
       "discussion_url": "https://llllllll.co/t/less-concepts-3/",
       "documentation_url": "https://norns.community/authors/collabs/lessconcepts3",
@@ -1005,7 +1005,7 @@
     {
       "project_name": "meadowphysics",
       "project_url": "https://github.com/dansimco/meadowphysics",
-      "author": [ "alphacactus", "dansimco", "tehn" ],
+      "author": "alphacactus dansimco tehn",
       "description": "grid-enabled rhizomatic cascading counter",
       "discussion_url": "https://llllllll.co/t/21185",
       "tags": [ "grid" ]
@@ -1389,7 +1389,7 @@
     {
       "project_name": "pirate-radio",
       "project_url": "https://github.com/norns-study-group/pirate-radio",
-      "author": [ "infinitedigits", "eigen", "jaseknighter", "tyleretters" ],
+      "author": "infinitedigits eigen jaseknighter tyleretters",
       "description": "community radio for monome norns...yar",
       "discussion_url": "https://llllllll.co/t/pirate-radio/49013",
       "documentation_url": "https://norns.community/authors/study-group/pirate-radio"
@@ -1941,7 +1941,7 @@
     {
       "project_name": "yggdrasil",
       "project_url": "https://github.com/northern-information/yggdrasil",
-      "author": [ "argotechnica", "infinitedigits", "license", "tyleretters" ],
+      "author": "argotechnica infinitedigits license tyleretters",
       "description": "a norns cyberdeck tracker",
       "discussion_url": "https://l.llllllll.co/yggdrasil",
       "documentation_url": "https://norns.community/authors/northern-information/yggdrasil",
@@ -1983,7 +1983,7 @@
     {
       "project_name": "tviburar",
       "project_url": "https://github.com/linusschrab/tviburar",
-      "author": [ "ljudvagg", "vicimity" ],
+      "author": "ljudvagg vicimity",
       "description": "2x4 complex step sequencer w. free running lfo's",
       "discussion_url": "https://llllllll.co/t/tviburar/",
       "tags": [ "sequencer", "crow", "m4l" ]
