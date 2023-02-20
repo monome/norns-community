@@ -1175,10 +1175,10 @@
       "tags": [ "delay", "sampler", "looper", "granular" ]
     },
     {
-      "project_name": "n\u00f8rg\u00e5rd",
+      "project_name": "nørgård",
       "project_url": "https://github.com/frederickk/noergaard",
       "author": "frederickk",
-      "description": "A small library to generate N\u00f8rg\u00e5rd infinity sequences for Norns",
+      "description": "A small library to generate Nørgård infinity sequences for Norns",
       "documentation_url": "https://norns.community/en/authors/frederickk/noergaard",
       "tags": [ "generative", "library", "norgard", "midi" ]
     },
