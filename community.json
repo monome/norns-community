@@ -230,7 +230,7 @@
     {
       "project_name": "boingg",
       "project_url": "https://github.com/justmat/boingg",
-      "author": "Justmat",
+      "author": "justmat",
       "description": "a bouncing ball sequencer",
       "discussion_url": "https://llllllll.co/t/boingg/26536",
       "documentation_url": "https://norns.community/authors/justmat/boingg"
@@ -238,7 +238,7 @@
     {
       "project_name": "bounds",
       "project_url": "https://github.com/justmat/bounds",
-      "author": "Justmat",
+      "author": "justmat",
       "description": "stereo delay/looper",
       "discussion_url": "https://llllllll.co/t/23336",
       "documentation_url": "https://norns.community/authors/justmat/bounds"
@@ -272,7 +272,7 @@
       "project_name": "cccccccc",
       "project_url": "https://github.com/ypxk/cccccccc/",
       "author": "ypxkap",
-      "description": "ccs for arc\u2019s dials",
+      "description": "ccs for arc dials",
       "discussion_url": "https://llllllll.co/t/cccccccc/22271",
       "tags": [ "arc" ]
     },
@@ -588,7 +588,7 @@
     {
       "project_name": "foulplay",
       "project_url": "https://github.com/justmat/foulplay",
-      "author": "Justmat",
+      "author": "justmat",
       "description": "euclidean rhythms with logic and probability",
       "discussion_url": "https://llllllll.co/t/foulplay/21081",
       "documentation_url": "https://norns.community/authors/justmat/foulplay"
@@ -722,7 +722,7 @@
     {
       "project_name": "greyhole",
       "project_url": "https://github.com/justmat/greyhole",
-      "author": "Justmat",
+      "author": "justmat",
       "description": "echo / delay",
       "discussion_url": "https://llllllll.co/t/greyhole/27687",
       "documentation_url": "https://norns.community/authors/justmat/greyhole"
@@ -978,7 +978,7 @@
     {
       "project_name": "mangl",
       "project_url": "https://github.com/notjustmat/mangl",
-      "author": "Justmat",
+      "author": "justmat",
       "description": "a 7 track granular sample player",
       "discussion_url": "https://llllllll.co/t/21066",
       "documentation_url": "https://norns.community/authors/justmat/mangl",
@@ -1293,7 +1293,7 @@
     {
       "project_name": "otis",
       "project_url": "https://github.com/justmat/otis",
-      "author": "Justmat",
+      "author": "justmat",
       "description": "dual tape delay/looper/sampler",
       "discussion_url": "https://llllllll.co/t/22149",
       "documentation_url": "https://norns.community/authors/justmat/otis",
@@ -1543,7 +1543,7 @@
     {
       "project_name": "sam",
       "project_url": "https://github.com/justmat/sam",
-      "author": "Justmat",
+      "author": "justmat",
       "description": "a simple sample recorder/slicer",
       "discussion_url": "https://llllllll.co/t/23943",
       "documentation_url": "https://norns.community/authors/justmat/sam"
@@ -1636,7 +1636,7 @@
     {
       "project_name": "showers",
       "project_url": "https://github.com/justmat/showers",
-      "author": "Justmat",
+      "author": "justmat",
       "description": "a thunderstorm for norns",
       "discussion_url": "https://llllllll.co/t/31622",
       "documentation_url": "https://norns.community/authors/justmat/showers"
@@ -1696,7 +1696,7 @@
       "discussion_url": "https://llllllll.co/t/step/21093"
     },
     {
-      "project_name": "stj\u00f6rnu\u00ed\u00fer\u00f3tt",
+      "project_name": "stjörnuíþrótt",
       "project_url": "https://github.com/frederickk/stjoernuithrott",
       "author": "frederickk",
       "description": "drone inspired by Moffenzeef Stargazer",
@@ -1707,7 +1707,7 @@
     {
       "project_name": "strides",
       "project_url": "https://github.com/notjustmat/strides",
-      "author": "Justmat",
+      "author": "justmat",
       "description": "a collection of pattern recorders",
       "discussion_url": "https://llllllll.co/t/21101"
     },
