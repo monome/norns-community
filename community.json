@@ -84,7 +84,7 @@
       "tags": [
         "drums",
         "sampler",
-        "delay_looper"
+        "looper"
       ]
     },
     {
@@ -131,7 +131,6 @@
       "discussion_url": "https://l.llllllll.co/arcologies",
       "documentation_url": "https://norns.community/authors/northern-information/arcologies",
       "tags": [
-        "delay_looper",
         "generative",
         "sampler",
         "sequencer",
@@ -235,7 +234,7 @@
       "discussion_url": "https://llllllll.co/t/barcode/35297",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/barcode",
       "tags": [
-        "delay_looper"
+        "looper"
       ]
     },
     {
@@ -346,9 +345,10 @@
       "author": "justmat",
       "description": "stereo delay/looper",
       "discussion_url": "https://llllllll.co/t/23336",
-      "documentation_url": "https://norns.community/authors/justmat/bounds",
+      "documen0tation_url": "https://norns.community/authors/justmat/bounds",
       "tags": [
-        "delay_looper"
+        "looper"
+        "delay"
       ]
     },
     {
@@ -424,7 +424,8 @@
       "documentation_url": "https://norns.community/authors/dan_derks/cheat_codes_2",
       "tags": [
         "sampler",
-        "delay_looper",
+        "delay",
+        "looper",
         "sequencer",
         "midi",
         "arc",
@@ -515,7 +516,7 @@
       "documentation_url": "https://norns.community/authors/olivier/compass",
       "tags": [
         "sequencer",
-        "delay_looper",
+        "looper",
         "grid",
         "arc"
       ]
@@ -556,7 +557,8 @@
       "discussion_url": "https://llllllll.co/t/21207",
       "documentation_url": "https://norns.community/authors/dan_derks/cranes",
       "tags": [
-        "delay_looper",
+        "delay",
+        "looper",
         "grid"
       ]
     },
@@ -638,7 +640,7 @@
       "description": "warm delay with modulation and stereo separation",
       "discussion_url": "https://llllllll.co/t/40638",
       "tags": [
-        "audio_fx"
+        "delay"
       ]
     },
     {
@@ -660,7 +662,7 @@
       "discussion_url": "https://llllllll.co/t/downtown/40044",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/downtown",
       "tags": [
-        "delay_looper"
+        "looper"
       ]
     },
     {
@@ -929,7 +931,7 @@
       "discussion_url": "https://llllllll.co/t/giro/55586",
       "documentation_url": "https://norns.community/en/authors/julesv/giro",
       "tags": [
-        "delay_looper",
+        "looper",
         "midi"
       ]
     },
@@ -963,7 +965,7 @@
       "discussion_url": "https://llllllll.co/t/glitch-looper/54014",
       "documentation_url": "https://norns.community/authors/carltesta/glitchlooper",
       "tags": [
-        "delay_looper",
+        "looper",
         "audio_fx"
       ]
     },
@@ -1048,7 +1050,7 @@
       "discussion_url": "https://llllllll.co/t/greyhole/27687",
       "documentation_url": "https://norns.community/authors/justmat/greyhole",
       "tags": [
-        "audio_fx"
+        "delay"
       ]
     },
     {
@@ -1119,7 +1121,7 @@
       "description": "four track live granular looper",
       "discussion_url": "https://llllllll.co/t/haze/41781",
       "tags": [
-        "delay_looper",
+        "looper",
         "granulator"
       ]
     },
@@ -1189,7 +1191,7 @@
       "tags": [
         "sequencer",
         "synth",
-        "delay_looper",
+        "looper",
         "grid"
       ]
     },
@@ -1222,7 +1224,7 @@
       "description": "16 second looper",
       "discussion_url": "https://llllllll.co/t/jiffy/25475",
       "tags": [
-        "delay_looper"
+        "looper"
       ]
     },
     {
@@ -1326,7 +1328,8 @@
       "discussion_url": "https://llllllll.co/t/larc/39790",
       "documentation_url": "https://norns.community/authors/justmat/larc",
       "tags": [
-        "delay_looper",
+        "delay",
+        "looper",
         "arc"
       ]
     },
@@ -1520,7 +1523,9 @@
       "discussion_url": "https://llllllll.co/t/21145",
       "tags": [
         "sequencer",
-        "delay_looper",
+        "sampler",
+        "looper",
+        "delay",
         "grid"
       ]
     },
@@ -1532,7 +1537,10 @@
       "discussion_url": "https://llllllll.co/t/mlre/57371",
       "documentation_url": "https://github.com/sonocircuit/mlre",
       "tags": [
+        "sequencer",
         "sampler",
+        "looper",
+        "delay",
         "grid",
         "arc",
         "crow"
@@ -1684,7 +1692,8 @@
       "description": "overdub external audio onto four tape loops",
       "discussion_url": "https://llllllll.co/t/nmquadrodubber",
       "tags": [
-        "delay_looper"
+        "delay"
+        "looper"
       ]
     },
     {
@@ -1694,7 +1703,7 @@
       "description": "a weird stereo delay effect for external audio",
       "discussion_url": "https://llllllll.co/t/nmrain/",
       "tags": [
-        "delay_looper"
+        "delay"
       ]
     },
     {
@@ -1704,7 +1713,8 @@
       "description": "deform external audio with math and impress your nerd friends",
       "discussion_url": "https://llllllll.co/t/nmsmartypants/",
       "tags": [
-        "delay_looper",
+        "delay",
+        "looper",
         "granulator"
       ]
     },
@@ -1778,7 +1788,8 @@
       "description": "beat-synced looper, slicer, and sequencer",
       "discussion_url": "https://llllllll.co/t/nydl/51886",
       "tags": [
-        "delay_looper",
+        "delay",
+        "looper",
         "sequencer",
         "grid",
         "crow"
@@ -1836,7 +1847,8 @@
       "discussion_url": "https://llllllll.co/t/oooooo",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/oooooo",
       "tags": [
-        "delay_looper",
+        "looper",
+        "delay",
         "grid"
       ]
     },
@@ -1861,7 +1873,7 @@
       "tags": [
         "sequencer",
         "generative",
-        "delay_looper",
+        "looper",
         "midi",
         "keyboard",
         "arc",
@@ -1889,7 +1901,9 @@
       "discussion_url": "https://llllllll.co/t/22149",
       "documentation_url": "https://norns.community/authors/justmat/otis",
       "tags": [
-        "delay_looper"
+        "delay",
+        "looper",
+        "sampler"
       ]
     },
     {
@@ -2049,7 +2063,8 @@
       "discussion_url": "https://llllllll.co/t/piwip/36642",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/piwip",
       "tags": [
-        "delay_looper"
+        "looper",
+        "sampler"
       ]
     },
     {
@@ -2146,7 +2161,7 @@
       "discussion_url": "https://llllllll.co/t/raft",
       "documentation_url": "https://norns.community/authors/toomanatees/raft",
       "tags": [
-        "delay_looper",
+        "delay",
         "audio_fx"
       ]
     },
@@ -2181,7 +2196,8 @@
       "description": "a 4-track asynchronous looper, inspired by op-1 tape recorder and mannequins w/ eurorack module.",
       "discussion_url": "https://llllllll.co/t/21030",
       "tags": [
-        "delay_looper"
+        "looper",
+        "delay"
       ]
     },
     {
@@ -2268,7 +2284,8 @@
       "discussion_url": "https://llllllll.co/t/34095",
       "documentation_url": "https://norns.community/authors/21echoes/samsara",
       "tags": [
-        "delay_looper"
+        "looper",
+        "delay"
       ]
     },
     {
@@ -2541,7 +2558,7 @@
       "description": "asynchronous tape looper and reverb",
       "discussion_url": "https://llllllll.co/t/sweet-bees/49272",
       "tags": [
-        "delay_looper"
+        "looper"
       ]
     },
     {
@@ -2653,7 +2670,7 @@
       "documentation_url": "https://norns.community/authors/crim/timeparty",
       "tags": [
         "audio_fx",
-        "delay_looper",
+        "delay",
         "grid",
         "crow"
       ]
@@ -2722,7 +2739,7 @@
       "description": "a collection of uncertain delays using norns softcut",
       "discussion_url": "https://llllllll.co/t/tunnels/21973",
       "tags": [
-        "delay_looper",
+        "delay",
         "audio_fx"
       ]
     },
@@ -2801,7 +2818,8 @@
       "discussion_url": "https://llllllll.co/t/wrms/28954",
       "documentation_url": "https://norns.community/authors/andrew/wrms",
       "tags": [
-        "delay_looper"
+        "delay",
+        "looper"
       ]
     },
     {
@@ -2922,9 +2940,10 @@
       "discussion_url": "https://llllllll.co/t/orgn/",
       "documentation_url": "https://norns.community/authors/andrew/orgn",
       "tags": [
-        "delay_looper",
-        "audio_fx",
         "synth",
+        "delay",
+        "looper",
+        "audio_fx",
         "grid"
       ]
     },
@@ -2948,7 +2967,6 @@
       "discussion_url": "https://llllllll.co/t/dimension-expander/",
       "documentation_url": "https://norns.community/authors/emanuelep/dimension-expander",
       "tags": [
-        "delay_looper",
         "audio_fx"
       ]
     },
@@ -2997,7 +3015,8 @@
       "discussion_url": "https://llllllll.co/t/eels/",
       "documentation_url": "https://github.com/andr-ew/eels",
       "tags": [
-        "delay_looper",
+        "delay",
+        "looper",
         "crow",
         "arc"
       ]
@@ -3010,7 +3029,8 @@
       "discussion_url": "https://llllllll.co/t/rpls/",
       "documentation_url": "https://github.com/andr-ew/rpls",
       "tags": [
-        "delay_looper"
+        "delay",
+        "looper"
       ]
     }
   ]
