@@ -51,7 +51,8 @@
       "documentation_url": "https://norns.community/authors/infinitedigits/acid-test",
       "tags": [
         "generative",
-        "midi"
+        "midi",
+        "crow"
       ]
     },
     {
@@ -359,6 +360,7 @@
       "discussion_url": "https://llllllll.co/t/breakthrough/39196",
       "documentation_url": "https://norns.community/authors/tomw/breakthrough",
       "tags": [
+        "sequencer",
         "generative",
         "midi"
       ]
@@ -630,6 +632,7 @@
       "description": "a simple noise module but with a mind of its own",
       "discussion_url": "https://llllllll.co/t/demon-core-a-very-simple-noise-module-for-norns-but-with-a-mind-of-its-own/",
       "tags": [
+        "synth",
         "noise"
       ]
     },
@@ -684,6 +687,7 @@
       "documentation_url": "https://norns.community/authors/northern-information/dronecaster",
       "tags": [
         "synth",
+        "drone",
         "generative"
       ]
     },
@@ -742,6 +746,7 @@
       "documentation_url": "https://norns.community/authors/midouest/endless-stairs",
       "tags": [
         "synth",
+        "sequencer",
         "grid",
         "crow",
         "jf"
@@ -1100,7 +1105,8 @@
       "tags": [
         "synth",
         "art",
-        "midi"
+        "midi",
+        "noise"
       ]
     },
     {
@@ -1657,7 +1663,8 @@
       "description": "scheme dialect livecoding tracker for norns",
       "discussion_url": "https://llllllll.co/t/nisp/27596",
       "tags": [
-        "sequencer"
+        "sequencer",
+        "tracker"
       ]
     },
     {
@@ -1872,6 +1879,7 @@
       "documentation_url": "https://norns.community/authors/collabs/orca",
       "tags": [
         "sequencer",
+        "tracker",
         "generative",
         "looper",
         "midi",
@@ -1937,6 +1945,7 @@
       "documentation_url": "https://norns.community/authors/infinitedigits/paracosms",
       "tags": [
         "sequencer",
+        "tracker",
         "sampler",
         "keyboard",
         "grid",
@@ -2227,6 +2236,7 @@
       "discussion_url": "https://llllllll.co/t/51485",
       "tags": [
         "sequencer",
+        "looper",
         "grid"
       ]
     },
@@ -2353,6 +2363,7 @@
       "discussion_url": "https://llllllll.co/t/39292",
       "tags": [
         "synth",
+        "drone",
         "16n",
         "midi"
       ]
@@ -2500,6 +2511,7 @@
       "documentation_url": "https://norns.community/en/authors/frederickk/stjoernuithrott",
       "tags": [
         "synth",
+        "drone",
         "midi"
       ]
     },
@@ -2843,6 +2855,7 @@
       "documentation_url": "https://norns.community/authors/northern-information/yggdrasil",
       "tags": [
         "sequencer",
+        "tracker",
         "midi",
         "keyboard"
       ]
@@ -2979,7 +2992,10 @@
       "documentation_url": "https://zxcvbn.norns.online",
       "tags": [
         "sequencer",
-        "keyboard"
+        "tracker",
+        "keyboard",
+        "midi",
+        "crow"
       ]
     },
     {
@@ -2992,6 +3008,7 @@
       "tags": [
         "mod",
         "drums",
+        "synth",
         "nb"
       ]
     },
