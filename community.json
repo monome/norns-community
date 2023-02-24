@@ -163,7 +163,11 @@
       "author": "markeats",
       "description": "check stocks and make music",
       "discussion_url": "https://llllllll.co/t/the-arp-index/25182",
-      "documentation_url": "https://norns.community/en/authors/markeats/the-arp-index"
+      "documentation_url": "https://norns.community/en/authors/markeats/the-arp-index",
+      "tags": [
+        "sequencers",
+        "grid"
+      ]
     },
     {
       "project_name": "automs70",
