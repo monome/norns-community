@@ -83,7 +83,7 @@
       "discussion_url": "https://llllllll.co/t/amen/43746",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/amen",
       "tags": [
-        "drums",
+        "drum",
         "sampler",
         "looper"
       ]
@@ -96,7 +96,7 @@
       "discussion_url": "https://llllllll.co/t/amenbreak/60185",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/amenbreak",
       "tags": [
-        "drums",
+        "drum",
         "sampler"
       ]
     },
@@ -222,7 +222,7 @@
       "discussion_url": "https://l.llllllll.co/bakeneko",
       "documentation_url": "https://norns.community/authors/northern-information/bakeneko",
       "tags": [
-        "drums",
+        "drum",
         "sequencer",
         "eduscript"
       ]
@@ -267,7 +267,7 @@
       "discussion_url": "https://llllllll.co/t/beets/30069",
       "tags": [
         "sequencer",
-        "drums",
+        "drum",
         "grid"
       ]
     },
@@ -443,7 +443,7 @@
       "discussion_url": "https://llllllll.co/t/choukanzu/58844",
       "documentation_url": "https://norns.community/en/authors/alanza/choukanzu",
       "tags": [
-        "mods"
+        "mod"
       ]
     },
     {
@@ -596,7 +596,7 @@
       "documentation_url": "https://norns.community/authors/21echoes/cyrene",
       "tags": [
         "sequencer",
-        "drums",
+        "drum",
         "midi",
         "arc",
         "grid",
@@ -699,7 +699,7 @@
       "discussion_url": "https://llllllll.co/t/23467",
       "documentation_url": "https://norns.community/en/authors/markeats/drum-room",
       "tags": [
-        "drums",
+        "drum",
         "midi"
       ]
     },
@@ -865,7 +865,7 @@
       "discussion_url": "https://llllllll.co/t/foulplay/21081",
       "documentation_url": "https://norns.community/authors/justmat/foulplay",
       "tags": [
-        "drums",
+        "drum",
         "sequencer",
         "midi",
         "grid"
@@ -1117,7 +1117,7 @@
       "discussion_url": "https://llllllll.co/t/35947",
       "documentation_url": "https://norns.community/authors/pangrus/hachi",
       "tags": [
-        "drums"
+        "drum"
       ]
     },
     {
@@ -1172,7 +1172,7 @@
       "description": "drum machine based on arturia's drumbrute impact",
       "discussion_url": "https://llllllll.co/t/impact/45247",
       "tags": [
-        "drums",
+        "drum",
         "sequencer",
         "grid"
       ]
@@ -1257,7 +1257,7 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/kolor",
       "tags": [
         "sequencer",
-        "drums",
+        "drum",
         "grid"
       ]
     },
@@ -1269,7 +1269,7 @@
       "discussion_url": "https://llllllll.co/t/kreislauf",
       "documentation_url": "https://norns.community/en/authors/frederickk/kreislauf",
       "tags": [
-        "drums",
+        "drum",
         "sequencer",
         "midi",
         "crow"
@@ -1391,7 +1391,7 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/lorenzos-drums",
       "tags": [
         "sequencer",
-        "drums"
+        "drum"
       ]
     },
     {
@@ -1434,7 +1434,7 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/makebreakbeat",
       "tags": [
         "sampler",
-        "drums"
+        "drum"
       ]
     },
     {
@@ -1481,7 +1481,7 @@
       "tags": [
         "sequencer",
         "synth",
-        "drums",
+        "drum",
         "grid",
         "crow",
         "jf"
@@ -1594,7 +1594,7 @@
       "discussion_url": "https://llllllll.co/t/moonraker/51803",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/moonraker",
       "tags": [
-        "drums",
+        "drum",
         "grid"
       ]
     },
@@ -1653,7 +1653,7 @@
       "description": "a norns mod for customised tape names",
       "discussion_url": "https://llllllll.co/t/nice-tapes-a-norns-mod-for-customised-tape-names",
       "tags": [
-        "mods"
+        "mod"
       ]
     },
     {
@@ -1809,7 +1809,7 @@
       "description": "a mod to insert oblique strategies into the params menu",
       "discussion_url": "https://llllllll.co/t/oblique-consult-the-deck/50578",
       "tags": [
-        "mods"
+        "mod"
       ]
     },
     {
@@ -1985,7 +1985,7 @@
       "documentation_url": "https://norns.community/authors/nattog/passthrough",
       "tags": [
         "utility",
-        "mods",
+        "mod",
         "midi"
       ]
     },
@@ -2260,7 +2260,7 @@
       "discussion_url": "https://llllllll.co/t/31828",
       "tags": [
         "sequencer",
-        "drums"
+        "drum"
       ]
     },
     {
@@ -2438,7 +2438,7 @@
       "discussion_url": "https://llllllll.co/t/smash/48782",
       "tags": [
         "sequencer",
-        "drums"
+        "drum"
       ]
     },
     {
@@ -2548,7 +2548,7 @@
       "documentation_url": "https://norns.community/en/authors/infinitedigits/supertonic",
       "tags": [
         "generative",
-        "drums"
+        "drum"
       ]
     },
     {
@@ -2968,7 +2968,7 @@
       "discussion_url": "https://llllllll.co/t/time-rhythm/",
       "documentation_url": "https://norns.community/authors/emanuelep/time-rhythm",
       "tags": [
-        "drums",
+        "drum",
         "synth"
       ]
     },
@@ -3007,7 +3007,7 @@
       "documentation_url": "https://github.com/zjb-s/oilcan",
       "tags": [
         "mod",
-        "drums",
+        "drum",
         "synth",
         "nb"
       ]
