@@ -822,8 +822,9 @@
         "synth",
         "sequencer",
         "midi",
+        "crow",
         "jf",
-        "crow"
+        "w/"
       ]
     },
     {
@@ -2282,10 +2283,11 @@
         "synth",
         "art",
         "sequencer",
-        "jf",
-        "crow",
         "keyboard",
-        "grid"
+        "grid",
+        "crow",
+        "jf",
+        "w/"
       ]
     },
     {
@@ -2368,14 +2370,15 @@
       "discussion_url": "https://llllllll.co/t/shnthsalslied/59232",
       "documentation_url": "https://norns.community/en/authors/william-hazard/shnthsalslied",
       "tags": [
+        "generative",
         "synth",
         "art",
         "sequencer",
-        "generative",
-        "crow",
-        "grid",
         "keyboard",
-        "jf"
+        "grid",
+        "crow",
+        "jf",
+        "w/"
       ]
     },
     {
