@@ -2167,7 +2167,11 @@
       "description": "arc based granular four track sampler with live recording and friction.",
       "discussion_url": "https://llllllll.co/t/rangl/44673",
       "documentation_url": "https://norns.community/en/authors/tgk/rangl",
-      "tags": []
+      "tags": [
+        "samplers",
+        "granulators",
+        "arc"
+      ]
     },
     {
       "project_name": "reels",
@@ -2485,7 +2489,12 @@
       "author": "justmat",
       "description": "a collection of pattern recorders",
       "discussion_url": "https://llllllll.co/t/21101",
-      "tags": []
+      "tags": [
+        "samplers",
+        "sequencers",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "strum",
