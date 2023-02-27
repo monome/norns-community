@@ -12,7 +12,10 @@
       "author": "eigen",
       "description": "pure Lua 3d lib for norns",
       "discussion_url": "https://llllllll.co/t/39622",
-      "documentation_url": "https://norns.community/authors/eigen/3d"
+      "documentation_url": "https://norns.community/authors/eigen/3d",
+      "tags": [
+        "art"
+      ]
     },
     {
       "project_name": "4-big-knobs",
@@ -21,7 +24,12 @@
       "description": "send control voltages out of crow",
       "discussion_url": "https://llllllll.co/t/42190",
       "documentation_url": "https://norns.community/authors/21echoes/4-big-knobs",
-      "tags": [ "crow", "arc", "utilities", "midi" ]
+      "tags": [
+        "utility",
+        "arc",
+        "crow",
+        "midi"
+      ]
     },
     {
       "project_name": "abacus",
@@ -29,7 +37,10 @@
       "author": "infinitedigits",
       "description": "sequence rows of beats with samples",
       "discussion_url": "https://llllllll.co/t/abacus/37871",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/abacus"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/abacus",
+      "tags": [
+        "sequencer"
+      ]
     },
     {
       "project_name": "acid-test",
@@ -38,7 +49,11 @@
       "description": "generative acid basslines.",
       "discussion_url": "https://llllllll.co/t/acid-test/52201",
       "documentation_url": "https://norns.community/authors/infinitedigits/acid-test",
-      "tags": [ "crow", "midi" ]
+      "tags": [
+        "generative",
+        "midi",
+        "crow"
+      ]
     },
     {
       "project_name": "ack",
@@ -53,7 +68,11 @@
       "description": "chord sequencer and sampler",
       "discussion_url": "https://llllllll.co/t/acrostic/53027",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/acrostic",
-      "tags": [ "crow", "midi", "grid", "sequencer", "generative"
+      "tags": [
+        "sequencer",
+        "sampler",
+        "crow",
+        "grid"
       ]
     },
     {
@@ -62,7 +81,12 @@
       "author": "infinitedigits",
       "description": "sampler and mangler of loops",
       "discussion_url": "https://llllllll.co/t/amen/43746",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/amen"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/amen",
+      "tags": [
+        "drum",
+        "sampler",
+        "looper"
+      ]
     },
     {
       "project_name": "amenbreak",
@@ -70,7 +94,11 @@
       "author": "infinitedigits",
       "description": "this is a dedicated amen break script with 2 knobs - amen and break.",
       "discussion_url": "https://llllllll.co/t/amenbreak/60185",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/amenbreak"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/amenbreak",
+      "tags": [
+        "drum",
+        "sampler"
+      ]
     },
     {
       "project_name": "animator",
@@ -79,7 +107,12 @@
       "description": "2D Polyphonic step sequencer for grids",
       "discussion_url": "https://llllllll.co/t/animator/28242",
       "documentation_url": "https://norns.community/en/authors/crim/animator",
-      "tags": [ "grid", "sequencer", "crow", "midi" ]
+      "tags": [
+        "sequencer",
+        "crow",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "arcify",
@@ -87,7 +120,9 @@
       "author": "mimetaur",
       "description": "map arc encoders to up to four parameters (eight with a shift key)",
       "discussion_url": "https://llllllll.co/t/arcify/22133",
-      "tags": [ "lib" ]
+      "tags": [
+        "lib"
+      ]
     },
     {
       "project_name": "arcologies",
@@ -96,7 +131,16 @@
       "description": "an interactive environment for designing 2d sound arcologies with norns and grid",
       "discussion_url": "https://l.llllllll.co/arcologies",
       "documentation_url": "https://norns.community/authors/northern-information/arcologies",
-      "tags": [ "grid", "sequencer", "generative", "crow", "midi", "arc" ]
+      "tags": [
+        "generative",
+        "sampler",
+        "sequencer",
+        "jf",
+        "grid",
+        "midi",
+        "arc",
+        "crow"
+      ]
     },
     {
       "project_name": "ash",
@@ -105,7 +149,13 @@
       "description": "a small collection",
       "discussion_url": "https://llllllll.co/t/ash-a-small-collection/21349",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/abacus",
-      "tags": [ "arc", "grid", "looper", "drum", "synth" ]
+      "tags": [
+        "arc",
+        "grid",
+        "looper",
+        "drum",
+        "synth"
+      ]
     },
     {
       "project_name": "arp_index",
@@ -113,7 +163,11 @@
       "author": "markeats",
       "description": "check stocks and make music",
       "discussion_url": "https://llllllll.co/t/the-arp-index/25182",
-      "documentation_url": "https://norns.community/en/authors/markeats/the-arp-index"
+      "documentation_url": "https://norns.community/en/authors/markeats/the-arp-index",
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "automs70",
@@ -121,28 +175,44 @@
       "author": "pangrus",
       "description": "automate MS-70 CDR parameters",
       "discussion_url": "https://llllllll.co/t/automs70/39686",
-      "documentation_url": "https://norns.community/authors/pangrus/automs70"
+      "documentation_url": "https://norns.community/authors/pangrus/automs70",
+      "tags": [
+        "utility",
+        "midi"
+      ]
     },
     {
       "project_name": "awake",
       "project_url": "https://github.com/tehn/awake",
       "author": "tehn",
       "description": "time changes",
-      "discussion_url": "https://llllllll.co/t/awake/21022"
+      "discussion_url": "https://llllllll.co/t/awake/21022",
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "awake-passersby",
       "project_url": "https://github.com/nattog/awake-passersby",
       "author": "nattog",
       "description": "time drifting",
-      "discussion_url": "https://llllllll.co/t/awake/21022/139"
+      "discussion_url": "https://llllllll.co/t/awake/21022/139",
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "awake-rings",
       "project_url": "https://github.com/GoneCaving/awake-rings",
       "author": "GoneCaving",
       "description": "chimes past",
-      "discussion_url": "https://llllllll.co/t/awake/21022/38"
+      "discussion_url": "https://llllllll.co/t/awake/21022/38",
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "bakeneko",
@@ -151,7 +221,11 @@
       "description": "a haunted drummer companion",
       "discussion_url": "https://l.llllllll.co/bakeneko",
       "documentation_url": "https://norns.community/authors/northern-information/bakeneko",
-      "tags": [ "sequencer", "generative" ]
+      "tags": [
+        "drum",
+        "sequencer",
+        "eduscript"
+      ]
     },
     {
       "project_name": "barcode",
@@ -159,7 +233,10 @@
       "author": "infinitedigits",
       "description": "loops sounds into six lfo-modulated voices",
       "discussion_url": "https://llllllll.co/t/barcode/35297",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/barcode"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/barcode",
+      "tags": [
+        "looper"
+      ]
     },
     {
       "project_name": "barycenter",
@@ -167,7 +244,9 @@
       "author": "echophon",
       "description": "orbital motion sequencing",
       "discussion_url": "https://llllllll.co/t/barycenter/35980",
-      "tags": [ "sequencer" ]
+      "tags": [
+        "sequencer"
+      ]
     },
     {
       "project_name": "b-b-b-b-beat",
@@ -176,7 +255,9 @@
       "description": "Beat repeater with some glitch",
       "discussion_url": "https://llllllll.co/t/35047",
       "documentation_url": "https://norns.community/en/authors/frederickk/b-b-b-b-beat",
-      "tags": [ "softcut" ]
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "beets",
@@ -184,14 +265,21 @@
       "author": "mattbiddulph",
       "description": "drum loop re-sequencer",
       "discussion_url": "https://llllllll.co/t/beets/30069",
-      "tags": [ "grid" ]
+      "tags": [
+        "sequencer",
+        "drum",
+        "grid"
+      ]
     },
     {
       "project_name": "benjolis",
       "project_url": "https://github.com/scazan/benjolis",
       "author": "scaxan",
       "description": "chaotic synth",
-      "discussion_url": "https://llllllll.co/t/benjolis/28061"
+      "discussion_url": "https://llllllll.co/t/benjolis/28061",
+      "tags": [
+        "synth"
+      ]
     },
     {
       "project_name": "bistro",
@@ -199,7 +287,10 @@
       "author": "cfd90",
       "description": "a presscafe remake for Norns",
       "discussion_url": "https://llllllll.co/t/bistro/45349",
-      "tags": [ "sequencer", "grid" ]
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "bitters",
@@ -208,7 +299,10 @@
       "description": "lo-fi FM capable mono/poly",
       "discussion_url": "https://llllllll.co/t/bitters-norns",
       "documentation_url": "https://norns.community/en/authors/alanza/bitters",
-      "tags": [ "synth" ]
+      "tags": [
+        "synth",
+        "midi"
+      ]
     },
     {
       "project_name": "blippoo",
@@ -217,7 +311,9 @@
       "description": "blippoo box clone",
       "discussion_url": "https://llllllll.co/t/41107",
       "documentation_url": "https://norns.community/en/authors/cfd90/blippoo",
-      "tags": [ "synth" ]
+      "tags": [
+        "synth"
+      ]
     },
     {
       "project_name": "blndr",
@@ -225,7 +321,10 @@
       "author": "infinitedigits",
       "description": "a quantized delay with time bending effects",
       "discussion_url": "https://llllllll.co/t/blndr/35106",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/blndr"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/blndr",
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "boingg",
@@ -233,7 +332,13 @@
       "author": "justmat",
       "description": "a bouncing ball sequencer",
       "discussion_url": "https://llllllll.co/t/boingg/26536",
-      "documentation_url": "https://norns.community/authors/justmat/boingg"
+      "documentation_url": "https://norns.community/authors/justmat/boingg",
+      "tags": [
+        "sequencer",
+        "midi",
+        "jf",
+        "grid"
+      ]
     },
     {
       "project_name": "bounds",
@@ -241,7 +346,11 @@
       "author": "justmat",
       "description": "stereo delay/looper",
       "discussion_url": "https://llllllll.co/t/23336",
-      "documentation_url": "https://norns.community/authors/justmat/bounds"
+      "documen0tation_url": "https://norns.community/authors/justmat/bounds",
+      "tags": [
+        "looper",
+        "delay"
+      ]
     },
     {
       "project_name": "breakthrough",
@@ -250,7 +359,11 @@
       "description": "sequencer / game",
       "discussion_url": "https://llllllll.co/t/breakthrough/39196",
       "documentation_url": "https://norns.community/authors/tomw/breakthrough",
-      "tags": [ "sequencer" ]
+      "tags": [
+        "sequencer",
+        "generative",
+        "midi"
+      ]
     },
     {
       "project_name": "buoys",
@@ -258,7 +371,16 @@
       "author": "lylem",
       "description": "tidal influencer/activator/lightshow",
       "discussion_url": "https://llllllll.co/t/37639",
-      "tags": [ "grid", "arc", "crow", "midi" ]
+      "tags": [
+        "generative",
+        "sampler",
+        "sequencer",
+        "art",
+        "arc",
+        "midi",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "caliper",
@@ -266,7 +388,10 @@
       "author": "synthetiv",
       "description": "v/oct calibration assistant",
       "discussion_url": "https://llllllll.co/t/caliper/31353",
-      "tags": [ "crow" ]
+      "tags": [
+        "utility",
+        "crow"
+      ]
     },
     {
       "project_name": "cccccccc",
@@ -274,7 +399,10 @@
       "author": "ypxkap",
       "description": "ccs for arc dials",
       "discussion_url": "https://llllllll.co/t/cccccccc/22271",
-      "tags": [ "arc" ]
+      "tags": [
+        "utility",
+        "arc"
+      ]
     },
     {
       "project_name": "changes",
@@ -283,7 +411,11 @@
       "description": "generate eight connected sine wave lfos and output them over midi",
       "discussion_url": "https://llllllll.co/t/changes/33799",
       "documentation_url": "https://norns.community/en/authors/markeats/changes",
-      "tags": [ "midi", "lfo" ]
+      "tags": [
+        "sequencer",
+        "utility",
+        "midi"
+      ]
     },
     {
       "project_name": "cheat_codes_2",
@@ -292,7 +424,16 @@
       "description": "a sample playground",
       "discussion_url": "https://l.llllllll.co/cheat-codes-2",
       "documentation_url": "https://norns.community/authors/dan_derks/cheat_codes_2",
-      "tags": [ "grid", "arc", "midi", "crow", "sampler", "looper" ]
+      "tags": [
+        "sampler",
+        "delay",
+        "looper",
+        "sequencer",
+        "midi",
+        "arc",
+        "grid",
+        "jf"
+      ]
     },
     {
       "project_name": "choukanzu",
@@ -301,7 +442,9 @@
       "description": "take a bird's-eye view of norns script params",
       "discussion_url": "https://llllllll.co/t/choukanzu/58844",
       "documentation_url": "https://norns.community/en/authors/alanza/choukanzu",
-      "tags": [ "mod" ]
+      "tags": [
+        "mod"
+      ]
     },
     {
       "project_name": "circles",
@@ -309,7 +452,10 @@
       "author": "jakecarter",
       "description": "move cursor. place circles. make music",
       "discussion_url": "https://llllllll.co/t/22951",
-      "tags": [ "crow" ]
+      "tags": [
+        "sequencer",
+        "crow"
+      ]
     },
     {
       "project_name": "clarck",
@@ -317,7 +463,10 @@
       "author": "okyeron",
       "description": "a clock for arc4 on norns",
       "discussion_url": "https://llllllll.co/t/clarck/21251",
-      "tags": [ "arc" ]
+      "tags": [
+        "utility",
+        "arc"
+      ]
     },
     {
       "project_name": "clcks",
@@ -325,7 +474,10 @@
       "author": "infinitedigits",
       "description": "punch-in tempo-locked repeating",
       "discussion_url": "https://llllllll.co/t/clcks/35732",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/clcks"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/clcks",
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "clipper",
@@ -333,14 +485,22 @@
       "author": "jaseknighter",
       "description": "slice and save samples",
       "discussion_url": "https://llllllll.co/t/47147",
-      "documentation_url": "https://norns.community/en/authors/jaseknighter/clipper"
+      "documentation_url": "https://norns.community/en/authors/jaseknighter/clipper",
+      "tags": [
+        "sampler"
+      ]
     },
     {
       "project_name": "colorwheel",
       "project_url": "https://github.com/yams7457/colorwheel",
       "author": "yams",
       "description": "harmonic performance sequencer",
-      "discussion_url": "https://llllllll.co/t/50231"
+      "discussion_url": "https://llllllll.co/t/50231",
+      "tags": [
+        "sequencer",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "combos",
@@ -356,7 +516,12 @@
       "description": "asynchronous looper built around the concept of a command sequencer",
       "discussion_url": "https://llllllll.co/t/compass/25192",
       "documentation_url": "https://norns.community/authors/olivier/compass",
-      "tags": [ "looper", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "looper",
+        "grid",
+        "arc"
+      ]
     },
     {
       "project_name": "constellations",
@@ -365,7 +530,12 @@
       "description": "scan the stars; make music! an interactive sequencer for Norns, Crow, JF, and midi.",
       "discussion_url": "https://llllllll.co/t/constellations/52225",
       "documentation_url": "https://norns.community/en/authors/toomanatees/constellations",
-      "tags": [ "sequencer", "generative", "crow", "midi" ]
+      "tags": [
+        "generative",
+        "sequencer",
+        "midi",
+        "crow"
+      ]
     },
     {
       "project_name": "corners",
@@ -374,7 +544,12 @@
       "description": "a grid controlled physics instrument. ported from tehn's m4l script",
       "discussion_url": "https://llllllll.co/t/46227",
       "documentation_url": "https://norns.community/authors/quixotic7/corners",
-      "tags": [ "grid", "midi", "synth", "drone", "generative" ]
+      "tags": [
+        "synth",
+        "generative",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "cranes",
@@ -383,7 +558,11 @@
       "description": "stereo varispeed looper / delay / timeline-smoosher",
       "discussion_url": "https://llllllll.co/t/21207",
       "documentation_url": "https://norns.community/authors/dan_derks/cranes",
-      "tags": [ "looper", "grid" ]
+      "tags": [
+        "delay",
+        "looper",
+        "grid"
+      ]
     },
     {
       "project_name": "crow_talk",
@@ -392,14 +571,21 @@
       "description": "talk to crow with norns",
       "discussion_url": "https://llllllll.co/t/41560",
       "documentation_url": "https://norns.community/authors/justmat/crow_talk",
-      "tags": [ "norns", "crow" ]
+      "tags": [
+        "utility",
+        "keyboard",
+        "crow"
+      ]
     },
     {
       "project_name": "cryptkeeper",
       "project_url": "https://github.com/joelwalden/cryptkeeper",
       "author": "wardores",
       "description": "Create and edit crypts for arcologies",
-      "discussion_url": "https://llllllll.co/t/cryptkeeper/39781"
+      "discussion_url": "https://llllllll.co/t/cryptkeeper/39781",
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "cyrene",
@@ -408,7 +594,14 @@
       "description": "a drum sequencer based on Mutable Instruments Grids",
       "discussion_url": "https://llllllll.co/t/31648",
       "documentation_url": "https://norns.community/authors/21echoes/cyrene",
-      "tags": [ "drum", "sequencer", "arc", "grid", "crow", "midi" ]
+      "tags": [
+        "sequencer",
+        "drum",
+        "midi",
+        "arc",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "d",
@@ -416,7 +609,10 @@
       "author": "justmat",
       "description": "distort, destroy, downsample and disintegrate",
       "discussion_url": "https://llllllll.co/t/dd/56504",
-      "tags": [ "fx", "distortion", "engine" ]
+      "tags": [
+        "audio_fx",
+        "midi"
+      ]
     },
     {
       "project_name": "delinquencer",
@@ -424,7 +620,10 @@
       "author": "KevinLindley",
       "description": "a sequencer but with a mind of its own",
       "discussion_url": "https://llllllll.co/t/delinquencer-a-sequencer-but-with-a-mind-of-its-own/",
-      "tags": [ "sequencer", "midi", "engine" ]
+      "tags": [
+        "sequencer",
+        "midi"
+      ]
     },
     {
       "project_name": "demoncore",
@@ -432,7 +631,10 @@
       "author": "KevinLindley",
       "description": "a simple noise module but with a mind of its own",
       "discussion_url": "https://llllllll.co/t/demon-core-a-very-simple-noise-module-for-norns-but-with-a-mind-of-its-own/",
-      "tags": [ "noise" ]
+      "tags": [
+        "synth",
+        "noise"
+      ]
     },
     {
       "project_name": "delayyyyyyyy",
@@ -440,7 +642,9 @@
       "author": "cfd90",
       "description": "warm delay with modulation and stereo separation",
       "discussion_url": "https://llllllll.co/t/40638",
-      "tags": [ "fx" ]
+      "tags": [
+        "delay"
+      ]
     },
     {
       "project_name": "descartes",
@@ -448,7 +652,10 @@
       "author": "kjames",
       "description": "a cartesian sequencer for grid",
       "discussion_url": "https://llllllll.co/t/descartes/58413",
-      "tags": [ "sequencer" ]
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "downtown",
@@ -456,7 +663,10 @@
       "author": "infinitedigits",
       "description": "record stereo loops while engine loops",
       "discussion_url": "https://llllllll.co/t/downtown/40044",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/downtown"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/downtown",
+      "tags": [
+        "looper"
+      ]
     },
     {
       "project_name": "drift",
@@ -464,7 +674,9 @@
       "author": "echophon",
       "description": "drifting relationships creating sequences",
       "discussion_url": "https://llllllll.co/t/drift/36138",
-      "tags": [ "sequencer" ]
+      "tags": [
+        "sequencer"
+      ]
     },
     {
       "project_name": "dronecaster",
@@ -473,7 +685,11 @@
       "description": "cast drones & record whatever returns",
       "discussion_url": "https://l.llllllll.co/dronecaster",
       "documentation_url": "https://norns.community/authors/northern-information/dronecaster",
-      "tags": [ "synth", "generative" ]
+      "tags": [
+        "synth",
+        "drone",
+        "generative"
+      ]
     },
     {
       "project_name": "drum_room",
@@ -482,21 +698,32 @@
       "description": "midi-controlled drum kits",
       "discussion_url": "https://llllllll.co/t/23467",
       "documentation_url": "https://norns.community/en/authors/markeats/drum-room",
-      "tags": [ "drum" ]
+      "tags": [
+        "drum",
+        "midi"
+      ]
     },
     {
       "project_name": "dunes",
       "project_url": "https://github.com/oliviercreurer/dunes",
       "author": "Olivier",
       "description": "a function sequencer",
-      "discussion_url": "https://llllllll.co/t/dunes/24790"
+      "discussion_url": "https://llllllll.co/t/dunes/24790",
+      "tags": [
+        "sequencer",
+        "midi"
+      ]
     },
     {
       "project_name": "easygrain",
       "project_url": "https://github.com/mhetrick/easygrain",
       "author": "trickyflemming",
       "description": "a simple granulator, now with optional arc support",
-      "discussion_url": "https://llllllll.co/t/easygrain/21047"
+      "discussion_url": "https://llllllll.co/t/easygrain/21047",
+      "tags": [
+        "granulator",
+        "arc"
+      ]
     },
     {
       "project_name": "ekombi",
@@ -504,7 +731,11 @@
       "author": "tyler",
       "description": "polyrhythmic sequencer/sampler using ack",
       "discussion_url": "https://llllllll.co/t/ekombi/26812",
-      "tags": [ "sequencer", "midi", "grid" ]
+      "tags": [
+        "sequencer",
+        "midi",
+        "grid"
+      ]
     },
     {
       "project_name": "endless-stairs",
@@ -513,7 +744,13 @@
       "description": "shepard tone generator",
       "discussion_url": "https://llllllll.co/t/endless-stairs/34799",
       "documentation_url": "https://norns.community/authors/midouest/endless-stairs",
-      "tags": [ "crow", "grid", "just-friends", "sequencer" ]
+      "tags": [
+        "synth",
+        "sequencer",
+        "grid",
+        "crow",
+        "jf"
+      ]
     },
     {
       "project_name": "euclidigons",
@@ -521,7 +758,10 @@
       "author": "synthetivv setfield",
       "description": "geometric rhythm generator",
       "discussion_url": "https://llllllll.co/t/eculidigons/36666",
-      "tags": [ "synth", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "synth"
+      ]
     },
     {
       "project_name": "faeng",
@@ -530,7 +770,11 @@
       "description": "faeng is a sequencer. inspired by kria. powered by timber.",
       "discussion_url": "https://llllllll.co/t/faeng-is-a-sequencer/57871",
       "documentation_url": "https://norns.community/en/authors/alanza/faeng",
-      "tags": [ "sequencer", "sampler", "grid", "arc" ]
+      "tags": [
+        "sequencer",
+        "grid",
+        "arc"
+      ]
     },
     {
       "project_name": "fall",
@@ -539,7 +783,13 @@
       "description": "autumnal generative synth with midi and crow sequencing",
       "discussion_url": "https://llllllll.co/t/fall-generative-synth-sequencer/48991",
       "documentation_url": "https://llllllll.co/t/fall-generative-synth-sequencer/48991",
-      "tags": [ "generative", "sequencer", "synth", "crow", "midi" ]
+      "tags": [
+        "sequencer",
+        "generative",
+        "synth",
+        "crow",
+        "midi"
+      ]
     },
     {
       "project_name": "fibonacci",
@@ -548,7 +798,12 @@
       "description": "a sequencer that travels through numbers and time",
       "discussion_url": "https://llllllll.co/t/fibonacci/54153",
       "documentation_url": "https://norns.community/en/authors/obi/fibonacci",
-      "tags": [ "sequencer", "generative", "midi", "crow" ]
+      "tags": [
+        "sequencer",
+        "generative",
+        "crow",
+        "midi"
+      ]
     },
     {
       "project_name": "fiahod",
@@ -557,7 +812,10 @@
       "description": "i will show you fear in a handful of dust",
       "discussion_url": "https://l.llllllll.co/fiahod",
       "documentation_url": "https://norns.community/authors/northern-information/fiahod",
-      "tags": [ "generative" ]
+      "tags": [
+        "art",
+        "generative"
+      ]
     },
     {
       "project_name": "flora",
@@ -566,7 +824,14 @@
       "description": "l-systems sequencer and bandpass-filtered sawtooth engine",
       "discussion_url": "https://llllllll.co/t/40261",
       "documentation_url": "https://norns.community/authors/jaseknighter/flora",
-      "tags": [ "sequencer", "synth", "crow"
+      "tags": [
+        "generative",
+        "synth",
+        "sequencer",
+        "midi",
+        "crow",
+        "jf",
+        "w/"
       ]
     },
     {
@@ -575,7 +840,11 @@
       "author": "lazzarello",
       "description": "polyphonic 6 operator fm synth",
       "discussion_url": "https://llllllll.co/t/21395",
-      "tags": [ "synth", "midi" ]
+      "tags": [
+        "synth",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "folio",
@@ -583,7 +852,10 @@
       "author": "csboling",
       "description": "browse downloadable scripts from the comfort of your norns",
       "discussion_url": "https://llllllll.co/t/folio/47053",
-      "documentation_url": "https://norns.community/en/authors/csboling/folio"
+      "documentation_url": "https://norns.community/en/authors/csboling/folio",
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "foulplay",
@@ -591,7 +863,13 @@
       "author": "justmat",
       "description": "euclidean rhythms with logic and probability",
       "discussion_url": "https://llllllll.co/t/foulplay/21081",
-      "documentation_url": "https://norns.community/authors/justmat/foulplay"
+      "documentation_url": "https://norns.community/authors/justmat/foulplay",
+      "tags": [
+        "drum",
+        "sequencer",
+        "midi",
+        "grid"
+      ]
     },
     {
       "project_name": "foundry",
@@ -599,7 +877,10 @@
       "author": "csboling",
       "description": "Font / glyph catalog",
       "discussion_url": "https://llllllll.co/t/foundry-font-visualizer/33933",
-      "documentation_url": "https://norns.community/en/authors/csboling/foundry"
+      "documentation_url": "https://norns.community/en/authors/csboling/foundry",
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "fugarc",
@@ -607,7 +888,11 @@
       "author": "popgoblin",
       "description": "fugu meets awake sequencer",
       "discussion_url": "https://llllllll.co/t/fugarc/34446",
-      "tags": [ "sequencer" ]
+      "tags": [
+        "sequencer",
+        "grid",
+        "arc"
+      ]
     },
     {
       "project_name": "fugu",
@@ -615,7 +900,10 @@
       "author": "its_your_bedtime",
       "description": "multi playhead sequencer",
       "discussion_url": "https://llllllll.co/t/21033",
-      "tags": [ "sequencer" ]
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "gematria",
@@ -624,14 +912,21 @@
       "description": "organized electricty with norns & crow",
       "discussion_url": "https://l.llllllll.co/gematria",
       "documentation_url": "https://norns.community/authors/northern-information/gematria",
-      "tags": [ "crow", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "crow"
+      ]
     },
     {
       "project_name": "gemini",
       "project_url": "https://github.com/mhetrick/gemini/",
       "author": "trickyflemming",
       "description": "twin granulators. watch them race.",
-      "discussion_url": "https://llllllll.co/t/gemini/21086"
+      "discussion_url": "https://llllllll.co/t/gemini/21086",
+      "tags": [
+        "granulator",
+        "arc"
+      ]
     },
     {
       "project_name": "giro",
@@ -640,7 +935,10 @@
       "description": "performance oriented (a)sync looper",
       "discussion_url": "https://llllllll.co/t/giro/55586",
       "documentation_url": "https://norns.community/en/authors/julesv/giro",
-      "tags": [ "looper", "midi" ]
+      "tags": [
+        "looper",
+        "midi"
+      ]
     },
     {
       "project_name": "glaciers",
@@ -649,7 +947,9 @@
       "description": "extreme sound stretcher and harmoniser",
       "discussion_url": "https://llllllll.co/t/glaciers/45117",
       "documentation_url": "https://norns.community/en/authors/dwtong/glaciers",
-      "tags": [ "paulstretch", "fx" ]
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "glitchlets",
@@ -657,7 +957,10 @@
       "author": "infinitedigits",
       "description": "lets glitch with glitchlets.",
       "discussion_url": "https://llllllll.co/t/glitchlets/37069",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/glitchlets"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/glitchlets",
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "glitchlooper",
@@ -666,15 +969,21 @@
       "description": "5 unsynchronized loops with an auto mode",
       "discussion_url": "https://llllllll.co/t/glitch-looper/54014",
       "documentation_url": "https://norns.community/authors/carltesta/glitchlooper",
-      "tags": [ "fx" ]
+      "tags": [
+        "looper",
+        "audio_fx"
+      ]
     },
     {
       "project_name": "glut",
       "project_url": "https://github.com/artfwo/glut",
       "author": "artfwo",
       "description": "granular synth inspired by mlr/rove, grainfields 20 and loomer cumulus",
-      "discussion_url": "https://llllllll.co/t/glut/21175/11",
-      "tags": [ "granular" ]
+      "discussion_url": "https://llllllll.co/t/glut/21175",
+      "tags": [
+        "granulator",
+        "grid"
+      ]
     },
     {
       "project_name": "goldeneye",
@@ -683,7 +992,9 @@
       "description": "entropic background radiation",
       "discussion_url": "https://l.llllllll.co/goldeneye",
       "documentation_url": "https://norns.community/authors/northern-information/goldeneye",
-      "tags": [ "grid" ]
+      "tags": [
+        "grid"
+      ]
     },
     {
       "project_name": "groovecats",
@@ -692,7 +1003,12 @@
       "description": "physics based sequencer for people who like cats",
       "discussion_url": "https://llllllll.co/t/46075",
       "documentation_url": "https://norns.community/en/authors/quixotic7/groovecats",
-      "tags": [ "grid", "midi", "sequencer", "synth" ]
+      "tags": [
+        "sequencer",
+        "generative",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "granchild",
@@ -700,7 +1016,12 @@
       "author": "infinitedigits",
       "description": "quantized granular sequencer",
       "discussion_url": "https://llllllll.co/t/granchild/41894",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/granchild"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/granchild",
+      "tags": [
+        "sequencer",
+        "granulator",
+        "grid"
+      ]
     },
     {
       "project_name": "grendy",
@@ -708,7 +1029,10 @@
       "author": "cfd90",
       "description": "simple drone synth, grendel drone commander inspired",
       "discussion_url": "https://llllllll.co/t/31721",
-      "tags": [ "synth", "midi" ]
+      "tags": [
+        "synth",
+        "midi"
+      ]
     },
     {
       "project_name": "grd",
@@ -717,7 +1041,11 @@
       "description": "sprayed multi-sampled celesta",
       "discussion_url": "https://llllllll.co/t/grd/33768",
       "documentation_url": "https://norns.community/authors/yota/grd",
-      "tags": [ "synth", "granular" ]
+      "tags": [
+        "generative",
+        "art",
+        "sequencer"
+      ]
     },
     {
       "project_name": "greyhole",
@@ -725,7 +1053,10 @@
       "author": "justmat",
       "description": "echo / delay",
       "discussion_url": "https://llllllll.co/t/greyhole/27687",
-      "documentation_url": "https://norns.community/authors/justmat/greyhole"
+      "documentation_url": "https://norns.community/authors/justmat/greyhole",
+      "tags": [
+        "delay"
+      ]
     },
     {
       "project_name": "gridofpoints",
@@ -734,7 +1065,11 @@
       "description": "sixteen notes, eight timbres",
       "discussion_url": "https://llllllll.co/t/52122",
       "documentation_url": "https://norns.community/authors/duncan-geere/gridofpoints",
-      "tags": [ "grid", "crow", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "crow",
+        "grid"
+      ]
     },
     {
       "project_name": "gridstep",
@@ -743,7 +1078,11 @@
       "description": "16 track isomorphic grid sequencer for timber and midi",
       "discussion_url": "https://llllllll.co/t/38559",
       "documentation_url": "https://norns.community/authors/quixotic7/gridstep",
-      "tags": [ "grid", "midi", "sequencer", "sampler" ]
+      "tags": [
+        "sequencer",
+        "midi",
+        "grid"
+      ]
     },
     {
       "project_name": "grid-test",
@@ -751,7 +1090,10 @@
       "author": "okyeron",
       "description": "A utility script for testing grids",
       "discussion_url": "https://llllllll.co/t/grid-test/29346",
-      "tags": [ "grid" ]
+      "tags": [
+        "utility",
+        "grid"
+      ]
     },
     {
       "project_name": "haven",
@@ -760,7 +1102,12 @@
       "description": "a safe space?",
       "discussion_url": "https://llllllll.co/t/haven/21285",
       "documentation_url": "https://norns.community/authors/lfsaw/haven",
-      "tags": [ "synth", "noise" ]
+      "tags": [
+        "synth",
+        "art",
+        "midi",
+        "noise"
+      ]
     },
     {
       "project_name": "hachi",
@@ -769,7 +1116,9 @@
       "description": "euclidean drum machine emulating the TR-808 sound",
       "discussion_url": "https://llllllll.co/t/35947",
       "documentation_url": "https://norns.community/authors/pangrus/hachi",
-      "tags": [ "lib", "drum" ]
+      "tags": [
+        "drum"
+      ]
     },
     {
       "project_name": "haze",
@@ -777,7 +1126,10 @@
       "author": "SzymonKaliski",
       "description": "four track live granular looper",
       "discussion_url": "https://llllllll.co/t/haze/41781",
-      "tags": [ "granular", "looper" ]
+      "tags": [
+        "looper",
+        "granulator"
+      ]
     },
     {
       "project_name": "here-there",
@@ -785,7 +1137,11 @@
       "author": "speakerdamage",
       "description": "the sound begins here but you began there",
       "discussion_url": "https://llllllll.co/t/here-there/36170",
-      "tags": [ "softcut", "sines", "granular" ]
+      "tags": [
+        "granulator",
+        "audio_fx",
+        "synth"
+      ]
     },
     {
       "project_name": "hid_demo",
@@ -793,7 +1149,9 @@
       "author": "okyeron",
       "description": "demo scripts for hid functionality",
       "discussion_url": "https://llllllll.co/t/hid-demo/21315",
-      "tags": [ "hid", "demo" ]
+      "tags": [
+        "eduscript"
+      ]
     },
     {
       "project_name": "icarus",
@@ -801,7 +1159,11 @@
       "author": "infinitedigits",
       "description": "supersaw synth with feedback",
       "discussion_url": "https://llllllll.co/t/icarus/43271",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/icarus"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/icarus",
+      "tags": [
+        "synth",
+        "midi"
+      ]
     },
     {
       "project_name": "impact",
@@ -809,7 +1171,11 @@
       "author": "Mendrzec",
       "description": "drum machine based on arturia's drumbrute impact",
       "discussion_url": "https://llllllll.co/t/impact/45247",
-      "tags": [ "drum", "sequencer", "grid" ]
+      "tags": [
+        "drum",
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "internorns",
@@ -817,7 +1183,10 @@
       "author": "infinitedigits",
       "description": "a live-coding environment",
       "discussion_url": "https://llllllll.co/t/internorns/46565",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/internorns"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/internorns",
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "islands",
@@ -825,7 +1194,12 @@
       "author": "junklight",
       "description": "fm7, earthsea, kria, looper",
       "discussion_url": "https://llllllll.co/t/islands-0-1/30234",
-      "tags": [ "grid" ]
+      "tags": [
+        "sequencer",
+        "synth",
+        "looper",
+        "grid"
+      ]
     },
     {
       "project_name": "isoseq",
@@ -833,7 +1207,10 @@
       "author": "carvingcode",
       "description": "isomorphic sequencer for norns and grid",
       "discussion_url": "https://llllllll.co/t/isoseq/21026",
-      "tags": [ "grid" ]
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "jala",
@@ -841,14 +1218,20 @@
       "author": "ulfster",
       "description": "ambient random sequencer",
       "discussion_url": "https://llllllll.co/t/jala/41788",
-      "tags": [ "midi", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "midi"
+      ]
     },
     {
       "project_name": "jiffy",
       "project_url": "https://github.com/lukes-anger/jiffy",
       "author": "Molotov",
       "description": "16 second looper",
-      "discussion_url": "https://llllllll.co/t/jiffy/25475"
+      "discussion_url": "https://llllllll.co/t/jiffy/25475",
+      "tags": [
+        "looper"
+      ]
     },
     {
       "project_name": "just-play",
@@ -856,7 +1239,14 @@
       "author": "midouest",
       "description": "play just friends with midi",
       "discussion_url": "https://llllllll.co/t/just-play/33979",
-      "documentation_url": "https://norns.community/authors/midouest/just-play"
+      "documentation_url": "https://norns.community/authors/midouest/just-play",
+      "tags": [
+        "utility",
+        "crow",
+        "grid",
+        "midi",
+        "jf"
+      ]
     },
     {
       "project_name": "kolor",
@@ -864,7 +1254,12 @@
       "author": "infinitedigits",
       "description": "grid-based sample sequencer",
       "discussion_url": "https://llllllll.co/t/kolor/40504",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/kolor"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/kolor",
+      "tags": [
+        "sequencer",
+        "drum",
+        "grid"
+      ]
     },
     {
       "project_name": "kreislauf",
@@ -872,7 +1267,13 @@
       "author": "frederickk",
       "description": "beat sequencing rund um den kreis ",
       "discussion_url": "https://llllllll.co/t/kreislauf",
-      "documentation_url": "https://norns.community/en/authors/frederickk/kreislauf"
+      "documentation_url": "https://norns.community/en/authors/frederickk/kreislauf",
+      "tags": [
+        "drum",
+        "sequencer",
+        "midi",
+        "crow"
+      ]
     },
     {
       "project_name": "kria_midi",
@@ -880,7 +1281,11 @@
       "author": "junklight",
       "description": "port of kria from ansible",
       "discussion_url": "https://llllllll.co/t/21255",
-      "tag": [ "grid", "midi" ]
+      "tag": [
+        "sequencer",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "krill",
@@ -888,7 +1293,12 @@
       "author": "jaseknighter",
       "description": "a Lorenz system sequencer and mod matrix with a physical modelling synthesis engine",
       "discussion_url": "https://llllllll.co/t/54975",
-      "tag": [ "sequencer", "synth", "crow", "midi" ]
+      "tag": [
+        "sequencer",
+        "synth",
+        "crow",
+        "midi"
+      ]
     },
     {
       "project_name": "lamination",
@@ -897,7 +1307,11 @@
       "description": "substitution sequencer",
       "discussion_url": "https://llllllll.co/t/lamination/58652",
       "documentation_url": "https://norns.community/authors/alanza/lamination",
-      "tags": [ "sequencer", "grid" ]
+      "tags": [
+        "synth",
+        "sequencer",
+        "crow"
+      ]
     },
     {
       "project_name": "l_ll__l_",
@@ -905,7 +1319,12 @@
       "author": "infinitedigits",
       "description": "interact with a musical emission spectrum",
       "discussion_url": "https://llllllll.co/t/l-ll-l/58123",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/l_ll__l_"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/l_ll__l_",
+      "tags": [
+        "generative",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "larc",
@@ -913,7 +1332,12 @@
       "author": "justmat",
       "description": "looper/delay",
       "discussion_url": "https://llllllll.co/t/larc/39790",
-      "documentation_url": "https://norns.community/authors/justmat/larc"
+      "documentation_url": "https://norns.community/authors/justmat/larc",
+      "tags": [
+        "delay",
+        "looper",
+        "arc"
+      ]
     },
     {
       "project_name": "less-concepts",
@@ -922,7 +1346,12 @@
       "description": "1d cellular automata sequencer",
       "discussion_url": "https://llllllll.co/t/less-concepts-3/",
       "documentation_url": "https://norns.community/authors/collabs/lessconcepts3",
-      "tags": [ "ca", "crow", "midi", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "grid",
+        "crow",
+        "midi"
+      ]
     },
     {
       "project_name": "lissadron",
@@ -931,7 +1360,11 @@
       "description": "seeding fields forever",
       "discussion_url": "https://llllllll.co/t/lissadron/32509",
       "documentation_url": "https://norns.community/authors/lfsaw/lissadron",
-      "tags": [ "synth", "random" ]
+      "tags": [
+        "synth",
+        "generative",
+        "midi"
+      ]
     },
     {
       "project_name": "loom",
@@ -940,7 +1373,14 @@
       "description": "pattern weaving sequencer for grids",
       "discussion_url": "https://llllllll.co/t/loom/21091",
       "documentation_url": "https://norns.community/en/authors/markeats/loom",
-      "tags": [ "grid" ]
+      "tags": [
+        "sequencer",
+        "generative",
+        "midi",
+        "jf",
+        "crow",
+        "grid"
+      ]
     },
     {
       "project_name": "lorenzos-drums",
@@ -948,7 +1388,11 @@
       "author": "infinitedigits",
       "description": "an electroacoustic drumset and sequencer",
       "discussion_url": "https://llllllll.co/t/lorenzos-drums/52549",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/lorenzos-drums"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/lorenzos-drums",
+      "tags": [
+        "sequencer",
+        "drum"
+      ]
     },
     {
       "project_name": "loudnumbers_norns",
@@ -957,7 +1401,14 @@
       "description": "data sonification with norns",
       "discussion_url": "https://llllllll.co/t/51353",
       "documentation_url": "https://github.com/loudnumbers/loudnumbers_norns/blob/main/README.md",
-      "tags": [ "sequencer", "sonification", "crow", "midi", "synth", "grid", "utilities" ]
+      "tags": [
+        "sequencer",
+        "utility",
+        "synth",
+        "crow",
+        "midi",
+        "grid"
+      ]
     },
     {
       "project_name": "m18s",
@@ -965,7 +1416,14 @@
       "author": "jlmitch5",
       "description": "a sequencer based on the RYK M-185",
       "discussion_url": "https://llllllll.co/t/m18s-now-for-norns/32068",
-      "tags": [ "synth", "midi", "crow" ]
+      "tags": [
+        "generative",
+        "sequencer",
+        "synth",
+        "jf",
+        "midi",
+        "crow"
+      ]
     },
     {
       "project_name": "makebreakbeat",
@@ -973,7 +1431,11 @@
       "author": "infinitedigits",
       "description": "make breakbeats from samples",
       "discussion_url": "https://llllllll.co/t/makebreakbeat/53301",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/makebreakbeat"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/makebreakbeat",
+      "tags": [
+        "sampler",
+        "drum"
+      ]
     },
     {
       "project_name": "mangl",
@@ -982,7 +1444,11 @@
       "description": "a 7 track granular sample player",
       "discussion_url": "https://llllllll.co/t/21066",
       "documentation_url": "https://norns.community/authors/justmat/mangl",
-      "tags": [ "arc", "granular" ]
+      "tags": [
+        "granulator",
+        "grid",
+        "arc"
+      ]
     },
     {
       "project_name": "manifold",
@@ -991,7 +1457,9 @@
       "description": "multi-effects processing for live performance",
       "discussion_url": "https://llllllll.co/t/manifold/22098",
       "documentation_url": "https://norns.community/en/authors/carltesta/manifold",
-      "tags": [ "fx" ]
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "massif",
@@ -1000,7 +1468,9 @@
       "description": "8 band resonator",
       "discussion_url": "https://llllllll.co/t/massif/",
       "documentation_url": "https://norns.community/authors/justmat/massif",
-      "tags": [ "fx" ]
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "meadowphysics",
@@ -1008,14 +1478,26 @@
       "author": "alphacactus dansimco tehn",
       "description": "grid-enabled rhizomatic cascading counter",
       "discussion_url": "https://llllllll.co/t/21185",
-      "tags": [ "grid" ]
+      "tags": [
+        "sequencer",
+        "synth",
+        "drum",
+        "grid",
+        "crow",
+        "jf"
+      ]
     },
     {
       "project_name": "metrix",
       "project_url": "https://github.com/kasperbauer/metrix",
       "author": "kasperbauer",
       "description": "it's like metropolix for norns",
-      "tags": [ "sequencer", "grid", "crow", "midi" ]
+      "tags": [
+        "sequencer",
+        "midi",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "midi-monitor",
@@ -1023,7 +1505,10 @@
       "author": "okyeron",
       "description": "A MIDI monitor for norns",
       "discussion_url": "https://llllllll.co/t/midi-monitor/35036",
-      "tags": [ "midi" ]
+      "tags": [
+        "utility",
+        "midi"
+      ]
     },
     {
       "project_name": "midi-review",
@@ -1031,7 +1516,10 @@
       "author": "niksilver",
       "description": "Simple visualisation, recording and playback of MIDI notes",
       "discussion_url": "https://llllllll.co/t/midi-review/60479",
-      "tags": [ "midi", "utilities" ]
+      "tags": [
+        "utility",
+        "midi"
+      ]
     },
     {
       "project_name": "mlr",
@@ -1039,7 +1527,13 @@
       "author": "tehn",
       "description": "live sample-cutting platform",
       "discussion_url": "https://llllllll.co/t/21145",
-      "tags": [ "sampler" ]
+      "tags": [
+        "sequencer",
+        "sampler",
+        "looper",
+        "delay",
+        "grid"
+      ]
     },
     {
       "project_name": "mlre",
@@ -1048,7 +1542,15 @@
       "description": "extended version of mlr",
       "discussion_url": "https://llllllll.co/t/mlre/57371",
       "documentation_url": "https://github.com/sonocircuit/mlre",
-      "tags": [ "sampler", "grid", "arc", "crow" ]
+      "tags": [
+        "sequencer",
+        "sampler",
+        "looper",
+        "delay",
+        "grid",
+        "arc",
+        "crow"
+      ]
     },
     {
       "project_name": "molly_the_poly",
@@ -1057,7 +1559,11 @@
       "description": "classic polysynth with solar system patch creator",
       "discussion_url": "https://llllllll.co/t/molly-the-poly/21090",
       "documentation_url": "https://norns.community/en/authors/markeats/molly-the-poly",
-      "tags": [ "synth", "midi" ]
+      "tags": [
+        "synth",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "moln",
@@ -1065,7 +1571,9 @@
       "author": "jah",
       "description": "polyphonic subtractive synthesizer",
       "discussion_url": "https://llllllll.co/t/moln/21111",
-      "tags": [ "synth", "midi", "grid", "arc" ]
+      "tags": [
+        "synth"
+      ]
     },
     {
       "project_name": "monitor",
@@ -1073,7 +1581,10 @@
       "author": "neauoire",
       "description": "small kit of midi utilities to transpose and route midi messages",
       "discussion_url": "https://llllllll.co/t/23273",
-      "tags": [ "midi" ]
+      "tags": [
+        "utility",
+        "midi"
+      ]
     },
     {
       "project_name": "moonraker",
@@ -1082,7 +1593,10 @@
       "description": "explore a galaxy of rhythm",
       "discussion_url": "https://llllllll.co/t/moonraker/51803",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/moonraker",
-      "tags": [ "drum", "grid" ]
+      "tags": [
+        "drum",
+        "grid"
+      ]
     },
     {
       "project_name": "mouse",
@@ -1091,7 +1605,12 @@
       "description": "sound maker and sequencer heavily inspired by Laurie Spiegel's Music Mouse",
       "discussion_url": "https://llllllll.co/t/mouse/41562",
       "documentation_url": "https://norns.community/en/authors/cfd90/mouse",
-      "tags": [ "synth", "sequencer", "grid" ]
+      "tags": [
+        "sequencer",
+        "mouse",
+        "keyboard",
+        "grid"
+      ]
     },
     {
       "project_name": "mx.samples",
@@ -1099,7 +1618,11 @@
       "author": "infinitedigits",
       "description": "like mr.radar or mr.coffee but for samples",
       "discussion_url": "https://llllllll.co/t/mx-samples/41400",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-samples"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-samples",
+      "tags": [
+        "synth",
+        "midi"
+      ]
     },
     {
       "project_name": "mx.synths",
@@ -1107,7 +1630,11 @@
       "author": "infinitedigits",
       "description": "like mr.radar or mr.coffee but for synths",
       "discussion_url": "https://llllllll.co/t/mx-synths/49535",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-synths"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-synths",
+      "tags": [
+        "synth",
+        "midi"
+      ]
     },
     {
       "project_name": "n16o",
@@ -1115,7 +1642,9 @@
       "author": "jlmitch5",
       "description": "i2c-based ER-301 control via KORG nanoKONTROL2",
       "discussion_url": "https://llllllll.co/t/n16o/28198",
-      "tags": [ "crow", "ER-301", "nanoKONTROL 2" ]
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "nice-tapes",
@@ -1123,7 +1652,9 @@
       "author": "MentalSandal",
       "description": "a norns mod for customised tape names",
       "discussion_url": "https://llllllll.co/t/nice-tapes-a-norns-mod-for-customised-tape-names",
-      "tags": [ "mod" ]
+      "tags": [
+        "mod"
+      ]
     },
     {
       "project_name": "nisp",
@@ -1131,7 +1662,10 @@
       "author": "its_your_bedtime",
       "description": "scheme dialect livecoding tracker for norns",
       "discussion_url": "https://llllllll.co/t/nisp/27596",
-      "tags": [ "tracker" ]
+      "tags": [
+        "sequencer",
+        "tracker"
+      ]
     },
     {
       "project_name": "n.kria",
@@ -1140,7 +1674,12 @@
       "description": "native norns Kria",
       "discussion_url": "https://llllllll.co/t/n-kria-0-13-native-norns-kria/60403",
       "documentation_url": "https://llllllll.co/t/n-kria-0-13-native-norns-kria/60403",
-      "tags": [ "grid", "sequencer", "midi", "nb" ]
+      "tags": [
+        "sequencer",
+        "grid",
+        "midi",
+        "nb"
+      ]
     },
     {
       "project_name": "nmMelodyMagic",
@@ -1148,7 +1687,10 @@
       "author": "NightMachines",
       "description": "a port of ken stone's infinite melody and modulo magic cgs serge modules",
       "discussion_url": "https://llllllll.co/t/nmmelodymagic/",
-      "tags": [ "sequencer", "midi" ]
+      "tags": [
+        "sequencer",
+        "midi"
+      ]
     },
     {
       "project_name": "nmQuadroDubber",
@@ -1156,7 +1698,10 @@
       "author": "NightMachines",
       "description": "overdub external audio onto four tape loops",
       "discussion_url": "https://llllllll.co/t/nmquadrodubber",
-      "tags": [ "looper", "sampler" ]
+      "tags": [
+        "delay",
+        "looper"
+      ]
     },
     {
       "project_name": "nmRain",
@@ -1164,7 +1709,9 @@
       "author": "NightMachines",
       "description": "a weird stereo delay effect for external audio",
       "discussion_url": "https://llllllll.co/t/nmrain/",
-      "tags": [ "delay", "sampler" ]
+      "tags": [
+        "delay"
+      ]
     },
     {
       "project_name": "nmSmartyPants",
@@ -1172,7 +1719,11 @@
       "author": "NightMachines",
       "description": "deform external audio with math and impress your nerd friends",
       "discussion_url": "https://llllllll.co/t/nmsmartypants/",
-      "tags": [ "delay", "sampler", "looper", "granular" ]
+      "tags": [
+        "delay",
+        "looper",
+        "granulator"
+      ]
     },
     {
       "project_name": "nørgård",
@@ -1180,14 +1731,21 @@
       "author": "frederickk",
       "description": "A small library to generate Nørgård infinity sequences for Norns",
       "documentation_url": "https://norns.community/en/authors/frederickk/noergaard",
-      "tags": [ "generative", "library", "norgard", "midi" ]
+      "tags": [
+        "sequencer",
+        "generative",
+        "midi"
+      ]
     },
     {
       "project_name": "norman",
       "project_url": "https://github.com/crimclark/norman",
       "author": "crim",
       "description": "simple audio utility",
-      "discussion_url": "https://llllllll.co/t/norman/22606"
+      "discussion_url": "https://llllllll.co/t/norman/22606",
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "norns.online",
@@ -1195,28 +1753,40 @@
       "author": "infinitedigits",
       "description": "remotely control norns from the browser",
       "discussion_url": "https://llllllll.co/t/norns-online/38547",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/norns-online"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/norns-online",
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "nc01-drone",
       "project_url": "https://github.com/monome-community/nc01-drone",
       "author": "norns-community",
       "description": "norns/circle/01 drone in three worlds",
-      "discussion_url": "https://llllllll.co/t/norns-circle-01-drone-in-three-worlds/28582"
+      "discussion_url": "https://llllllll.co/t/norns-circle-01-drone-in-three-worlds/28582",
+      "tags": [
+        "art"
+      ]
     },
     {
       "project_name": "nc02-rs",
       "project_url": "https://github.com/monome-community/nc02-rs",
       "author": "norns-community",
       "description": "norns/circle/02 rhythm and sound",
-      "discussion_url": "https://llllllll.co/t/norns-circle-02-rhythm-and-sound/31645"
+      "discussion_url": "https://llllllll.co/t/norns-circle-02-rhythm-and-sound/31645",
+      "tags": [
+        "art"
+      ]
     },
     {
       "project_name": "nc03-ds",
       "project_url": "https://github.com/monome-community/nc03-ds",
       "author": "norns-community",
       "description": "norns/circle/03 dressed in sequins",
-      "discussion_url": "https://llllllll.co/t/norns-circle-03-dressed-in-sequins/57649"
+      "discussion_url": "https://llllllll.co/t/norns-circle-03-dressed-in-sequins/57649",
+      "tags": [
+        "art"
+      ]
     },
     {
       "project_name": "nydl",
@@ -1224,7 +1794,13 @@
       "author": "sixolet",
       "description": "beat-synced looper, slicer, and sequencer",
       "discussion_url": "https://llllllll.co/t/nydl/51886",
-      "tags": [ "looper", "sequencer", "grid", "crow" ]
+      "tags": [
+        "delay",
+        "looper",
+        "sequencer",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "oblique",
@@ -1232,7 +1808,9 @@
       "author": "stvnrlly",
       "description": "a mod to insert oblique strategies into the params menu",
       "discussion_url": "https://llllllll.co/t/oblique-consult-the-deck/50578",
-      "tags": [ "mod" ]
+      "tags": [
+        "mod"
+      ]
     },
     {
       "project_name": "o-o-o",
@@ -1240,7 +1818,11 @@
       "author": "infinitedigits",
       "description": "connect-the-dots sequencer w/ fm synthesizer",
       "discussion_url": "https://llllllll.co/t/o-o-o",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/o-o-o"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/o-o-o",
+      "tags": [
+        "sequencer",
+        "synth"
+      ]
     },
     {
       "project_name": "onehanded",
@@ -1248,7 +1830,10 @@
       "author": "mimetaur",
       "description": "minimal manual controller script",
       "discussion_url": "https://llllllll.co/t/onehanded/25869",
-      "tags": [ "midi" ]
+      "tags": [
+        "utility",
+        "midi"
+      ]
     },
     {
       "project_name": "ong",
@@ -1256,7 +1841,10 @@
       "author": "anoikisnomads",
       "description": "ocean noise generator",
       "discussion_url": "https://llllllll.co/t/ong-ocean-noise-generator-for-monome-norns/50364/3",
-      "documentation_url": "https://norns.community/en/authors/anoikisnomads/ong"
+      "documentation_url": "https://norns.community/en/authors/anoikisnomads/ong",
+      "tags": [
+        "art"
+      ]
     },
     {
       "project_name": "oooooo",
@@ -1264,14 +1852,23 @@
       "author": "infinitedigits",
       "description": "digital tape loops, x 6",
       "discussion_url": "https://llllllll.co/t/oooooo",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/oooooo"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/oooooo",
+      "tags": [
+        "looper",
+        "delay",
+        "grid"
+      ]
     },
     {
       "project_name": "orbital",
       "project_url": "https://github.com/P1505/orbital",
       "author": "P1505",
       "description": "orbital is an experiment in simple sequences and interface design",
-      "discussion_url": "https://llllllll.co/t/orbital-norns/21379"
+      "discussion_url": "https://llllllll.co/t/orbital-norns/21379",
+      "tags": [
+        "sequencer",
+        "art"
+      ]
     },
     {
       "project_name": "orca",
@@ -1280,7 +1877,17 @@
       "description": "visual programming language, designed to create procedural sequencers on the fly",
       "discussion_url": "https://llllllll.co/t/22492",
       "documentation_url": "https://norns.community/authors/collabs/orca",
-      "tags": [ "hid", "keyboard" ]
+      "tags": [
+        "sequencer",
+        "tracker",
+        "generative",
+        "looper",
+        "midi",
+        "keyboard",
+        "arc",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "ortf",
@@ -1288,7 +1895,11 @@
       "author": "felart",
       "description": "Sort of Radio music clone where each audio file in tape folder is a station",
       "discussion_url": "https://llllllll.co/t/ortf/39694",
-      "tags": [ "midi" ]
+      "tags": [
+        "utility",
+        "sampler",
+        "midi"
+      ]
     },
     {
       "project_name": "otis",
@@ -1297,7 +1908,11 @@
       "description": "dual tape delay/looper/sampler",
       "discussion_url": "https://llllllll.co/t/22149",
       "documentation_url": "https://norns.community/authors/justmat/otis",
-      "tags": [ "looper" ]
+      "tags": [
+        "delay",
+        "looper",
+        "sampler"
+      ]
     },
     {
       "project_name": "overwintering",
@@ -1306,7 +1921,9 @@
       "description": "Bird migration patterns as sound",
       "discussion_url": "https://llllllll.co/t/overwintering/58444",
       "documentation_url": "https://norns.community/en/authors/markeats/overwintering",
-      "tags": [ "generative" ]
+      "tags": [
+        "generative"
+      ]
     },
     {
       "project_name": "p8",
@@ -1314,7 +1931,10 @@
       "author": "eigen",
       "description": "run PICO-8 tweetcarts on norns",
       "discussion_url": "https://llllllll.co/t/37947",
-      "documentation_url": "https://norns.community/authors/eigen/p8"
+      "documentation_url": "https://norns.community/authors/eigen/p8",
+      "tags": [
+        "art"
+      ]
     },
     {
       "project_name": "paracosms",
@@ -1323,7 +1943,14 @@
       "description": "sampler + tracker to construct imaginary worlds",
       "discussion_url": "https://llllllll.co/t/paracosms/57350",
       "documentation_url": "https://norns.community/authors/infinitedigits/paracosms",
-      "tags": [ "looper", "sequencer", "grid" ]
+      "tags": [
+        "sequencer",
+        "tracker",
+        "sampler",
+        "keyboard",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "parrot",
@@ -1332,7 +1959,9 @@
       "description": "cv recorder and player for norns+crow",
       "discussion_url": "https://llllllll.co/t/53083",
       "documentation_url": "https://norns.community/en/authors/jaseknighter/parrot",
-      "tags": [ "norns", "crow" ]
+      "tags": [
+        "crow"
+      ]
     },
     {
       "project_name": "passersby",
@@ -1341,7 +1970,11 @@
       "description": "west coast style mono synth",
       "discussion_url": "https://llllllll.co/t/passersby/21089",
       "documentation_url": "https://norns.community/en/authors/markeats/passerby",
-      "tags": [ "synth", "midi" ]
+      "tags": [
+        "synth",
+        "midi",
+        "grid"
+      ]
     },
     {
       "project_name": "passthrough",
@@ -1350,7 +1983,11 @@
       "description": "midi passthrough library with examples",
       "discussion_url": "https://llllllll.co/t/passthrough/31156",
       "documentation_url": "https://norns.community/authors/nattog/passthrough",
-      "tags": [ "midi" ]
+      "tags": [
+        "utility",
+        "mod",
+        "midi"
+      ]
     },
     {
       "project_name": "patchwork",
@@ -1358,7 +1995,11 @@
       "author": "Olivier",
       "description": "dual function sequencer for monome norns, crow and grid",
       "discussion_url": "https://llllllll.co/t/patchwork/28800",
-      "tags": [ "sequencer", "grid", "crow" ]
+      "tags": [
+        "sequencer",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "pedalboard",
@@ -1367,7 +2008,11 @@
       "description": "chainable effects for live performance",
       "discussion_url": "https://llllllll.co/t/31119",
       "documentation_url": "https://norns.community/authors/21echoes/pedalboard",
-      "tags": [ "fx", "arc" ]
+      "tags": [
+        "audio_fx",
+        "crow",
+        "arc"
+      ]
     },
     {
       "project_name": "phonotype",
@@ -1376,7 +2021,11 @@
       "description": "livecoding environment",
       "discussion_url": "https://llllllll.co/t/49564",
       "documentation_url": "https://norns.community/authors/sixolet/phonotype",
-      "tags": [ "keyboard", "synth", "midi" ]
+      "tags": [
+        "generative",
+        "keyboard",
+        "midi"
+      ]
     },
     {
       "project_name": "phyllis",
@@ -1384,7 +2033,10 @@
       "author": "justmat",
       "description": "a digitally modeled analog filter",
       "discussion_url": "https://llllllll.co/t/27988",
-      "documentation_url": "https://norns.community/authors/justmat/phyllis"
+      "documentation_url": "https://norns.community/authors/justmat/phyllis",
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "pirate-radio",
@@ -1392,7 +2044,12 @@
       "author": "infinitedigits eigen jaseknighter tyleretters",
       "description": "community radio for monome norns...yar",
       "discussion_url": "https://llllllll.co/t/pirate-radio/49013",
-      "documentation_url": "https://norns.community/authors/study-group/pirate-radio"
+      "documentation_url": "https://norns.community/authors/study-group/pirate-radio",
+      "tags": [
+        "utility",
+        "art",
+        "16n"
+      ]
     },
     {
       "project_name": "pitfalls",
@@ -1400,7 +2057,12 @@
       "author": "delineator",
       "description": "microtonal scale explorer / arpeggiator / grid keyboard",
       "discussion_url": "https://llllllll.co/t/pitfalls/37795",
-      "tags": [ "grid" ]
+      "tags": [
+        "synth",
+        "utility",
+        "midi",
+        "grid"
+      ]
     },
     {
       "project_name": "piwip",
@@ -1409,7 +2071,10 @@
       "description": "a sampler that works in realtime",
       "discussion_url": "https://llllllll.co/t/piwip/36642",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/piwip",
-      "tags": [ "midi" ]
+      "tags": [
+        "looper",
+        "sampler"
+      ]
     },
     {
       "project_name": "pixels",
@@ -1417,7 +2082,13 @@
       "author": "distropolis",
       "description": "generative visual sequencer instrument",
       "discussion_url": "https://llllllll.co/t/pixels/38762",
-      "tags": [ "sequencer", "midi" ]
+      "tags": [
+        "sequencer",
+        "generative",
+        "synth",
+        "art",
+        "midi"
+      ]
     },
     {
       "project_name": "plonky",
@@ -1425,7 +2096,12 @@
       "author": "infinitedigits",
       "description": "string-like keyboard and sequencer",
       "discussion_url": "https://llllllll.co/t/plonky/42520",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/plonky"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/plonky",
+      "tags": [
+        "sequencer",
+        "keyboard",
+        "grid"
+      ]
     },
     {
       "project_name": "pools",
@@ -1433,7 +2109,10 @@
       "author": "justmat",
       "description": "a shimmery reverb",
       "discussion_url": "https://llllllll.co/t/28320",
-      "documentation_url": "https://norns.community/authors/justmat/pools"
+      "documentation_url": "https://norns.community/authors/justmat/pools",
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "ppm_norns",
@@ -1441,14 +2120,21 @@
       "author": "DuncanGeere",
       "description": "parts per million",
       "discussion_url": "https://llllllll.co/t/ppm/54589",
-      "documentation_url": "https://norns.community/en/authors/duncan-geere/ppm"
+      "documentation_url": "https://norns.community/en/authors/duncan-geere/ppm",
+      "tags": [
+        "art"
+      ]
     },
     {
       "project_name": "punchcard",
       "project_url": "https://github.com/neauoire/punchcard",
       "author": "neauoire",
       "description": "an experimental sequencer that works a bit like the classic punchcard computer",
-      "discussion_url": "https://llllllll.co/t/23557"
+      "discussion_url": "https://llllllll.co/t/23557",
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "qfwfq",
@@ -1456,7 +2142,11 @@
       "author": "notester",
       "description": "A brute-force password hack inspired sequencer.",
       "discussion_url": "https://llllllll.co/t/qfwfq",
-      "tags": [ "sequencer", "midi" ]
+      "tags": [
+        "sequencer",
+        "generative",
+        "midi"
+      ]
     },
     {
       "project_name": "quence",
@@ -1464,7 +2154,13 @@
       "author": "RobSchoen",
       "description": "probabilistic 4-track sequencer",
       "discussion_url": "https://llllllll.co/t/quence/29436",
-      "tags": [ "grid", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "generative",
+        "grid",
+        "crow",
+        "midi"
+      ]
     },
     {
       "project_name": "raft",
@@ -1473,7 +2169,10 @@
       "description": "a scene-setting, softcut-based modulated delay and noise generator",
       "discussion_url": "https://llllllll.co/t/raft",
       "documentation_url": "https://norns.community/authors/toomanatees/raft",
-      "tags": [ "delay", "fx", "looper" ]
+      "tags": [
+        "delay",
+        "audio_fx"
+      ]
     },
     {
       "project_name": "randomizer_typhon",
@@ -1482,7 +2181,9 @@
       "description": "Randomizer for Dreadbox Typhon",
       "discussion_url": "https://llllllll.co/t/randomizer-typhon/54196",
       "documentation_url": "https://norns.community/en/authors/danut007ro/randomizer_typhon",
-      "tags": [ "utilities" ]
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "rangl",
@@ -1491,7 +2192,11 @@
       "description": "arc based granular four track sampler with live recording and friction.",
       "discussion_url": "https://llllllll.co/t/rangl/44673",
       "documentation_url": "https://norns.community/en/authors/tgk/rangl",
-      "tags": [ "arc", "granular" ]
+      "tags": [
+        "sampler",
+        "granulator",
+        "arc"
+      ]
     },
     {
       "project_name": "reels",
@@ -1499,14 +2204,19 @@
       "author": "its_your_bedtime",
       "description": "a 4-track asynchronous looper, inspired by op-1 tape recorder and mannequins w/ eurorack module.",
       "discussion_url": "https://llllllll.co/t/21030",
-      "tags": [ "looper" ]
+      "tags": [
+        "looper",
+        "delay"
+      ]
     },
     {
       "project_name": "r",
       "project_url": "https://github.com/antonhornquist/r",
       "author": "jah",
       "description": "general purpose audio patching engine",
-      "tags": [ "lib" ]
+      "tags": [
+        "lib"
+      ]
     },
     {
       "project_name": "rebound",
@@ -1514,7 +2224,9 @@
       "author": "enneff",
       "description": "a kinetic sequencer",
       "discussion_url": "https://llllllll.co/t/23243",
-      "tags": [ "sequencer" ]
+      "tags": [
+        "sequencer"
+      ]
     },
     {
       "project_name": "repl-looper",
@@ -1522,7 +2234,11 @@
       "author": "awwaiid",
       "description": "mash of REPL and looper; a live performance code sequencer with web UI",
       "discussion_url": "https://llllllll.co/t/51485",
-      "tags": [ "grid", "looper", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "looper",
+        "grid"
+      ]
     },
     {
       "project_name": "rpmate",
@@ -1530,7 +2246,11 @@
       "author": "eigen",
       "description": "record a sound an play it back at various RPM ratios",
       "discussion_url": "https://llllllll.co/t/38542",
-      "documentation_url": "https://norns.community/authors/eigen/rpmate"
+      "documentation_url": "https://norns.community/authors/eigen/rpmate",
+      "tags": [
+        "utility",
+        "sampler"
+      ]
     },
     {
       "project_name": "rudiments",
@@ -1538,7 +2258,10 @@
       "author": "cfd90",
       "description": "an 8 voice lofi percussion synthesizer and sequencer",
       "discussion_url": "https://llllllll.co/t/31828",
-      "tags": [ "drum", "synth", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "drum"
+      ]
     },
     {
       "project_name": "sam",
@@ -1546,7 +2269,11 @@
       "author": "justmat",
       "description": "a simple sample recorder/slicer",
       "discussion_url": "https://llllllll.co/t/23943",
-      "documentation_url": "https://norns.community/authors/justmat/sam"
+      "documentation_url": "https://norns.community/authors/justmat/sam",
+      "tags": [
+        "sampler",
+        "utility"
+      ]
     },
     {
       "project_name": "sampswap",
@@ -1555,7 +2282,9 @@
       "description": "swap samples within loops",
       "discussion_url": "https://llllllll.co/t/sampswap/53719",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/sampswap",
-      "tags": [ "looper", "sampler" ]
+      "tags": [
+        "sampler"
+      ]
     },
     {
       "project_name": "samsara",
@@ -1564,7 +2293,10 @@
       "description": "a minimalist clock-synced looper",
       "discussion_url": "https://llllllll.co/t/34095",
       "documentation_url": "https://norns.community/authors/21echoes/samsara",
-      "tags": [ "looper" ]
+      "tags": [
+        "looper",
+        "delay"
+      ]
     },
     {
       "project_name": "schicksalslied",
@@ -1573,7 +2305,17 @@
       "description": "a poetry sequencer",
       "discussion_url": "https://llllllll.co/t/schicksalslied/59227",
       "documentation_url": "https://norns.community/en/authors/william-hazard/schicksalslied",
-      "tags": [ "grid", "crow", "ii", "synth", "sequencer" ]
+      "tags": [
+        "generative",
+        "synth",
+        "art",
+        "sequencer",
+        "keyboard",
+        "grid",
+        "crow",
+        "jf",
+        "w/"
+      ]
     },
     {
       "project_name": "seaflex",
@@ -1581,7 +2323,10 @@
       "author": "lylem",
       "description": "companion app for earthsea",
       "discussion_url": "https://llllllll.co/t/23209",
-      "tags": [ "grid" ]
+      "tags": [
+        "utility",
+        "grid"
+      ]
     },
     {
       "project_name": "sempra",
@@ -1589,7 +2334,11 @@
       "author": "zbs",
       "description": "continuous dynamic melody sequencer for 16n+grid",
       "discussion_url": "https://llllllll.co/t/54492",
-      "tags": [ "grid", "crow", "ii" ]
+      "tags": [
+        "sequencer",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "silos",
@@ -1598,7 +2347,13 @@
       "description": "live grains",
       "discussion_url": "https://llllllll.co/t/43804",
       "documentation_url": "https://norns.community/authors/justmat/silos",
-      "tags": [ "granular", "grid", "arc" ]
+      "tags": [
+        "granulator",
+        "audio_fx",
+        "keyboard",
+        "grid",
+        "arc"
+      ]
     },
     {
       "project_name": "sines",
@@ -1606,7 +2361,12 @@
       "author": "oootini",
       "description": "16 sine waves",
       "discussion_url": "https://llllllll.co/t/39292",
-      "tags": [ "drone", "midi" ]
+      "tags": [
+        "synth",
+        "drone",
+        "16n",
+        "midi"
+      ]
     },
     {
       "project_name": "shapes",
@@ -1614,7 +2374,9 @@
       "author": "tyler",
       "description": "visuals-based modulation source for crow and midi",
       "discussion_url": "https://llllllll.co/t/36759",
-      "tags": [ "crow", "midi" ]
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "shfts",
@@ -1622,7 +2384,11 @@
       "author": "germinal",
       "description": "random sequencer for norns, crow, and grid",
       "discussion_url": "https://llllllll.co/t/26221",
-      "tags": [ "crow", "grid" ]
+      "tags": [
+        "sequencer",
+        "crow",
+        "grid"
+      ]
     },
     {
       "project_name": "shnthsalslied",
@@ -1631,7 +2397,17 @@
       "description": "fork of schicksalslied for use with shbobo shnth",
       "discussion_url": "https://llllllll.co/t/shnthsalslied/59232",
       "documentation_url": "https://norns.community/en/authors/william-hazard/shnthsalslied",
-      "tags": [ "crow", "grid", "sequencer" ]
+      "tags": [
+        "generative",
+        "synth",
+        "art",
+        "sequencer",
+        "keyboard",
+        "grid",
+        "crow",
+        "jf",
+        "w/"
+      ]
     },
     {
       "project_name": "showers",
@@ -1639,21 +2415,31 @@
       "author": "justmat",
       "description": "a thunderstorm for norns",
       "discussion_url": "https://llllllll.co/t/31622",
-      "documentation_url": "https://norns.community/authors/justmat/showers"
+      "documentation_url": "https://norns.community/authors/justmat/showers",
+      "tags": [
+        "art"
+      ]
     },
     {
       "project_name": "skylines",
       "project_url": "https://github.com/unit-cell/skylines",
       "author": "markel_m",
       "description": "a sequencer inspired on the M185/Intellijel Metropolis",
-      "discussion_url": "https://llllllll.co/t/skylines/38856"
+      "discussion_url": "https://llllllll.co/t/skylines/38856",
+      "tags": [
+        "sequencer"
+      ]
     },
     {
       "project_name": "smash",
       "project_url": "https://github.com/ryanlaws/SMASH",
       "author": "license",
       "description": "sequencer for apes",
-      "discussion_url": "https://llllllll.co/t/smash/48782"
+      "discussion_url": "https://llllllll.co/t/smash/48782",
+      "tags": [
+        "sequencer",
+        "drum"
+      ]
     },
     {
       "project_name": "spirals",
@@ -1662,7 +2448,12 @@
       "description": "sequencer",
       "discussion_url": "https://llllllll.co/t/spirals/40678",
       "documentation_url": "https://norns.community/authors/tomw/spirals",
-      "tags": [ "sequencer" ]
+      "tags": [
+        "generative",
+        "sequencer",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "splicer",
@@ -1671,7 +2462,9 @@
       "description": "an eduscript for sequins and lattice",
       "discussion_url": "https://l.llllllll.co/splicer",
       "documentation_url": "https://l.llllllll.co/splicer",
-      "tags": [ "sequins", "lattice", "eduscript" ]
+      "tags": [
+        "eduscript"
+      ]
     },
     {
       "project_name": "splnkr",
@@ -1679,21 +2472,35 @@
       "author": "jaseknighter",
       "description": "an amplitude and frequency tracking effects processor/sampler/sequencer",
       "discussion_url": "https://llllllll.co/t/51191",
-      "tags": [ "sequencer", "sampler", "midi", "norns", "crow" ]
+      "tags": [
+        "sequencer",
+        "audio_fx",
+        "sampler",
+        "jf",
+        "crow",
+        "grid"
+      ]
     },
     {
       "project_name": "stack",
       "project_url": "https://github.com/cfdrake/stack",
       "author": "cfd90",
       "description": "a stack of 8 fixed-frequency resonant bandpass filters",
-      "discussion_url": "https://llllllll.co/t/35218"
+      "discussion_url": "https://llllllll.co/t/35218",
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "step",
       "project_url": "https://github.com/antonhornquist/step",
       "author": "jah",
       "description": "a simple step sequencer",
-      "discussion_url": "https://llllllll.co/t/step/21093"
+      "discussion_url": "https://llllllll.co/t/step/21093",
+      "tags": [
+        "sampler",
+        "sequencer"
+      ]
     },
     {
       "project_name": "stjörnuíþrótt",
@@ -1702,21 +2509,35 @@
       "description": "drone inspired by Moffenzeef Stargazer",
       "discussion_url": "https://llllllll.co/t/33889",
       "documentation_url": "https://norns.community/en/authors/frederickk/stjoernuithrott",
-      "tags": [ "drone", "midi" ]
+      "tags": [
+        "synth",
+        "drone",
+        "midi"
+      ]
     },
     {
       "project_name": "strides",
       "project_url": "https://github.com/notjustmat/strides",
       "author": "justmat",
       "description": "a collection of pattern recorders",
-      "discussion_url": "https://llllllll.co/t/21101"
+      "discussion_url": "https://llllllll.co/t/21101",
+      "tags": [
+        "sampler",
+        "sequencer",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "strum",
       "project_url": "https://github.com/carvingCode/strum",
       "author": "carvingcode",
       "description": "a plucky little pattern sequencer",
-      "discussion_url": "https://llllllll.co/t/21025"
+      "discussion_url": "https://llllllll.co/t/21025",
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "supertonic",
@@ -1725,7 +2546,10 @@
       "description": "an introspective drum machine",
       "discussion_url": "https://llllllll.co/t/supertonic/45551",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/supertonic",
-      "tags": [ "engine" ]
+      "tags": [
+        "generative",
+        "drum"
+      ]
     },
     {
       "project_name": "sway",
@@ -1734,14 +2558,20 @@
       "description": "analysis-driven live audio processing",
       "discussion_url": "https://llllllll.co/t/sway/21117",
       "documentation_url": "https://norns.community/en/authors/carltesta/sway",
-      "tags": [ "generative", "fx" ]
+      "tags": [
+        "generative",
+        "audio_fx"
+      ]
     },
     {
       "project_name": "sweet bees",
       "project_url": "https://github.com/icerigger/sweet-bees",
       "author": "Midworld",
       "description": "asynchronous tape looper and reverb",
-      "discussion_url": "https://llllllll.co/t/sweet-bees/49272"
+      "discussion_url": "https://llllllll.co/t/sweet-bees/49272",
+      "tags": [
+        "looper"
+      ]
     },
     {
       "project_name": "synthy",
@@ -1749,7 +2579,11 @@
       "author": "infinitedigits",
       "description": "a synthesizer critter",
       "discussion_url": "https://llllllll.co/t/synthy/48062",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/synthy"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/synthy",
+      "tags": [
+        "synth",
+        "sequencer"
+      ]
     },
     {
       "project_name": "takt",
@@ -1765,7 +2599,12 @@
       "description": "bending rhythmic arpeggio",
       "discussion_url": "https://llllllll.co/t/37965",
       "documentation_url": "https://norns.community/authors/ngwese/tambla",
-      "tags": [ "midi", "gen", "sky", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "midi",
+        "arc",
+        "grid"
+      ]
     },
     {
       "project_name": "tapedeck",
@@ -1773,7 +2612,10 @@
       "author": "infinitedigits",
       "description": "live tape deck emulation (saturation, distortion, wow/flutter)",
       "discussion_url": "https://llllllll.co/t/tapedeck/51919",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/tapedeck"
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/tapedeck",
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "tetrabobo",
@@ -1781,7 +2623,10 @@
       "author": "WilliamHazard",
       "description": "triangle wave organ with variable slope for norns & shbobo shnth",
       "discussion_url": "https://llllllll.co/t/tetrabobo/60112",
-      "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabobo"
+      "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabobo",
+      "tags": [
+        "synth"
+      ]
     },
     {
       "project_name": "tetrabotis",
@@ -1789,7 +2634,10 @@
       "author": "WilliamHazard",
       "description": "tetrabobo + otis = tetrabotis",
       "discussion_url": "https://llllllll.co/t/tetrabotis/60216",
-      "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabotis"
+      "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabotis",
+      "tags": [
+        "synth"
+      ]
     },
     {
       "project_name": "thebangs",
@@ -1797,7 +2645,9 @@
       "author": "zebra",
       "description": "one-shot synthesis engine",
       "discussion_url": "https://llllllll.co/t/engine-thebangs",
-      "tags": [ "engine" ]
+      "tags": [
+        "engine"
+      ]
     },
     {
       "project_name": "thirtythree",
@@ -1806,7 +2656,10 @@
       "description": "sample + sequencer + splicer in the style of po-33",
       "discussion_url": "https://llllllll.co/t/thirtythree/44702",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/thirtythree",
-      "tags": [ "sequencer" ]
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "timber",
@@ -1814,7 +2667,11 @@
       "author": "markeats",
       "description": "sample player engine and scripts",
       "discussion_url": "https://llllllll.co/t/21407",
-      "documentation_url": "https://norns.community/en/authors/markeats/timber"
+      "documentation_url": "https://norns.community/en/authors/markeats/timber",
+      "tags": [
+        "sampler",
+        "midi"
+      ]
     },
     {
       "project_name": "timeparty",
@@ -1822,7 +2679,13 @@
       "author": "crim",
       "description": "grid based delay sequencer",
       "discussion_url": "https://llllllll.co/t/timeparty/22837",
-      "documentation_url": "https://norns.community/authors/crim/timeparty"
+      "documentation_url": "https://norns.community/authors/crim/timeparty",
+      "tags": [
+        "audio_fx",
+        "delay",
+        "grid",
+        "crow"
+      ]
     },
     {
       "project_name": "tmi",
@@ -1831,7 +2694,10 @@
       "description": "library for sequencing midi with text",
       "discussion_url": "https://llllllll.co/t/tmi/40818",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/tmi",
-      "tags": [ "midi" ]
+      "tags": [
+        "utility",
+        "midi"
+      ]
     },
     {
       "project_name": "torii",
@@ -1839,21 +2705,33 @@
       "author": "okyeron",
       "description": "gated audio sequencer",
       "discussion_url": "https://llllllll.co/t/torii/30476",
-      "tags": [ "grid", "sequencer", "midi", "link" ]
+      "tags": [
+        "sequencer",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "traffic",
       "project_url": "https://github.com/ypxk/traffic",
       "author": "ypxkap",
       "description": "edit of @markeats loom for quickly decoupling motifs from their harmonic framework",
-      "discussion_url": "https://llllllll.co/t/traffic/21262"
+      "discussion_url": "https://llllllll.co/t/traffic/21262",
+      "tags": [
+        "sequencer",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "triangles",
       "project_url": "https://github.com/chrislo/triangles",
       "author": "ChrisLowis",
       "description": "4-voice triangle wave drone synth",
-      "discussion_url": "https://llllllll.co/t/triangles/52662"
+      "discussion_url": "https://llllllll.co/t/triangles/52662",
+      "tags": [
+        "synth"
+      ]
     },
     {
       "project_name": "tuner",
@@ -1861,14 +2739,21 @@
       "author": "markeats",
       "description": "tune stuff",
       "discussion_url": "https://llllllll.co/t/tuner/21088",
-      "documentation_url": "https://norns.community/en/authors/markeats/tuner"
+      "documentation_url": "https://norns.community/en/authors/markeats/tuner",
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "tunnels",
       "project_url": "https://github.com/speakerdamage/tunnels",
       "author": "speakerdamage",
       "description": "a collection of uncertain delays using norns softcut",
-      "discussion_url": "https://llllllll.co/t/tunnels/21973"
+      "discussion_url": "https://llllllll.co/t/tunnels/21973",
+      "tags": [
+        "delay",
+        "audio_fx"
+      ]
     },
     {
       "project_name": "twine",
@@ -1877,7 +2762,9 @@
       "description": "random granulator for two samples",
       "discussion_url": "https://llllllll.co/t/41703",
       "documentation_url": "https://norns.community/en/authors/cfd90/twine",
-      "tags": [ "granular" ]
+      "tags": [
+        "granulator"
+      ]
     },
     {
       "project_name": "u",
@@ -1885,7 +2772,9 @@
       "author": "tyleretters",
       "description": "norns utility scripts",
       "discussion_url": "https://l.llllllll.co/u",
-      "tags": [ "utility" ]
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "uhf",
@@ -1893,14 +2782,21 @@
       "author": "speakerdamage",
       "description": "your tapes transmitted thru late-night static and broken antenna frequencies",
       "discussion_url": "https://llllllll.co/t/uhf-norns/21154",
-      "tags": [ "tape" ]
+      "tags": [
+        "granulator"
+      ]
     },
     {
       "project_name": "vials",
       "project_url": "https://github.com/nattog/vials",
       "author": "nattog",
       "description": "4 track performance-oriented sample sequencer",
-      "discussion_url": "https://llllllll.co/t/vials/23109"
+      "discussion_url": "https://llllllll.co/t/vials/23109",
+      "tags": [
+        "sequencer",
+        "sampler",
+        "grid"
+      ]
     },
     {
       "project_name": "waver",
@@ -1909,7 +2805,9 @@
       "description": "assemble a song from TAPE",
       "discussion_url": "https://llllllll.co/t/waver/49271",
       "documentation_url": "https://norns.community/en/authors/alanza/waver",
-      "tags": [ "tape", "utilities" ]
+      "tags": [
+        "utility"
+      ]
     },
     {
       "project_name": "wobblewobble",
@@ -1918,7 +2816,11 @@
       "description": "slow oscillators for crow",
       "discussion_url": "https://llllllll.co/t/wobblewobble/45215",
       "documentation_url": "https://norns.community/en/authors/infinitedigits/wobblewobble",
-      "tags": [ "crow" ]
+      "tags": [
+        "utility",
+        "crow",
+        "midi"
+      ]
     },
     {
       "project_name": "wrms",
@@ -1927,7 +2829,10 @@
       "description": "dual asyncronous time-wigglers / echo loopers",
       "discussion_url": "https://llllllll.co/t/wrms/28954",
       "documentation_url": "https://norns.community/authors/andrew/wrms",
-      "tags": [ "softcut", "looper", "delay" ]
+      "tags": [
+        "delay",
+        "looper"
+      ]
     },
     {
       "project_name": "xD1",
@@ -1936,7 +2841,10 @@
       "description": "xD1 is an FM synth",
       "discussion_url": "https://llllllll.co/t/xd1-is-an-fm-synth/59150",
       "documentation_url": "https://norns.community/authors/alanza/xd1",
-      "tags": [ "synth", "midi" ]
+      "tags": [
+        "synth",
+        "midi"
+      ]
     },
     {
       "project_name": "yggdrasil",
@@ -1945,14 +2853,23 @@
       "description": "a norns cyberdeck tracker",
       "discussion_url": "https://l.llllllll.co/yggdrasil",
       "documentation_url": "https://norns.community/authors/northern-information/yggdrasil",
-      "tags": [ "tracker", "midi" ]
+      "tags": [
+        "sequencer",
+        "tracker",
+        "midi",
+        "keyboard"
+      ]
     },
     {
       "project_name": "zellen",
       "project_url": "https://github.com/sarweiler/zellen",
       "author": "sbaio",
       "description": "game of life based sequencer",
-      "discussion_url": "https://llllllll.co/t/zellen/21107"
+      "discussion_url": "https://llllllll.co/t/zellen/21107",
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
     },
     {
       "project_name": "initenere",
@@ -1961,7 +2878,12 @@
       "description": "2-dimensional polyrythmic, random note sequencer.",
       "discussion_url": "https://llllllll.co/t/initenere/41193",
       "documentation_url": "https://norns.community/authors/vicimity/initenere",
-      "tags": [ "sequencer", "crow" ]
+      "tags": [
+        "sequencer",
+        "crow",
+        "midi",
+        "grid"
+      ]
     },
     {
       "project_name": "SuperBrain",
@@ -1969,7 +2891,11 @@
       "author": "beat",
       "description": "a five track sequencer with various sequencer engines per track",
       "discussion_url": "https://llllllll.co/t/44781",
-      "tags": [ "grid", "midi", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "grid",
+        "midi"
+      ]
     },
     {
       "project_name": "bowering",
@@ -1978,7 +2904,10 @@
       "description": "crow script loader with dynamic UI generation",
       "discussion_url": "https://github.com/whimsicalraps/bowering/issues",
       "documentation_url": "https://github.com/whimsicalraps/bowering",
-      "tags": [ "crow" ]
+      "tags": [
+        "utility",
+        "crow"
+      ]
     },
     {
       "project_name": "tviburar",
@@ -1986,7 +2915,10 @@
       "author": "ljudvagg vicimity",
       "description": "2x4 complex step sequencer w. free running lfo's",
       "discussion_url": "https://llllllll.co/t/tviburar/",
-      "tags": [ "sequencer", "crow", "m4l" ]
+      "tags": [
+        "sequencer",
+        "crow"
+      ]
     },
     {
       "project_name": "beacon",
@@ -1995,7 +2927,10 @@
       "description": "keyboard based softcut sample mangler",
       "discussion_url": "https://llllllll.co/t/beacon/",
       "documentation_url": "https://norns.community/authors/tomw/beacon",
-      "tags": [ "sampler" ]
+      "tags": [
+        "sampler",
+        "keyboard"
+      ]
     },
     {
       "project_name": "orgn",
@@ -2004,7 +2939,11 @@
       "description": " 3-operator FM synth + fx for norns ",
       "discussion_url": "https://llllllll.co/t/orgn/",
       "documentation_url": "https://norns.community/authors/andrew/orgn",
-      "tags": [ "synth", "fm", "grid" ]
+      "tags": [
+        "audio_fx",
+        "synth",
+        "grid"
+      ]
     },
     {
       "project_name": "orgnwrms",
@@ -2013,7 +2952,13 @@
       "description": "orgn + wrms",
       "discussion_url": "https://llllllll.co/t/orgn/",
       "documentation_url": "https://norns.community/authors/andrew/orgn",
-      "tags": [ "synth", "fm", "grid", "looper", "delay" ]
+      "tags": [
+        "synth",
+        "delay",
+        "looper",
+        "audio_fx",
+        "grid"
+      ]
     },
     {
       "project_name": "time-rhythm",
@@ -2022,7 +2967,10 @@
       "description": "duophonic synthesizer for norns",
       "discussion_url": "https://llllllll.co/t/time-rhythm/",
       "documentation_url": "https://norns.community/authors/emanuelep/time-rhythm",
-      "tags": [ "synth", "drums" ]
+      "tags": [
+        "drum",
+        "synth"
+      ]
     },
     {
       "project_name": "dimension-expander",
@@ -2031,7 +2979,9 @@
       "description": "stereo spreader fx for norns",
       "discussion_url": "https://llllllll.co/t/dimension-expander/",
       "documentation_url": "https://norns.community/authors/emanuelep/dimension-expander",
-      "tags": [ "fx", "delay" ]
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "zxcvbn",
@@ -2040,7 +2990,13 @@
       "description": "a tracker",
       "discussion_url": "https://llllllll.co/t/zxcvbn/59289",
       "documentation_url": "https://zxcvbn.norns.online",
-      "tags": [ "crow", "tracker", "keyboard", "midi", "sequencer" ]
+      "tags": [
+        "sequencer",
+        "tracker",
+        "keyboard",
+        "midi",
+        "crow"
+      ]
     },
     {
       "project_name": "oilcan",
@@ -2049,7 +3005,12 @@
       "description": "monophonic digital-style percussion voice",
       "discussion_url": "https://llllllll.co/t/oilcan-percussion-co/60754",
       "documentation_url": "https://github.com/zjb-s/oilcan",
-      "tags": [ "mod", "drum", "synth", "nb" ]
+      "tags": [
+        "mod",
+        "drum",
+        "synth",
+        "nb"
+      ]
     },
     {
       "project_name": "intervaltrainer",
@@ -2058,7 +3019,10 @@
       "description": "interval trainer",
       "discussion_url": "https://llllllll.co/t/interval-trainer/61087",
       "documentation_url": "https://llllllll.co/t/interval-trainer/61087",
-      "tags": [ "keys", "midi" ]
+      "tags": [
+        "utility",
+        "midi"
+      ]
     },
     {
       "project_name": "eels",
@@ -2067,7 +3031,12 @@
       "description": "dual delay / comb filter",
       "discussion_url": "https://llllllll.co/t/eels/",
       "documentation_url": "https://github.com/andr-ew/eels",
-      "tags": [ "delay" ]
+      "tags": [
+        "delay",
+        "looper",
+        "crow",
+        "arc"
+      ]
     },
     {
       "project_name": "rpls",
@@ -2076,7 +3045,10 @@
       "description": "varispeed multitap echo",
       "discussion_url": "https://llllllll.co/t/rpls/",
       "documentation_url": "https://github.com/andr-ew/rpls",
-      "tags": [ "delay" ]
+      "tags": [
+        "delay",
+        "looper"
+      ]
     }
   ]
 }
