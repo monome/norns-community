@@ -2516,6 +2516,20 @@
       ]
     },
     {
+      "project_name": "streams",
+      "project_url": "https://github.com/sonocircuit/streams",
+      "author": "sonocircuit",
+      "description": "a multi play head sequencer",
+      "discussion_url": "https://llllllll.co/t/streams/61436",
+      "documentation_url": "https://github.com/sonocircuit/streams/docs",
+      "tags": [
+        "sequencer",
+        "grid",
+        "crow",
+        "midi"
+      ]
+    },
+    {
       "project_name": "strides",
       "project_url": "https://github.com/notjustmat/strides",
       "author": "justmat",
