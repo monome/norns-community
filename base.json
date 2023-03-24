@@ -20,6 +20,13 @@
       "tags": ["study", "demo"]
     },
     {
+      "project_name": "fledge",
+      "project_url": "https://github.com/monome/fledge",
+      "description": "crow firmware updater",
+      "discussion_url": "https://monome.org/docs/crow/update/",
+      "tags": ["crow", "utility"]
+    },
+    {
       "project_name": "softcut-studies",
       "project_url": "https://github.com/monome/softcut-studies",
       "description": "softcut examples",
