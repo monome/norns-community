@@ -3074,6 +3074,18 @@
       ]
     },
     {
+      "project_name": "bitebeet",
+      "project_url": "https://github.com/midouest/bitebeet",
+      "author": "midouest",
+      "description": "low-rez live coding",
+      "discussion_url": "https://llllllll.co/t/bitebeet/",
+      "documentation_url": "https://norns.community/authors/midouest/bitebeet",
+      "tags": [
+        "synth",
+        "keyboard"
+      ]
+    },
+    {
       "project_name": "noize",
       "project_url": "https://github.com/deeg-deeg-deeg/noize",
       "author": "deeg_deeg_deeg",
@@ -3096,18 +3108,6 @@
         "synth",
         "midi"
       ]
-    },
-    {
-      "project_name": "bitebeet",
-      "project_url": "https://github.com/midouest/bitebeet",
-      "author": "midouest",
-      "description": "low-rez live coding",
-      "discussion_url": "https://llllllll.co/t/bitebeet/",
-      "documentation_url": "https://norns.community/authors/midouest/bitebeet",
-      "tags": [
-        "synth",
-        "keyboard"
-      ]
-    },
+    }
   ]
 }
