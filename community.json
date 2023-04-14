@@ -3084,6 +3084,30 @@
         "synth",
         "keyboard"
       ]
+    },
+    {
+      "project_name": "noize",
+      "project_url": "https://github.com/deeg-deeg-deeg/noize",
+      "author": "deeg_deeg_deeg",
+      "description": "noize is a little synth to make some noise - simple as that!",
+      "discussion_url": "https://llllllll.co/t/noize/61967",
+      "documentation_url": "https://github.com/deeg-deeg-deeg/noize",
+      "tags": [
+        "synth",
+        "midi"
+      ]
+    },
+    {
+      "project_name": "noizeop",
+      "project_url": "https://github.com/deeg-deeg-deeg/noizeop",
+      "author": "deeg_deeg_deeg",
+      "description": "Four oscillators, six algorithms to mix and mangle.",
+      "discussion_url": "https://llllllll.co/t/noizeop/61966",
+      "documentation_url": "https://github.com/deeg-deeg-deeg/noizeop",
+      "tags": [
+        "synth",
+        "midi"
+      ]
     }
   ]
 }
