@@ -929,6 +929,15 @@
       ]
     },
     {
+      "project_name": "get in the sea!",
+      "project_url": "https://github.com/tomwaters/get_in_the_sea",
+      "author": "tomw",
+      "description": "your norns plays Terry Riley's In C",
+      "discussion_url": "https://llllllll.co/t/get-in-the-sea/45729",
+      "tags": ["midi"],
+      "origin": "lines"
+    },       
+    {
       "project_name": "giro",
       "project_url": "https://github.com/juhavaaraniemi/giro",
       "author": "JulesV",
@@ -3076,7 +3085,7 @@
         "midi"
       ]
     },
-     {
+    {
       "project_name": "noizeop",
       "project_url": "https://github.com/deeg-deeg-deeg/noizeop",
       "author": "deeg_deeg_deeg",
@@ -3087,6 +3096,18 @@
         "synth",
         "midi"
       ]
-    }
+    },
+    {
+      "project_name": "bitebeet",
+      "project_url": "https://github.com/midouest/bitebeet",
+      "author": "midouest",
+      "description": "low-rez live coding",
+      "discussion_url": "https://llllllll.co/t/bitebeet/",
+      "documentation_url": "https://norns.community/authors/midouest/bitebeet",
+      "tags": [
+        "synth",
+        "keyboard"
+      ]
+    },
   ]
 }
