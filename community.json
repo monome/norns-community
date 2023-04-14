@@ -3063,6 +3063,30 @@
         "delay",
         "looper"
       ]
+    },
+    {
+      "project_name": "noize",
+      "project_url": "https://github.com/deeg-deeg-deeg/noize",
+      "author": "deeg_deeg_deeg",
+      "description": "noize is a little synth to make some noise - simple as that!",
+      "discussion_url": "",
+      "documentation_url": "https://github.com/deeg-deeg-deeg/noize",
+      "tags": [
+        "synths",
+        "midi"
+      ]
+    },
+     {
+      "project_name": "noizeop",
+      "project_url": "https://github.com/deeg-deeg-deeg/noizeop",
+      "author": "deeg_deeg_deeg",
+      "description": "Four oscillators, six algorithms to mix and mangle.",
+      "discussion_url": "",
+      "documentation_url": "https://github.com/deeg-deeg-deeg/noizeop",
+      "tags": [
+        "synths",
+        "midi"
+      ]
     }
   ]
 }
