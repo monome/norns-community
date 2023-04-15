@@ -1420,6 +1420,17 @@
       ]
     },
     {
+      "project_name": "luck",
+      "project_url": "https://github.com/isabelgk/luck",
+      "author": "isabelgk",
+      "description": "probabilistic sequencer",
+      "documentation_url": "https://norns.community/en/authors/isabelgk/luck",
+      "tags": [
+        "sequencer",
+        "generative"
+      ]
+    },
+    {
       "project_name": "m18s",
       "project_url": "https://github.com/jlmitch5/m18s",
       "author": "jlmitch5",
