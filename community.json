@@ -3119,6 +3119,15 @@
         "synth",
         "midi"
       ]
+    },
+    {
+      "project_name": "samthree",
+      "project_url": "https://github.com/laderast/samthree",
+      "author": "ooray",
+      "description": "3 voice looper based on samsara",
+      "discussion_url": "https://llllllll.co/t/samthree-three-voice-pitched-looper/60482",
+      "documentation_url": "https://llllllll.co/t/samthree-three-voice-pitched-looper/60482",
+      "tags": ["looper", "sampler", "happyaccident"]
     }
   ]
 }
