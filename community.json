@@ -792,6 +792,20 @@
       ]
     },
     {
+      "project_name": "raindrops",
+      "project_url": "https://github.com/ambalek/raindrops",
+      "author": "ambalek",
+      "description": "generative melodies complete with lo-fi effects",
+      "discussion_url": "https://llllllll.co/t/raindrops-simple-generative-synth-sequencer/47633",
+      "documentation_url": "https://llllllll.co/t/raindrops-simple-generative-synth-sequencer/47633",
+      "tags": [
+        "sequencer",
+        "generative",
+        "synth",
+        "midi"
+      ]
+    },
+    {
       "project_name": "fibonacci",
       "project_url": "https://github.com/bryceadams/fibonacci",
       "author": "obi",
