@@ -3099,6 +3099,21 @@
       ]
     },
     {
+      "project_name": "ndls",
+      "project_url": "https://github.com/andr-ew/ndls/releases/download/latest/complete-source-code.zip",
+      "author": "andrew",
+      "description": "4-track modeless tape looper, delay, & sampler",
+      "discussion_url": "https://llllllll.co/t/ndls/",
+      "documentation_url": "https://github.com/andr-ew/ndls",
+      "tags": [
+        "delay",
+        "looper",
+        "sampler",
+        "grid",
+        "arc"
+      ]
+    },
+    {
       "project_name": "bitebeet",
       "project_url": "https://github.com/midouest/bitebeet",
       "author": "midouest",
