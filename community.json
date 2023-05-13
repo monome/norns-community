@@ -1034,6 +1034,17 @@
       ]
     },
     {
+      "project_name": "graintopia",
+      "project_url": "https://github.com/schollz/graintopia",
+      "author": "infinitedigits",
+      "description": "three lands with six grains",
+      "discussion_url": "https://llllllll.co/t/graintopia/62343",
+      "documentation_url": "https://norns.community/en/authors/infinitedigits/graintopia",
+      "tags": [
+        "granulator"
+      ]
+    },
+    {
       "project_name": "granchild",
       "project_url": "https://github.com/schollz/granchild",
       "author": "infinitedigits",
