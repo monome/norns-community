@@ -1095,14 +1095,14 @@
     {
       "project_name": "gridofpoints",
       "project_url": "https://github.com/duncangeere/gridofpoints",
-      "author": "DuncanGeere",
+      "author": "duncangeere",
       "description": "sixteen notes, eight timbres",
       "discussion_url": "https://llllllll.co/t/52122",
-      "documentation_url": "https://norns.community/authors/duncan-geere/gridofpoints",
       "tags": [
         "sequencer",
         "crow",
-        "grid"
+        "grid",
+        "midi"
       ]
     },
     {
@@ -1434,7 +1434,7 @@
     {
       "project_name": "loudnumbers_norns",
       "project_url": "https://github.com/loudnumbers/loudnumbers_norns",
-      "author": "DuncanGeere",
+      "author": "duncangeere",
       "description": "data sonification with norns",
       "discussion_url": "https://llllllll.co/t/51353",
       "documentation_url": "https://github.com/loudnumbers/loudnumbers_norns/blob/main/README.md",
@@ -1444,7 +1444,8 @@
         "synth",
         "crow",
         "midi",
-        "grid"
+        "grid",
+        "generative"
       ]
     },
     {
@@ -2165,12 +2166,13 @@
     {
       "project_name": "ppm_norns",
       "project_url": "https://github.com/loudnumbers/ppm_norns",
-      "author": "DuncanGeere",
+      "author": "duncangeere",
       "description": "parts per million",
       "discussion_url": "https://llllllll.co/t/ppm/54589",
-      "documentation_url": "https://norns.community/en/authors/duncan-geere/ppm",
       "tags": [
-        "art"
+        "art",
+        "drone",
+        "crow"
       ]
     },
     {
@@ -2836,6 +2838,19 @@
       "discussion_url": "https://l.llllllll.co/u",
       "tags": [
         "utility"
+      ]
+    },
+    {
+      "project_name": "ufo",
+      "project_url": "https://github.com/loudnumbers/ufo",
+      "author": "duncangeere",
+      "description": "ultra-low frequency oscillator powered by the international space station",
+      "tags": [
+        "art",
+        "crow",
+        "midi",
+        "drone",
+        "generative"
       ]
     },
     {
