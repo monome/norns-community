@@ -669,6 +669,20 @@
       ]
     },
     {
+      "project_name": "dreamsequence",
+      "project_url": "https://github.com/dstroud/dreamsequence",
+      "author": "modularbeat",
+      "description": "chord-based sequencer, arpeggiator, and harmonizer for norns + grid",
+      "documentation_url": "https://github.com/dstroud/dreamsequence/blob/main/README.md",
+      "tags": [
+        "generative",
+        "sequencer",
+        "grid",
+        "crow"
+        "midi"
+      ]
+    },    
+    {
       "project_name": "drift",
       "project_url": "https://github.com/echophon/drift",
       "author": "echophon",
