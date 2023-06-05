@@ -2394,6 +2394,17 @@
       ]
     },
     {
+      "project_name": "semiconductor",
+      "project_url": "https://github.com/jaseknighter/semiconductor",
+      "author": "jaseknighter",
+      "description": "norns ensemble mod",
+      "discussion_url": "https://llllllll.co/t/62651",
+      "tags": [
+        "mod",
+        "utility"
+      ]
+    },
+    {
       "project_name": "sempra",
       "project_url": "https://github.com/zjb-s/sempra",
       "author": "zbs",
