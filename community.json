@@ -3226,6 +3226,15 @@
       "discussion_url": "https://llllllll.co/t/samthree-three-voice-pitched-looper/60482",
       "documentation_url": "https://llllllll.co/t/samthree-three-voice-pitched-looper/60482",
       "tags": ["looper", "sampler", "happyaccident"]
+    },
+    {
+      "project_name": "Tidbit",
+      "project_url": "https://github.com/markijzerman/tidbit",
+      "author": "maaark",
+      "description": "Use Just Friends or a MIDI device as a 'melodic' granular synth.",
+      "discussion_url": "https://llllllll.co/t/tidbit/52104",
+      "documentation_url": "https://llllllll.co/t/tidbit/52104",
+      "tags": ["jf", "midi", "crow", "synth", "granulator", "w"]
     }
   ]
 }
