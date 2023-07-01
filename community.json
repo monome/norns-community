@@ -37,7 +37,6 @@
       "author": "infinitedigits",
       "description": "sequence rows of beats with samples",
       "discussion_url": "https://llllllll.co/t/abacus/37871",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/abacus",
       "tags": [
         "sequencer"
       ]
@@ -67,7 +66,6 @@
       "author": "infinitedigits",
       "description": "chord sequencer and sampler",
       "discussion_url": "https://llllllll.co/t/acrostic/53027",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/acrostic",
       "tags": [
         "sequencer",
         "sampler",
@@ -81,7 +79,6 @@
       "author": "infinitedigits",
       "description": "sampler and mangler of loops",
       "discussion_url": "https://llllllll.co/t/amen/43746",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/amen",
       "tags": [
         "drum",
         "sampler",
@@ -94,7 +91,6 @@
       "author": "infinitedigits",
       "description": "this is a dedicated amen break script with 2 knobs - amen and break.",
       "discussion_url": "https://llllllll.co/t/amenbreak/60185",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/amenbreak",
       "tags": [
         "drum",
         "sampler"
@@ -106,7 +102,6 @@
       "author": "crim",
       "description": "2D Polyphonic step sequencer for grids",
       "discussion_url": "https://llllllll.co/t/animator/28242",
-      "documentation_url": "https://norns.community/en/authors/crim/animator",
       "tags": [
         "sequencer",
         "crow",
@@ -148,7 +143,6 @@
       "author": "tehn",
       "description": "a small collection",
       "discussion_url": "https://llllllll.co/t/ash-a-small-collection/21349",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/abacus",
       "tags": [
         "arc",
         "grid",
@@ -163,7 +157,6 @@
       "author": "markeats",
       "description": "check stocks and make music",
       "discussion_url": "https://llllllll.co/t/the-arp-index/25182",
-      "documentation_url": "https://norns.community/en/authors/markeats/the-arp-index",
       "tags": [
         "sequencer",
         "grid"
@@ -233,7 +226,6 @@
       "author": "infinitedigits",
       "description": "loops sounds into six lfo-modulated voices",
       "discussion_url": "https://llllllll.co/t/barcode/35297",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/barcode",
       "tags": [
         "looper"
       ]
@@ -254,7 +246,6 @@
       "author": "frederickk",
       "description": "Beat repeater with some glitch",
       "discussion_url": "https://llllllll.co/t/35047",
-      "documentation_url": "https://norns.community/en/authors/frederickk/b-b-b-b-beat",
       "tags": [
         "audio_fx"
       ]
@@ -298,7 +289,6 @@
       "author": "alanza",
       "description": "lo-fi FM capable mono/poly",
       "discussion_url": "https://llllllll.co/t/bitters-norns",
-      "documentation_url": "https://norns.community/en/authors/alanza/bitters",
       "tags": [
         "synth",
         "midi"
@@ -310,7 +300,6 @@
       "author": "cfd90",
       "description": "blippoo box clone",
       "discussion_url": "https://llllllll.co/t/41107",
-      "documentation_url": "https://norns.community/en/authors/cfd90/blippoo",
       "tags": [
         "synth"
       ]
@@ -321,7 +310,6 @@
       "author": "infinitedigits",
       "description": "a quantized delay with time bending effects",
       "discussion_url": "https://llllllll.co/t/blndr/35106",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/blndr",
       "tags": [
         "audio_fx"
       ]
@@ -410,7 +398,6 @@
       "author": "markeats",
       "description": "generate eight connected sine wave lfos and output them over midi",
       "discussion_url": "https://llllllll.co/t/changes/33799",
-      "documentation_url": "https://norns.community/en/authors/markeats/changes",
       "tags": [
         "sequencer",
         "utility",
@@ -441,7 +428,6 @@
       "author": "alanza",
       "description": "take a bird's-eye view of norns script params",
       "discussion_url": "https://llllllll.co/t/choukanzu/58844",
-      "documentation_url": "https://norns.community/en/authors/alanza/choukanzu",
       "tags": [
         "mod"
       ]
@@ -474,7 +460,6 @@
       "author": "infinitedigits",
       "description": "punch-in tempo-locked repeating",
       "discussion_url": "https://llllllll.co/t/clcks/35732",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/clcks",
       "tags": [
         "audio_fx"
       ]
@@ -485,7 +470,6 @@
       "author": "jaseknighter",
       "description": "slice and save samples",
       "discussion_url": "https://llllllll.co/t/47147",
-      "documentation_url": "https://norns.community/en/authors/jaseknighter/clipper",
       "tags": [
         "sampler"
       ]
@@ -529,7 +513,6 @@
       "author": "toomanatees",
       "description": "scan the stars; make music! an interactive sequencer for Norns, Crow, JF, and midi.",
       "discussion_url": "https://llllllll.co/t/constellations/52225",
-      "documentation_url": "https://norns.community/en/authors/toomanatees/constellations",
       "tags": [
         "generative",
         "sequencer",
@@ -663,7 +646,6 @@
       "author": "infinitedigits",
       "description": "record stereo loops while engine loops",
       "discussion_url": "https://llllllll.co/t/downtown/40044",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/downtown",
       "tags": [
         "looper"
       ]
@@ -712,7 +694,6 @@
       "author": "markeats",
       "description": "midi-controlled drum kits",
       "discussion_url": "https://llllllll.co/t/23467",
-      "documentation_url": "https://norns.community/en/authors/markeats/drum-room",
       "tags": [
         "drum",
         "midi"
@@ -784,7 +765,6 @@
       "author": "alanza",
       "description": "faeng is a sequencer. inspired by kria. powered by timber.",
       "discussion_url": "https://llllllll.co/t/faeng-is-a-sequencer/57871",
-      "documentation_url": "https://norns.community/en/authors/alanza/faeng",
       "tags": [
         "sequencer",
         "grid",
@@ -826,7 +806,6 @@
       "author": "obi",
       "description": "a sequencer that travels through numbers and time",
       "discussion_url": "https://llllllll.co/t/fibonacci/54153",
-      "documentation_url": "https://norns.community/en/authors/obi/fibonacci",
       "tags": [
         "sequencer",
         "generative",
@@ -881,7 +860,6 @@
       "author": "csboling",
       "description": "browse downloadable scripts from the comfort of your norns",
       "discussion_url": "https://llllllll.co/t/folio/47053",
-      "documentation_url": "https://norns.community/en/authors/csboling/folio",
       "tags": [
         "utility"
       ]
@@ -906,7 +884,6 @@
       "author": "csboling",
       "description": "Font / glyph catalog",
       "discussion_url": "https://llllllll.co/t/foundry-font-visualizer/33933",
-      "documentation_url": "https://norns.community/en/authors/csboling/foundry",
       "tags": [
         "utility"
       ]
@@ -972,7 +949,6 @@
       "author": "JulesV",
       "description": "performance oriented (a)sync looper",
       "discussion_url": "https://llllllll.co/t/giro/55586",
-      "documentation_url": "https://norns.community/en/authors/julesv/giro",
       "tags": [
         "looper",
         "midi"
@@ -984,7 +960,6 @@
       "author": "dwtong",
       "description": "extreme sound stretcher and harmoniser",
       "discussion_url": "https://llllllll.co/t/glaciers/45117",
-      "documentation_url": "https://norns.community/en/authors/dwtong/glaciers",
       "tags": [
         "audio_fx"
       ]
@@ -995,7 +970,6 @@
       "author": "infinitedigits",
       "description": "lets glitch with glitchlets.",
       "discussion_url": "https://llllllll.co/t/glitchlets/37069",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/glitchlets",
       "tags": [
         "audio_fx"
       ]
@@ -1040,7 +1014,6 @@
       "author": "Quixotic7",
       "description": "physics based sequencer for people who like cats",
       "discussion_url": "https://llllllll.co/t/46075",
-      "documentation_url": "https://norns.community/en/authors/quixotic7/groovecats",
       "tags": [
         "sequencer",
         "generative",
@@ -1054,7 +1027,6 @@
       "author": "infinitedigits",
       "description": "three lands with six grains",
       "discussion_url": "https://llllllll.co/t/graintopia/62343",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/graintopia",
       "tags": [
         "granulator"
       ]
@@ -1065,7 +1037,6 @@
       "author": "infinitedigits",
       "description": "quantized granular sequencer",
       "discussion_url": "https://llllllll.co/t/granchild/41894",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/granchild",
       "tags": [
         "sequencer",
         "granulator",
@@ -1208,7 +1179,6 @@
       "author": "infinitedigits",
       "description": "supersaw synth with feedback",
       "discussion_url": "https://llllllll.co/t/icarus/43271",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/icarus",
       "tags": [
         "synth",
         "midi"
@@ -1232,7 +1202,6 @@
       "author": "infinitedigits",
       "description": "a live-coding environment",
       "discussion_url": "https://llllllll.co/t/internorns/46565",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/internorns",
       "tags": [
         "utility"
       ]
@@ -1303,7 +1272,6 @@
       "author": "infinitedigits",
       "description": "grid-based sample sequencer",
       "discussion_url": "https://llllllll.co/t/kolor/40504",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/kolor",
       "tags": [
         "sequencer",
         "drum",
@@ -1316,7 +1284,6 @@
       "author": "frederickk",
       "description": "beat sequencing rund um den kreis ",
       "discussion_url": "https://llllllll.co/t/kreislauf",
-      "documentation_url": "https://norns.community/en/authors/frederickk/kreislauf",
       "tags": [
         "drum",
         "sequencer",
@@ -1368,7 +1335,6 @@
       "author": "infinitedigits",
       "description": "interact with a musical emission spectrum",
       "discussion_url": "https://llllllll.co/t/l-ll-l/58123",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/l_ll__l_",
       "tags": [
         "generative",
         "grid",
@@ -1424,7 +1390,6 @@
       "author": "markeats",
       "description": "pattern weaving sequencer for grids",
       "discussion_url": "https://llllllll.co/t/loom/21091",
-      "documentation_url": "https://norns.community/en/authors/markeats/loom",
       "tags": [
         "sequencer",
         "generative",
@@ -1440,7 +1405,6 @@
       "author": "infinitedigits",
       "description": "an electroacoustic drumset and sequencer",
       "discussion_url": "https://llllllll.co/t/lorenzos-drums/52549",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/lorenzos-drums",
       "tags": [
         "sequencer",
         "drum"
@@ -1468,7 +1432,6 @@
       "project_url": "https://github.com/isabelgk/luck",
       "author": "isabelgk",
       "description": "probabilistic sequencer",
-      "documentation_url": "https://norns.community/en/authors/isabelgk/luck",
       "tags": [
         "sequencer",
         "generative"
@@ -1495,7 +1458,6 @@
       "author": "infinitedigits",
       "description": "make breakbeats from samples",
       "discussion_url": "https://llllllll.co/t/makebreakbeat/53301",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/makebreakbeat",
       "tags": [
         "sampler",
         "drum"
@@ -1520,7 +1482,6 @@
       "author": "carltesta",
       "description": "multi-effects processing for live performance",
       "discussion_url": "https://llllllll.co/t/manifold/22098",
-      "documentation_url": "https://norns.community/en/authors/carltesta/manifold",
       "tags": [
         "audio_fx"
       ]
@@ -1622,7 +1583,6 @@
       "author": "markeats",
       "description": "classic polysynth with solar system patch creator",
       "discussion_url": "https://llllllll.co/t/molly-the-poly/21090",
-      "documentation_url": "https://norns.community/en/authors/markeats/molly-the-poly",
       "tags": [
         "synth",
         "grid",
@@ -1656,7 +1616,6 @@
       "author": "infinitedigits",
       "description": "explore a galaxy of rhythm",
       "discussion_url": "https://llllllll.co/t/moonraker/51803",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/moonraker",
       "tags": [
         "drum",
         "grid"
@@ -1668,7 +1627,6 @@
       "author": "cfd90",
       "description": "sound maker and sequencer heavily inspired by Laurie Spiegel's Music Mouse",
       "discussion_url": "https://llllllll.co/t/mouse/41562",
-      "documentation_url": "https://norns.community/en/authors/cfd90/mouse",
       "tags": [
         "sequencer",
         "mouse",
@@ -1682,7 +1640,6 @@
       "author": "infinitedigits",
       "description": "like mr.radar or mr.coffee but for samples",
       "discussion_url": "https://llllllll.co/t/mx-samples/41400",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-samples",
       "tags": [
         "synth",
         "midi"
@@ -1694,7 +1651,6 @@
       "author": "infinitedigits",
       "description": "like mr.radar or mr.coffee but for synths",
       "discussion_url": "https://llllllll.co/t/mx-synths/49535",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/mx-synths",
       "tags": [
         "synth",
         "midi"
@@ -1794,7 +1750,6 @@
       "project_url": "https://github.com/frederickk/noergaard",
       "author": "frederickk",
       "description": "A small library to generate Nørgård infinity sequences for Norns",
-      "documentation_url": "https://norns.community/en/authors/frederickk/noergaard",
       "tags": [
         "sequencer",
         "generative",
@@ -1817,7 +1772,6 @@
       "author": "infinitedigits",
       "description": "remotely control norns from the browser",
       "discussion_url": "https://llllllll.co/t/norns-online/38547",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/norns-online",
       "tags": [
         "utility"
       ]
@@ -1882,7 +1836,6 @@
       "author": "infinitedigits",
       "description": "connect-the-dots sequencer w/ fm synthesizer",
       "discussion_url": "https://llllllll.co/t/o-o-o",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/o-o-o",
       "tags": [
         "sequencer",
         "synth"
@@ -1905,7 +1858,6 @@
       "author": "anoikisnomads",
       "description": "ocean noise generator",
       "discussion_url": "https://llllllll.co/t/ong-ocean-noise-generator-for-monome-norns/50364/3",
-      "documentation_url": "https://norns.community/en/authors/anoikisnomads/ong",
       "tags": [
         "art"
       ]
@@ -1916,7 +1868,6 @@
       "author": "infinitedigits",
       "description": "digital tape loops, x 6",
       "discussion_url": "https://llllllll.co/t/oooooo",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/oooooo",
       "tags": [
         "looper",
         "delay",
@@ -1984,7 +1935,6 @@
       "author": "markeats",
       "description": "Bird migration patterns as sound",
       "discussion_url": "https://llllllll.co/t/overwintering/58444",
-      "documentation_url": "https://norns.community/en/authors/markeats/overwintering",
       "tags": [
         "generative"
       ]
@@ -2022,7 +1972,6 @@
       "author": "jaseknighter",
       "description": "cv recorder and player for norns+crow",
       "discussion_url": "https://llllllll.co/t/53083",
-      "documentation_url": "https://norns.community/en/authors/jaseknighter/parrot",
       "tags": [
         "crow"
       ]
@@ -2033,7 +1982,6 @@
       "author": "markeats",
       "description": "west coast style mono synth",
       "discussion_url": "https://llllllll.co/t/passersby/21089",
-      "documentation_url": "https://norns.community/en/authors/markeats/passerby",
       "tags": [
         "synth",
         "midi",
@@ -2134,7 +2082,6 @@
       "author": "infinitedigits",
       "description": "a sampler that works in realtime",
       "discussion_url": "https://llllllll.co/t/piwip/36642",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/piwip",
       "tags": [
         "looper",
         "sampler"
@@ -2160,7 +2107,6 @@
       "author": "infinitedigits",
       "description": "string-like keyboard and sequencer",
       "discussion_url": "https://llllllll.co/t/plonky/42520",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/plonky",
       "tags": [
         "sequencer",
         "keyboard",
@@ -2245,7 +2191,6 @@
       "author": "DanielGorgan",
       "description": "Randomizer for Dreadbox Typhon",
       "discussion_url": "https://llllllll.co/t/randomizer-typhon/54196",
-      "documentation_url": "https://norns.community/en/authors/danut007ro/randomizer_typhon",
       "tags": [
         "utility"
       ]
@@ -2256,7 +2201,6 @@
       "author": "tgk",
       "description": "arc based granular four track sampler with live recording and friction.",
       "discussion_url": "https://llllllll.co/t/rangl/44673",
-      "documentation_url": "https://norns.community/en/authors/tgk/rangl",
       "tags": [
         "sampler",
         "granulator",
@@ -2346,7 +2290,6 @@
       "author": "infinitedigits",
       "description": "swap samples within loops",
       "discussion_url": "https://llllllll.co/t/sampswap/53719",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/sampswap",
       "tags": [
         "sampler"
       ]
@@ -2369,7 +2312,6 @@
       "author": "WilliamHazard",
       "description": "a poetry sequencer",
       "discussion_url": "https://llllllll.co/t/schicksalslied/59227",
-      "documentation_url": "https://norns.community/en/authors/william-hazard/schicksalslied",
       "tags": [
         "generative",
         "synth",
@@ -2472,7 +2414,6 @@
       "author": "WilliamHazard",
       "description": "fork of schicksalslied for use with shbobo shnth",
       "discussion_url": "https://llllllll.co/t/shnthsalslied/59232",
-      "documentation_url": "https://norns.community/en/authors/william-hazard/shnthsalslied",
       "tags": [
         "generative",
         "synth",
@@ -2584,7 +2525,6 @@
       "author": "frederickk",
       "description": "drone inspired by Moffenzeef Stargazer",
       "discussion_url": "https://llllllll.co/t/33889",
-      "documentation_url": "https://norns.community/en/authors/frederickk/stjoernuithrott",
       "tags": [
         "synth",
         "drone",
@@ -2635,7 +2575,6 @@
       "author": "infinitedigits",
       "description": "an introspective drum machine",
       "discussion_url": "https://llllllll.co/t/supertonic/45551",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/supertonic",
       "tags": [
         "generative",
         "drum"
@@ -2647,7 +2586,6 @@
       "author": "carltesta",
       "description": "analysis-driven live audio processing",
       "discussion_url": "https://llllllll.co/t/sway/21117",
-      "documentation_url": "https://norns.community/en/authors/carltesta/sway",
       "tags": [
         "generative",
         "audio_fx"
@@ -2669,7 +2607,6 @@
       "author": "infinitedigits",
       "description": "a synthesizer critter",
       "discussion_url": "https://llllllll.co/t/synthy/48062",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/synthy",
       "tags": [
         "synth",
         "sequencer"
@@ -2702,7 +2639,6 @@
       "author": "infinitedigits",
       "description": "live tape deck emulation (saturation, distortion, wow/flutter)",
       "discussion_url": "https://llllllll.co/t/tapedeck/51919",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/tapedeck",
       "tags": [
         "audio_fx"
       ]
@@ -2713,7 +2649,6 @@
       "author": "WilliamHazard",
       "description": "triangle wave organ with variable slope for norns & shbobo shnth",
       "discussion_url": "https://llllllll.co/t/tetrabobo/60112",
-      "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabobo",
       "tags": [
         "synth"
       ]
@@ -2724,7 +2659,6 @@
       "author": "WilliamHazard",
       "description": "tetrabobo + otis = tetrabotis",
       "discussion_url": "https://llllllll.co/t/tetrabotis/60216",
-      "documentation_url": "https://norns.community/en/authors/william-hazard/tetrabotis",
       "tags": [
         "synth"
       ]
@@ -2745,7 +2679,6 @@
       "author": "infinitedigits",
       "description": "sample + sequencer + splicer in the style of po-33",
       "discussion_url": "https://llllllll.co/t/thirtythree/44702",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/thirtythree",
       "tags": [
         "sequencer",
         "grid"
@@ -2757,7 +2690,6 @@
       "author": "markeats",
       "description": "sample player engine and scripts",
       "discussion_url": "https://llllllll.co/t/21407",
-      "documentation_url": "https://norns.community/en/authors/markeats/timber",
       "tags": [
         "sampler",
         "midi"
@@ -2783,7 +2715,6 @@
       "author": "infinitedigits",
       "description": "library for sequencing midi with text",
       "discussion_url": "https://llllllll.co/t/tmi/40818",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/tmi",
       "tags": [
         "utility",
         "midi"
@@ -2829,7 +2760,6 @@
       "author": "markeats",
       "description": "tune stuff",
       "discussion_url": "https://llllllll.co/t/tuner/21088",
-      "documentation_url": "https://norns.community/en/authors/markeats/tuner",
       "tags": [
         "utility"
       ]
@@ -2851,7 +2781,6 @@
       "author": "cfd90",
       "description": "random granulator for two samples",
       "discussion_url": "https://llllllll.co/t/41703",
-      "documentation_url": "https://norns.community/en/authors/cfd90/twine",
       "tags": [
         "granulator"
       ]
@@ -2907,7 +2836,6 @@
       "author": "alanza",
       "description": "assemble a song from TAPE",
       "discussion_url": "https://llllllll.co/t/waver/49271",
-      "documentation_url": "https://norns.community/en/authors/alanza/waver",
       "tags": [
         "utility"
       ]
@@ -2918,7 +2846,6 @@
       "author": "infinitedigits",
       "description": "slow oscillators for crow",
       "discussion_url": "https://llllllll.co/t/wobblewobble/45215",
-      "documentation_url": "https://norns.community/en/authors/infinitedigits/wobblewobble",
       "tags": [
         "utility",
         "crow",
