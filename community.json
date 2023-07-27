@@ -1057,14 +1057,24 @@
     {
       "project_name": "grd",
       "project_url": "https://github.com/yotamorimoto/grd",
-      "author": "YotaMorimoto",
-      "description": "sprayed multi-sampled celesta",
+      "author": "yota",
+      "description": "a model of sonic behaviour",
       "discussion_url": "https://llllllll.co/t/grd/33768",
-      "documentation_url": "https://norns.community/authors/yota/grd",
       "tags": [
         "generative",
         "art",
         "sequencer"
+      ]
+    },
+    {
+      "project_name": "interpret",
+      "project_url": "https://github.com/yotamorimoto/interpret",
+      "author": "yota",
+      "description": "just-interpret-engine",
+      "discussion_url": "https://llllllll.co/t/interpret/46525",
+      "tags": [
+        "utility",
+        "synth"
       ]
     },
     {
