@@ -3185,6 +3185,15 @@
       "discussion_url": "https://llllllll.co/t/tidbit/52104",
       "documentation_url": "https://llllllll.co/t/tidbit/52104",
       "tags": ["jf", "midi", "crow", "synth", "granulator", "w"]
+    },
+    {
+      "project_name": "vcr",
+      "project_url": "https://github.com/justmat/vcr",
+      "author": "justmat",
+      "description": "collect and recall voltages",
+      "discussion_url": "https://llllllll.co/t/vcr/63457",
+      "documentation_url": "https://github.com/justmat/vcr",
+      "tags": ["crow", "grid"]
     }
   ]
 }
