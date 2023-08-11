@@ -3194,6 +3194,17 @@
       "discussion_url": "https://llllllll.co/t/vcr/63457",
       "documentation_url": "https://github.com/justmat/vcr",
       "tags": ["crow", "grid"]
+    },
+    {
+      "project_name": "warmreload",
+      "project_url": "https://github.com/schollz/warmreload",
+      "author": "infinitediits",
+      "description": "a norns mod to automatically reload a script after saving",
+      "discussion_url": "https://llllllll.co/t/warmreload/63623",
+      "documentation_url": "https://github.com/schollz/warmreload",
+      "tags": [
+        "mod"
+      ]
     }
   ]
 }
