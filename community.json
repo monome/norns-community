@@ -2137,6 +2137,17 @@
       ]
     },
     {
+      "project_name": "plasma",
+      "project_url": "https://github.com/tehn/plasma",
+      "author": "tehn",
+      "description": "function animator",
+      "discussion_url": "https://llllllll.co/t/plasma/64038",
+      "tags": [
+        "art",
+        "grid"
+      ]
+    },
+    {
       "project_name": "plonky",
       "project_url": "https://github.com/schollz/plonky",
       "author": "infinitedigits",
