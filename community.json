@@ -3228,6 +3228,15 @@
       "tags": [
         "mod"
       ]
+    },
+    {
+      "project_name": "tulpamancer",
+      "project_url": "https://github.com/northern-information/tulpamancer",
+      "author": "tyleretters",
+      "description": "Every night, the kingdom crumbles. And our MIDI pattern, is conjured anew.",
+      "discussion_url": "https://l.llllllll.co/tulpamancer",
+      "documentation_url": "https://norns.community/tulpamancer",
+      "tags": ["generative", "sequencer", "midi"]
     }
   ]
 }
