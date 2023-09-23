@@ -1582,6 +1582,19 @@
       ]
     },
     {
+      "project_name": "midigrid",
+      "project_url": "https://github.com/jaggednz/midigrid",
+      "author": "Jaggednz",
+      "description": "Use launchpads and other midi grid devices w/ Norns",
+      "discussion_url": "https://llllllll.co/t/42336",
+      "documentation_url": "https://norns.community/authors/jaggednz/midigrid",
+      "tags": [
+        "utility",
+        "midi",
+        "mod"
+      ]
+    },
+    {
       "project_name": "mlr",
       "project_url": "https://github.com/tehn/mlr",
       "author": "tehn",
