@@ -125,7 +125,7 @@
       "author": "tyleretters",
       "description": "an interactive environment for designing 2d sound arcologies with norns and grid",
       "discussion_url": "https://l.llllllll.co/arcologies",
-      "documentation_url": "https://norns.community/authors/tyleretters/arcologies",
+      "documentation_url": "https://norns.community/arcologies",
       "tags": [
         "generative",
         "sampler",
@@ -213,7 +213,7 @@
       "author": "tyleretters",
       "description": "a haunted drummer companion",
       "discussion_url": "https://l.llllllll.co/bakeneko",
-      "documentation_url": "https://norns.community/authors/tyleretters/bakeneko",
+      "documentation_url": "https://norns.community/bakeneko",
       "tags": [
         "drum",
         "sequencer",
@@ -693,7 +693,7 @@
       "author": "tyleretters license",
       "description": "cast drones & record whatever returns",
       "discussion_url": "https://l.llllllll.co/dronecaster",
-      "documentation_url": "https://norns.community/authors/tyleretters/dronecaster",
+      "documentation_url": "https://norns.community/dronecaster",
       "tags": [
         "synth",
         "drone",
@@ -831,7 +831,7 @@
       "author": "tyleretters license",
       "description": "i will show you fear in a handful of dust",
       "discussion_url": "https://l.llllllll.co/fiahod",
-      "documentation_url": "https://norns.community/authors/tyleretters/fiahod",
+      "documentation_url": "https://norns.community/fiahod",
       "tags": [
         "art",
         "generative"
@@ -929,7 +929,7 @@
       "author": "tyleretters",
       "description": "organized electricty with norns & crow",
       "discussion_url": "https://l.llllllll.co/gematria",
-      "documentation_url": "https://norns.community/authors/tyleretters/gematria",
+      "documentation_url": "https://norns.community/gematria",
       "tags": [
         "sequencer",
         "crow"
@@ -1015,7 +1015,7 @@
       "author": "tyleretters",
       "description": "entropic background radiation",
       "discussion_url": "https://l.llllllll.co/goldeneye",
-      "documentation_url": "https://norns.community/authors/tyleretters/goldeneye",
+      "documentation_url": "https://norns.community/goldeneye",
       "tags": [
         "grid"
       ]
@@ -2941,7 +2941,7 @@
       "author": "argotechnica infinitedigits license tyleretters",
       "description": "a norns cyberdeck tracker",
       "discussion_url": "https://l.llllllll.co/yggdrasil",
-      "documentation_url": "https://norns.community/authors/tyleretters/yggdrasil",
+      "documentation_url": "https://norns.community/yggdrasil",
       "tags": [
         "sequencer",
         "tracker",
