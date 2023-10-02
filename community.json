@@ -2384,6 +2384,15 @@
       ]
     },
     {
+      "project_name": "scholastic",
+      "project_url": "https://github.com/spaffinge/scholastic",
+      "author": "adamstaff",
+      "description": "multitrack polyrhythmic sequencer",
+      "discussion_url": "https://llllllll.co/t/scholastic-multitrack-polyrhythmic-sequencer/64232",
+      "documentation_url": "https://www.youtube.com/watch?v=vvl44pg3hMM",
+      "tags": ["norns", "sequencer", "nb", "midi"]
+    },
+    {
       "project_name": "seaflex",
       "project_url": "https://github.com/lylepmills/seaflex",
       "author": "lylem",
