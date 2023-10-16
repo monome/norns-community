@@ -517,6 +517,21 @@
         "arc"
       ]
     },
+        {
+      "project_name": "concrete",
+      "project_url": "https://github.com/sonocircuit/concrete",
+      "author": "sonocircuit",
+      "description": "virtual tape lab",
+      "discussion_url": "https://llllllll.co/t/concrete/63575",
+      "documentation_url": "https://github.com/sonocircuit/concrete",
+      "tags": [
+        "sampler",
+        "delay",
+        "looper",
+        "grid",
+        "arc"
+      ]
+    },
     {
       "project_name": "constellations",
       "project_url": "https://github.com/timothy-taylor/constellations",
