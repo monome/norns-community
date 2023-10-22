@@ -3284,6 +3284,15 @@
       "discussion_url": "https://l.llllllll.co/tulpamancer",
       "documentation_url": "https://norns.community/tulpamancer",
       "tags": ["generative", "sequencer", "midi"]
+    },
+    {
+      "project_name": "Eastwind",
+      "project_url": "https://github.com/junklight/eastwind/tree/main",
+      "author": "junklight",
+      "description": "A Norns instrument of non standard tuning & limitations ",
+      "discussion_url": "https://llllllll.co/t/eastwind/64578",
+      "documentation_url": "https://www.youtube.com/watch?v=6yVP39R6n48",
+      "tags": ["grid", "synth"]
     }
   ]
 }
