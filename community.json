@@ -2325,12 +2325,13 @@
       "project_name": "repl-looper",
       "project_url": "https://github.com/awwaiid/repl-looper",
       "author": "awwaiid",
-      "description": "mash of REPL and looper; a live performance code sequencer with web UI",
+      "description": "mash of REPL and looper; a live performance code sequencer",
       "discussion_url": "https://llllllll.co/t/51485",
       "tags": [
         "sequencer",
         "looper",
-        "grid"
+        "grid",
+        "keyboard"
       ]
     },
     {
