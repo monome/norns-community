@@ -596,6 +596,19 @@
       ]
     },
     {
+      "project_name": "cybermidi",
+      "project_url": "https://github.com/dstroud/cybermidi",
+      "author": "modularbeat",
+      "description": "mod to send MIDI between Norns over IP",
+      "discussion_url": "https://llllllll.co/t/65000",
+      "documentation_url": "https://github.com/dstroud/cybermidi/blob/main/README.md",
+      "tags": [
+        "mod",
+        "utility",
+        "midi"
+      ]
+    }, 
+    {
       "project_name": "cyrene",
       "project_url": "https://github.com/21echoes/cyrene",
       "author": "21echoes",
