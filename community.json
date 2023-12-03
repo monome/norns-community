@@ -497,6 +497,19 @@
       ]
     },
     {
+      "project_name": "combiner",
+      "project_url": "https://github.com/dstroud/combiner",
+      "author": "modularbeat",
+      "description": "a mod to combine 2 physical Grids into one larger virtual Grid",
+      "discussion_url": "https://llllllll.co/t/combiner",
+      "documentation_url": "https://github.com/dstroud/combiner/blob/main/README.md",
+      "tags": [
+        "mod",
+        "utility",
+        "grid"
+      ]
+    },   
+    {
       "project_name": "combos",
       "project_url": "https://github.com/justmat/combos",
       "author": "justmat",
