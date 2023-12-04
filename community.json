@@ -3316,9 +3316,18 @@
       "project_name": "Eastwind",
       "project_url": "https://github.com/junklight/eastwind/tree/main",
       "author": "junklight",
-      "description": "A Norns instrument of non standard tuning & limitations ",
+      "description": "A Norns instrument of non standard tuning & limitations",
       "discussion_url": "https://llllllll.co/t/eastwind/64578",
       "documentation_url": "https://www.youtube.com/watch?v=6yVP39R6n48",
+      "tags": ["grid", "synth"]
+    },
+    {
+      "project_name": "gridofrings",
+      "project_url": "https://github.com/smonthms/gridofrings",
+      "author": "smonthms",
+      "description": "A Karper-esque take on Duncan Geere's gridofpoints",
+      "discussion_url": "https://llllllll.co/t/gridofrings/65138",
+      "documentation_url": "https://github.com/smonthms/gridofrings",
       "tags": ["grid", "synth"]
     }
   ]
