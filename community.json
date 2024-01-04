@@ -315,6 +315,20 @@
       ]
     },
     {
+      "project_name": "bloom",
+      "project_url": "https://github.com/schollz/bloom",
+      "author": "infinitedigits",
+      "description": "recreation of Eno and Chilvers' 'bloom' app",
+      "discussion_url": "https://llllllll.co/t/bloom/65627",
+      "documentation_url": "https://norns.community/bloom",
+      "tags": [
+        "generative",
+        "midi",
+        "grid",
+        "crow"
+      ]
+    },
+    {
       "project_name": "blue",
       "project_url": "https://github.com/tehn/blue",
       "author": "tehn",
