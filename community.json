@@ -942,6 +942,19 @@
       ]
     },
     {
+      "project_name": "forge",
+      "project_url": "https://github.com/cachilders/forge",
+      "author": "notester",
+      "description": "a playable  oscilloscope for norns and crow",
+      "discussion_url": "https://llllllll.co/t/forge/65656",
+      "tags": [
+        "sequencer",
+        "generative",
+        "crow",
+        "midi"
+      ]
+    },
+    {
       "project_name": "foulplay",
       "project_url": "https://github.com/justmat/foulplay",
       "author": "justmat",
