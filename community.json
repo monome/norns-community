@@ -417,6 +417,18 @@
       ]
     },
     {
+      "project_name": "cc-canvas",
+      "project_url": "https://github.com/monome/cc-canvas",
+      "author": "monome",
+      "description": "fifteen midi cc sliders with slewing and recall",
+      "discussion_url": "https://llllllll.co/t/66147",
+      "tags": [
+        "midi",
+        "utility",
+        "grid"
+      ]
+    },
+    {
       "project_name": "changes",
       "project_url": "https://github.com/markwheeler/changes",
       "author": "markeats",
