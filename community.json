@@ -1612,6 +1612,18 @@
       ]
     },
     {
+      "project_name": "marcovaldo",
+      "project_url": "https://github.com/cachilders/marcovaldo",
+      "author": "notester",
+      "description": "spatial sequencer with cats",
+      "discussion_url": "https://llllllll.co/t/marcovaldo/66119",
+      "tags": [
+        "sequencer",
+        "arc",
+        "grid"
+      ]
+    },
+    {
       "project_name": "massif",
       "project_url": "https://github.com/justmat/massif",
       "author": "justmat",
