@@ -2164,6 +2164,17 @@
       ]
     },
     {
+      "project_name": "path-trace",
+      "project_url": "https://github.com/brokyo/path-trace",
+      "author": "awakening.systems",
+      "description": "A movement recorder for norns and crow",
+      "discussion_url": "https://llllllll.co/t/path-trace-movement-recorder-for-norns-and-crow/66276",
+      "tags": [
+        "crow",
+        "utility"
+      ]
+    },
+    {
       "project_name": "pedalboard",
       "project_url": "https://github.com/21echoes/pedalboard",
       "author": "21echoes",
