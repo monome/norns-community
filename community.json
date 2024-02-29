@@ -1917,6 +1917,16 @@
       ]
     },
     {
+      "project_name": "nornsfetch",
+      "project_url": "https://github.com/tapecanvas/nornsfetch",
+      "author": "tapecanvas",
+      "description": "neofetch style system info for norns",
+      "tags": [
+        "art",
+        "utility"
+      ] 
+    },
+    {
       "project_name": "norns.online",
       "project_url": "https://github.com/schollz/norns.online",
       "author": "infinitedigits",
