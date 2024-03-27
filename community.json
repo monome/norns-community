@@ -2356,6 +2356,18 @@
       ]
     },
     {
+      "project_name": "rachim",
+      "project_url": "https://github.com/schollz/rachim",
+      "author": "infinitedigits",
+      "description": "a five-piece orchestra sequence synthesizer",
+      "discussion_url": "https://llllllll.co/t/rachim/66632",
+      "tags": [
+        "generative",
+        "sequencer",
+        "drone"
+      ]
+    },
+    {
       "project_name": "raft",
       "project_url": "https://github.com/timothy-taylor/raft",
       "author": "toomanatees",
