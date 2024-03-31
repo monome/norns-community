@@ -138,6 +138,17 @@
       ]
     },
     {
+      "project_name": "arp_index",
+      "project_url": "https://github.com/markwheeler/arp_index",
+      "author": "markeats",
+      "description": "check stocks and make music",
+      "discussion_url": "https://llllllll.co/t/the-arp-index/25182",
+      "tags": [
+        "sequencer",
+        "grid"
+      ]
+    },
+    {
       "project_name": "ash",
       "project_url": "https://github.com/tehn/ash",
       "author": "tehn",
@@ -152,14 +163,17 @@
       ]
     },
     {
-      "project_name": "arp_index",
-      "project_url": "https://github.com/markwheeler/arp_index",
-      "author": "markeats",
-      "description": "check stocks and make music",
-      "discussion_url": "https://llllllll.co/t/the-arp-index/25182",
+      "project_name": "asterion",
+      "project_url": "https://github.com/cachilders/asterion",
+      "author": "notester",
+      "description": "adventure game as drone sequencer",
+      "discussion_url": "https://llllllll.co/t/asterion/66602",
       "tags": [
+        "drone",
+        "engine",
+        "hid",
         "sequencer",
-        "grid"
+        "synth"
       ]
     },
     {
