@@ -540,8 +540,8 @@
       "project_name": "combiner",
       "project_url": "https://github.com/dstroud/combiner",
       "author": "modularbeat",
-      "description": "a mod to combine 2 physical Grids into one larger virtual Grid",
-      "discussion_url": "https://llllllll.co/t/combiner",
+      "description": "mod to combine multiple Grids to operate as a single device",
+      "discussion_url": "https://llllllll.co/t/65187",
       "documentation_url": "https://github.com/dstroud/combiner/blob/main/README.md",
       "tags": [
         "mod",
@@ -652,7 +652,7 @@
       "project_name": "cybermidi",
       "project_url": "https://github.com/dstroud/cybermidi",
       "author": "modularbeat",
-      "description": "mod to send MIDI between Norns over IP",
+      "description": "mod to send MIDI notes between Norns over IP",
       "discussion_url": "https://llllllll.co/t/65000",
       "documentation_url": "https://github.com/dstroud/cybermidi/blob/main/README.md",
       "tags": [
@@ -758,14 +758,14 @@
       "project_url": "https://github.com/dstroud/dreamsequence",
       "author": "modularbeat",
       "description": "chord-based sequencer, arpeggiator, and harmonizer for norns + grid",
-      "discussion_url": "https://l.llllllll.co/dreamsequence",
+      "discussion_url": "http://llllllll.co/t/62607",
       "documentation_url": "https://github.com/dstroud/dreamsequence/blob/main/README.md",
       "tags": [
-        "generative",
         "sequencer",
         "grid",
         "crow",
-        "midi"
+        "midi",
+        "nb"
       ]
     },    
     {
