@@ -2788,6 +2788,18 @@
       ]
     },
     {
+      "project_name": “støy”,
+      "project_url": "https://github.com/imminentgloom/st-y",
+      "author": “imminent_gloom”,
+      "description": "a noise synth for norns”,
+      "discussion_url": "https://llllllll.co/t/stoy/67054",
+      "tags": [
+        “synth”,
+        “delay”,
+        "grid"
+      ]
+    },
+    {
       "project_name": "supertonic",
       "project_url": "https://github.com/schollz/supertonic",
       "author": "infinitedigits",
