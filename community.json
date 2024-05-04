@@ -1698,6 +1698,18 @@
       ]
     },
     {
+      "project_name": "midididi",
+      "project_url": "https://github.com/dwtong/midididi",
+      "author": "dwtong",
+      "description": "midi cc looper mod",
+      "discussion_url": "https://llllllll.co/t/midididi-midi-cc-looper-mod/67129",
+      "tags": [
+        "looper",
+        "midi",
+        "mod"
+      ]
+    },
+    {
       "project_name": "midigrid",
       "project_url": "https://github.com/jaggednz/midigrid",
       "author": "Jaggednz",
