@@ -1494,6 +1494,16 @@
       ]
     },
     {
+      "project_name": "lemniscate",
+      "project_url": "https://github.com/cachilders/lemniscate",
+      "author": "notester",
+      "description": "an 8-track-cassette-inspired looper",
+      "discussion_url": "https://llllllll.co/t/lemniscate/67296",
+      "tags": [
+        "looper"
+      ]
+    },
+    {
       "project_name": "less-concepts",
       "project_url": "https://github.com/vicimity-dndrks/less_concepts",
       "author": "vicimity dan_derks",
@@ -1587,6 +1597,17 @@
         "sequencer",
         "synth",
         "jf",
+        "midi",
+        "crow"
+      ]
+    },
+    {
+      "project_name": "magpie",
+      "project_url": "https://github.com/cachilders/magpie",
+      "author": "notester",
+      "description": "signal routing and modulated note echo for norns and crow",
+      "discussion_url": "https://llllllll.co/t/magpie/67460",
+      "tags": [
         "midi",
         "crow"
       ]
