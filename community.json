@@ -2568,7 +2568,7 @@
     },
     {
       "project_name": "scholastic",
-      "project_url": "https://github.com/spaffinge/scholastic",
+      "project_url": "https://github.com/adamstaff/scholastic",
       "author": "adamstaff",
       "description": "multitrack polyrhythmic sequencer",
       "discussion_url": "https://llllllll.co/t/scholastic-multitrack-polyrhythmic-sequencer/64232",
@@ -3037,6 +3037,14 @@
         "delay",
         "audio_fx"
       ]
+    },
+    {
+      "project_name": "turntable",
+      "project_url": "https://github.com/adamstaff/turntable",
+      "author": "adamstaff",
+      "description": "a turntable for norns",
+      "discussion_url": "https://llllllll.co/t/a-turntable-for-norns/67716",
+      "tags": ["norns"]
     },
     {
       "project_name": "twine",
