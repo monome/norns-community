@@ -1504,6 +1504,16 @@
       ]
     },
     {
+      "project_name": "lemniscate",
+      "project_url": "https://github.com/cachilders/lemniscate",
+      "author": "notester",
+      "description": "an 8-track-cassette-inspired looper",
+      "discussion_url": "https://llllllll.co/t/lemniscate/67296",
+      "tags": [
+        "looper"
+      ]
+    },
+    {
       "project_name": "less-concepts",
       "project_url": "https://github.com/vicimity-dndrks/less_concepts",
       "author": "vicimity dan_derks",
@@ -1597,6 +1607,17 @@
         "sequencer",
         "synth",
         "jf",
+        "midi",
+        "crow"
+      ]
+    },
+    {
+      "project_name": "magpie",
+      "project_url": "https://github.com/cachilders/magpie",
+      "author": "notester",
+      "description": "signal routing and modulated note echo for midi and cv",
+      "discussion_url": "https://llllllll.co/t/magpie/67460",
+      "tags": [
         "midi",
         "crow"
       ]
@@ -2557,7 +2578,7 @@
     },
     {
       "project_name": "scholastic",
-      "project_url": "https://github.com/spaffinge/scholastic",
+      "project_url": "https://github.com/adamstaff/scholastic",
       "author": "adamstaff",
       "description": "multitrack polyrhythmic sequencer",
       "discussion_url": "https://llllllll.co/t/scholastic-multitrack-polyrhythmic-sequencer/64232",
@@ -3026,6 +3047,14 @@
         "delay",
         "audio_fx"
       ]
+    },
+    {
+      "project_name": "turntable",
+      "project_url": "https://github.com/adamstaff/turntable",
+      "author": "adamstaff",
+      "description": "a turntable for norns",
+      "discussion_url": "https://llllllll.co/t/a-turntable-for-norns/67716",
+      "tags": ["norns"]
     },
     {
       "project_name": "twine",
