@@ -852,6 +852,16 @@
       ]
     },
     {
+      "project_name": "esper",
+      "project_url": "https://github.com/cachilders/esper",
+      "author": "notester",
+      "description": "an image sonifier",
+      "discussion_url": "https://llllllll.co/t/esper/67885",
+      "tags": [
+        "sequencer"
+      ]
+    },
+    {
       "project_name": "euclidigons",
       "project_url": "https://github.com/synthetiv/euclidigons",
       "author": "synthetivv setfield",
