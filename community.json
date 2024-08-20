@@ -3516,11 +3516,11 @@
     },
     {
       "project_name": "nameless-nightmare",
-      "project_url": "https://github.com/xO-xN/nameless-nightmare/tree/main",
+      "project_url": "https://github.com/xO-xN/nameless-nightmare",
       "author": "xo-xn",
       "description": "A Norns granular synthesizer, inspired by solar system.",
       "discussion_url": "https://llllllll.co/t/nameless-nightmare/68145",
-      "tags": ["granulator", "drone"]
+      "tags": ["granulator", "drone", "art", "happyaccident"]
     }
   ]
 }
