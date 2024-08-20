@@ -2928,6 +2928,18 @@
       ]
     },
     {
+      "project_name": "tetra",
+      "project_url": "https://github.com/nvillar/tetra",
+      "author": "nvillar",
+      "description": "use the grid to create, perform and sequence sound objects",
+      "discussion_url": "https://llllllll.co/t/tetra/68343",
+      "tags": [
+        "synth",
+        "sequencer",
+        "grid"
+      ]
+    },
+    {
       "project_name": "tetrabobo",
       "project_url": "https://github.com/williamthazard/TetraBobo",
       "author": "WilliamHazard",
