@@ -2303,6 +2303,22 @@
       ]
     },
     {
+      "project_name": "pit-orchisstra",
+      "project_url": "https://github.com/entzmingerc/pit-orchisstra",
+      "author": "postsolarpunk",
+      "description": "snake game inspired sequencer for norns",
+      "discussion_url": "https://llllllll.co/t/pit-orchisstra/66521",
+      "documentation_url": "https://github.com/entzmingerc/pit-orchisstra",
+      "tags": [
+        "generative",
+        "grid",
+        "happyaccident",
+        "keyboard",
+        "nb",
+        "sequencer"
+      ]
+    },
+    {
       "project_name": "pitfalls",
       "project_url": "https://github.com/robmckinnon/pitfalls",
       "author": "delineator",
