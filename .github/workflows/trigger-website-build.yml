@@ -15,7 +15,7 @@ jobs:
         run: |
           # Set the required variables
           repo_owner="monome-community" 
-          repo_name="norns-community  
+          repo_name="norns-community"
           event_type="trigger_build_via_norns_community_merge" 
   
           curl -L \
