@@ -2290,7 +2290,7 @@
       ]
     },
     {
-      "project_name": "pitter patter",
+      "project_name": "pitter-patter",
       "project_url": "https://github.com/schollz/pitter-patter",
       "author": "infinitedigits",
       "description": "sequencer and sampler player based around the OP-1 'pattern' sequencer",
