@@ -7,6 +7,18 @@
   "date": "0001-01-01T00:00:00Z",
   "entries": [
     {
+      "project_name": "taweeet",
+      "project_url": "https://github.com/skibu/taweeet",
+      "author": "skibu",
+      "description": "Bird song, and lots of it. And pics, too.",
+      "discussion_url": "https://llllllll.co/t/69028",
+      "documentation_url": "https://github.com/skibu/taweeet/blob/main/README.md",
+      "tags": [
+        "art",
+        "birds"
+      ]
+    },
+    {
       "project_name": "3d",
       "project_url": "https://github.com/p3r7/3d",
       "author": "eigen",
