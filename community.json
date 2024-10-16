@@ -1897,6 +1897,20 @@
       ]
     },
     {
+      "project_name": "nb_drumcrow",
+      "project_url": "https://github.com/entzmingerc/nb_drumcrow/",
+      "author": "postsolarpunk",
+      "description": "norns mod that turns crow into a synth using nb",
+      "discussion_url": "https://llllllll.co/t/nb-drumcrow-norns-mod-that-turns-crow-into-a-4-voice-synth/69066",
+      "tags": [
+        "mod",
+        "synth",
+        "crow",
+        "drum",
+        "nb"
+      ]
+    },
+    {
       "project_name": "nice-tapes",
       "project_url": "https://github.com/MentalSandal/nice-tapes",
       "author": "MentalSandal",
