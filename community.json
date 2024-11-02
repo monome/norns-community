@@ -1014,6 +1014,20 @@
       ]
     },
     {
+      "project_name": "form!matter",
+      "project_url": "https://github.com/imminentgloom/form_without_matter",
+      "author": "imminent_gloom",
+      "description": "drum sequencer, entropically inclusive",
+      "discussion_url": "https://llllllll.co/t/form-matter/69267",
+      "tags": [
+        "drum", 
+        "sequencer",
+        "grid",
+        "nb",
+        "crow"
+      ]
+    },    
+    {
       "project_name": "foulplay",
       "project_url": "https://github.com/justmat/foulplay",
       "author": "justmat",
