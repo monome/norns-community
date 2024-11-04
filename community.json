@@ -1347,6 +1347,15 @@
       ]
     },
     {
+      "project_name": "hpns",
+      "project_url": "https://github.com/hiddenfields/hpns",
+      "author": "andy",
+      "description": "probablistic step sequencer for modular. its basically parc",
+      "discussion_url": "https://llllllll.co/t/hpns/32689",
+      "documentation_url": "https://github.com/hiddenfields/hpns/blob/master/README.md",
+      "tags": ["sequencer", "grid", "crow", "ansible"]
+    },
+    {
       "project_name": "icarus",
       "project_url": "https://github.com/schollz/icarus",
       "author": "infinitedigits",
