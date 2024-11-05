@@ -1875,6 +1875,22 @@
       ]
     },
     {
+      "project_name": "mosaic",
+      "project_url": "https://github.com/subvertnormality/mosaic",
+      "author": "byzero",
+      "description": "enabling you to craft complex rhythms and harmonies effortlessly",
+      "discussion_url": "https://llllllll.co/t/mosaic/69304",
+      "tags": [
+        "sequencer",
+        "midi",
+        "generative",
+        "grid",
+        "nb",
+        "crow",
+        "keyboard"
+      ]
+    },
+    {
       "project_name": "mouse",
       "project_url": "https://github.com/cfdrake/mouse",
       "author": "cfd90",
