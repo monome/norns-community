@@ -1537,6 +1537,18 @@
       ]
     },
     {
+      "project_name": "lamellae",
+      "project_url": "https://github.com/Not-A-Creative/lamellae",
+      "author": "Not_A_Creative",
+      "description": "a music box inspired generative instrument/sequencer",
+      "discussion_url": "https://llllllll.co/t/lamellae/69409",
+      "tags": [
+        "generative",
+        "sequencer",
+        "midi"
+      ]
+    },
+    {
       "project_name": "larc",
       "project_url": "https://github.com/justmat/larc",
       "author": "justmat",
