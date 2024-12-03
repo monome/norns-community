@@ -571,7 +571,7 @@
         "utility",
         "grid"
       ]
-    },   
+    },
     {
       "project_name": "combos",
       "project_url": "https://github.com/justmat/combos",
@@ -683,7 +683,7 @@
         "utility",
         "midi"
       ]
-    }, 
+    },
     {
       "project_name": "cyrene",
       "project_url": "https://github.com/21echoes/cyrene",
@@ -790,7 +790,7 @@
         "midi",
         "nb"
       ]
-    },    
+    },
     {
       "project_name": "drift",
       "project_url": "https://github.com/echophon/drift",
@@ -1020,13 +1020,13 @@
       "description": "drum sequencer, entropically inclusive",
       "discussion_url": "https://llllllll.co/t/form-matter/69267",
       "tags": [
-        "drum", 
+        "drum",
         "sequencer",
         "grid",
         "nb",
         "crow"
       ]
-    },    
+    },
     {
       "project_name": "foulplay",
       "project_url": "https://github.com/justmat/foulplay",
@@ -1105,7 +1105,7 @@
       "discussion_url": "https://llllllll.co/t/get-in-the-sea/45729",
       "tags": ["midi"],
       "origin": "lines"
-    },       
+    },
     {
       "project_name": "giro",
       "project_url": "https://github.com/juhavaaraniemi/giro",
@@ -1804,7 +1804,7 @@
       "author": "Jaggednz",
       "description": "Use launchpads and other midi grid devices w/ Norns",
       "discussion_url": "https://llllllll.co/t/42336",
-      "documentation_url": "https://norns.community/authors/jaggednz/midigrid",
+      "documentation_url": "https://norns.community/archive/authors/jaggednz/midigrid/",
       "tags": [
         "utility",
         "midi",
@@ -2069,7 +2069,7 @@
       "tags": [
         "art",
         "utility"
-      ] 
+      ]
     },
     {
       "project_name": "norns.online",
