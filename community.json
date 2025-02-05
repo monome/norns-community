@@ -2701,8 +2701,16 @@
       "author": "adamstaff",
       "description": "multitrack polyrhythmic sequencer",
       "discussion_url": "https://llllllll.co/t/scholastic-multitrack-polyrhythmic-sequencer/64232",
-      "documentation_url": "https://www.youtube.com/watch?v=vvl44pg3hMM",
       "tags": ["norns", "sequencer", "nb", "midi"]
+    },
+    {
+      "project_name": "scryingstone",
+      "project_url": "https://github.com/williamthazard/scryingstone",
+      "author": "WilliamHazard",
+      "description": "scrying stone for monome norns",
+      "discussion_url": "https://llllllll.co/t/scryingstone-norns/70778",
+      "documentation_url": "https://www.youtube.com/watch?v=vvl44pg3hMM",
+      "tags": ["norns", "noise", "art", "drone"]
     },
     {
       "project_name": "seaflex",
