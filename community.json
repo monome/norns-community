@@ -524,7 +524,8 @@
       "discussion_url": "https://llllllll.co/t/clarck/21251",
       "tags": [
         "utility",
-        "arc"
+        "arc",
+        "clock"
       ]
     },
     {
@@ -546,6 +547,14 @@
       "tags": [
         "sampler"
       ]
+    },
+    {
+      "project_name": "clockabout",
+      "project_url": "https://github.com/niksilver/clockabout",
+      "author": "Nik Silver (niksilver)",
+      "description": "A non-linear MIDI clock",
+      "discussion_url": "https://llllllll.co/t/clockabout/70820",
+      "tags": ["midi", "utilities", "clock"]
     },
     {
       "project_name": "colorwheel",
