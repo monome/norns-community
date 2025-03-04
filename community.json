@@ -554,7 +554,12 @@
       "author": "Nik Silver (niksilver)",
       "description": "A non-linear MIDI clock",
       "discussion_url": "https://llllllll.co/t/clockabout/70820",
-      "tags": ["midi", "utilities", "clock"]
+      "tags": [
+        "midi",
+        "utilities",
+        "clock",
+        "mod"
+      ]
     },
     {
       "project_name": "colorwheel",
