@@ -1631,6 +1631,21 @@
       ]
     },
     {
+      "project_name": "loom",
+      "project_url": "https://github.com/markwheeler/loom/",
+      "author": "markeats",
+      "description": "pattern weaving sequencer for grids",
+      "discussion_url": "https://llllllll.co/t/loom/21091",
+      "tags": [
+        "sequencer",
+        "generative",
+        "midi",
+        "jf",
+        "crow",
+        "grid"
+      ]
+    },
+    {
       "project_name": "lorenzos-drums",
       "project_url": "https://github.com/schollz/lorenzos-drums",
       "author": "infinitedigits",
@@ -1642,20 +1657,18 @@
       ]
     },
     {
-      "project_name": "loudnumbers_norns",
-      "project_url": "https://github.com/loudnumbers/loudnumbers_norns",
-      "author": "duncangeere",
-      "description": "data sonification with norns",
-      "discussion_url": "https://llllllll.co/t/51353",
-      "documentation_url": "https://github.com/loudnumbers/loudnumbers_norns/blob/main/README.md",
+      "project_name": "lorenz",
+      "project_url": "https://github.com/Ericxgao/lorenz",
+      "author": "oksami",
+      "description": "strange attractors for crow",
+      "discussion_url": "https://llllllll.co/t/71465",
+      "documentation_url": "https://github.com/Ericxgao/lorenz/blob/main/README.md",
       "tags": [
-        "sequencer",
+        "happyaccident",
+        "norns",
+        "utilities",
         "utility",
-        "synth",
-        "crow",
-        "midi",
-        "grid",
-        "generative"
+        "crow"
       ]
     },
     {
