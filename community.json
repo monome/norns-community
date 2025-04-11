@@ -3664,6 +3664,15 @@
       "description": "A Norns granular synthesizer, inspired by solar system.",
       "discussion_url": "https://llllllll.co/t/nameless-nightmare/68145",
       "tags": ["granulator", "drone", "art", "happyaccident"]
+    },
+    {
+      "project_name": "iiitoii",
+      "project_url": "https://github.com/andr-ew/iiitoii/",
+      "author": "andrew",
+      "description": " a collection of iii community scripts ported to norns + crow ",
+      "discussion_url": "https://llllllll.co/t/iiitoii-beta",
+      "documentation_url": "https://github.com/andr-ew/iiitoii/",
+      "tags": ["jf", "crow", "arc", "grid", "mod"]
     }
   ]
 }
