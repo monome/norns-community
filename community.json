@@ -3233,6 +3233,16 @@
       ]
     },
     {
+      "project_name": "twins",
+      "project_url": "https://github.com/danielrigler/twins",
+      "author": "dddstudio",
+      "description": "randomized dual granular sample player, inspired by twine",
+      "discussion_url": "https://llllllll.co/t/twins/71052",
+      "tags": [
+        "granulator"
+      ]
+    },
+    {
       "project_name": "u",
       "project_url": "https://github.com/northern-information/u",
       "author": "tyleretters",
