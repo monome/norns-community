@@ -3683,6 +3683,15 @@
       "discussion_url": "https://llllllll.co/t/iiitoii-beta",
       "documentation_url": "https://github.com/andr-ew/iiitoii/",
       "tags": ["jf", "crow", "arc", "grid", "mod"]
+    },
+    {
+      "project_name": "Hiswing",
+      "project_url": "https://github.com/hanjo-synth/Hiswing",
+      "author": "Hanjo",
+      "description": "  a customizable pattern and groove midi generator for Monome Norns ",
+      "discussion_url": "https://llllllll.co/t/hiswing/71717",
+      "documentation_url": "https://github.com/hanjo-synth/Hiswing",
+      "tags": ["sequencer", "midi", "velocity"]
     }
   ]
 }
