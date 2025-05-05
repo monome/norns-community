@@ -3701,6 +3701,15 @@
   "discussion_url": "https://llllllll.co/t/mnmpatch/71750",
   "documentation_url": "https://github.com/hanjo-synth/Mnmpatch",
   "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
-  }
+  },
+    {
+      "project_name": "monomaniac",
+      "project_url": "https://github.com/xmacex/monomaniac",
+      "author": "xmacex",
+      "description": "A mod to toggle stereo and mono input",
+      "discussion_url": "https://llllllll.co/t/monomaniac-a-mod-to-toggle-stereo-and-mono-input/63892",
+      "documentation_url": "https://github.com/xmacex/monomaniac",
+      "tags": ["mod", "utility"]
+    }
   ]
 }
