@@ -3701,6 +3701,15 @@
   "discussion_url": "https://llllllll.co/t/mnmpatch/71750",
   "documentation_url": "https://github.com/hanjo-synth/Mnmpatch",
   "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
-  }
+    },
+    {
+      "project_name": "Window crowparator",
+      "project_url": "https://github.com/xmacex/window-crowparator",
+      "author": "xmacex",
+      "description": "Window comparator for crow",
+      "discussion_url": "https://llllllll.co/t/window-crowparator/71520",
+      "documentation_url": "https://github.com/xmacex/window-crowparator",
+      "tags": ["crow"]
+    }
   ]
 }
