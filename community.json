@@ -3701,6 +3701,15 @@
   "discussion_url": "https://llllllll.co/t/mnmpatch/71750",
   "documentation_url": "https://github.com/hanjo-synth/Mnmpatch",
   "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
-  }
+    },
+    {
+      "project_name": "serialism",
+      "project_url": "https://github.com/xmacex/serialism",
+      "author": "xmacex",
+      "description": "Explore serialism in the spirit of Arnold Schönberg and others",
+      "discussion_url": "https://llllllll.co/t/serialism/68332",
+      "documentation_url": "https://github.com/xmacex/serialism",
+      "tags": ["midi"]
+    }
   ]
 }
