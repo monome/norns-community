@@ -3713,6 +3713,15 @@
       "discussion_url": "https://llllllll.co/t/monomaniac-a-mod-to-toggle-stereo-and-mono-input/63892",
       "documentation_url": "https://github.com/xmacex/monomaniac",
       "tags": ["mod", "utility"]
+    },
+    {
+      "project_name": "serialism",
+      "project_url": "https://github.com/xmacex/serialism",
+      "author": "xmacex",
+      "description": "Explore serialism in the spirit of Arnold Schönberg and others",
+      "discussion_url": "https://llllllll.co/t/serialism/68332",
+      "documentation_url": "https://github.com/xmacex/serialism",
+      "tags": ["midi"]
     }
   ]
 }
