@@ -1631,21 +1631,6 @@
       ]
     },
     {
-      "project_name": "loom",
-      "project_url": "https://github.com/markwheeler/loom/",
-      "author": "markeats",
-      "description": "pattern weaving sequencer for grids",
-      "discussion_url": "https://llllllll.co/t/loom/21091",
-      "tags": [
-        "sequencer",
-        "generative",
-        "midi",
-        "jf",
-        "crow",
-        "grid"
-      ]
-    },
-    {
       "project_name": "lorenzos-drums",
       "project_url": "https://github.com/schollz/lorenzos-drums",
       "author": "infinitedigits",
@@ -3632,7 +3617,7 @@
     {
       "project_name": "warmreload",
       "project_url": "https://github.com/schollz/warmreload",
-      "author": "infinitediits",
+      "author": "infinitedigits",
       "description": "a norns mod to automatically reload a script after saving",
       "discussion_url": "https://llllllll.co/t/warmreload/63623",
       "documentation_url": "https://github.com/schollz/warmreload",
@@ -3694,14 +3679,14 @@
       "tags": ["sequencer", "midi", "velocity"]
     },
     {
-  "project_name": "Mnmpatch",
-  "project_url": "https://github.com/hanjo-synth/Mnmpatch",
-  "author": "Hanjo",
-  "description": " a patch randomizer for Elektron Monomachine",
-  "discussion_url": "https://llllllll.co/t/mnmpatch/71750",
-  "documentation_url": "https://github.com/hanjo-synth/Mnmpatch",
-  "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
-  },
+      "project_name": "Mnmpatch",
+      "project_url": "https://github.com/hanjo-synth/Mnmpatch",
+      "author": "Hanjo",
+      "description": " a patch randomizer for Elektron Monomachine",
+      "discussion_url": "https://llllllll.co/t/mnmpatch/71750",
+      "documentation_url": "https://github.com/hanjo-synth/Mnmpatch",
+      "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
+    },
     {
       "project_name": "fixed filter banking crisis",
       "project_url": "https://github.com/xmacex/fixed-filter-banking-crisis",
