@@ -3697,7 +3697,7 @@
       "tags": ["audio_fx"]
     },
     {
-      "project_name": "Window crowparator",
+      "project_name": "window-crowparator",
       "project_url": "https://github.com/xmacex/window-crowparator",
       "author": "xmacex",
       "description": "Window comparator for crow",
