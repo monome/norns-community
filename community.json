@@ -3688,7 +3688,7 @@
       "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
     },
     {
-      "project_name": "fixed filter banking crisis",
+      "project_name": "fixed-filter-banking-crisis",
       "project_url": "https://github.com/xmacex/fixed-filter-banking-crisis",
       "author": "xmacex",
       "description": "a fixed filter bank",
