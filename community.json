@@ -3701,6 +3701,15 @@
   "discussion_url": "https://llllllll.co/t/mnmpatch/71750",
   "documentation_url": "https://github.com/hanjo-synth/Mnmpatch",
   "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
-  }
+  },
+  {
+  "project_name": "4CCFader",
+  "project_url": "https://github.com/hanjo-synth/4CCFader",
+  "author": "Hanjo",
+  "description": " a four channel CC MIDI fader controller for Norns",
+  "discussion_url": "https://llllllll.co/t/4ccfader/71810",
+  "documentation_url": "https://github.com/hanjo-synth/4CCFader",
+  "tags": ["norns", "midi", "controller", "utility", "performance"]
+}
   ]
 }
