@@ -1631,21 +1631,6 @@
       ]
     },
     {
-      "project_name": "loom",
-      "project_url": "https://github.com/markwheeler/loom/",
-      "author": "markeats",
-      "description": "pattern weaving sequencer for grids",
-      "discussion_url": "https://llllllll.co/t/loom/21091",
-      "tags": [
-        "sequencer",
-        "generative",
-        "midi",
-        "jf",
-        "crow",
-        "grid"
-      ]
-    },
-    {
       "project_name": "lorenzos-drums",
       "project_url": "https://github.com/schollz/lorenzos-drums",
       "author": "infinitedigits",
