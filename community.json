@@ -3686,6 +3686,15 @@
       "discussion_url": "https://llllllll.co/t/mnmpatch/71750",
       "documentation_url": "https://github.com/hanjo-synth/Mnmpatch",
       "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
+    },
+    {
+      "project_name": "fixed filter banking crisis",
+      "project_url": "https://github.com/xmacex/fixed-filter-banking-crisis",
+      "author": "xmacex",
+      "description": "a fixed filter bank",
+      "discussion_url": "https://llllllll.co/t/fixed-filter-banking-crisis/71735",
+      "documentation_url": "https://github.com/xmacex/fixed-filter-banking-crisis",
+      "tags": ["audio_fx"]
     }
   ]
 }
