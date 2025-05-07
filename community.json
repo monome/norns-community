@@ -3722,6 +3722,14 @@
       "discussion_url": "https://llllllll.co/t/serialism/68332",
       "documentation_url": "https://github.com/xmacex/serialism",
       "tags": ["midi"]
+    },  {
+      "project_name": "4CCFader",
+      "project_url": "https://github.com/hanjo-synth/4CCFader",
+      "author": "Hanjo",
+      "description": " a four channel CC MIDI fader controller for Norns",
+      "discussion_url": "https://llllllll.co/t/4ccfader/71810",
+      "documentation_url": "https://github.com/hanjo-synth/4CCFader",
+      "tags": ["midi", "controller", "utility", "performance"]
     }
   ]
 }
