@@ -3743,6 +3743,14 @@
       "discussion_url": "https://llllllll.co/t/4ccfader/71810",
       "documentation_url": "https://github.com/hanjo-synth/4CCFader",
       "tags": ["midi", "controller", "utility", "performance"]
+    },  {
+      "project_name": "MDPatch",
+      "project_url": "https://github.com/hanjo-synth/MDPatch",
+      "author": "Hanjo",
+      "description": " a powerful and flexible MIDI CC randomizer for the Elektron Machinedrum",
+      "discussion_url": "https://llllllll.co/t/machine-drum-randomizer-for-monome-norns/71998",
+      "documentation_url": "https://github.com/hanjo-synth/MDPatch",
+      "tags": ["midi", "controller", "utility", "performance"]
     }
   ]
 }
