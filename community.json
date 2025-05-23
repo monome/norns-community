@@ -201,6 +201,19 @@
       ]
     },
     {
+      "project_name": "avonlea",
+      "project_url": "https://github.com/kurogedelic/avonlea",
+      "author": "kurogedelic",
+      "description": "the Lake of Shining Waters at night",
+      "discussion_url": "https://llllllll.co/t/avonlea/71994",
+      "tags": [
+        "norns",
+        "generative",
+        "art",
+        "drone"
+      ]
+    },
+    {
       "project_name": "awake",
       "project_url": "https://github.com/tehn/awake",
       "author": "tehn",
