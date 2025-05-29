@@ -3751,6 +3751,15 @@
       "discussion_url": "https://llllllll.co/t/machine-drum-randomizer-for-monome-norns/71998",
       "documentation_url": "https://github.com/hanjo-synth/MDPatch",
       "tags": ["midi", "controller", "utility", "performance"]
+    },
+    {
+      "project_name": "midikit",
+      "project_url": "https://github.com/xmacex/midikit",
+      "author": "xmacex",
+      "description": "MIDI CC output from norns Matrix mod",
+      "discussion_url": "https://llllllll.co/t/midikit/71830",
+      "documentation_url": "https://llllllll.co/t/midikit/71830#p-750996-documentation-3",
+      "tags": ["midi", "mod", "matrix"]
     }
   ]
 }
