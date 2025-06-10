@@ -1383,6 +1383,15 @@
       "tags": ["sequencer", "grid", "crow", "ansible"]
     },
     {
+      "project_name": "hs010",
+      "project_url": "https://github.com/Karolis-Lasys/hs010",
+      "author": "onegin",
+      "description": "Bass and lead voice with a multi-playhead sequencer.",
+      "discussion_url": "https://llllllll.co/t/hs010-happy-synthesis-010",
+      "documentation_url": "https://github.com/Karolis-Lasys/hs010/blob/main/README.md",
+      "tags": ["synth", "sequencer", "midi"]
+    },
+    {
       "project_name": "icarus",
       "project_url": "https://github.com/schollz/icarus",
       "author": "infinitedigits",
