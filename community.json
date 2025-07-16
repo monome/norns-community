@@ -2667,6 +2667,17 @@
       ]
     },
     {
+      "project_name": "ribbons",
+      "project_url": "https://github.com/tehn/ribbons",
+      "author": "tehn",
+      "description": "folded euclidean arpeggiator",
+      "discussion_url": "https://llllllll.co/t/ribbons/72521",
+      "tags": [
+        "sequencer",
+        "arc"
+      ]
+    },
+    {
       "project_name": "rudiments",
       "project_url": "https://github.com/cfdrake/rudiments",
       "author": "cfd90",
