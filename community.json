@@ -1296,13 +1296,17 @@
       "project_name": "gridofpoints",
       "project_url": "https://github.com/duncangeere/gridofpoints",
       "author": "duncangeere",
-      "description": "sixteen notes, eight timbres",
+      "description": "sixteen notes, seven timbres",
       "discussion_url": "https://llllllll.co/t/52122",
       "tags": [
-        "sequencer",
-        "crow",
+        "generative",
+        "controller",
+        "norns",
         "grid",
-        "midi"
+        "arc",
+        "crow",
+        "midi",
+        "jf"
       ]
     },
     {
