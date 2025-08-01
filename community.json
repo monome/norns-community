@@ -7,6 +7,20 @@
   "date": "0001-01-01T00:00:00Z",
   "entries": [
     {
+      "project_name": "_awed",
+      "project_url": "https://github.com/melocoi/_awed",
+      "author": "ululo",
+      "description": "harmonic series aggregator",
+      "discussion_url": "https://llllllll.co/t/awed/72603",
+      "documentation_url": "https://github.com/melocoi/_awed/blob/main/README.md",
+      "tags": [
+        "drone",
+        "harmonics",
+        "engine",
+        "grid"
+      ]
+    },
+    {
       "project_name": "taweeet",
       "project_url": "https://github.com/skibu/taweeet",
       "author": "skibu",
@@ -198,6 +212,19 @@
       "tags": [
         "utility",
         "midi"
+      ]
+    },
+    {
+      "project_name": "avonlea",
+      "project_url": "https://github.com/kurogedelic/avonlea",
+      "author": "kurogedelic",
+      "description": "the Lake of Shining Waters at night",
+      "discussion_url": "https://llllllll.co/t/avonlea/71994",
+      "tags": [
+        "norns",
+        "generative",
+        "art",
+        "drone"
       ]
     },
     {
@@ -1269,13 +1296,17 @@
       "project_name": "gridofpoints",
       "project_url": "https://github.com/duncangeere/gridofpoints",
       "author": "duncangeere",
-      "description": "sixteen notes, eight timbres",
+      "description": "sixteen notes, seven timbres",
       "discussion_url": "https://llllllll.co/t/52122",
       "tags": [
-        "sequencer",
-        "crow",
+        "generative",
+        "controller",
+        "norns",
         "grid",
-        "midi"
+        "arc",
+        "crow",
+        "midi",
+        "jf"
       ]
     },
     {
@@ -1368,6 +1399,15 @@
       "discussion_url": "https://llllllll.co/t/hpns/32689",
       "documentation_url": "https://github.com/hiddenfields/hpns/blob/master/README.md",
       "tags": ["sequencer", "grid", "crow", "ansible"]
+    },
+    {
+      "project_name": "hs010",
+      "project_url": "https://github.com/Karolis-Lasys/hs010",
+      "author": "onegin",
+      "description": "Bass and lead voice with a multi-playhead sequencer.",
+      "discussion_url": "https://llllllll.co/t/hs010-happy-synthesis-010",
+      "documentation_url": "https://github.com/Karolis-Lasys/hs010/blob/main/README.md",
+      "tags": ["synth", "sequencer", "midi"]
     },
     {
       "project_name": "icarus",
@@ -1613,21 +1653,6 @@
         "synth",
         "generative",
         "midi"
-      ]
-    },
-    {
-      "project_name": "loom",
-      "project_url": "https://github.com/markwheeler/loom/",
-      "author": "markeats",
-      "description": "pattern weaving sequencer for grids",
-      "discussion_url": "https://llllllll.co/t/loom/21091",
-      "tags": [
-        "sequencer",
-        "generative",
-        "midi",
-        "jf",
-        "crow",
-        "grid"
       ]
     },
     {
@@ -2660,6 +2685,17 @@
       ]
     },
     {
+      "project_name": "ribbons",
+      "project_url": "https://github.com/tehn/ribbons",
+      "author": "tehn",
+      "description": "folded euclidean arpeggiator",
+      "discussion_url": "https://llllllll.co/t/ribbons/72521",
+      "tags": [
+        "sequencer",
+        "arc"
+      ]
+    },
+    {
       "project_name": "rudiments",
       "project_url": "https://github.com/cfdrake/rudiments",
       "author": "cfd90",
@@ -3632,7 +3668,7 @@
     {
       "project_name": "warmreload",
       "project_url": "https://github.com/schollz/warmreload",
-      "author": "infinitediits",
+      "author": "infinitedigits",
       "description": "a norns mod to automatically reload a script after saving",
       "discussion_url": "https://llllllll.co/t/warmreload/63623",
       "documentation_url": "https://github.com/schollz/warmreload",
@@ -3683,6 +3719,76 @@
       "discussion_url": "https://llllllll.co/t/iiitoii-beta",
       "documentation_url": "https://github.com/andr-ew/iiitoii/",
       "tags": ["jf", "crow", "arc", "grid", "mod"]
+    },
+    {
+      "project_name": "Hiswing",
+      "project_url": "https://github.com/hanjo-synth/Hiswing",
+      "author": "Hanjo",
+      "description": "  a customizable pattern and groove midi generator for Monome Norns ",
+      "discussion_url": "https://llllllll.co/t/hiswing-script/71720",
+      "documentation_url": "https://github.com/hanjo-synth/Hiswing",
+      "tags": ["sequencer", "midi", "velocity"]
+    },
+    {
+      "project_name": "Mnmpatch",
+      "project_url": "https://github.com/hanjo-synth/Mnmpatch",
+      "author": "Hanjo",
+      "description": " a patch randomizer for Elektron Monomachine",
+      "discussion_url": "https://llllllll.co/t/mnmpatch/71750",
+      "documentation_url": "https://github.com/hanjo-synth/Mnmpatch",
+      "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
+    },
+    {
+      "project_name": "fixed-filter-banking-crisis",
+      "project_url": "https://github.com/xmacex/fixed-filter-banking-crisis",
+      "author": "xmacex",
+      "description": "a fixed filter bank",
+      "discussion_url": "https://llllllll.co/t/fixed-filter-banking-crisis/71735",
+      "documentation_url": "https://github.com/xmacex/fixed-filter-banking-crisis",
+      "tags": ["audio_fx"]
+    },
+    {
+      "project_name": "window-crowparator",
+      "project_url": "https://github.com/xmacex/window-crowparator",
+      "author": "xmacex",
+      "description": "Window comparator for crow",
+      "discussion_url": "https://llllllll.co/t/window-crowparator/71520",
+      "documentation_url": "https://github.com/xmacex/window-crowparator",
+      "tags": ["crow"]
+    },
+    {
+      "project_name": "monomaniac",
+      "project_url": "https://github.com/xmacex/monomaniac",
+      "author": "xmacex",
+      "description": "A mod to toggle stereo and mono input",
+      "discussion_url": "https://llllllll.co/t/monomaniac-a-mod-to-toggle-stereo-and-mono-input/63892",
+      "documentation_url": "https://github.com/xmacex/monomaniac",
+      "tags": ["mod", "utility"]
+    },
+    {
+      "project_name": "serialism",
+      "project_url": "https://github.com/xmacex/serialism",
+      "author": "xmacex",
+      "description": "Explore serialism in the spirit of Arnold Schönberg and others",
+      "discussion_url": "https://llllllll.co/t/serialism/68332",
+      "documentation_url": "https://github.com/xmacex/serialism",
+      "tags": ["midi"]
+    },  {
+      "project_name": "4CCFader",
+      "project_url": "https://github.com/hanjo-synth/4CCFader",
+      "author": "Hanjo",
+      "description": " a four channel CC MIDI fader controller for Norns",
+      "discussion_url": "https://llllllll.co/t/4ccfader/71810",
+      "documentation_url": "https://github.com/hanjo-synth/4CCFader",
+      "tags": ["midi", "controller", "utility", "performance"]
+    },  {
+      "project_name": "MDPatch",
+      "project_url": "https://github.com/hanjo-synth/MDPatch",
+      "author": "Hanjo",
+      "description": " a powerful and flexible MIDI CC randomizer for the Elektron Machinedrum",
+      "discussion_url": "https://llllllll.co/t/machine-drum-randomizer-for-monome-norns/71998",
+      "documentation_url": "https://github.com/hanjo-synth/MDPatch",
+      "tags": ["midi", "controller", "utility", "performance"]
     }
   ]
 }
