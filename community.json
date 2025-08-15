@@ -1296,13 +1296,17 @@
       "project_name": "gridofpoints",
       "project_url": "https://github.com/duncangeere/gridofpoints",
       "author": "duncangeere",
-      "description": "sixteen notes, eight timbres",
+      "description": "sixteen notes, seven timbres",
       "discussion_url": "https://llllllll.co/t/52122",
       "tags": [
-        "sequencer",
-        "crow",
+        "generative",
+        "controller",
+        "norns",
         "grid",
-        "midi"
+        "arc",
+        "crow",
+        "midi",
+        "jf"
       ]
     },
     {
@@ -2280,6 +2284,20 @@
         "delay",
         "looper",
         "sampler"
+      ]
+    },
+    {
+      "project_name": "overtones",
+      "project_url": "https://github.com/TheTrackdriver/overtones",
+      "author": "trackdriver",
+      "description": "a synth based on additive synthesis",
+      "discussion_url": "https://llllllll.co/t/overtones/72641",
+      "documentation_url": "https://github.com/TheTrackdriver/overtones",
+      "tags": [
+        "synth",
+        "additive",
+        "midi",
+        "grid"
       ]
     },
     {
@@ -3268,10 +3286,11 @@
       "project_name": "twins",
       "project_url": "https://github.com/danielrigler/twins",
       "author": "dddstudio",
-      "description": "randomized dual granular sample player, inspired by twine",
+      "description": "randomized dual granular playground, inspired by twine",
       "discussion_url": "https://llllllll.co/t/twins/71052",
       "tags": [
-        "granulator"
+        "granulator",
+        "audio_fx"
       ]
     },
     {
