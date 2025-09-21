@@ -2346,6 +2346,15 @@
       ]
     },
     {
+      "project_name": "paranibbles",
+      "project_url": "https://github.com/xmacex/paranibbles",
+      "author": "xmacex",
+      "description": "paranibbles for paradiddles",
+      "discussion_url": "https://llllllll.co/t/paranibbles/68052/",
+      "documentation_url": "https://github.com/xmacex/paranibbles",
+      "tags": ["midi", "sequencer", "norns"]
+    },
+    {
       "project_name": "parrot",
       "project_url": "https://github.com/jaseknighter/parrot",
       "author": "jaseknighter",
