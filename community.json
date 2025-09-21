@@ -1817,6 +1817,14 @@
       ]
     },
     {
+      "project_name": "metronome",
+      "project_url": "https://github.com/adamstaff/metronome",
+      "author": "adamstaff",
+      "description": "bing, buk, buk, buk",
+      "discussion_url": "https://llllllll.co/t/metronome/72909",
+      "tags": ["norns", "midi", "nb", "grid"]
+    },
+    {
       "project_name": "midi-monitor",
       "project_url": "https://github.com/okyeron/midi-monitor.git",
       "author": "okyeron",
@@ -3269,8 +3277,8 @@
       "project_url": "https://github.com/adamstaff/turntable",
       "author": "adamstaff",
       "description": "a turntable for norns",
-      "discussion_url": "https://llllllll.co/t/a-turntable-for-norns/67716",
-      "tags": ["norns"]
+      "discussion_url": "https://llllllll.co/t/a-turntable-for-norns-v3-0-1-brings-supercollider-and-crow-to-the-party/67716",
+      "tags": ["norns", "crow", "sampler"]
     },
     {
       "project_name": "twine",
