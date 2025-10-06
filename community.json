@@ -1697,6 +1697,23 @@
       ]
     },
     {
+      "project_name": "loudnumbers_norns",
+      "project_url": "https://github.com/loudnumbers/loudnumbers_norns",
+      "author": "duncangeere",
+      "description": "data sonification for norns",
+      "discussion_url": "https://llllllll.co/t/loud-numbers-data-sonification-with-norns/51353",
+      "documentation_url": "https://github.com/loudnumbers/loudnumbers_norns",
+      "tags": [
+        "norns",
+        "sequencer",
+        "generative",
+        "midi",
+        "crow",
+        "utility",
+        "grid"
+      ]
+    },
+    {
       "project_name": "luck",
       "project_url": "https://github.com/isabelgk/luck",
       "author": "isabelgk",
