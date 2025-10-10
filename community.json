@@ -3838,6 +3838,14 @@
       "discussion_url": "https://llllllll.co/t/machine-drum-randomizer-for-monome-norns/71998",
       "documentation_url": "https://github.com/hanjo-synth/MDPatch",
       "tags": ["midi", "controller", "utility", "performance"]
+    },  {
+      "project_name": "MDScaler",
+      "project_url": "https://github.com/hanjo-synth/MDScaler",
+      "author": "Hanjo",
+      "description": " a tonal performance utility for the Elektron Machinedrum",
+      "discussion_url": "https://llllllll.co/t/mdscaler/73236",
+      "documentation_url": "https://github.com/hanjo-synth/MDScaler",
+      "tags": ["midi", "controller", "utility", "performance"]
     }
   ]
 }
