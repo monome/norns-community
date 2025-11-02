@@ -1042,6 +1042,18 @@
       ]
     },
     {
+      "project_name": "footfoot",
+      "project_url": "https://github.com/melocoi/footfoot",
+      "author": "ululo",
+      "description": "my pal",
+      "discussion_url": "https://llllllll.co/t/foot-foot/73334",
+      "documentation_url": "https://github.com/melocoi/footfoot/blob/main/README.md",
+      "tags": [
+        "looper",
+        "generative"
+      ]
+    },
+    {
       "project_name": "forge",
       "project_url": "https://github.com/cachilders/forge",
       "author": "notester",
