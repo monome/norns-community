@@ -3858,6 +3858,14 @@
       "discussion_url": "https://llllllll.co/t/mdscaler/73236",
       "documentation_url": "https://github.com/hanjo-synth/MDScaler",
       "tags": ["midi", "controller", "utility", "performance"]
-    }
+    },  {
+      "project_name": "KoiBoi2",
+      "project_url": "https://github.com/Dillbo/KoiBoi2",
+      "author": "dillbo",
+      "description": "A sequencer based on fish in a pond",
+      "discussion_url": "https://llllllll.co/t/koiboi2/73410",
+      "documentation_url": "https://github.com/Dillbo/KoiBoi2/blob/main/README.md",
+      "tags": ["sequencer", "midi", "generative"]
+    },
   ]
 }
