@@ -3093,6 +3093,17 @@
       ]
     },
     {
+      "project_name": "støv",
+      "project_url": "https://github.com/imminentgloom/st-v",
+      "author": "imminent_gloom",
+      "description": "another noise synth for norns",
+      "discussion_url": "https://llllllll.co/t/stov/70821",
+      "tags": [
+        "synth",
+        "arc"
+      ]
+    },
+    {
       "project_name": "supertonic",
       "project_url": "https://github.com/schollz/supertonic",
       "author": "infinitedigits",
