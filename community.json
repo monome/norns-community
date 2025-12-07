@@ -1422,6 +1422,17 @@
       "tags": ["synth", "sequencer", "midi"]
     },
     {
+      "project_name": "høst",
+      "project_url": "https://github.com/imminentgloom/h-st",
+      "author": "imminent_gloom",
+      "description": "[en hemmelighet]",
+      "tags": [
+        "synth",
+        "grid",
+        "arc"
+      ]
+    },
+    {
       "project_name": "icarus",
       "project_url": "https://github.com/schollz/icarus",
       "author": "infinitedigits",
@@ -3090,6 +3101,17 @@
         "synth",
         "delay",
         "grid"
+      ]
+    },
+    {
+      "project_name": "støv",
+      "project_url": "https://github.com/imminentgloom/st-v",
+      "author": "imminent_gloom",
+      "description": "another noise synth for norns",
+      "discussion_url": "https://llllllll.co/t/stov/70821",
+      "tags": [
+        "synth",
+        "arc"
       ]
     },
     {
