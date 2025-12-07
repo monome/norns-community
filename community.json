@@ -1422,6 +1422,17 @@
       "tags": ["synth", "sequencer", "midi"]
     },
     {
+      "project_name": "høst",
+      "project_url": "https://github.com/imminentgloom/h-st",
+      "author": "imminent_gloom",
+      "description": "[en hemmelighet]",
+      "tags": [
+        "synth",
+        "grid",
+        "arc"
+      ]
+    },
+    {
       "project_name": "icarus",
       "project_url": "https://github.com/schollz/icarus",
       "author": "infinitedigits",
