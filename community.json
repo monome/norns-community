@@ -926,6 +926,18 @@
       ]
     },
     {
+      "project_name": "eterna",
+      "project_url": "https://github.com/etsuko-fm/eterna",
+      "author": "etsuko.fm",
+      "description": " six-voice sampler and sequencer",
+      "discussion_url": "https://llllllll.co/t/eterna/73584/",
+      "documentation_url": "https://github.com/etsuko-fm/eterna",
+      "tags": [
+        "sequencer",
+        "sampler"
+      ]
+    },
+    {
       "project_name": "euclidigons",
       "project_url": "https://github.com/synthetiv/euclidigons",
       "author": "synthetivv setfield",
