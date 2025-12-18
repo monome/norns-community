@@ -2743,6 +2743,19 @@
       ]
     },
     {
+       "project_name": "repeater",
+       "project_url": "https://github.com/spoitras/repeater",
+       "author": "spoitras",
+       "description": "textural delay orchestra with multiple tempo-synced lines. port of the original by Bryant Smith.",
+       "documentation_url": "https://github.com/spoitras/repeater/blob/main/README.md",
+       "tags": [
+         "delay",
+         "looper",
+         "texture",
+         "engine"
+       ]
+     },
+    {
       "project_name": "repl-looper",
       "project_url": "https://github.com/awwaiid/repl-looper",
       "author": "awwaiid",
