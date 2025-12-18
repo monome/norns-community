@@ -2870,6 +2870,19 @@
       ]
     },
     {
+      "project_name": "seeker_ii",
+      "project_url": "https://github.com/brokyo/seeker_ii",
+      "author": "awakening.systems",
+      "description": "compositional interface for music, voltage, and video",
+      "tags": [
+        "grid",
+        "arc",
+        "midi",
+        "osc",
+        "crow"
+      ]
+    },
+    {
       "project_name": "semiconductor",
       "project_url": "https://github.com/jaseknighter/semiconductor",
       "author": "jaseknighter",
