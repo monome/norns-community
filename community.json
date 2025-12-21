@@ -3285,7 +3285,7 @@
       "author": "mpelath",
       "description": "fractal sequencer for norns + grid",
       "discussion_url": "https://llllllll.co/t/thorns-a-fractal-sequencer/73644",
-      "documentation_url": "DOC_URL",
+      "documentation_url": "https://github.com/mpelath/thorns/blob/main/README.md",
       "tags": ["norns", "grid", "midi", "sequencer", "generative"]
     },
     {
