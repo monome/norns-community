@@ -3280,6 +3280,15 @@
       ]
     },
     {
+      "project_name": "thorns",
+      "project_url": "https://github.com/mpelath/thorns",
+      "author": "mpelath",
+      "description": "fractal sequencer for norns + grid",
+      "discussion_url": "https://llllllll.co/t/thorns-a-fractal-sequencer/73644",
+      "documentation_url": "https://github.com/mpelath/thorns/blob/main/README.md",
+      "tags": ["norns", "grid", "midi", "sequencer", "generative"]
+    },
+    {
       "project_name": "timber",
       "project_url": "https://github.com/markwheeler/timber",
       "author": "markeats",
