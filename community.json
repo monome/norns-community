@@ -2618,6 +2618,17 @@
       ]
     },
     {
+      "project_name": "postskript",
+      "project_url": "https://github.com/imminentgloom/postskript",
+      "author": "imminent_gloom",
+      "description": "sampler for arc and norns",
+      "discussion_url": "https://llllllll.co/t/postskript",
+      "tags": [
+        "sampler",
+        "arc"
+      ]
+    },
+    {
       "project_name": "ppm_norns",
       "project_url": "https://github.com/loudnumbers/ppm_norns",
       "author": "duncangeere",
