@@ -637,7 +637,7 @@
         {
       "project_name": "concrete",
       "project_url": "https://github.com/sonocircuit/concrete",
-      "author": "sonocircuit",
+      "author": "sonoCircuit",
       "description": "virtual tape lab",
       "discussion_url": "https://llllllll.co/t/concrete/63575",
       "documentation_url": "https://github.com/sonocircuit/concrete",
@@ -1525,7 +1525,7 @@
     {
       "project_name": "justharmonicon",
       "project_url": "https://github.com/sonocircuit/justharmonicon",
-      "author": "sonocircuit",
+      "author": "sonoCircuit",
       "description": "subharmonic sequencer for jf",
       "discussion_url": "https://llllllll.co/t/justharmonicon",
       "documentation_url": "https://github.com/sonocircuit/justharmonicon",
@@ -1924,6 +1924,17 @@
       ]
     },
     {
+      "project_name": "midiplayer",
+      "project_url": "https://github.com/sonocircuit/midiplayer",
+      "author": "sonoCircuit",
+      "description": "midi file playback for norns",
+      "discussion_url": "https://llllllll.co/t/midiplayer/68868",
+      "documentation_url": "https://github.com/sonocircuit/midiplayer",
+      "tags": [
+        "midi"
+      ]
+    },
+    {
       "project_name": "mlr",
       "project_url": "https://github.com/tehn/mlr",
       "author": "tehn",
@@ -1940,7 +1951,7 @@
     {
       "project_name": "mlre",
       "project_url": "https://github.com/sonocircuit/mlre",
-      "author": "sonocircuit",
+      "author": "sonoCircuit",
       "description": "extended version of mlr",
       "discussion_url": "https://llllllll.co/t/mlre/57371",
       "documentation_url": "https://github.com/sonocircuit/mlre",
@@ -2070,6 +2081,42 @@
         "synth",
         "crow",
         "drum",
+        "nb"
+      ]
+    },
+    {
+      "project_name": "nb_mxsynths",
+      "project_url": "https://github.com/sonocircuit/nb_mxsynths",
+      "author": "sonoCircuit",
+      "description": "mx.synths as an nb player",
+      "discussion_url": "https://llllllll.co/t/n-b-et-al-v0-1/60374/324?u=sonocircuit",
+      "tags": [
+        "mod",
+        "synth",
+        "nb"
+      ]
+    },
+    {
+      "project_name": "nb_plyprc",
+      "project_url": "https://github.com/sonocircuit/nb_plyprc",
+      "author": "sonoCircuit",
+      "description": "a norns classic as nb player",
+      "discussion_url": "https://llllllll.co/t/n-b-et-al-v0-1/60374/324?u=sonocircuit",
+      "tags": [
+        "mod",
+        "synth",
+        "nb"
+      ]
+    },
+    {
+      "project_name": "nb_smpKit",
+      "project_url": "https://github.com/sonocircuit/nb_smpKit",
+      "author": "sonoCircuit",
+      "description": "sample playback as an nb player",
+      "discussion_url": "https://llllllll.co/t/n-b-et-al-v0-1/60374/324?u=sonocircuit",
+      "tags": [
+        "mod",
+        "sampler",
         "nb"
       ]
     },
@@ -2930,6 +2977,21 @@
       ]
     },
     {
+      "project_name": "sidvagn",
+      "project_url": "https://github.com/sonocircuit/sidvagn",
+      "author": "sonoCircuit",
+      "description": "a creative canvas for a sidecar grid",
+      "discussion_url": "https://llllllll.co/t/sidvagn/72514",
+      "documentation_url": "https://github.com/sonocircuit/sidvagn",
+      "tags": [
+        "keyboard",
+        "sequencer",
+        "grid",
+        "mod",
+        "nb"
+      ]
+    },
+    {
       "project_name": "silos",
       "project_url": "https://github.com/justmat/silos",
       "author": "justmat",
@@ -3105,7 +3167,7 @@
     {
       "project_name": "streams",
       "project_url": "https://github.com/sonocircuit/streams",
-      "author": "sonocircuit",
+      "author": "sonoCircuit",
       "description": "a multi play head sequencer",
       "discussion_url": "https://llllllll.co/t/streams/61436",
       "documentation_url": "https://github.com/sonocircuit/streams/docs",
@@ -3160,6 +3222,20 @@
       "discussion_url": "https://llllllll.co/t/stov/70821",
       "tags": [
         "synth",
+        "arc"
+      ]
+    },
+    {
+      "project_name": "stwnsh",
+      "project_url": "https://github.com/sonocircuit/stwnsh",
+      "author": "sonoCircuit",
+      "description": "a clocked, three-track stereo audio mangler",
+      "discussion_url": "https://llllllll.co/t/stwnsh/69125",
+      "documentation_url": "https://github.com/sonocircuit/stwnsh",
+      "tags": [
+        "sampler",
+        "delay",
+        "grid",
         "arc"
       ]
     },
