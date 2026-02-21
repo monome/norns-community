@@ -4022,6 +4022,14 @@
       "discussion_url": "https://llllllll.co/t/koiboi2/73410",
       "documentation_url": "https://github.com/Dillbo/KoiBoi2/blob/main/README.md",
       "tags": ["sequencer", "midi", "generative"]
+    },  {
+      "project_name": "Ygg",
+      "project_url": "https://github.com/spgarbet/Ygg",
+      "author": "Shawn Garbett",
+      "description": "A drone engine inspired by the Lyra-8",
+      "discussion_url": "https://llllllll.co/t/ygg-organismic-norns/74051",
+      "documentation_url": "https://github.com/spgarbet/Ygg/blob/main/README.md",
+      "tags": ["drone", "midi", "generative"]
     }
   ]
 }
