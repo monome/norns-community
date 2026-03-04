@@ -2071,6 +2071,16 @@
       ]
     },
     {
+      "project_name": "narf",
+      "project_url": "https://https://github.com/rync/NARF",
+      "author": "rync",
+      "description": "quad sequential midi source with fractional durations",
+      "discussion_url": "https://llllllll.co/t/narf-quad-sequential-midi-sequencer/74168",
+      "tags": [
+        "sequencer", "midi"
+      ]
+    },
+    {
       "project_name": "nb_drumcrow",
       "project_url": "https://github.com/entzmingerc/nb_drumcrow/",
       "author": "postsolarpunk",
