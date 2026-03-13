@@ -2894,6 +2894,20 @@
         "delay"
       ]
     },
+  {
+      "project_name": "sath-lemon",
+      "project_url": "https://github.com/DesioArt/sath-lemon",
+      "author": "DesioArt",
+      "description": "4 voice live looper with dynamic loop control and grid visualization",
+      "discussion_url": "https://llllllll.co/t/4-voice-live-looper-with-grid-visualization/74233",
+      "documentation_url": "https://github.com/DesioArt/sath-lemon",
+      "tags": [
+        "looper",
+        "grid",
+        "softcut",
+        "live"
+      ]
+    },
     {
       "project_name": "schicksalslied",
       "project_url": "https://github.com/williamthazard/schicksalslied",
