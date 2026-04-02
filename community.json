@@ -1774,6 +1774,18 @@
       ]
     },
     {
+      "project_name": "magnetar",
+      "project_url": "https://github.com/rync/magnetar",
+      "author": "rync",
+      "description": "polyphonic pulsar synthesizer",
+      "discussion_url": "https://llllllll.co/t/magnetar/74381",
+      "tags": [
+        "synth",
+        "midi",
+        "keyboard"
+      ]
+    },
+    {
       "project_name": "magpie",
       "project_url": "https://github.com/cachilders/magpie",
       "author": "notester",
@@ -2072,7 +2084,7 @@
     },
     {
       "project_name": "narf",
-      "project_url": "https://https://github.com/rync/NARF",
+      "project_url": "https://github.com/rync/NARF",
       "author": "rync",
       "description": "quad sequential midi source with fractional durations",
       "discussion_url": "https://llllllll.co/t/narf-quad-sequential-midi-sequencer/74168",
