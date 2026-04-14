@@ -18,7 +18,7 @@ jobs:
           find . -name '*.json' -exec yq -iP -o=json '.' {} \;
       - name: Lint YAML files
         run: |
-          find . -name '*.yml' -o -name '*.yaml' | xargs yq -iP '.'
+          find . \( -name '*.yml' -o -name '*.yaml' \) -exec yq -iP '.' {} \;
       - name: Check for lint changes
         run: |
           if [ -n "$(git diff)" ]; then
