@@ -1,0 +1,24 @@
+name: Lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Check JSON formatting
+        run: |
+          for f in base.json community.json; do
+            if ! python3 -c "import json, sys; data=json.load(open('$f')); formatted=json.dumps(data, indent=2, ensure_ascii=False)+'\n'; sys.exit(0 if open('$f').read()==formatted else 1)"; then
+              echo "::error::$f is not properly formatted. Run: python3 -c \"import json; d=json.load(open('$f')); open('$f','w').write(json.dumps(d,indent=2,ensure_ascii=False)+'\n')\""
+              exit 1
+            fi
+          done
+          echo "All JSON files are properly formatted."
