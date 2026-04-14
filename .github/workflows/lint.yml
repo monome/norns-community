@@ -1,30 +1,25 @@
 name: Lint
-
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   pull_request:
-    branches: [main]
-
+    branches:
+      - main
 jobs:
   lint:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v6
-
       - name: Install yq
         uses: mikefarah/yq@v4
-
       - name: Lint JSON files
         run: |
           find . -name '*.json' -exec yq -iP -o=json '.' {} \;
-
       - name: Lint YAML files
         run: |
           find . -name '*.yml' -o -name '*.yaml' | xargs yq -iP '.'
-
       - name: Commit lint fixes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "style: lint json and yaml files"
+          commit_message: 'style: lint json and yaml files'

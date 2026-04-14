@@ -1,27 +1,23 @@
 name: validate
-
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   pull_request:
-    branches: [main]
-
+    branches:
+      - main
 jobs:
   validate:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v6
-
       - name: Install dependencies
         run: |
           pip install check-jsonschema
-
       - name: Download schemas
         run: |
           wget https://raw.githubusercontent.com/monome/maiden/main/pkg/catalog/source.schema.json
           wget https://raw.githubusercontent.com/monome/maiden/main/pkg/catalog/catalog.schema.json
-
       - name: Validate catalogs
         run: |
           check-jsonschema --schemafile catalog.schema.json base.json community.json
