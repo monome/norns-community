@@ -18,8 +18,16 @@ jobs:
           find . -name '*.json' -exec yq -iP -o=json '.' {} \;
       - name: Lint YAML files
         run: |
-          find . -name '*.yml' -o -name '*.yaml' | xargs yq -iP '.'
+          find . \( -name '*.yml' -o -name '*.yaml' \) -exec yq -iP '.' {} \;
+      - name: Check for lint changes
+        run: |
+          if [ -n "$(git diff)" ]; then
+            echo "::error::Files are not properly linted. Please run yq locally to fix formatting."
+            git diff --stat
+            exit 1
+          fi
       - name: Commit lint fixes
+        if: github.event_name == 'push'
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: 'style: lint json and yaml files'

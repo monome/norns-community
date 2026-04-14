@@ -4189,6 +4189,19 @@
         "midi",
         "generative"
       ]
+    },
+    {
+      "project_name": "grurder",
+      "project_url": "https://github.com/icco/grurder",
+      "author": "icco",
+      "description": "generative dual-voice MIDI sequencer with Euclidean rhythms and Turing Machine melodies",
+      "documentation_url": "https://github.com/icco/grurder/blob/main/README.md",
+      "tags": [
+        "sequencer",
+        "midi",
+        "generative",
+        "euclidean"
+      ]
     }
   ]
 }
