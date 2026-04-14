@@ -1,27 +1,19 @@
-name: "Trigger https://norns.community Build"
-
+name: Trigger https://norns.community Build
 on:
   workflow_dispatch:
   push:
     branches:
       - main
-
 jobs:
   trigger:
     runs-on: ubuntu-latest
-
     steps:
-      - name: "Trigger https://norns.community Build"
+      - name: Trigger https://norns.community Build
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
         run: |
-          # Set the required variables
-          repo_owner="monome-community" 
-          repo_name="norns-community"
-          event_type="trigger_build_via_norns_community_merge" 
-  
-          curl -L \
-            -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${{ secrets.PAT }}" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            https://api.github.com/repos/$repo_owner/$repo_name/dispatches \
-            -d "{\"event_type\": \"$event_type\", \"client_payload\": {\"unit\": false, \"integration\": true}}"
+          gh api repos/monome-community/norns-community/dispatches \
+            --method POST \
+            -f event_type=trigger_build_via_norns_community_merge \
+            -f 'client_payload[unit]=false' \
+            -f 'client_payload[integration]=true'
