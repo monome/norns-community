@@ -58,6 +58,19 @@
       ]
     },
     {
+      "project_name": "64-harmony",
+      "project_url": "https://github.com/rehresman/64-harmony",
+      "author": "rehresman",
+      "description": "a 64-voice harmony generator",
+      "discussion_url": "https://llllllll.co/t/74435",
+      "tags": [
+        "sequencer",
+        "synth",
+        "generative",
+        "noise"
+      ]
+    },
+    {
       "project_name": "abacus",
       "project_url": "https://github.com/schollz/abacus",
       "author": "infinitedigits",
