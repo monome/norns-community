@@ -33,6 +33,19 @@
       ]
     },
     {
+      "project_name": "32-harmony",
+      "project_url": "https://github.com/rehresman/32-harmony",
+      "author": "rehresman",
+      "description": "a 32-voice harmony generator",
+      "discussion_url": "https://llllllll.co/t/74435",
+      "tags": [
+        "sequencer",
+        "synth",
+        "generative",
+        "noise"
+      ]
+    },
+    {
       "project_name": "3d",
       "project_url": "https://github.com/p3r7/3d",
       "author": "eigen",
