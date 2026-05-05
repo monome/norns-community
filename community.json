@@ -4215,6 +4215,19 @@
         "generative",
         "euclidean"
       ]
+    },
+    {
+      "project_name": "sonde",
+      "project_url": "https://github.com/moapacha/sonde",
+      "author": "sym",
+      "description": "orbital sequencer for low-res earth",
+      "documentation_url": "https://github.com/moapacha/sonde/blob/main/README.md",
+      "tags": [
+        "drone",
+        "generative",
+        "engine",
+        "grid"
+      ]
     }
   ]
 }
