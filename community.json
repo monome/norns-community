@@ -1685,6 +1685,17 @@
       ]
     },
     {
+      "project_name": "leslie",
+      "project_url": "https://github.com/moapacha/leslie",
+      "author": "sym",
+      "description": "doppler, tremolo, and the slow spin-up",
+      "documentation_url": "https://github.com/moapacha/leslie/blob/main/README.md",
+      "tags": [
+        "audio_fx",
+        "engine"
+      ]
+    },
+    {
       "project_name": "less-concepts",
       "project_url": "https://github.com/vicimity-dndrks/less_concepts",
       "author": "vicimity dan_derks",
