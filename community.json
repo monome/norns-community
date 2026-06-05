@@ -4246,7 +4246,23 @@
       "author": "nunosmash",
       "description": "Norns monophonic synthesizer: dual oscillators, FM, split envelopes, clock-synced delay & reverb",
       "documentation_url": "https://github.com/nunosmash/AshSynth/blob/main/README.md",
-      "tags": ["synth", "engine", "midi", "grid"]
+      "tags": [
+        "synth",
+        "engine",
+        "midi",
+        "grid"
+      ]
+    },
+    {
+      "project_name": "ingenue",
+      "project_url": "https://github.com/seajaysec/ingenue",
+      "author": "seajaysec",
+      "description": "responsive browser ui for norns. runs on the device alongside maiden.",
+      "discussion_url": "https://llllllll.co/t/ingenue-a-modern-responsive-web-interface-for-norns/74794",
+      "documentation_url": "https://github.com/seajaysec/ingenue/blob/main/README.md",
+      "tags": [
+        "utility"
+      ]
     }
   ]
 }
