@@ -4241,11 +4241,11 @@
       ]
     },
     {
-      "project_name": "AshSynth",
-      "project_url": "https://github.com/nunosmash/AshSynth",
-      "author": "nunosmash",
+      "project_name": "ashsynth",
+      "project_url": "https://github.com/nunosmash/ashsynth",
+      "author": "Ash",
       "description": "Norns monophonic synthesizer: dual oscillators, FM, split envelopes, clock-synced delay & reverb",
-      "documentation_url": "https://github.com/nunosmash/AshSynth/blob/main/README.md",
+      "documentation_url": "https://github.com/nunosmash/ashsynth/blob/main/README.md",
       "tags": [
         "synth",
         "engine",
@@ -4262,6 +4262,20 @@
       "documentation_url": "https://github.com/seajaysec/ingenue/blob/main/README.md",
       "tags": [
         "utility"
+      ]
+    },
+    {
+      "project_name": "awake-ashsynth",
+      "project_url": "https://github.com/nunosmash/awake-ashsynth",
+      "author": "Ash",
+      "description": "Awake dual sequencer with AshSynth — TIE legato, glide, grid",
+      "discussion_url": "https://llllllll.co/t/awake/21022",
+      "documentation_url": "https://github.com/nunosmash/awake-ashsynth/blob/main/README.md",
+      "tags": [
+        "sequencer",
+        "grid",
+        "synth",
+        "midi"
       ]
     }
   ]
