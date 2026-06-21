@@ -4277,6 +4277,19 @@
         "synth",
         "midi"
       ]
+    },
+    {
+      "project_name": "duatone",
+      "project_url": "https://github.com/roiyaru-bokujin/Duatone",
+      "author": "roiyaru",
+      "description": "two-voice tone generator for oscilloscope and Lissajous visualization",
+      "discussion_url": "https://llllllll.co/t/duatone/74866",
+      "documentation_url": "https://github.com/roiyaru-bokujin/Duatone/blob/main/README.md",
+      "tags": [
+        "synth",
+        "utility",
+        "engine"
+      ]
     }
   ]
 }
