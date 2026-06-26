@@ -1092,20 +1092,6 @@
       ]
     },
     {
-      "project_name": "form!matter",
-      "project_url": "https://github.com/imminentgloom/form_without_matter",
-      "author": "imminent_gloom",
-      "description": "drum sequencer, entropically inclusive",
-      "discussion_url": "https://llllllll.co/t/form-matter/69267",
-      "tags": [
-        "drum",
-        "sequencer",
-        "grid",
-        "nb",
-        "crow"
-      ]
-    },
-    {
       "project_name": "foulplay",
       "project_url": "https://github.com/justmat/foulplay",
       "author": "justmat",
@@ -1455,17 +1441,6 @@
         "synth",
         "sequencer",
         "midi"
-      ]
-    },
-    {
-      "project_name": "høst",
-      "project_url": "https://github.com/imminentgloom/h-st",
-      "author": "imminent_gloom",
-      "description": "[en hemmelighet]",
-      "tags": [
-        "synth",
-        "grid",
-        "arc"
       ]
     },
     {
@@ -2732,17 +2707,6 @@
       ]
     },
     {
-      "project_name": "postskript",
-      "project_url": "https://github.com/imminentgloom/postskript",
-      "author": "imminent_gloom",
-      "description": "sampler for arc and norns",
-      "discussion_url": "https://llllllll.co/t/postskript",
-      "tags": [
-        "sampler",
-        "arc"
-      ]
-    },
-    {
       "project_name": "ppm_norns",
       "project_url": "https://github.com/loudnumbers/ppm_norns",
       "author": "duncangeere",
@@ -3291,29 +3255,6 @@
       "tags": [
         "sequencer",
         "grid"
-      ]
-    },
-    {
-      "project_name": "støy",
-      "project_url": "https://github.com/imminentgloom/st-y",
-      "author": "imminent_gloom",
-      "description": "a noise synth for norns",
-      "discussion_url": "https://llllllll.co/t/stoy/67054",
-      "tags": [
-        "synth",
-        "delay",
-        "grid"
-      ]
-    },
-    {
-      "project_name": "støv",
-      "project_url": "https://github.com/imminentgloom/st-v",
-      "author": "imminent_gloom",
-      "description": "another noise synth for norns",
-      "discussion_url": "https://llllllll.co/t/stov/70821",
-      "tags": [
-        "synth",
-        "arc"
       ]
     },
     {
