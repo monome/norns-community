@@ -4231,6 +4231,22 @@
         "utility",
         "engine"
       ]
+    },
+    {
+      "project_name": "spre",
+      "project_url": "https://github.com/puyoma/spre",
+      "author": "Puyoma",
+      "description": "generative synthesizer with evolving melodies, polyphonic voicings, strum, MIDI, grid, and loopers",
+      "documentation_url": "https://github.com/puyoma/spre/blob/main/README.md",
+      "tags": [
+        "synth",
+        "generative",
+        "engine",
+        "midi",
+        "grid",
+        "looper",
+        "softcut"
+      ]
     }
   ]
 }
