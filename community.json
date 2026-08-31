@@ -33,6 +33,19 @@
       ]
     },
     {
+      "project_name": "32-harmony",
+      "project_url": "https://github.com/rehresman/32-harmony",
+      "author": "rehresman",
+      "description": "a 32-voice harmony generator",
+      "discussion_url": "https://llllllll.co/t/74435",
+      "tags": [
+        "sequencer",
+        "synth",
+        "generative",
+        "noise"
+      ]
+    },
+    {
       "project_name": "3d",
       "project_url": "https://github.com/p3r7/3d",
       "author": "eigen",
@@ -411,7 +424,7 @@
       "author": "justmat",
       "description": "stereo delay/looper",
       "discussion_url": "https://llllllll.co/t/23336",
-      "documen0tation_url": "https://norns.community/authors/justmat/bounds",
+      "documentation_url": "https://norns.community/authors/justmat/bounds",
       "tags": [
         "looper",
         "delay"
@@ -507,10 +520,10 @@
     {
       "project_name": "cheat_codes_2",
       "project_url": "https://github.com/dndrks/cheat_codes_2",
-      "author": "dan_derks",
+      "author": "dani_derks",
       "description": "a sample playground",
       "discussion_url": "https://l.llllllll.co/cheat-codes-2",
-      "documentation_url": "https://norns.community/authors/dan_derks/cheat_codes_2",
+      "documentation_url": "https://github.com/dndrks/cheat_codes_2",
       "tags": [
         "sampler",
         "delay",
@@ -578,7 +591,7 @@
     {
       "project_name": "clockabout",
       "project_url": "https://github.com/niksilver/clockabout",
-      "author": "Nik Silver (niksilver)",
+      "author": "niksilver",
       "description": "A non-linear MIDI clock",
       "discussion_url": "https://llllllll.co/t/clockabout/70820",
       "tags": [
@@ -634,7 +647,7 @@
         "arc"
       ]
     },
-        {
+    {
       "project_name": "concrete",
       "project_url": "https://github.com/sonocircuit/concrete",
       "author": "sonoCircuit",
@@ -679,10 +692,10 @@
     {
       "project_name": "cranes",
       "project_url": "https://github.com/dndrks/cranes",
-      "author": "dan_derks",
+      "author": "dani_derks",
       "description": "stereo varispeed looper / delay / timeline-smoosher",
       "discussion_url": "https://llllllll.co/t/21207",
-      "documentation_url": "https://norns.community/authors/dan_derks/cranes",
+      "documentation_url": "https://norns.community/authors/dani_derks/cranes",
       "tags": [
         "delay",
         "looper",
@@ -1079,20 +1092,6 @@
       ]
     },
     {
-      "project_name": "form!matter",
-      "project_url": "https://github.com/imminentgloom/form_without_matter",
-      "author": "imminent_gloom",
-      "description": "drum sequencer, entropically inclusive",
-      "discussion_url": "https://llllllll.co/t/form-matter/69267",
-      "tags": [
-        "drum",
-        "sequencer",
-        "grid",
-        "nb",
-        "crow"
-      ]
-    },
-    {
       "project_name": "foulplay",
       "project_url": "https://github.com/justmat/foulplay",
       "author": "justmat",
@@ -1168,7 +1167,9 @@
       "author": "tomw",
       "description": "your norns plays Terry Riley's In C",
       "discussion_url": "https://llllllll.co/t/get-in-the-sea/45729",
-      "tags": ["midi"],
+      "tags": [
+        "midi"
+      ],
       "origin": "lines"
     },
     {
@@ -1247,6 +1248,17 @@
         "generative",
         "grid",
         "midi"
+      ]
+    },
+    {
+      "project_name": "grains",
+      "project_url": "https://github.com/danielrigler/grains",
+      "author": "dddstudio",
+      "description": "A six-voice granular sample player",
+      "discussion_url": "https://llllllll.co/t/grains/75194",
+      "tags": [
+        "granulator",
+        "audio_fx"
       ]
     },
     {
@@ -1422,7 +1434,12 @@
       "description": "probablistic step sequencer for modular. its basically parc",
       "discussion_url": "https://llllllll.co/t/hpns/32689",
       "documentation_url": "https://github.com/hiddenfields/hpns/blob/master/README.md",
-      "tags": ["sequencer", "grid", "crow", "ansible"]
+      "tags": [
+        "sequencer",
+        "grid",
+        "crow",
+        "ansible"
+      ]
     },
     {
       "project_name": "hs010",
@@ -1431,17 +1448,10 @@
       "description": "Bass and lead voice with a multi-playhead sequencer.",
       "discussion_url": "https://llllllll.co/t/hs010-happy-synthesis-010",
       "documentation_url": "https://github.com/Karolis-Lasys/hs010/blob/main/README.md",
-      "tags": ["synth", "sequencer", "midi"]
-    },
-    {
-      "project_name": "høst",
-      "project_url": "https://github.com/imminentgloom/h-st",
-      "author": "imminent_gloom",
-      "description": "[en hemmelighet]",
       "tags": [
         "synth",
-        "grid",
-        "arc"
+        "sequencer",
+        "midi"
       ]
     },
     {
@@ -1661,9 +1671,20 @@
       ]
     },
     {
+      "project_name": "leslie",
+      "project_url": "https://github.com/moapacha/leslie",
+      "author": "sym",
+      "description": "doppler, tremolo, and the slow spin-up",
+      "documentation_url": "https://github.com/moapacha/leslie/blob/main/README.md",
+      "tags": [
+        "audio_fx",
+        "engine"
+      ]
+    },
+    {
       "project_name": "less-concepts",
       "project_url": "https://github.com/vicimity-dndrks/less_concepts",
-      "author": "vicimity dan_derks",
+      "author": "vicimity dani_derks",
       "description": "1d cellular automata sequencer",
       "discussion_url": "https://l.llllllll.co/less-concepts-norns",
       "documentation_url": "https://llllllll.co/t/less-concepts/54178#documentation-5",
@@ -1774,6 +1795,18 @@
       ]
     },
     {
+      "project_name": "magnetar",
+      "project_url": "https://github.com/rync/magnetar",
+      "author": "rync",
+      "description": "polyphonic pulsar synthesizer",
+      "discussion_url": "https://llllllll.co/t/magnetar/74381",
+      "tags": [
+        "synth",
+        "midi",
+        "keyboard"
+      ]
+    },
+    {
       "project_name": "magpie",
       "project_url": "https://github.com/cachilders/magpie",
       "author": "notester",
@@ -1874,7 +1907,12 @@
       "author": "adamstaff",
       "description": "bing, buk, buk, buk",
       "discussion_url": "https://llllllll.co/t/metronome/72909",
-      "tags": ["norns", "midi", "nb", "grid"]
+      "tags": [
+        "norns",
+        "midi",
+        "nb",
+        "grid"
+      ]
     },
     {
       "project_name": "midi-monitor",
@@ -2068,6 +2106,17 @@
       "discussion_url": "https://llllllll.co/t/n16o/28198",
       "tags": [
         "utility"
+      ]
+    },
+    {
+      "project_name": "narf",
+      "project_url": "https://github.com/rync/NARF",
+      "author": "rync",
+      "description": "quad sequential midi source with fractional durations",
+      "discussion_url": "https://llllllll.co/t/narf-quad-sequential-midi-sequencer/74168",
+      "tags": [
+        "sequencer",
+        "midi"
       ]
     },
     {
@@ -2451,7 +2500,11 @@
       "description": "paranibbles for paradiddles",
       "discussion_url": "https://llllllll.co/t/paranibbles/68052/",
       "documentation_url": "https://github.com/xmacex/paranibbles",
-      "tags": ["midi", "sequencer", "norns"]
+      "tags": [
+        "midi",
+        "sequencer",
+        "norns"
+      ]
     },
     {
       "project_name": "parrot",
@@ -2665,17 +2718,6 @@
       ]
     },
     {
-      "project_name": "postskript",
-      "project_url": "https://github.com/imminentgloom/postskript",
-      "author": "imminent_gloom",
-      "description": "sampler for arc and norns",
-      "discussion_url": "https://llllllll.co/t/postskript",
-      "tags": [
-        "sampler",
-        "arc"
-      ]
-    },
-    {
       "project_name": "ppm_norns",
       "project_url": "https://github.com/loudnumbers/ppm_norns",
       "author": "duncangeere",
@@ -2801,18 +2843,18 @@
       ]
     },
     {
-       "project_name": "repeater",
-       "project_url": "https://github.com/spoitras/repeater",
-       "author": "spoitras",
-       "description": "textural delay orchestra with multiple tempo-synced lines. port of the original by Bryant Smith.",
-       "documentation_url": "https://github.com/spoitras/repeater/blob/main/README.md",
-       "tags": [
-         "delay",
-         "looper",
-         "texture",
-         "engine"
-       ]
-     },
+      "project_name": "repeater",
+      "project_url": "https://github.com/spoitras/repeater",
+      "author": "spoitras",
+      "description": "textural delay orchestra with multiple tempo-synced lines. port of the original by Bryant Smith.",
+      "documentation_url": "https://github.com/spoitras/repeater/blob/main/README.md",
+      "tags": [
+        "delay",
+        "looper",
+        "texture",
+        "engine"
+      ]
+    },
     {
       "project_name": "repl-looper",
       "project_url": "https://github.com/awwaiid/repl-looper",
@@ -2909,6 +2951,20 @@
       ]
     },
     {
+      "project_name": "sath-lemon",
+      "project_url": "https://github.com/DesioArt/sath-lemon",
+      "author": "DesioArt",
+      "description": "4 voice live looper with dynamic loop control and grid visualization",
+      "discussion_url": "https://llllllll.co/t/4-voice-live-looper-with-grid-visualization/74233",
+      "documentation_url": "https://github.com/DesioArt/sath-lemon",
+      "tags": [
+        "looper",
+        "grid",
+        "softcut",
+        "live"
+      ]
+    },
+    {
       "project_name": "schicksalslied",
       "project_url": "https://github.com/williamthazard/schicksalslied",
       "author": "WilliamHazard",
@@ -2932,7 +2988,12 @@
       "author": "adamstaff",
       "description": "multitrack polyrhythmic sequencer",
       "discussion_url": "https://llllllll.co/t/scholastic-multitrack-polyrhythmic-sequencer/64232",
-      "tags": ["norns", "sequencer", "nb", "midi"]
+      "tags": [
+        "norns",
+        "sequencer",
+        "nb",
+        "midi"
+      ]
     },
     {
       "project_name": "scryingstone",
@@ -2941,7 +3002,12 @@
       "description": "scrying stone for monome norns",
       "discussion_url": "https://llllllll.co/t/scryingstone-norns/70778",
       "documentation_url": "https://www.youtube.com/watch?v=vvl44pg3hMM",
-      "tags": ["norns", "noise", "art", "drone"]
+      "tags": [
+        "norns",
+        "noise",
+        "art",
+        "drone"
+      ]
     },
     {
       "project_name": "seaflex",
@@ -3217,29 +3283,6 @@
       ]
     },
     {
-      "project_name": "støy",
-      "project_url": "https://github.com/imminentgloom/st-y",
-      "author": "imminent_gloom",
-      "description": "a noise synth for norns",
-      "discussion_url": "https://llllllll.co/t/stoy/67054",
-      "tags": [
-        "synth",
-        "delay",
-        "grid"
-      ]
-    },
-    {
-      "project_name": "støv",
-      "project_url": "https://github.com/imminentgloom/st-v",
-      "author": "imminent_gloom",
-      "description": "another noise synth for norns",
-      "discussion_url": "https://llllllll.co/t/stov/70821",
-      "tags": [
-        "synth",
-        "arc"
-      ]
-    },
-    {
       "project_name": "stwnsh",
       "project_url": "https://github.com/sonocircuit/stwnsh",
       "author": "sonoCircuit",
@@ -3387,7 +3430,13 @@
       "description": "fractal sequencer for norns + grid",
       "discussion_url": "https://llllllll.co/t/thorns-a-fractal-sequencer/73644",
       "documentation_url": "https://github.com/mpelath/thorns/blob/main/README.md",
-      "tags": ["norns", "grid", "midi", "sequencer", "generative"]
+      "tags": [
+        "norns",
+        "grid",
+        "midi",
+        "sequencer",
+        "generative"
+      ]
     },
     {
       "project_name": "timber",
@@ -3486,7 +3535,11 @@
       "author": "adamstaff",
       "description": "a turntable for norns",
       "discussion_url": "https://llllllll.co/t/a-turntable-for-norns-v3-0-1-brings-supercollider-and-crow-to-the-party/67716",
-      "tags": ["norns", "crow", "sampler"]
+      "tags": [
+        "norns",
+        "crow",
+        "sampler"
+      ]
     },
     {
       "project_name": "twine",
@@ -3876,7 +3929,11 @@
       "description": "3 voice looper based on samsara",
       "discussion_url": "https://llllllll.co/t/samthree-three-voice-pitched-looper/60482",
       "documentation_url": "https://llllllll.co/t/samthree-three-voice-pitched-looper/60482",
-      "tags": ["looper", "sampler", "happyaccident"]
+      "tags": [
+        "looper",
+        "sampler",
+        "happyaccident"
+      ]
     },
     {
       "project_name": "Tidbit",
@@ -3885,7 +3942,14 @@
       "description": "Use Just Friends or a MIDI device as a 'melodic' granular synth.",
       "discussion_url": "https://llllllll.co/t/tidbit/52104",
       "documentation_url": "https://llllllll.co/t/tidbit/52104",
-      "tags": ["jf", "midi", "crow", "synth", "granulator", "w"]
+      "tags": [
+        "jf",
+        "midi",
+        "crow",
+        "synth",
+        "granulator",
+        "w"
+      ]
     },
     {
       "project_name": "vcr",
@@ -3894,7 +3958,10 @@
       "description": "collect and recall voltages",
       "discussion_url": "https://llllllll.co/t/vcr/63457",
       "documentation_url": "https://github.com/justmat/vcr",
-      "tags": ["crow", "grid"]
+      "tags": [
+        "crow",
+        "grid"
+      ]
     },
     {
       "project_name": "warmreload",
@@ -3914,7 +3981,11 @@
       "description": "Every night, the kingdom crumbles. And our MIDI pattern, is conjured anew.",
       "discussion_url": "https://l.llllllll.co/tulpamancer",
       "documentation_url": "https://norns.community/tulpamancer",
-      "tags": ["generative", "sequencer", "midi"]
+      "tags": [
+        "generative",
+        "sequencer",
+        "midi"
+      ]
     },
     {
       "project_name": "Eastwind",
@@ -3923,7 +3994,10 @@
       "description": "A Norns instrument of non standard tuning & limitations",
       "discussion_url": "https://llllllll.co/t/eastwind/64578",
       "documentation_url": "https://www.youtube.com/watch?v=6yVP39R6n48",
-      "tags": ["grid", "synth"]
+      "tags": [
+        "grid",
+        "synth"
+      ]
     },
     {
       "project_name": "gridofrings",
@@ -3932,7 +4006,10 @@
       "description": "A Karper-esque take on Duncan Geere's gridofpoints",
       "discussion_url": "https://llllllll.co/t/gridofrings/65138",
       "documentation_url": "https://github.com/smonthms/gridofrings",
-      "tags": ["grid", "synth"]
+      "tags": [
+        "grid",
+        "synth"
+      ]
     },
     {
       "project_name": "nameless-nightmare",
@@ -3940,7 +4017,12 @@
       "author": "xo-xn",
       "description": "A Norns granular synthesizer, inspired by solar system.",
       "discussion_url": "https://llllllll.co/t/nameless-nightmare/68145",
-      "tags": ["granulator", "drone", "art", "happyaccident"]
+      "tags": [
+        "granulator",
+        "drone",
+        "art",
+        "happyaccident"
+      ]
     },
     {
       "project_name": "iiitoii",
@@ -3949,7 +4031,13 @@
       "description": " a collection of iii community scripts ported to norns + crow ",
       "discussion_url": "https://llllllll.co/t/iiitoii-beta",
       "documentation_url": "https://github.com/andr-ew/iiitoii/",
-      "tags": ["jf", "crow", "arc", "grid", "mod"]
+      "tags": [
+        "jf",
+        "crow",
+        "arc",
+        "grid",
+        "mod"
+      ]
     },
     {
       "project_name": "Hiswing",
@@ -3958,7 +4046,11 @@
       "description": "  a customizable pattern and groove midi generator for Monome Norns ",
       "discussion_url": "https://llllllll.co/t/hiswing-script/71720",
       "documentation_url": "https://github.com/hanjo-synth/Hiswing",
-      "tags": ["sequencer", "midi", "velocity"]
+      "tags": [
+        "sequencer",
+        "midi",
+        "velocity"
+      ]
     },
     {
       "project_name": "Mnmpatch",
@@ -3967,7 +4059,13 @@
       "description": " a patch randomizer for Elektron Monomachine",
       "discussion_url": "https://llllllll.co/t/mnmpatch/71750",
       "documentation_url": "https://github.com/hanjo-synth/Mnmpatch",
-      "tags": ["midi", "randomizer", "monomachine", "sound design", "hardware"]
+      "tags": [
+        "midi",
+        "randomizer",
+        "monomachine",
+        "sound design",
+        "hardware"
+      ]
     },
     {
       "project_name": "fixed-filter-banking-crisis",
@@ -3976,7 +4074,9 @@
       "description": "a fixed filter bank",
       "discussion_url": "https://llllllll.co/t/fixed-filter-banking-crisis/71735",
       "documentation_url": "https://github.com/xmacex/fixed-filter-banking-crisis",
-      "tags": ["audio_fx"]
+      "tags": [
+        "audio_fx"
+      ]
     },
     {
       "project_name": "window-crowparator",
@@ -3985,7 +4085,9 @@
       "description": "Window comparator for crow",
       "discussion_url": "https://llllllll.co/t/window-crowparator/71520",
       "documentation_url": "https://github.com/xmacex/window-crowparator",
-      "tags": ["crow"]
+      "tags": [
+        "crow"
+      ]
     },
     {
       "project_name": "monomaniac",
@@ -3994,7 +4096,10 @@
       "description": "A mod to toggle stereo and mono input",
       "discussion_url": "https://llllllll.co/t/monomaniac-a-mod-to-toggle-stereo-and-mono-input/63892",
       "documentation_url": "https://github.com/xmacex/monomaniac",
-      "tags": ["mod", "utility"]
+      "tags": [
+        "mod",
+        "utility"
+      ]
     },
     {
       "project_name": "serialism",
@@ -4003,39 +4108,154 @@
       "description": "Explore serialism in the spirit of Arnold Schönberg and others",
       "discussion_url": "https://llllllll.co/t/serialism/68332",
       "documentation_url": "https://github.com/xmacex/serialism",
-      "tags": ["midi"]
-    },  {
+      "tags": [
+        "midi"
+      ]
+    },
+    {
       "project_name": "4CCFader",
       "project_url": "https://github.com/hanjo-synth/4CCFader",
       "author": "Hanjo",
       "description": " a four channel CC MIDI fader controller for Norns",
       "discussion_url": "https://llllllll.co/t/4ccfader/71810",
       "documentation_url": "https://github.com/hanjo-synth/4CCFader",
-      "tags": ["midi", "controller", "utility", "performance"]
-    },  {
+      "tags": [
+        "midi",
+        "controller",
+        "utility",
+        "performance"
+      ]
+    },
+    {
       "project_name": "MDPatch",
       "project_url": "https://github.com/hanjo-synth/MDPatch",
       "author": "Hanjo",
       "description": " a powerful and flexible MIDI CC randomizer for the Elektron Machinedrum",
       "discussion_url": "https://llllllll.co/t/machine-drum-randomizer-for-monome-norns/71998",
       "documentation_url": "https://github.com/hanjo-synth/MDPatch",
-      "tags": ["midi", "controller", "utility", "performance"]
-    },  {
+      "tags": [
+        "midi",
+        "controller",
+        "utility",
+        "performance"
+      ]
+    },
+    {
       "project_name": "MDScaler",
       "project_url": "https://github.com/hanjo-synth/MDScaler",
       "author": "Hanjo",
       "description": " a tonal performance utility for the Elektron Machinedrum",
       "discussion_url": "https://llllllll.co/t/mdscaler/73236",
       "documentation_url": "https://github.com/hanjo-synth/MDScaler",
-      "tags": ["midi", "controller", "utility", "performance"]
-    },  {
+      "tags": [
+        "midi",
+        "controller",
+        "utility",
+        "performance"
+      ]
+    },
+    {
       "project_name": "KoiBoi2",
       "project_url": "https://github.com/Dillbo/KoiBoi2",
       "author": "dillbo",
       "description": "A sequencer based on fish in a pond",
       "discussion_url": "https://llllllll.co/t/koiboi2/73410",
       "documentation_url": "https://github.com/Dillbo/KoiBoi2/blob/main/README.md",
-      "tags": ["sequencer", "midi", "generative"]
+      "tags": [
+        "sequencer",
+        "midi",
+        "generative"
+      ]
+    },
+    {
+      "project_name": "Ygg",
+      "project_url": "https://github.com/spgarbet/Ygg",
+      "author": "Shawn Garbett",
+      "description": "A drone engine inspired by the Lyra-8",
+      "discussion_url": "https://llllllll.co/t/ygg-organismic-norns/74051",
+      "documentation_url": "https://github.com/spgarbet/Ygg/blob/main/README.md",
+      "tags": [
+        "drone",
+        "midi",
+        "generative"
+      ]
+    },
+    {
+      "project_name": "grurder",
+      "project_url": "https://github.com/icco/grurder",
+      "author": "icco",
+      "description": "generative dual-voice MIDI sequencer with Euclidean rhythms and Turing Machine melodies",
+      "documentation_url": "https://github.com/icco/grurder/blob/main/README.md",
+      "tags": [
+        "sequencer",
+        "midi",
+        "generative",
+        "euclidean"
+      ]
+    },
+    {
+      "project_name": "sonde",
+      "project_url": "https://github.com/moapacha/sonde",
+      "author": "sym",
+      "description": "orbital sequencer for low-res earth",
+      "documentation_url": "https://github.com/moapacha/sonde/blob/main/README.md",
+      "tags": [
+        "drone",
+        "generative",
+        "engine",
+        "grid"
+      ]
+    },
+    {
+      "project_name": "ashsynth",
+      "project_url": "https://github.com/nunosmash/ashsynth",
+      "author": "Ash",
+      "description": "Norns monophonic synthesizer: dual oscillators, FM, split envelopes, clock-synced delay & reverb",
+      "documentation_url": "https://github.com/nunosmash/ashsynth/blob/main/README.md",
+      "tags": [
+        "synth",
+        "engine",
+        "midi",
+        "grid"
+      ]
+    },
+    {
+      "project_name": "ingenue",
+      "project_url": "https://github.com/seajaysec/ingenue",
+      "author": "seajay",
+      "description": "responsive browser ui for norns. runs on the device alongside maiden.",
+      "discussion_url": "https://llllllll.co/t/ingenue-a-modern-responsive-web-interface-for-norns/74794",
+      "documentation_url": "https://github.com/seajaysec/ingenue/blob/main/README.md",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "project_name": "awake-ashsynth",
+      "project_url": "https://github.com/nunosmash/awake-ashsynth",
+      "author": "Ash",
+      "description": "Awake dual sequencer with AshSynth — TIE legato, glide, grid",
+      "discussion_url": "https://llllllll.co/t/awake/21022",
+      "documentation_url": "https://github.com/nunosmash/awake-ashsynth/blob/main/README.md",
+      "tags": [
+        "sequencer",
+        "grid",
+        "synth",
+        "midi"
+      ]
+    },
+    {
+      "project_name": "duatone",
+      "project_url": "https://github.com/roiyaru-bokujin/Duatone",
+      "author": "roiyaru",
+      "description": "two-voice tone generator for oscilloscope and Lissajous visualization",
+      "discussion_url": "https://llllllll.co/t/duatone/74866",
+      "documentation_url": "https://github.com/roiyaru-bokujin/Duatone/blob/main/README.md",
+      "tags": [
+        "synth",
+        "utility",
+        "engine"
+      ]
     }
   ]
 }
