@@ -2938,11 +2938,11 @@
     },
     {
       "project_name": "SATH_HaZe",
-      "project_url": "https://github.com/DesioArt/sath-haze",
+      "project_url": "https://github.com/DesioArt/SATH_HAZE",
       "author": "DesioArt",
       "description": "generative granulator + loop player inspired by the GC Haze pedal",
       "discussion_url": "https://llllllll.co/t/sath-haze-generative-granulator-loop-player/75316",
-      "documentation_url": "https://github.com/DesioArt/sath-haze",
+      "documentation_url": "https://github.com/DesioArt/SATH_HAZE",
       "tags": [
         "granular",
         "looper",
