@@ -1254,7 +1254,7 @@
       "project_name": "grains",
       "project_url": "https://github.com/danielrigler/grains",
       "author": "dddstudio",
-      "description": "A six-voice granular sample player",
+      "description": "A six-voice granular looper",
       "discussion_url": "https://llllllll.co/t/grains/75194",
       "tags": [
         "granulator",
@@ -1392,6 +1392,17 @@
       "documentation_url": "https://norns.community/authors/pangrus/hachi",
       "tags": [
         "drum"
+      ]
+    },
+    {
+      "project_name": "hands",
+      "project_url": "https://github.com/danielrigler/hands",
+      "author": "dddstudio",
+      "description": "A piano player.",
+      "discussion_url": "https://llllllll.co/t/hands/75439",
+      "tags": [
+        "generative",
+        "midi"
       ]
     },
     {
