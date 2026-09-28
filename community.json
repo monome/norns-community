@@ -1937,6 +1937,20 @@
       ]
     },
     {
+      "project_name": "midarto",
+      "project_url": "https://github.com/mrglennjones/midarto",
+      "author": "mrglennjones",
+      "description": "two-deck MIDI file DJ: mix .mid files with a crossfader to General MIDI modules or nb voices, with a full 16x8 grid controller",
+      "discussion_url": "https://llllllll.co/t/midarto/75532",
+      "documentation_url": "https://github.com/mrglennjones/midarto/raw/main/docs/midarto-guide.pdf",
+      "tags": [
+        "grid",
+        "midi",
+        "sequencer",
+        "nb"
+      ]
+    },
+    {
       "project_name": "midi-review",
       "project_url": "https://github.com/niksilver/midi-review/",
       "author": "niksilver",
