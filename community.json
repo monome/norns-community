@@ -4256,6 +4256,20 @@
       ]
     },
     {
+    "project_name": "MDBass",
+    "project_url": "https://github.com/hanjo-synth/MDBass",
+    "author": "Hanjo",
+    "description": "Bassline generator and MIDI performance tool designed for the Elektron Machinedrum.",
+    "discussion_url": "https://llllllll.co/t/machinedrum-bass-generator/75512",
+    "documentation_url": "https://github.com/hanjo-synth/MDBass#readme",
+    "tags": [
+      "midi",
+      "sequencer",
+      "generative",
+      "elektron"
+       ]  
+    },
+    {
       "project_name": "duatone",
       "project_url": "https://github.com/roiyaru-bokujin/Duatone",
       "author": "roiyaru",
