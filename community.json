@@ -3605,6 +3605,18 @@
       ]
     },
     {
+      "project_name": "Vinker",
+      "project_url": "https://github.com/KodeBeer/Vinker/tree/main",
+      "author": "Ko de Beer",
+      "description": "Jaap Vink inspired recursive sound instrument.",
+      "discussion_url": "https://llllllll.co/t/vinker-a-ringmodulator-feedback-instrument/75529",
+      "tags": [
+        "feedback", 
+        "norns", 
+        "synth"
+      ]
+    },
+    {
       "project_name": "waver",
       "project_url": "https://github.com/ryleelyman/waver",
       "author": "alanza",
@@ -3958,17 +3970,6 @@
       "tags": [
         "crow",
         "grid"
-      ]
-    },
-    {
-      "project_name": "Vinker",
-      "project_url": "https://github.com/KodeBeer/Vinker/tree/main",
-      "author": "Ko de Beer",
-      "description": "Jaap Vink inspired recursive sound instrument.",
-      "discussion_url": "https://llllllll.co/t/vinker-a-ringmodulator-feedback-instrument/75529",
-      "tags": ["feedback", 
-               "norns", 
-               "synth"
       ]
     },
     {
