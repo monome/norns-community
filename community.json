@@ -3610,6 +3610,7 @@
       "author": "Ko de Beer",
       "description": "Jaap Vink inspired recursive sound instrument.",
       "discussion_url": "https://llllllll.co/t/vinker-a-ringmodulator-feedback-instrument/75529",
+      "documentation_url": "https://github.com/KodeBeer/Vinker/blob/main/README.md",
       "tags": [
         "feedback", 
         "norns", 
