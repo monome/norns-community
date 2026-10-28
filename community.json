@@ -4280,6 +4280,19 @@
         "utility",
         "engine"
       ]
+    },
+    {
+      "project_name": "terrarium",
+      "project_url": "https://github.com/carlosedp/terrarium",
+      "author": "carlosedp",
+      "description": "🌱 A small world of modular instruments for monome norns.",
+      "discussion_url": "https://github.com/carlosedp/terrarium/discussions",
+      "documentation_url": "https://github.com/carlosedp/terrarium/blob/main/doc/MANUAL.md",
+      "tags": [
+        "generative",
+        "synth",
+        "engine",
+      ]
     }
   ]
 }
