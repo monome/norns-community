@@ -4293,6 +4293,38 @@
         "synth",
         "engine"
       ]
+    },
+    {
+      "project_name": "acidulous",
+      "project_url": "https://github.com/roge-rm/acidulous-norns",
+      "author": "rm",
+      "description": "the Acidulous app's engine, 31 machines and their patches as a 16 part multitimbral player, from MIDI, MPE or an OMX-27",
+      "discussion_url": "https://github.com/roge-rm/acidulous-norns/issues",
+      "documentation_url": "https://github.com/roge-rm/acidulous-norns/blob/main/README.md",
+      "tags": [
+        "synth",
+        "midi",
+        "mpe",
+        "keyboard",
+        "sampler",
+        "engine"
+      ]
+    },
+    {
+      "project_name": "nidhogg",
+      "project_url": "https://github.com/roge-rm/nidhogg",
+      "author": "rm",
+      "description": "the CHOMPI sampler firmware (TAPE, TEMPO, WAVE) running on norns, played from an OMX-27",
+      "discussion_url": "https://github.com/roge-rm/nidhogg/issues",
+      "documentation_url": "https://github.com/roge-rm/nidhogg/blob/master/README.md",
+      "tags": [
+        "sampler",
+        "looper",
+        "synth",
+        "midi",
+        "keyboard",
+        "engine"
+      ]
     }
   ]
 }
