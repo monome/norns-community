@@ -2102,6 +2102,23 @@
       ]
     },
     {
+      "project_name": "muses",
+      "project_url": "https://github.com/nolliegray/muses",
+      "author": "nolliegray",
+      "description": "weighted generative sequencer",
+      "discussion_url": "https://llllllll.co/t/muses/75854",
+      "documentation_url": "https://github.com/nolliegray/muses",
+      "tags": [
+        "sequencer",
+        "generative",
+        "looper",
+        "midi",
+        "grid",
+        "crow",
+        "nb"
+      ]
+    },
+    {
       "project_name": "mx.samples",
       "project_url": "https://github.com/schollz/mx.samples",
       "author": "infinitedigits",
