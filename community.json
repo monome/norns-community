@@ -136,6 +136,22 @@
       ]
     },
     {
+      "project_name": "anima",
+      "project_url": "https://github.com/giovannilami/anima",
+      "author": "Giovanni Lami",
+      "description": "Expanded 2D sequencer based on Animator, with per-track modulation and routing. Requires Grid 16x8 and Molly the Poly.",
+      "discussion_url": "https://llllllll.co/t/anima/75862",
+      "documentation_url": "https://github.com/giovannilami/anima/blob/master/README.md",
+      "tags": [
+        "sequencer",
+        "grid",
+        "midi",
+        "crow",
+        "nb",
+        "generative"
+      ]
+    },
+    {
       "project_name": "animator",
       "project_url": "https://github.com/crimclark/animator",
       "author": "crim",
@@ -4309,22 +4325,6 @@
         "generative",
         "synth",
         "engine"
-      ]
-    },
-    {
-      "project_name": "anima",
-      "project_url": "https://github.com/giovannilami/anima",
-      "author": "Giovanni Lami",
-      "description": "Expanded 2D sequencer based on Animator, with per-track modulation and routing. Requires Grid 16x8 and Molly the Poly.",
-      "discussion_url": "https://llllllll.co/t/anima/75862",
-      "documentation_url": "https://github.com/giovannilami/anima/blob/master/README.md",
-      "tags": [
-        "sequencer",
-        "grid",
-        "midi",
-        "crow",
-        "nb",
-        "generative"
       ]
     }
   ]
