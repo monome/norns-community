@@ -690,6 +690,18 @@
       ]
     },
     {
+      "project_name": "coverts",
+      "project_url": "https://github.com/rync/coverts",
+      "author": "rync",
+      "description": "cheap polyphonic clone of Mutable Instruments Shruthi",
+      "discussion_url": "",
+      "tags": [
+        "synthesizer",
+        "wavetable",
+        "polysynth",
+      ]
+    },
+    {
       "project_name": "cranes",
       "project_url": "https://github.com/dndrks/cranes",
       "author": "dani_derks",
@@ -2299,6 +2311,17 @@
         "sequencer",
         "generative",
         "midi"
+      ]
+    },
+    {
+      "project_name": "nompler",
+      "project_url": "https://github.com/rync/nompler",
+      "author": "rync",
+      "description": "faux rompler with decent performance",
+      "discussion_url": "",
+      "tags": [
+        "rompler",
+        "polysynth",
       ]
     },
     {
