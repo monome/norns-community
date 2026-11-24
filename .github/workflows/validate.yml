@@ -16,8 +16,8 @@ jobs:
           pip install check-jsonschema
       - name: Download schemas
         run: |
-          wget https://raw.githubusercontent.com/monome/maiden/main/pkg/catalog/source.schema.json
-          wget https://raw.githubusercontent.com/monome/maiden/main/pkg/catalog/catalog.schema.json
+          wget https://raw.githubusercontent.com/monome/maiden/main/schemas/source.schema.json
+          wget https://raw.githubusercontent.com/monome/maiden/main/schemas/catalog.schema.json
       - name: Validate catalogs
         run: |
           check-jsonschema --schemafile catalog.schema.json base.json community.json
