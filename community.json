@@ -113,6 +113,18 @@
       ]
     },
     {
+    "project_name": "airclkr",
+    "project_url": "https://github.com/MonCalamari/airclkr",
+    "author": "MonCalamari",
+    "description": "A dedicated, low-jitter Ableton Link to MIDI Clock bridge for monome norns.",
+    "tags": [
+      "utility",
+      "clock",
+      "ableton link",
+      "midi"
+    ]
+    },
+    {
       "project_name": "amen",
       "project_url": "https://github.com/schollz/amen",
       "author": "infinitedigits",
